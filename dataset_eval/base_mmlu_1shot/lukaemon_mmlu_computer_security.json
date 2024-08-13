@@ -1,0 +1,502 @@
+{
+    "0": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Which of the following styles of fuzzer is more likely to explore paths covering every line of code in the following program?\nA. Generational\nB. Blackbox\nC. Whitebox\nD. Mutation-based\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "1": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Assume that a TLS connection has been established successfully between a client and a server. Establishing the session included checking the server certificate and executing a DiffieHelmann exchange, but the client did not provide a client certificate. Further, assume that the client and server are honest, that the client and server don\u2019t leak their keys, and that the cryptography is good. Which of the following attacks does TLS protect against?\n1. An attacker replaying bytes that a client sent earlier.\n2. An attacker impersonating the server.\nA. True, True\nB. False, False\nC. True, False\nD. False, True\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "2": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: MIT\u2019s Kerberos KDC server has a maximum ticket lifetime of 24 hours (for most user principals). What ensures that an expired Kerberos ticket can no longer be used?\nA. The Kerberos server (KDC) refuses to establish new connections between clients and servers for expired tickets.\nB. When a client connects to a server, the server sets a 24-hour timer to terminate the connection, which ensures a client cannot remain connected past the ticket\u2019s maximum lifetime.\nC. When a client connects to a server, the server compares the ticket\u2019s expiration time to the server\u2019s current clock, and refuses to authenticate the user if the ticket expiration time is in the past.\nD. When a client connects to a server, the server sends a query to the KDC to check if the ticket is still valid with respect to the KDC\u2019s clock, and refuses to authenticate the user if the KDC reports that the ticket is expired.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "3": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: In Message Condentiality, the transmitted message must make sense to only intended\nA. Receiver\nB. Sender\nC. Modulor\nD. Translator\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "4": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is a remote Trojan?\nA. Troya\nB. DaCryptic\nC. BankerA\nD. Game-Troj\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "5": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: ______________ is a widespread app\u2019s coding mistake made by developers which could be exploited by an attacker for gaining access or malfunctioning your system.\nA. Memory leakage\nB. Buffer-overrun\nC. Less processing power\nD. Inefficient programming\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "6": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Consider the paper Native Client: A Sandbox for Portable, Untrusted x86 Native Code by Yee et al. Ben Bitdiddle notes that NaCl uses Intel x86 segmentation to ensure that the sandboxed module does not read or write memory outside its own data area, and does not execute instructions outside its own code. Ben thinks that with these restrictions alone, executing the sandboxed module must be safe; that is, he thinks validation is not needed. Ben is wrong. Circle the types of x86 machine instructions that the validator always forbids in sandboxed code. Please ignore trampoline and springboard code.\nA. all instructions that modify segment state\nB. all loads or stores to addresses that are not 0 mod 32\nC. all indirect loads or stores (via an address in a register or variable)\nD. all indirect jumps (via an address in a register or variable)\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "7": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: ____________ is also a part of darknet that is employed for transferring files anonymously.\nA. Freenet\nB. ARPANET\nC. Stuxnet\nD. Internet\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "8": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Why apps developed in languages like C, C++ is prone to Buffer-overflow?\nA. No string boundary checks in predefined functions\nB. No storage check in the external memory\nC. No processing power check\nD. No database check\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "9": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Man in the middle attack can endanger the security of Diffie Hellman method if two parties are not\nA. Joined\nB. Authenticated\nC. Submitted\nD. Shared\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "10": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: An integer overflow occurs when\nA. an integer expression's result \"wraps around\"; instead of creating a very large number, a very small (or negative) number ends up getting created\nB. an integer is used as if it was a pointer\nC. an integer is used to access a buffer outside of the buffer's bounds\nD. there is no more space to hold integers in the program\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "11": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Let HH be a Merkle-Damgard hash function is H:X^{\\leq L} \\to TH:X^\u2264L  \u2192T. Construct a MAC from this HH as follows: \\ \\ S(k,m) = H(k \\| m)  S(k,m)=H(k\u2225m). This mac is insecure because:\nA. Given H(k \\| m)H(k\u2225m) anyone can compute H(w \\| k \\| m \\| \\text{PB})H(w\u2225k\u2225m\u2225PB) for any ww\nB. Given H(k \\| m)H(k\u2225m) anyone can compute H(k \\| m \\| w)H(k\u2225m\u2225w) for any ww\nC. Given H(k \\| m)H(k\u2225m) anyone can compute H(k \\| m \\| \\text{PB} \\| w)H(k\u2225m\u2225PB\u2225w) for any ww\nD. Anyone can compute H( k \\| m )H(k\u2225m) for any mm\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "12": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Suppose that Alice and Bob sent confidential text messages to one another last month through an encrypted messaging system. Alice and Bob are worried that an adversary might compromise one of their computers today, while they are taking the 6.858 final exam, and would then be able to decrypt those messages. Which of the following security properties can address Alice and Bob\u2019s concern?\nA. Authentication.\nB. Deniability.\nC. Forward secrecy\nD. Backward secrecy.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "13": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: The AH Protocol provides source authentication and data integrity, but not\nA. Integrity\nB. Privacy\nC. Nonrepudiation\nD. Both A & C\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "14": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not a security exploit?\nA. Eavesdropping\nB. Cross-site scripting\nC. Authentication\nD. SQL Injection\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "15": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: _______________ is the central node of 802.11 wireless operations.\nA. WPA\nB. Access Point\nC. WAP\nD. Access Port\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "16": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: In MD-5 the length of the message digest is\nA. 160\nB. 128\nC. 64\nD. 54\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "17": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: What is Nmap?\nA. It is a scanner which works by injecting packets to a range of addresses, and inferring what hosts and services might be at those addresses, based on the responses\nB. It is a network fuzz testing tool\nC. It is a map of the Internet\nD. It is a suite of tools for scripting attacks: probe, construct, encode, inject, wait for response\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "18": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: How do you prevent SQL injection?\nA. Escape queries\nB. Interrupt requests\nC. Merge tables\nD. All of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "19": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: What does it mean to \"be stealthy\" during a penetration test?\nA. Performing the tests from an undisclosed location\nB. Using encryption during tests to make the source of attacks impossible to determine\nC. Performing penetration testing without the target organization knowing\nD. Taking care to avoid activities during a penetration test that might attract attention, e.g., by operators or IDS services\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "20": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not a transport layer vulnerability?\nA. Mishandling of undefined, poorly defined variables\nB. The Vulnerability that allows \u201cfingerprinting\u201d & other enumeration of host information\nC. Overloading of transport-layer mechanisms\nD. Unauthorized network access\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "21": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: In Brumley and Boneh\u2019s paper on side-channel attacks, why does blinding prevent the timing attack from working?\nA. Blinding prevents the server from using the CRT optimization, which is essential to the timing attack.\nB. Blinding changes the p and q primes that are used, so an adversary cannot learn the server\u2019s true p and q values.\nC. Blinding randomizes the ciphertext being decrypted, thus obscuring the correlation between an adversary\u2019s input and the timing differences.\nD. Blinding adds a random amount of time to the decryption due to the multiplication and division by the blinding random value r, which obscures the timing differences used in the attack.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "22": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: The openSSL implementation described in \u201cRemote Timing Attacks are Practical\u201d (by Brumley and Boneh) uses the following performance optimizations: Chinese Remainder (CR), Montgomery Representation (MR), Karatsuba Multiplication (KM), and Repeated squaring and Sliding windows (RS). Which of the following options would close the timing channel attack described in the paper if you turned the listed optimizations off?\n1. RS and KM\n2. RS and MR\nA. True, True\nB. False, False\nC. True, False\nD. False, True\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "23": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Public key encryption is advantageous over Symmetric key Cryptography because of\nA. Speed\nB. Space\nC. Key exchange\nD. Key length\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "24": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: The __________ was a huge marketplace of Dark Web specifically famous for selling of illegal drugs & narcotics as well as you can find a wide range of other goods for sale.\nA. Silk Road\nB. Cotton Road\nC. Dark Road\nD. Drug Road\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "25": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: The ______________ is categorized as an unknown segment of the Deep Web which has been purposely kept hidden & is inaccessible using standard web browsers.\nA. Haunted web\nB. World Wide Web\nC. Dark web\nD. Surface web\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "26": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: What does EXE do when the STP solver times out on a constraint query for a particular path?\nA. Assume that the query is satisfiable and continue executing the path.\nB. Assume that the query is not satisfiable and stop executing the path\nC. Restart STP and retry the query, up to a limited number of retries.\nD. Remove a subset of the constraints and retry the query.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "27": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: To verify a digital signature we need the\nA. Sender\u2019s Private key\nB. Sender\u2019s Public key\nC. Receiver\u2019s Private key\nD. Receiver\u2019s Public key\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "28": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Suppose you want to use fuzzing on a program to try to find memory errors; which of the following statements is true?\nA. You should not use a grammar-based fuzzer, because its adherence to the grammar means it will not find memory errors\nB. Compiling the program with address sanitizer (ASAN) will make errors harder to reproduce\nC. Compiling the program with address sanitizer (ASAN) will make the source of a memory error easier to find\nD. Fuzzing doesn't find memory errors, it finds crashes and hangs\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "29": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Based on the paper \u201cSoK: SSL and HTTPS: Revisiting past challenges and evaluating certificates trust model enhancements\u201d, which of the following statements are false?\nA. Valid DV certificates provide more confidence to a user that she is connecting to the intended party than valid EV certificates.\nB. OCSP stapling allows a server to prove to a browser that its certificate hasn\u2019t been revoked.\nC. DANE makes it difficult for an adversary to launch a SSL stripping attack.\nD. Server key-pinning makes it harder for an adversary to convince a CA to mint a certificate for a site and launch an MITM attack on that site.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "30": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: What tool can be used to perform SNMP enumeration?\nA. DNSlookup\nB. Whois\nC. Nslookup\nD. IP Network Browser\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "31": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Which among them has the strongest wireless security?\nA. WEP\nB. WPA\nC. WPA2\nD. WPA3\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "32": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Suppose Unix did not provide a way of passing file descriptors between processes, but still allowed inheriting file descriptors from a parent on fork and exec. What aspects of the OKWS design would break without file descriptor passing?\n1. It would be impossible for services to get a TCP connection to the client web browser.\n2. It would be impossible for okd to run as a non-root user.\nA. True, True\nB. False, False\nC. True, False\nD. False, True\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "33": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Failed sessions allow brute-force attacks on access credentials. This type of attacks are done in which layer of the OSI model?\nA. Physical layer\nB. Data-link Layer\nC. Session layer\nD. Presentation layer\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "34": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is an authentication method?\nA. Secret question\nB. Biometric\nC. SMS code\nD. All of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "35": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: When does a buffer overflow occur, generally speaking?\nA. when writing to a pointer that has been freed\nB. when copying a buffer from the stack to the heap\nC. when a pointer is used to access memory not allocated to it\nD. when the program notices a buffer has filled up, and so starts to reject requests\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "36": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: A digital signature needs a\nA. Private-key system\nB. Shared-key system\nC. Public-key system\nD. All of them\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "37": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: A packet filter firewall filters at the\nA. Application or transport\nB. Data link layer\nC. Physical Layer\nD. Network or transport layer\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "38": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Let I = (S,V)I=(S,V) be a MAC. Suppose S(k,m)S(k,m) is always 5 bits long. Can this MAC be secure?\nA. No, an attacker can simply guess the tag for messages\nB. It depends on the details of the MAC\nC. Yes, the attacker cannot generate a valid tag for any message\nD. Yes, the PRG is pseudorandom\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "39": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Which of the following deals with network intrusion detection and real-time traffic analysis?\nA. John the Ripper\nB. L0phtCrack\nC. Snort\nD. Nessus\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "40": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: The Message condentiality or privacy means that the sender and the receiver expect\nA. Integrity\nB. Condentiality\nC. Authentication\nD. Nonrepudiation\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "41": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: When a wireless user authenticates to any AP, both of them go in the course of four-step authentication progression which is called _____________\nA. AP-handshaking\nB. 4-way handshake\nC. 4-way connection\nD. wireless handshaking\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "42": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Message authentication is a service beyond\nA. Message Condentiality\nB. Message Integrity\nC. Message Splashing\nD. Message Sending\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "43": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Which of the following are most vulnerable to injection attacks?\nA. Session IDs\nB. Registry keys\nC. Network communications\nD. SQL queries based on user input\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "44": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Assume that a TLS connection has been established successfully between a client and a server. Establishing the session included checking the server certificate and executing a DiffieHelmann exchange, but the client did not provide a client certificate. Further, assume that the client and server are honest, that the client and server don\u2019t leak their keys, and that the cryptography is good. Which of the following attacks does TLS protect against?\n1. An attacker replacing bytes sent by a client with bytes of the attacker\u2019s own choosing.\n2. An attacker reading the plaintext bytes sent by a client.\nA. True, True\nB. False, False\nC. True, False\nD. False, True\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "45": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is a Wireless traffic Sniffing tool?\nA. Maltego\nB. BurpSuit\nC. Nessus\nD. Wireshark\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "46": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: A ___________ is a method in which a computer security mechanism is bypassed untraceable for accessing the computer or its information.\nA. front-door\nB. backdoor\nC. clickjacking\nD. key-logging\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "47": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not a block cipher operating mode?\nA. ECB\nB. CFB\nC. CBF\nD. CBC\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "48": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: What is a web proxy?\nA. A piece of software that intercepts and possibly modifies requests (and responses) between a web browser and web server\nB. An agent that makes decisions on the client's behalf when interacting with web applications\nC. A piece of software that makes a web application look like a standalone application, making it easier to test\nD. A simulator for the web, for use when off-line\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "49": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Buffer-overflow may remain as a bug in apps if __________ are not done fully.\nA. boundary hacks\nB. memory checks\nC. boundary checks\nD. buffer checks\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "50": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Applications developed by programming languages like ____ and ______ have this common buffer-overflow error.\nA. C, Ruby\nB. Python, Ruby\nC. C, C++\nD. Tcl, C#\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "51": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Encryption and decryption provide secrecy, or condentiality, but not\nA. Authentication\nB. Integrity\nC. Privacy\nD. All of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "52": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: A/an ___________ is a program that steals your logins & passwords for instant messaging applications.\nA. IM \u2013 Trojans\nB. Backdoor Trojans\nC. Trojan-Downloader\nD. Ransom Trojan\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "53": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: The sub key length at each round of DES is__________\nA. 32\nB. 56\nC. 48\nD. 64\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "54": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is true of mutation-based fuzzing?\nA. It generates each different input by modifying a prior input\nB. It works by making small mutations to the target program to induce faults\nC. Each input is mutation that follows a given grammar\nD. It only makes sense for file-based fuzzing, not network-based fuzzing\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "55": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: What are the types of scanning?\nA. Port, network, and services\nB. Network, vulnerability, and port \nC. Passive, active, and interactive\nD. Server, client, and network\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "56": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: A sender must not be able to deny sending a message that was sent, is known as\nA. Message Nonrepudiation\nB. Message Integrity\nC. Message Condentiality\nD. Message Sending\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "57": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: A proxy rewall lters at the\nA. Physical layer\nB. Application layer\nC. Data link layer\nD. Network layer\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "58": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Encapsulating Security Payload (ESP) belongs to which Internet Security Protocol?\nA. Secure Socket Layer Protocol\nB. Secure IP Protocol\nC. Secure Http Protocol\nD. Transport Layer Security Protocol\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "59": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: A special tool is necessary for entering the network which is _______________ that helps the anonymous internet users to access into the Tor\u2019s network and use various Tor services.\nA. Opera browser\nB. Firefox\nC. Chrome\nD. Tor browser\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "60": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: How does a buffer overflow on the stack facilitate running attacker-injected code?\nA. By overwriting the return address to point to the location of that code\nB. By writing directly to the instruction pointer register the address of the code\nC. By writing directly to %eax the address of the code\nD. By changing the name of the running executable, stored on the stack\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "61": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: The digest created by a hash function is normally called a\nA. Modication detection code (MDC)\nB. Modify authentication connection\nC. Message authentication control\nD. Message authentication cipher\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "62": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Let F: K \\times R \\to MF:K\u00d7R\u2192M be a secure PRF. For m \\in Mm\u2208M define E(k,m) = \\big[ r \\gets R,\\ \\text{output } \\big(r,\\ F(k,r) \\oplus m\\big)\\ \\big]E(k,m)=[r\u2190R, output (r, F(k,r)\u2295m) ] Is EE symantically secure under CPA?\nA. Yes, whenever F is a secure PRF\nB. No, there is always a CPA attack on this system\nC. Yes, but only if R is large enough so r never repeats (w.h.p)\nD. It depends on what F is used\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "63": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Old operating systems like _______ and NT-based systems have buffer-overflow attack a common vulnerability.\nA. Windows 7\nB. Chrome\nC. IOS12\nD. UNIX\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "64": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: What is a replay attack?\nA. When the attacker replies to a message sent to it by the system\nB. An attack that continuously repeats, probing for a weakness\nC. An attack that uses the system's own messages and so cannot be defended against\nD. The attacker resends a captured message, and the site accept its and responds in the attacker's favor\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "65": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Statement 1| A U2F USB dongle prevents malware on the user\u2019s computer from stealing the user\u2019s second factor to authenticate as that user even when the user\u2019s computer is turned off. Statement 2| A server using U2F can reliably determine that the user who is attempting to login is indeed behind the computer that sent the login request.\nA. True, True\nB. False, False\nC. True, False\nD. False, True\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "66": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: ____________________ is the anticipation of unauthorized access or break to computers or data by means of wireless networks.\nA. Wireless access\nB. Wireless security\nC. Wired Security\nD. Wired device apps\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "67": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Which of the following are benefits of penetration testing?\nA. Results are often reproducible\nB. Full evidence of security: a clean test means a secure system\nC. Compositionality of security properties means tested components are secure even if others change\nD. Makes an adversarial neural network converge more quickly\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "68": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: 1. _________ framework made cracking of vulnerabilities easy like point and click.\nA. .Net\nB. Metasploit\nC. Zeus\nD. Ettercap\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "69": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: You are given a message (m) and its OTP encryption (c). Can you compute the OTP key from m and c ?\nA. No, I cannot compute the key.\nB. Yes, the key is k = m xor c.\nC. I can only compute half the bits of the key.\nD. Yes, the key is k = m xor m.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "70": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: The openSSL implementation described in \u201cRemote Timing Attacks are Practical\u201d (by Brumley and Boneh) uses the following performance optimizations: Chinese Remainder (CR), Montgomery Representation (MR), Karatsuba Multiplication (KM), and Repeated squaring and Sliding windows (RS). Which of the following options would close the timing channel attack described in the paper if you turned the listed optimizations off?\n1. CR and MR\n2. CR\nA. True, True\nB. False, False\nC. True, False\nD. False, True\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "71": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: When the data must arrive at the receiver exactly as they were sent, its called\nA. Message Condentiality\nB. Message Integrity\nC. Message Splashing\nD. Message Sending\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "72": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: What is the difference between a direct leak and a side channel?\nA. A direct leak creates a denial of service by failing to free memory, while a channel frees memory as a side effect\nB. A direct leak is one that is intentional, rather than by unintentional\nC. A direct leak comes via the software system's intended interaction mechanism, where as a side channel leak comes from measurements of other system features, like timing, power usage, or space usage\nD. There is no difference\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "73": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: A session symmetric key between two parties is used\nA. Only once\nB. Twice\nC. Multiple times\nD. Conditions dependant\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "74": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: What is a nop sled\nA. It is an anonymous version of a mop sled\nB. It is a sequence of nops preceding injected shellcode, useful when the return address is unknown\nC. It is a method of removing zero bytes from shellcode\nD. It is another name for a branch instruction at the end of sequence of nops\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "75": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Which Nmap scan is does not completely open a TCP connection?\nA. SYN stealth scan\nB. TCP connect\nC. XMAS tree scan\nD. ACK scan\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "76": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Based on the paper \u201cClick Trajectories: End-to-End Analysis of the Spam Value Chain\u201d, which of the following statements are true? \u201cSpammers\u201d here refer to operators of various parts of the \u201cspam value chain.\u201d\nA. Spammers run their spam-advertised web sites on compromised user machines that are part of a botnet.\nB. Spammers need to register domain names in order for their spam-based advertisements to be effective.\nC. There is a high cost for spammers to switch acquiring banks.\nD. B and C\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "77": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: In a _____________ attack, the extra data that holds some specific instructions in the memory for actions is projected by a cyber-criminal or penetration tester to crack the system.\nA. Phishing\nB. MiTM\nC. Buffer-overflow\nD. Clickjacking\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "78": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: _______________ is a popular tool used for network analysis in multiprotocol diverse network.\nA. Snort\nB. SuperScan\nC. Burp Suit\nD. EtterPeak\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "79": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: ___________________ is alike as that of Access Point (AP) from 802.11, & the mobile operators uses it for offering signal coverage.\nA. Base Signal Station\nB. Base Transmitter Station\nC. Base Transceiver Station\nD. Transceiver Station\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "80": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: A __________ is a sequential segment of the memory location that is allocated for containing some data such as a character string or an array of integers.\nA. stack\nB. queue\nC. external storage\nD. buffer\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "81": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Which form of encryption does WPA use?\nA. Shared key\nB. LEAP\nC. TKIP\nD. AES\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "82": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Let suppose a search box of an application can take at most 200 words, and you\u2019ve inserted more than that and pressed the search button; the system crashes. Usually this is because of limited __________\nA. buffer\nB. external storage\nC. processing power\nD. local storage\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "83": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: ___________________ began to show up few years back on wireless access points as a new way of adding or connecting new devices.\nA. WPA2\nB. WPA\nC. WPS\nD. WEP\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "84": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: What are the port states determined by Nmap?\nA. Active, inactive, standby\nB. Open, half-open, closed \nC. Open, filtered, unfiltered\nD. Active, closed, unused\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "85": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Which among the following is the least strong security encryption standard?\nA. WEP\nB. WPA\nC. WPA2\nD. WPA3\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "86": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Why is it that the compiler does not know the absolute address of a local variable?\nA. Programs are not allowed to reference memory using absolute addresses\nB. The size of the address depends on the architecture the program will run on\nC. As a stack-allocated variable, it could have different addresses depending on when its containing function is called\nD. Compiler writers are not very good at that sort of thing\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "87": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: The stack is memory for storing\nA. Local variables\nB. Program code\nC. Dynamically linked libraries\nD. Global variables\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "88": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Can a stream cipher have perfect secrecy?\nA. Yes, if the PRG is really \u201csecure\u201d\nB. No, there are no ciphers with perfect secrecy\nC. Yes, every cipher has perfect secrecy\nD. No, since the key is shorter than the message\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "89": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Which of the following does authorization aim to accomplish?\nA. Restrict what operations/data the user can access\nB. Determine if the user is an attacker\nC. Flag the user if he/she misbehaves\nD. Determine who the user is\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "90": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: The message must be encrypted at the sender site and decrypted at the\nA. Sender Site\nB. Site\nC. Receiver site\nD. Conferencing\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "91": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: A _________________ may be a hidden part of a program, a separate infected program a Trojan in disguise of an executable or code in the firmware of any system\u2019s hardware.\nA. crypter\nB. virus\nC. backdoor\nD. key-logger\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "92": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: How is IP address spoofing detected?\nA. Installing and configuring a IDS that can read the IP header\nB. Comparing the TTL values of the actual and spoofed addresses\nC. Implementing a firewall to the network\nD. Identify all TCP sessions that are initiated but does not complete successfully\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "93": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not an example of presentation layer issues?\nA. Poor handling of unexpected input can lead to the execution of arbitrary instructions\nB. Unintentional or ill-directed use of superficially supplied input\nC. Cryptographic flaws in the system may get exploited to evade privacy\nD. Weak or non-existent authentication mechanisms\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "94": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Suppose Unix did not provide a way of passing file descriptors between processes, but still allowed inheriting file descriptors from a parent on fork and exec. What aspects of the OKWS design would break without file descriptor passing?\n1. It would be impossible for services to send messages to oklogd.\n2. It would be impossible for services to get a TCP connection to a database proxy.\nA. True, True\nB. False, False\nC. True, False\nD. False, True\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "95": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Why would a ping sweep be used?\nA. To identify live systems\nB. To locate live systems\nC. To identify open ports\nD. To locate firewalls\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "96": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: The four Primary Security Principles related to messages are\nA. Confidentiality, Integrity, Non repudiation and Authentication\nB. Confidentiality, Access Control, Integrity, Non repudiation\nC. Authentication, Authorization, Availability, Integrity\nD. Availability, Authorization, Confidentiality, Integrity\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "97": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: What was the first buffer overflow attack?\nA. Love Bug\nB. SQL Slammer\nC. Morris Worm\nD. Code Red\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "98": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: The ______________ can cost you money, by sending text messages from your mobile phone numbers.\nA. IM \u2013 Trojans\nB. Backdoor Trojans\nC. SMS Trojan\nD. Ransom Trojan\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "99": {
+        "origin_prompt": "There is a single choice question about computer security. Answer the question by replying A, B, C or D.\nQuestion: Three of the following are classic security properties; which one is not?\nA. Confidentiality\nB. Availability\nC. Correctness\nD. Integrity\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    }
+}

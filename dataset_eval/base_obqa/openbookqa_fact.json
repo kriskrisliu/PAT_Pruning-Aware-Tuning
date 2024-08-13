@@ -1,0 +1,2502 @@
+{
+    "0": {
+        "origin_prompt": "Given the fact: using less resources usually causes money to be saved\nQuestion: A person wants to start saving money so that they can afford a nice vacation at the end of the year. After looking over their budget and expenses, they decide the best way to save money is to\nA. make more phone calls\nB. quit eating lunch out\nC. buy less with monopoly money\nD. have lunch with friends\nAnswer:",
+        "prediction": "B. quit",
+        "gold": "B"
+    },
+    "1": {
+        "origin_prompt": "Given the fact: fog is formed by water vapor condensing in the air\nQuestion: There is most likely going to be fog around:\nA. a marsh\nB. a tundra\nC. the plains\nD. a desert\nAnswer:",
+        "prediction": "A. a",
+        "gold": "A"
+    },
+    "2": {
+        "origin_prompt": "Given the fact: predators eat prey\nQuestion: Predators eat\nA. lions\nB. humans\nC. bunnies\nD. grass\nAnswer:",
+        "prediction": "A. l",
+        "gold": "C"
+    },
+    "3": {
+        "origin_prompt": "Given the fact: if a tree is located near a sidewalk then the roots of that tree might crack the sidewalk\nQuestion: Oak tree seeds are planted and a sidewalk is paved right next to that spot, until eventually, the tree is tall and the roots must extend past the sidewalk, which means\nA. roots may be split\nB. roots may begin to die\nC. parts may break the concrete\nD. roots may fall apart\nAnswer:",
+        "prediction": "A. roots",
+        "gold": "C"
+    },
+    "4": {
+        "origin_prompt": "Given the fact: An electrical conductor is a vehicle for the flow of electricity\nQuestion: An electric car runs on electricity via\nA. gasoline\nB. a power station\nC. electrical conductors\nD. fuel\nAnswer:",
+        "prediction": "C. elect",
+        "gold": "C"
+    },
+    "5": {
+        "origin_prompt": "Given the fact: as the population of plants decreases , carbon in the atmosphere will increase\nQuestion: As the rain forest is deforested the atmosphere will increase with\nA. oxygen\nB. nitrogen\nC. carbon\nD. rain\nAnswer:",
+        "prediction": "C. carbon",
+        "gold": "C"
+    },
+    "6": {
+        "origin_prompt": "Given the fact: an electric car contains an electric motor\nQuestion: an electric car contains a motor that runs on\nA. gas\nB. hydrogen\nC. ions\nD. plutonium\nAnswer:",
+        "prediction": "C. ",
+        "gold": "C"
+    },
+    "7": {
+        "origin_prompt": "Given the fact: the sun is located directly overhead at noon\nQuestion: The middle of the day usually involves the bright star nearest to the earth to be straight overhead why?\nA. moons gravity\nB. human planet rotation\nC. global warming\nD. moon rotation\nAnswer:",
+        "prediction": "A. mo",
+        "gold": "B"
+    },
+    "8": {
+        "origin_prompt": "Given the fact: the summer solstice is on June 21st in the northern hemisphere\nQuestion: The summer solstice in the northern hemisphere is four months before\nA. May\nB. July\nC. April\nD. October\nAnswer:",
+        "prediction": "C. April",
+        "gold": "D"
+    },
+    "9": {
+        "origin_prompt": "Given the fact: soil is formed by rocks eroding\nQuestion: The main component in dirt is\nA. microorganisms\nB. broken stones\nC. pollution\nD. bacteria\nAnswer:",
+        "prediction": "B. broken",
+        "gold": "B"
+    },
+    "10": {
+        "origin_prompt": "Given the fact: as number of organisms in a group increases , the chance of survival of each organism will increase\nQuestion: It's easier for human's to survive in:\nA. a cave\nB. the ocean.\nC. a town\nD. alone\nAnswer:",
+        "prediction": "A. a",
+        "gold": "C"
+    },
+    "11": {
+        "origin_prompt": "Given the fact: a cactus stem is used for storing water\nQuestion: A cactus stem is used to store\nA. fruit\nB. liquid\nC. food\nD. spines\nAnswer:",
+        "prediction": "A cact",
+        "gold": "B"
+    },
+    "12": {
+        "origin_prompt": "Given the fact: hawks eat lizards\nQuestion: A red-tailed hawk is searching for prey. It is most likely to swoop down on\nA. an eagle\nB. a cow\nC. a gecko\nD. a deer\nAnswer:",
+        "prediction": "A. an",
+        "gold": "C"
+    },
+    "13": {
+        "origin_prompt": "Given the fact: drought may cause wildfires\nQuestion: The chance of wildfires is increased by\nA. parched foliage\nB. torrential rain\nC. lush foliage\nD. careful fire maintenance\nAnswer:",
+        "prediction": "A. par",
+        "gold": "A"
+    },
+    "14": {
+        "origin_prompt": "Given the fact: biofuel is used to produce electricity by burning\nQuestion: A positive effect of burning biofuel is\nA. shortage of crops for the food supply\nB. an increase in air pollution\nC. powering the lights in a home\nD. deforestation in the amazon to make room for crops\nAnswer:",
+        "prediction": "C. power",
+        "gold": "C"
+    },
+    "15": {
+        "origin_prompt": "Given the fact: as the use of alternative fuels increases , the use of gasoline will decrease\nQuestion: As gasoline costs rise, alternative fuels are being used, which means that\nA. wind power will be expensive\nB. gas costs will rise\nC. oil costs will be maintained\nD. gasoline will be needed less\nAnswer:",
+        "prediction": "As gasoline",
+        "gold": "D"
+    },
+    "16": {
+        "origin_prompt": "Given the fact: a solar panel converts sunlight into electricity\nQuestion: A person wants to be able to have more natural power in their home. They choose to cease using a traditional electric company to source this electricity, and so decide to install\nA. sun grafts\nB. sunlight shields\nC. panels collecting sunlight\nD. solar bees\nAnswer:",
+        "prediction": "C. pan",
+        "gold": "C"
+    },
+    "17": {
+        "origin_prompt": "Given the fact: the ocean contains large amounts of salt water\nQuestion: A Mola Mola might live where?\nA. Lake Michigan\nB. The Mississippi River\nC. Bay of Bengal\nD. Lake Eerie\nAnswer:",
+        "prediction": "C. Bay",
+        "gold": "C"
+    },
+    "18": {
+        "origin_prompt": "Given the fact: an animal requires energy to move\nQuestion: Which requires energy to move?\nA. weasel\nB. willow\nC. mango\nD. poison ivy\nAnswer:",
+        "prediction": "A. we",
+        "gold": "A"
+    },
+    "19": {
+        "origin_prompt": "Given the fact: herbivores only eat plants\nQuestion: An animal that only eats plants is a\nA. rat\nB. moth\nC. chimpanzee\nD. pig\nAnswer:",
+        "prediction": "C. ch",
+        "gold": "B"
+    },
+    "20": {
+        "origin_prompt": "Given the fact: humidity is the amount of water vapor in the air\nQuestion: There was a lot more water vapor in the air when we went on a trip to\nA. Hanoi\nB. Athens\nC. Baghdad\nD. Phoenix\nAnswer:",
+        "prediction": "A. H",
+        "gold": "A"
+    },
+    "21": {
+        "origin_prompt": "Given the fact: An example of conservation is not using fossil fuel\nQuestion: An example of conservation is avoiding the use of\nA. gasoline\nB. air\nC. snow\nD. clothes\nAnswer:",
+        "prediction": "An example of",
+        "gold": "A"
+    },
+    "22": {
+        "origin_prompt": "Given the fact: thick feathers can be used for keeping warm\nQuestion: What can feathers on Spheniscidae be used for?\nA. keeping warm\nB. flying\nC. sleeping\nD. eating\nAnswer:",
+        "prediction": "A. keeping",
+        "gold": "A"
+    },
+    "23": {
+        "origin_prompt": "Given the fact: if the population of an organism increases then the ecosystem may become overpopulated with that organism\nQuestion: Overpopulation can cause\nA. More fresh water for people to drink\nB. Lower Life Expectancy in Countries\nC. More food for more people\nD. More space for places to people to live\nAnswer:",
+        "prediction": "D. More",
+        "gold": "B"
+    },
+    "24": {
+        "origin_prompt": "Given the fact: a prism refracts light\nQuestion: Shining a light through a diamond can\nA. make a lot of bright lights shine\nB. summon a brilliant wave of color\nC. heat up a room\nD. make a lot of money\nAnswer:",
+        "prediction": "B. sum",
+        "gold": "B"
+    },
+    "25": {
+        "origin_prompt": "Given the fact: gills are used for breathing water by aquatic animals\nQuestion: If you were attacked by a shark and had to punch it sharply where it pulls in air from, you'd use your hand to make contact with\nA. its snout\nB. its gills\nC. its nose\nD. its belly\nAnswer:",
+        "prediction": "B. its",
+        "gold": "B"
+    },
+    "26": {
+        "origin_prompt": "Given the fact: friction is used for stopping a vehicle by brakes\nQuestion: which of these would stop a car quicker?\nA. a wheel with wet brake pads\nB. a wheel without brake pads\nC. a wheel with worn brake pads\nD. a wheel with dry brake pads\nAnswer:",
+        "prediction": "A. a",
+        "gold": "D"
+    },
+    "27": {
+        "origin_prompt": "Given the fact: the circulatory system carries oxygen from the digestive and respiratory systems to the rest of the body\nQuestion: what system is needed for a body to get its needed supply of the gas humans breathe in?\nA. the circulatory system\nB. the digestive system\nC. the school system\nD. central nervous system\nAnswer:",
+        "prediction": "A. the",
+        "gold": "A"
+    },
+    "28": {
+        "origin_prompt": "Given the fact: the moon rising occurs once per day\nQuestion: Every evening a child can look into the night sky and see that the moon is\nA. gone\nB. breaking\nC. falling\nD. moving upwards\nAnswer:",
+        "prediction": "B. breaking",
+        "gold": "D"
+    },
+    "29": {
+        "origin_prompt": "Given the fact: friction acts to counter the motion of two objects when their surfaces are touching\nQuestion: When it's flying, a plane has no friction with the\nA. wings\nB. ground\nC. air\nD. clouds\nAnswer:",
+        "prediction": "A. wings",
+        "gold": "B"
+    },
+    "30": {
+        "origin_prompt": "Given the fact: a plant requires sunlight to grow\nQuestion: To grow plants require\nA. acid rain\nB. pesticides\nC. shafts of sunlight\nD. moonbeam rays\nAnswer:",
+        "prediction": "C. sh",
+        "gold": "C"
+    },
+    "31": {
+        "origin_prompt": "Given the fact: eye color is an inherited characteristic\nQuestion: What is the best way to guess a babies eye color?\nA. The surroundings they are born in.\nB. Their parents usual diet.\nC. Just take a random guess.\nD. The genealogy records of their family.\nAnswer:",
+        "prediction": "D. The",
+        "gold": "D"
+    },
+    "32": {
+        "origin_prompt": "Given the fact: omnivores eat plants\nQuestion: What animal eats plants?\nA. eagles\nB. robins\nC. owls\nD. leopards\nAnswer:",
+        "prediction": "A. e",
+        "gold": "B"
+    },
+    "33": {
+        "origin_prompt": "Given the fact: hypothesis means scientific guess about the cause and effect of an event\nQuestion: Which of these is a hypothesis?\nA. The ice caps will completely melt if global warming continues\nB. The earth is round\nC. The earth revolves around the sun\nD. Gravity causes objects to fall\nAnswer:",
+        "prediction": "A. The",
+        "gold": "A"
+    },
+    "34": {
+        "origin_prompt": "Given the fact: the lunar surface contains many craters\nQuestion: What explains the characteristic lunar formations?\nA. remains of ancient ponds\nB. many collisions that have occured\nC. volcanic explosions over millions of years\nD. sink holes due to the moons porous nature\nAnswer:",
+        "prediction": "B. many",
+        "gold": "B"
+    },
+    "35": {
+        "origin_prompt": "Given the fact: tadpole changes into a frog\nQuestion: Tadpoles start their lives as\nA. Water animals\nB. Frogs\nC. Ants\nD. College Students\nAnswer:",
+        "prediction": "Frogs\n",
+        "gold": "A"
+    },
+    "36": {
+        "origin_prompt": "Given the fact: absorbing sunlight causes objects to heat\nQuestion: If a person puts out four apples around their home on the same day, the molecules in which apple would be moving the most rapidly?\nA. the apple sitting on a sunny sidewalk\nB. the apple in the freezer\nC. the apple sitting on the shaded stoop\nD. the apple in a closet\nAnswer:",
+        "prediction": "The apple sitting",
+        "gold": "A"
+    },
+    "37": {
+        "origin_prompt": "Given the fact: seeing is used for sensing visual things\nQuestion: What is used for sensing visual things?\nA. nerves\nB. tibia\nC. nostril\nD. cornea\nAnswer:",
+        "prediction": "A. n",
+        "gold": "D"
+    },
+    "38": {
+        "origin_prompt": "Given the fact: studying a soil sample means studying the microorganisms in that soil\nQuestion: They studied the soil by using\nA. plants\nB. a telescope\nC. roots\nD. a microscope\nAnswer:",
+        "prediction": "D. a",
+        "gold": "D"
+    },
+    "39": {
+        "origin_prompt": "Given the fact: if a hot substance is touches a cold object then that substance will likely cool\nQuestion: Bill's arm got cold when he put it inside the\nA. refrigerator\nB. room\nC. jacket\nD. oven\nAnswer:",
+        "prediction": "A. re",
+        "gold": "A"
+    },
+    "40": {
+        "origin_prompt": "Given the fact: recyclable means a material can be recycled\nQuestion: A recyclable material can be\nA. transformed\nB. traded\nC. thrown away\nD. used more times\nAnswer:",
+        "prediction": "A. transformed",
+        "gold": "D"
+    },
+    "41": {
+        "origin_prompt": "Given the fact: if an animal hatches from an egg then that animal is born\nQuestion: What is different about birth in humans and chickens?\nA. Mother\nB. Fertilization\nC. Father\nD. the hard shell\nAnswer:",
+        "prediction": "B. F",
+        "gold": "D"
+    },
+    "42": {
+        "origin_prompt": "Given the fact: pollution is a source of pollutants\nQuestion: Which of these situations is an example of pollutants?\nA. plastic bags floating in the ocean\nB. mallard ducks floating on a lake\nC. cottonwood seeds floating in the air\nD. cirrus clouds floating in the sky\nAnswer:",
+        "prediction": "A. pl",
+        "gold": "A"
+    },
+    "43": {
+        "origin_prompt": "Given the fact: live birth means developing inside the mother instead of an egg\nQuestion: Human reproduction requires\nA. eggs with shells\nB. nest incubation\nC. a nest\nD. a womb\nAnswer:",
+        "prediction": "D. a",
+        "gold": "D"
+    },
+    "44": {
+        "origin_prompt": "Given the fact: a thermometer is used to measure temperature\nQuestion: Thermometers\nA. can help you monitor a fever\nB. indicate levels of mercury in the blood\nC. read exactly at 98.6 degrees\nD. are used only for babies\nAnswer:",
+        "prediction": "A. can",
+        "gold": "A"
+    },
+    "45": {
+        "origin_prompt": "Given the fact: if the atmospheric temperature rises then the glaciers will melt\nQuestion: if the earth was a living room, what can be done to melt the glaciers?\nA. someone would turn up the room heater\nB. someone would turn up the air conditioner\nC. someone would turn up the music\nD. someone would turn on the light\nAnswer:",
+        "prediction": "A. someone",
+        "gold": "A"
+    },
+    "46": {
+        "origin_prompt": "Given the fact: as heat increases , a flexible container containing gas will expand\nQuestion: What would happen when balloons heat up?\nA. they get bigger\nB. they get smaller\nC. nothing happens\nD. they fall down\nAnswer:",
+        "prediction": "A. they",
+        "gold": "A"
+    },
+    "47": {
+        "origin_prompt": "Given the fact: as heat increases , a flexible container containing gas will expand\nQuestion: A balloon is filled with helium for a party. After the party, the balloons are left in the living room, where a fireplace is heating the room. The balloons\nA. expand\nB. melt\nC. shrink\nD. fall\nAnswer:",
+        "prediction": "A. expand",
+        "gold": "A"
+    },
+    "48": {
+        "origin_prompt": "Given the fact: arctic animals live in an arctic environment\nQuestion: Seals are most likely to be found in what type of environment?\nA. desert\nB. arctic\nC. Mediterranean\nD. tropical\nAnswer:",
+        "prediction": "arctic\n",
+        "gold": "B"
+    },
+    "49": {
+        "origin_prompt": "Given the fact: if an animal hatches from an egg then that animal is born\nQuestion: When the eggs hatch, the offspring are\nA. killed\nB. hurt\nC. born\nD. cold\nAnswer:",
+        "prediction": "C. born",
+        "gold": "C"
+    },
+    "50": {
+        "origin_prompt": "Given the fact: bears eat berries\nQuestion: Some berries may be eaten by\nA. a bear or person\nB. a bear or shark\nC. a bear or lion\nD. a bear or wolf\nAnswer:",
+        "prediction": "A. a",
+        "gold": "A"
+    },
+    "51": {
+        "origin_prompt": "Given the fact: an equinox occurs twice per year\nQuestion: A person has a chance to experience an equinox\nA. weekly\nB. monthly\nC. annually\nD. biannually\nAnswer:",
+        "prediction": "A. week",
+        "gold": "D"
+    },
+    "52": {
+        "origin_prompt": "Given the fact: if the population of an organism increases then the ecosystem may become overpopulated with that organism\nQuestion: Overpopulation of an organism can\nA. strain the resources of an ecosystem\nB. cause boundless growth of resources\nC. lead to extinction of the organism\nD. cause the ecosystem to flourish\nAnswer:",
+        "prediction": "A. stra",
+        "gold": "A"
+    },
+    "53": {
+        "origin_prompt": "Given the fact: rest has a positive impact on a health\nQuestion: To improve health, what is a good strategy?\nA. high risk lifestyle\nB. restaurant food\nC. business trip\nD. a spa trip\nAnswer:",
+        "prediction": "D. a",
+        "gold": "D"
+    },
+    "54": {
+        "origin_prompt": "Given the fact: the number of body parts of an organism is an inherited characteristic\nQuestion: A girl and her mom have the same\nA. date of birth\nB. shirt\nC. number of toenails\nD. hair length\nAnswer:",
+        "prediction": "C. number",
+        "gold": "C"
+    },
+    "55": {
+        "origin_prompt": "Given the fact: mass is a measure of the amount of matter in an object\nQuestion: The transportation with the most mass is likely a\nA. commercial plane\nB. private plane\nC. bus\nD. private car\nAnswer:",
+        "prediction": "A. commercial",
+        "gold": "A"
+    },
+    "56": {
+        "origin_prompt": "Given the fact: rabbits eat plants\nQuestion: A rabbit may enjoy\nA. meat\nB. compost\nC. peas\nD. pebbles\nAnswer:",
+        "prediction": "A rabbit",
+        "gold": "C"
+    },
+    "57": {
+        "origin_prompt": "Given the fact: humans changing an environment sometimes causes that environment to be destroyed\nQuestion: A construction group wants to put a shopping center in town, but the only place available is a small nature park with a trail. Deer and other wildlife frequent the park, since it is the only place in the city where trees and fresh water are available for them. The construction group decides to build the shopping center, which means that\nA. the deer are moved to a zoo\nB. the trail is expanded\nC. the mall has a nature park in it\nD. the wildlife environment is destroyed\nAnswer:",
+        "prediction": "D. The",
+        "gold": "D"
+    },
+    "58": {
+        "origin_prompt": "Given the fact: nocturnal predators hunt during the night\nQuestion: Owls are likely to hunt at\nA. 3pm\nB. 2am\nC. 6pm\nD. 7am\nAnswer:",
+        "prediction": "B. ",
+        "gold": "B"
+    },
+    "59": {
+        "origin_prompt": "Given the fact: if a tree falls then sunlight becomes available to the surrounding plants\nQuestion: What could be a positive aspect of a tree being cut down?\nA. the plants that were under the tree will have access to more light\nB. the squirrels that were in that tree will have an easier time getting to their home\nC. Plants under the tree will get cooled off by the shade\nD. The sun will shine brighter than before\nAnswer:",
+        "prediction": "A. the",
+        "gold": "A"
+    },
+    "60": {
+        "origin_prompt": "Given the fact: plant requires seed dispersal for reproduction\nQuestion: Birds carrying away fruit helps the tree\nA. grow\nB. fertilize\nC. reproduce\nD. conquer\nAnswer:",
+        "prediction": "B. fert",
+        "gold": "C"
+    },
+    "61": {
+        "origin_prompt": "Given the fact: as a source of light becomes closer , that source will appear brighter\nQuestion: If a UFO is flying overhead and looks small, then large, then\nA. the UFO is calling\nB. the UFO had been close\nC. the UFO is approaching\nD. the UFO is leaving\nAnswer:",
+        "prediction": "C. the",
+        "gold": "C"
+    },
+    "62": {
+        "origin_prompt": "Given the fact: hibernation is an inherited behavior\nQuestion: Inherited behavior is exhibited when\nA. bears take a long winter sleep\nB. dogs sit on command\nC. seals clap for their trainers\nD. rats navigate thru a maze\nAnswer:",
+        "prediction": "A. be",
+        "gold": "A"
+    },
+    "63": {
+        "origin_prompt": "Given the fact: cutting down trees in a forest causes the number of trees to decrease in that forest\nQuestion: What likely explains deforestation?\nA. Increased insect populations\nB. Clearing for farming\nC. reduction in rainfall\nD. More carbon dioxide\nAnswer:",
+        "prediction": "B. Clear",
+        "gold": "B"
+    },
+    "64": {
+        "origin_prompt": "Given the fact: as available resources increases , the population of an organism that uses those resources will increase\nQuestion: Mosquitoes enjoy all the people at a BBQ in the summer for what reason?\nA. steak\nB. blood\nC. nice weather\nD. taking food\nAnswer:",
+        "prediction": "B. blood",
+        "gold": "B"
+    },
+    "65": {
+        "origin_prompt": "Given the fact: the surface of the Moon contains mountains\nQuestion: The surface of the moon contains\nA. dogs\nB. water\nC. high peaks\nD. humans\nAnswer:",
+        "prediction": "C. high",
+        "gold": "C"
+    },
+    "66": {
+        "origin_prompt": "Given the fact: a Punnett square is used to identify the percent chance of a trait being passed down from a parent to its offspring\nQuestion: A tool used to identify the percent chance of a trait being passed down has at least\nA. four boxes\nB. eight boxes\nC. two boxes\nD. six boxes\nAnswer:",
+        "prediction": "A. four",
+        "gold": "A"
+    },
+    "67": {
+        "origin_prompt": "Given the fact: dairy is a source of Vitamin D\nQuestion: A prisoner is kept in a stone room, unable to see the sun. The prisoner knows that he needs vitamin D to survive, so he\nA. asks for milk\nB. asks for television\nC. asks for water\nD. asks for sleep\nAnswer:",
+        "prediction": "A. asks",
+        "gold": "A"
+    },
+    "68": {
+        "origin_prompt": "Given the fact: roots anchor plants into the soil\nQuestion: When trying to pull a rose out of the ground why do you encounter resistance?\nA. roots\nB. tensile strength\nC. plant temperature\nD. plant color\nAnswer:",
+        "prediction": "roots\nThe",
+        "gold": "A"
+    },
+    "69": {
+        "origin_prompt": "Given the fact: echo is when sound reflects off of a surface\nQuestion: A bat flew through the sky without hitting anything due to which of these?\nA. rainy sky to fly in\nB. fast truck to drive\nC. a car with gasoline\nD. surfaces to reflect sound off\nAnswer:",
+        "prediction": "D. surfaces",
+        "gold": "D"
+    },
+    "70": {
+        "origin_prompt": "Given the fact: the coloration of fur is an inherited characteristic\nQuestion: How can we see that the coloration of fur is an inherited characteristic?\nA. puppies have soft fur\nB. kittens look like their parents\nC. all mammals are born with fur\nD. baby rats are mostly bald\nAnswer:",
+        "prediction": "B. k",
+        "gold": "B"
+    },
+    "71": {
+        "origin_prompt": "Given the fact: forming fossil fuels requires decaying vegetation\nQuestion: Decaying vegetation is part of the process that\nA. enables nuclear power to function\nB. enables to emitting of light beams\nC. enables gas powered motors to operate\nD. enables windmills to power electric grids\nAnswer:",
+        "prediction": "D. enables",
+        "gold": "C"
+    },
+    "72": {
+        "origin_prompt": "Given the fact: storms cause bodies of water to increase amount of water they contain\nQuestion: After a torrential downpour over a week, a man notices that the pond in his backyard is\nA. melted\nB. dehydrated\nC. bloated\nD. salted\nAnswer:",
+        "prediction": "C. blo",
+        "gold": "C"
+    },
+    "73": {
+        "origin_prompt": "Given the fact: force causes the speed of an object to decrease\nQuestion: The amount of friction and the speed of an object have what kind of relationship?\nA. inverse\nB. reverse\nC. direct\nD. equal\nAnswer:",
+        "prediction": "C. direct",
+        "gold": "A"
+    },
+    "74": {
+        "origin_prompt": "Given the fact: if a leaf falls off of a tree then that leaf is dead\nQuestion: A fallen leaf\nA. will turn into a tree\nB. will become bright green\nC. will begin to recycle the nutrients that made up its structure\nD. is likely to continue to grow\nAnswer:",
+        "prediction": "C. will",
+        "gold": "C"
+    },
+    "75": {
+        "origin_prompt": "Given the fact: sometimes weathering smooths rocks\nQuestion: Over a period of time the weather can change\nA. The color of my hair\nB. The way I walk\nC. The size of a statue\nD. The sound a computer makes\nAnswer:",
+        "prediction": "The color of",
+        "gold": "C"
+    },
+    "76": {
+        "origin_prompt": "Given the fact: when a plant grows , the number of the leaves of that plant may increase\nQuestion: Plant growth may cause\nA. an uptick in the number of leaves\nB. a surge in leaf disease\nC. a gradual decrease in leaves\nD. a rapid decline of the leaves\nAnswer:",
+        "prediction": "A. an",
+        "gold": "A"
+    },
+    "77": {
+        "origin_prompt": "Given the fact: electrocution causes harm to an organism\nQuestion: The man's heart skipped a beat and he felt pain after touching which of these?\nA. ice cube\nB. water\nC. electrical transformer\nD. grass\nAnswer:",
+        "prediction": "C. elect",
+        "gold": "C"
+    },
+    "78": {
+        "origin_prompt": "Given the fact: matter in the liquid state drips\nQuestion: Which substance is capable of dripping?\nA. Oxygen\nB. Juice\nC. Wood\nD. Lightning\nAnswer:",
+        "prediction": "C. Wood",
+        "gold": "B"
+    },
+    "79": {
+        "origin_prompt": "Given the fact: if too much heat is transferred to an object then that object may burn\nQuestion: If bacon is left too long on a hot stove top\nA. it will be cooked perfectly\nB. it will be bacteria laden\nC. it will become blackened\nD. it will be left raw\nAnswer:",
+        "prediction": "C. it",
+        "gold": "C"
+    },
+    "80": {
+        "origin_prompt": "Given the fact: kilometers km are a unit used for measuring distance generally used for values between 1 and 50000000\nQuestion: the dashboard reading in a jaguar would likely be set to which of these?\nA. set to calories\nB. set to volume\nC. set to kilometers\nD. set to width\nAnswer:",
+        "prediction": "set to kilom",
+        "gold": "C"
+    },
+    "81": {
+        "origin_prompt": "Given the fact: explosions can cause harm to an organism\nQuestion: are explosions safe?\nA. they could harm living things\nB. they are very safe\nC. they cause nothing serious\nD. none of these\nAnswer:",
+        "prediction": "A. they",
+        "gold": "A"
+    },
+    "82": {
+        "origin_prompt": "Given the fact: as altitude increases , the temperature of the air will decrease\nQuestion: The lowest temperature on the trip was at\nA. the mountain pass\nB. the plain\nC. the large hill\nD. the canyon\nAnswer:",
+        "prediction": "The lowest temperature",
+        "gold": "A"
+    },
+    "83": {
+        "origin_prompt": "Given the fact: no light shines through an opaque object\nQuestion: What is the benefit to using a frosted window film over a non treated windows?\nA. they are easier to make\nB. they let in less light\nC. they are cheaper to produce\nD. they are much stronger\nAnswer:",
+        "prediction": "D. they",
+        "gold": "B"
+    },
+    "84": {
+        "origin_prompt": "Given the fact: the ocean contains large amounts of salt water\nQuestion: Ocean water contains\nA. copious amounts of seltzer\nB. scant amounts of sodium chloride\nC. scant amounts of carbonation\nD. copious amounts of the combination of Na and Cl\nAnswer:",
+        "prediction": "D. cop",
+        "gold": "D"
+    },
+    "85": {
+        "origin_prompt": "Given the fact: as the activity of an animal increases , the amount of water in an animal 's body in that environment will decrease\nQuestion: A cheetah that runs all day will find it has lost a lot of\nA. blood\nB. water\nC. prey\nD. spots\nAnswer:",
+        "prediction": "B. water",
+        "gold": "B"
+    },
+    "86": {
+        "origin_prompt": "Given the fact: birds with beaks of different shapes eat different foods\nQuestion: Beak shape can influence a bird's ability\nA. to give birth to live young\nB. to mate with it's partner\nC. to fly to warmer climates\nD. to chew up certain worms\nAnswer:",
+        "prediction": "B. Be",
+        "gold": "D"
+    },
+    "87": {
+        "origin_prompt": "Given the fact: bats can echolocate\nQuestion: Some blind people have demonstrated bat-like skills by:\nA. sensing shapes by light and shadows\nB. having a unusually strong sense of smell\nC. sensing nearby objects by temperature change\nD. using sound to 'see'\nAnswer:",
+        "prediction": "D. using",
+        "gold": "D"
+    },
+    "88": {
+        "origin_prompt": "Given the fact: a new season occurs once per three months\nQuestion: December 21st through March 20 is a three month period which is an example of what?\nA. A session\nB. A Match\nC. A Season\nD. Autumn\nAnswer:",
+        "prediction": "C. A",
+        "gold": "C"
+    },
+    "89": {
+        "origin_prompt": "Given the fact: a seed is used for storing food for a new plant\nQuestion: Seeds provide new plants with\nA. life sustaining elements\nB. essentials for photosynthesis\nC. water and hydrogen\nD. storage for roots\nAnswer:",
+        "prediction": "A. life",
+        "gold": "A"
+    },
+    "90": {
+        "origin_prompt": "Given the fact: as lightness in color of an object increases , the ability of that object to reflect light will increase\nQuestion: What is a more comfortable color to have for your automobile upholstery if living in a desert?\nA. ecru\nB. red\nC. black\nD. navy\nAnswer:",
+        "prediction": "A. ec",
+        "gold": "A"
+    },
+    "91": {
+        "origin_prompt": "Given the fact: a salamander eats insects\nQuestion: The salamander could eat a large amounts of what?\nA. fettuccine if left around\nB. waxy leaves from certain plants\nC. dead carcass meat from livestock\nD. six legged winged organisms\nAnswer:",
+        "prediction": "D. six",
+        "gold": "D"
+    },
+    "92": {
+        "origin_prompt": "Given the fact: seeing is used for sensing visual things\nQuestion: A person can see\nA. a radio recording\nB. an emotion\nC. a written message\nD. an abstract idea\nAnswer:",
+        "prediction": "A person can",
+        "gold": "C"
+    },
+    "93": {
+        "origin_prompt": "Given the fact: the looseness of soil has a positive impact on a plant 's roots' growth in that soil\nQuestion: When looking for good soil for plants, typically what is optimal?\nA. malleable and nutritious\nB. dry and sandy\nC. grainy and bitter\nD. compact and hard\nAnswer:",
+        "prediction": "A. m",
+        "gold": "A"
+    },
+    "94": {
+        "origin_prompt": "Given the fact: feeders attract animals to a location\nQuestion: Animals are drawn to\nA. gold\nB. houses\nC. feeders\nD. Carbon Dioxide\nAnswer:",
+        "prediction": "C. feed",
+        "gold": "C"
+    },
+    "95": {
+        "origin_prompt": "Given the fact: squirrels gather nuts in the autumn to eat during the winter\nQuestion: Squirrels spend their fall\nA. looking for pretty leaves to collect\nB. stockpiling rocks for fighting in the winter\nC. stockpiling pecans for the frigid months\nD. collecting twigs to keep warm\nAnswer:",
+        "prediction": "C. stock",
+        "gold": "C"
+    },
+    "96": {
+        "origin_prompt": "Given the fact: sunlight and rain can cause a rainbow\nQuestion: Rainbows are always found after what?\nA. A fire\nB. A tornado\nC. Rainfall\nD. Cereal\nAnswer:",
+        "prediction": "Rainbows",
+        "gold": "C"
+    },
+    "97": {
+        "origin_prompt": "Given the fact: crop rotation has a positive impact on soil quality\nQuestion: Crop rotation has a positive impact on what?\nA. government mentality\nB. dirt quality\nC. town economies\nD. crop watering\nAnswer:",
+        "prediction": "B. d",
+        "gold": "B"
+    },
+    "98": {
+        "origin_prompt": "Given the fact: touch can be used for detecting texture\nQuestion: the best method for detecting texture is\nA. rubbing it\nB. seeing it\nC. hearing it\nD. tasting it\nAnswer:",
+        "prediction": "A. rub",
+        "gold": "A"
+    },
+    "99": {
+        "origin_prompt": "Given the fact: a reptile is cold-blooded\nQuestion: Cold-blooded animals are often\nA. fast\nB. large\nC. hairless\nD. slow\nAnswer:",
+        "prediction": "A. fast",
+        "gold": "C"
+    },
+    "100": {
+        "origin_prompt": "Given the fact: grey clouds are a source of precipitation\nQuestion: Grey clouds can bring\nA. sunlight\nB. falling water molecules\nC. blooming flowers\nD. drought conditions\nAnswer:",
+        "prediction": "B. falling",
+        "gold": "B"
+    },
+    "101": {
+        "origin_prompt": "Given the fact: a predator eats other animals for food\nQuestion: Which animal is considered a predator?\nA. ant\nB. snake\nC. elephant\nD. giraffe\nAnswer:",
+        "prediction": "B. s",
+        "gold": "B"
+    },
+    "102": {
+        "origin_prompt": "Given the fact: pollination requires pollinating animals\nQuestion: Pollinators\nA. enable plants to continue flourishing\nB. play an unimportant role in the reproduction process\nC. are useless to plants\nD. are considered unwanted pests\nAnswer:",
+        "prediction": "A. enable",
+        "gold": "A"
+    },
+    "103": {
+        "origin_prompt": "Given the fact: a seed is used for storing food for a new plant\nQuestion: A farmer harvests seeds from some plants, such as tomatoes, in order to plant them later on. These seeds, once planted\nA. have their own dirt\nB. have their own sunlight\nC. have a lot of sand\nD. contain their necessary nutrition\nAnswer:",
+        "prediction": "A. have",
+        "gold": "D"
+    },
+    "104": {
+        "origin_prompt": "Given the fact: skills are learned characteristics\nQuestion: What type of characteristics are people not born with?\nA. genetics\nB. skills\nC. physical attributes\nD. height\nAnswer:",
+        "prediction": "skills\nQuestion",
+        "gold": "B"
+    },
+    "105": {
+        "origin_prompt": "Given the fact: a windmill converts wind energy into electricity\nQuestion: A spinning object is used to make\nA. steam\nB. heat\nC. water\nD. electricity\nAnswer:",
+        "prediction": "A spinning",
+        "gold": "D"
+    },
+    "106": {
+        "origin_prompt": "Given the fact: offshore oil platforms might cause oil to leak into the water\nQuestion: One of the negative consequences of offshore oil platforms is\nA. evaporation of the surrounding water\nB. discharge of liquid petroleum in the surrounding sea\nC. improvement in the conditions of sea life\nD. increase in the birthrate of sea birds\nAnswer:",
+        "prediction": "B. dis",
+        "gold": "B"
+    },
+    "107": {
+        "origin_prompt": "Given the fact: milliliters mL is a unit used for measuring volume generally used for values between 1 and 1000\nQuestion: The unit of measure derived from French word millilitre is a unit used for measuring volume generally used for values between 1 and\nA. 1000\nB. 250\nC. 5000\nD. 300\nAnswer:",
+        "prediction": "The unit of",
+        "gold": "A"
+    },
+    "108": {
+        "origin_prompt": "Given the fact: pouring water onto soil causes that soil to wash away\nQuestion: A man's child runs through the yard in the sprinklers, getting mud all over their feet. The child then runs around on the porch, tracking mud everywhere. While the mud is still wet, the man decides to clean off the porch by\nA. getting a new child\nB. yelling at the mud\nC. asking the child to stop\nD. turning on the hose\nAnswer:",
+        "prediction": "C. asking",
+        "gold": "D"
+    },
+    "109": {
+        "origin_prompt": "Given the fact: an earthquake causes the ground to shake\nQuestion: Earthquakes\nA. only happen in California\nB. cause solar and lunar eclipses\nC. will break your vases\nD. make bridges much safer\nAnswer:",
+        "prediction": "D. make",
+        "gold": "C"
+    },
+    "110": {
+        "origin_prompt": "Given the fact: a seismograph is a kind of tool for measuring the size of an earthquake\nQuestion: A seismograph can accurately describe\nA. how rough the footing will be\nB. how bad the weather will be\nC. how stable the ground will be\nD. how shaky the horse will be\nAnswer:",
+        "prediction": "A seism",
+        "gold": "C"
+    },
+    "111": {
+        "origin_prompt": "Given the fact: as distance from a source of light increases , that source of light will appear dimmer\nQuestion: Light from further away may appear to be less bright than other, closer sources, such as in which instance?\nA. the sun is always bright\nB. the moon is brighter than stars\nC. the moon is brighter than a floodlight\nD. the sun is darker than the moon\nAnswer:",
+        "prediction": "C. the",
+        "gold": "B"
+    },
+    "112": {
+        "origin_prompt": "Given the fact: a plant requires a specific climate to grow and survive\nQuestion: A plant needs a specific climate to grow and\nA. wither\nB. persist\nC. die\nD. decay\nAnswer:",
+        "prediction": "A plant needs",
+        "gold": "B"
+    },
+    "113": {
+        "origin_prompt": "Given the fact: musical instruments make sound when they are played\nQuestion: Banging on a drum causes\nA. music to be loud\nB. music to be appealing\nC. reverberations to strike the eardrum\nD. concerts to sell out\nAnswer:",
+        "prediction": "A. music",
+        "gold": "C"
+    },
+    "114": {
+        "origin_prompt": "Given the fact: mountains are formed by volcanoes\nQuestion: What may have been formed by a volcano?\nA. Mt. McKinley\nB. Lake Pontchartrain\nC. The great lakes\nD. Niagara Falls\nAnswer:",
+        "prediction": "D. Ni",
+        "gold": "A"
+    },
+    "115": {
+        "origin_prompt": "Given the fact: birds lay eggs\nQuestion: Humans, cats, dogs, and elephants are known as mammals because their kids are born alive. Non-mammalian babies are born\nA. old\nB. dead\nC. in an egg\nD. big\nAnswer:",
+        "prediction": "C. in",
+        "gold": "C"
+    },
+    "116": {
+        "origin_prompt": "Given the fact: wind causes erosion\nQuestion: Wind can cause\nA. basements to flood due to weather\nB. small birds to kill large birds\nC. waterfalls to flow backwards\nD. stones to weather down to pebbles\nAnswer:",
+        "prediction": "D. St",
+        "gold": "D"
+    },
+    "117": {
+        "origin_prompt": "Given the fact: the colors of the parts of an organism are inherited characteristics\nQuestion: Inherited characteristics\nA. include mice being able to navigate a maze\nB. include learning to sit on command\nC. include dolphins doing tricks for their trainers\nD. include spots on a ladybug\nAnswer:",
+        "prediction": "D. include",
+        "gold": "D"
+    },
+    "118": {
+        "origin_prompt": "Given the fact: high means great in altitude\nQuestion: How could we determine approximately how far a bird is from the ground?\nA. Measure the altitude of the bird using a reference point, such as a tall building.\nB. Identify the species of bird\nC. Ask the bird how high it was when it returns back to earth\nD. Measure the bird's mass\nAnswer:",
+        "prediction": "A. Me",
+        "gold": "A"
+    },
+    "119": {
+        "origin_prompt": "Given the fact: some animals live in zoo exhibits\nQuestion: Endangered pandas are sometimes\nA. accidentally dropped into volcanoes\nB. confined to enclosures to be viewed by the public\nC. found eating corn in the middle of North America\nD. made into delicious rare steaks\nAnswer:",
+        "prediction": "B. conf",
+        "gold": "B"
+    },
+    "120": {
+        "origin_prompt": "Given the fact: algae is found in bodies of water\nQuestion: Algae can be found in\nA. reservoir\nB. meat\nC. street\nD. tree\nAnswer:",
+        "prediction": "Algae",
+        "gold": "A"
+    },
+    "121": {
+        "origin_prompt": "Given the fact: a toaster converts electrical energy into heat energy for toasting\nQuestion: A toaster converts electrical energy into heat energy for toasting much like\nA. a campfire toasts bread\nB. a microwave heats soup\nC. a fire burns paper\nD. a small oven works\nAnswer:",
+        "prediction": "A toaster",
+        "gold": "D"
+    },
+    "122": {
+        "origin_prompt": "Given the fact: An example of camouflage is when something changes color in order to have the same color as its environment\nQuestion: An octopus, when in danger and unable to swim to safety, may find itself\nA. mimicking other things\nB. melting into sand\nC. creating new homes\nD. mocking other fish\nAnswer:",
+        "prediction": "B. mel",
+        "gold": "A"
+    },
+    "123": {
+        "origin_prompt": "Given the fact: An example of playing a musical instrument is strumming a guitar string\nQuestion: What does someone do when creating music?\nA. hit a toy baseball with a bat\nB. shake a baby rattle with your hand\nC. bang the wall with your fist\nD. pluck the strings of a fingerboard with your fingers\nAnswer:",
+        "prediction": "D. pl",
+        "gold": "D"
+    },
+    "124": {
+        "origin_prompt": "Given the fact: the gravitational pull of the Moon on Earth 's oceans causes the tides\nQuestion: The pull the human planet space rock orbiter has on certain bodies of dihydrogen monooxide results in?\nA. telescope views\nB. water level fluctuations\nC. animal\nD. plant harvesting\nAnswer:",
+        "prediction": "B. water",
+        "gold": "B"
+    },
+    "125": {
+        "origin_prompt": "Given the fact: denser liquids settle below liquids that are less dense\nQuestion: Since density = mass / volume, denser liquids such as water sink more than\nA. baby oil\nB. corn syrup or\nC. milk\nD. honey\nAnswer:",
+        "prediction": "D. h",
+        "gold": "A"
+    },
+    "126": {
+        "origin_prompt": "Given the fact: plant cells can perform photosynthesis\nQuestion: Photosynthesis can be performed by\nA. a cabbage cell\nB. a bee cell\nC. a bear cell\nD. a cat cell\nAnswer:",
+        "prediction": "A. a",
+        "gold": "A"
+    },
+    "127": {
+        "origin_prompt": "Given the fact: as force exerted on an object increases , distance travelled will increase\nQuestion: The force exerted on an object and distance traveled have what kind of relationship?\nA. reverse\nB. inverse\nC. equal\nD. direct\nAnswer:",
+        "prediction": "The force ex",
+        "gold": "D"
+    },
+    "128": {
+        "origin_prompt": "Given the fact: all cells perform cellular respiration\nQuestion: all cells use cellular respiration to\nA. photosynthesize\nB. release waste\nC. perform meiosis\nD. release energy\nAnswer:",
+        "prediction": "D. release",
+        "gold": "B"
+    },
+    "129": {
+        "origin_prompt": "Given the fact: eyes are used for seeing by animals by sensing light\nQuestion: The viewing oriented sensor of a prairie creature are for what?\nA. reproductive purposes\nB. viewing sounds\nC. sensing views\nD. sensing tastes\nAnswer:",
+        "prediction": "C. sens",
+        "gold": "C"
+    },
+    "130": {
+        "origin_prompt": "Given the fact: eating food is used to get nutrients by living things\nQuestion: A dog is going to have to corral sheep for the afternoon, so it needs to prepare its body for the enormous workload ahead of it. The dog is\nA. breaks for birds on the road\nB. given a large breakfast\nC. eats a few corn cobs\nD. given two apples to watch\nAnswer:",
+        "prediction": "A. breaks",
+        "gold": "B"
+    },
+    "131": {
+        "origin_prompt": "Given the fact: as the sale of a product decreases , the amount of money made by the person selling that product will decrease\nQuestion: A woman sells bracelets that she makes. The bracelets gain popularity, and the woman makes incredibly large amounts of money from the sales. After a while, very few people are still buying the bracelets, so\nA. the woman makes more money\nB. the woman makes the same amount of money\nC. the woman spends more money\nD. the woman makes less money\nAnswer:",
+        "prediction": "A. the",
+        "gold": "D"
+    },
+    "132": {
+        "origin_prompt": "Given the fact: a desert environment is dry\nQuestion: A desert environment is\nA. dry, grass covered, and humid\nB. lush, green, and tropical\nC. arid, parched, and sun-baked\nD. dry, damp, and lush\nAnswer:",
+        "prediction": "C. ar",
+        "gold": "C"
+    },
+    "133": {
+        "origin_prompt": "Given the fact: the Earth being tilted on its axis causes seasons\nQuestion: Seasons are caused by what rotating on its axis?\nA. Our Planet\nB. The Atmosphere\nC. The Equator\nD. The Sun\nAnswer:",
+        "prediction": "A. Our",
+        "gold": "A"
+    },
+    "134": {
+        "origin_prompt": "Given the fact: metal is an electrical energy conductor\nQuestion: Which is best an letting electricity pass through?\nA. tile flooring\nB. human flesh\nC. hockey stick\nD. a steak knife\nAnswer:",
+        "prediction": "C. hockey",
+        "gold": "D"
+    },
+    "135": {
+        "origin_prompt": "Given the fact: usually craters on planets are formed by asteroids impacting that planet or moon 's surface\nQuestion: Asteroids crashing on planets can leave behind\nA. large, bowl-shaped cavities in the ground\nB. aliens and foreign foods\nC. small dents in the planet's core\nD. lakes filled with salty water\nAnswer:",
+        "prediction": "A. large",
+        "gold": "A"
+    },
+    "136": {
+        "origin_prompt": "Given the fact: a plants require water for to grow\nQuestion: What is the formula of the substance which best helps plants grow\nA. NH4\nB. C4H4\nC. CO2\nD. H2O\nAnswer:",
+        "prediction": "D. H",
+        "gold": "D"
+    },
+    "137": {
+        "origin_prompt": "Given the fact: as depth increases , pressure will increase\nQuestion: You can experience a change of pressure when\nA. Yelling really loud\nB. Soaring the skies\nC. Going walking\nD. riding a bike\nAnswer:",
+        "prediction": "C. Go",
+        "gold": "B"
+    },
+    "138": {
+        "origin_prompt": "Given the fact: An example of evaporation is a body of water drying up by absorbing heat energy\nQuestion: A small creek absorbing heat energy can result in\nA. the creek water getting colder\nB. a parched creek bed\nC. tributaries branching off from the creek\nD. a runoff of extra water\nAnswer:",
+        "prediction": "A. the",
+        "gold": "B"
+    },
+    "139": {
+        "origin_prompt": "Given the fact: June is during the summer in the northern hemisphere\nQuestion: Summertime  happens during June in all but which location?\nA. Australia\nB. in Canada\nC. United States\nD. Europe\nAnswer:",
+        "prediction": "D. Europe",
+        "gold": "A"
+    },
+    "140": {
+        "origin_prompt": "Given the fact: the volume of an object can be used to describe the size of that object\nQuestion: It takes more water to fill a bathtub than a\nA. lake\nB. pool\nC. stomach\nD. holding tank\nAnswer:",
+        "prediction": "A. lake",
+        "gold": "C"
+    },
+    "141": {
+        "origin_prompt": "Given the fact: August is during the winter in the southern hemisphere\nQuestion: The eighth month of the year is winter in\nA. Brazil\nB. Indiana\nC. London\nD. Canada\nAnswer:",
+        "prediction": "D. Canada",
+        "gold": "A"
+    },
+    "142": {
+        "origin_prompt": "Given the fact: a beak is used for catching prey by some birds\nQuestion: birds use their peckers to catch\nA. dogs\nB. a tan\nC. a ball\nD. bees\nAnswer:",
+        "prediction": "B. a",
+        "gold": "D"
+    },
+    "143": {
+        "origin_prompt": "Given the fact: planting trees has a positive impact on an ecosystem\nQuestion: transplanting seedling oaks has a positive impact on\nA. fuel costs\nB. the economy\nC. housing value\nD. the environment\nAnswer:",
+        "prediction": "transplanting",
+        "gold": "D"
+    },
+    "144": {
+        "origin_prompt": "Given the fact: hunting means humans kill animals in the wild\nQuestion: What is an example of hunting?\nA. humans throwing a spear through an animal\nB. humans chewing on boiled animal muscles\nC. humans gathering animals in a gate\nD. humans plucking fruit from a tree\nAnswer:",
+        "prediction": "A. humans",
+        "gold": "A"
+    },
+    "145": {
+        "origin_prompt": "Given the fact: Matter in the liquid phase has variable shape\nQuestion: Which of these has shape that changes depending on the container which it resides within?\nA. paper\nB. wood\nC. stone\nD. orange juice\nAnswer:",
+        "prediction": "C. stone",
+        "gold": "D"
+    },
+    "146": {
+        "origin_prompt": "Given the fact: sugar causes food to taste sweet\nQuestion: What would be the flavor if you ate the item that fell and is thought to have hit Sir Issac Newton's head\nA. Sweet\nB. Salty\nC. bitter\nD. sour\nAnswer:",
+        "prediction": "A. S",
+        "gold": "A"
+    },
+    "147": {
+        "origin_prompt": "Given the fact: Earth is made of rock\nQuestion: Earth's four layers are comprised mainly of\nA. stone\nB. bacteria\nC. water\nD. air\nAnswer:",
+        "prediction": "D. air",
+        "gold": "A"
+    },
+    "148": {
+        "origin_prompt": "Given the fact: freezing point means temperature at which a liquid freezes\nQuestion: if coffee sits in the fridge and loses its liquid form, what is that point known as?\nA. the freezing point\nB. the prime point\nC. the boiling point\nD. the melting point\nAnswer:",
+        "prediction": "the freezing",
+        "gold": "A"
+    },
+    "149": {
+        "origin_prompt": "Given the fact: mammals give birth to live young\nQuestion: Mammals give birth to live\nA. children\nB. birds\nC. fish\nD. insects\nAnswer:",
+        "prediction": "A. children",
+        "gold": "A"
+    },
+    "150": {
+        "origin_prompt": "Given the fact: if battery in an electromagnet is active then the nail in the electromagnet will become magnetic\nQuestion: If a battery in an electromagnet is active, then what will happen to a nail in that electromagnet?\nA. it loses its magnetization\nB. it loses its charge\nC. it may become magnetized\nD. it gains a charge\nAnswer:",
+        "prediction": "it may become",
+        "gold": "C"
+    },
+    "151": {
+        "origin_prompt": "Given the fact: the type of seed of a plant is an inherited characteristic\nQuestion: Which of these is a factor in the shape of a fern's seed?\nA. luck\nB. humans\nC. gold\nD. inheritance\nAnswer:",
+        "prediction": "B. humans",
+        "gold": "D"
+    },
+    "152": {
+        "origin_prompt": "Given the fact: paper is recyclable\nQuestion: Which is recyclable?\nA. An Elephant\nB. A school notebook\nC. A boat\nD. A lake\nAnswer:",
+        "prediction": "A school not",
+        "gold": "B"
+    },
+    "153": {
+        "origin_prompt": "Given the fact: if a habitat is destroyed then that habitat can not support animals\nQuestion: if the population in a habitat is on a steady decline, what condition is the habitat?\nA. it is a place to emigrate from\nB. it is an ideal habitat\nC. it is an unsustainable habitat\nD. it is a thriving abode\nAnswer:",
+        "prediction": "it is an",
+        "gold": "C"
+    },
+    "154": {
+        "origin_prompt": "Given the fact: An example of combining two substances is pouring one substance into the other substance\nQuestion: A teacher wants to show how to combine two substances together. The two things that he can use in order to mix them completely are\nA. water and soda\nB. water and oil\nC. sand and rocks\nD. salt and bark\nAnswer:",
+        "prediction": "A. water",
+        "gold": "A"
+    },
+    "155": {
+        "origin_prompt": "Given the fact: medicine can cause people to have bad reactions\nQuestion: Medicine is used to cure but can cause people to have allergic reactions such as\nA. spider bites\nB. vomiting\nC. placebo effect\nD. dance fever\nAnswer:",
+        "prediction": "C. place",
+        "gold": "B"
+    },
+    "156": {
+        "origin_prompt": "Given the fact: lightning can cause a forest fire\nQuestion: Lightning may lead to\nA. damage to local foliage\nB. rainbows across the sky\nC. growth of local flora\nD. firefighters getting the night off\nAnswer:",
+        "prediction": "A. damage",
+        "gold": "A"
+    },
+    "157": {
+        "origin_prompt": "Given the fact: nocturnal predators hunt during the night\nQuestion: When would a nocturnal predator most likely hunt?\nA. 5 p.m.\nB. 12 p.m.\nC. 3 a.m.\nD. 10 a.m.\nAnswer:",
+        "prediction": "C. ",
+        "gold": "C"
+    },
+    "158": {
+        "origin_prompt": "Given the fact: water vapor is found in the atmosphere\nQuestion: Where water be located in its gas form?\nA. inside a disc golf driver\nB. inside of a brass pipe\nC. a mile up in the sky\nD. inside a leather baseball\nAnswer:",
+        "prediction": "C. a",
+        "gold": "C"
+    },
+    "159": {
+        "origin_prompt": "Given the fact: chlorophyll is used for absorbing light energy by plants\nQuestion: Green parts of a life form absorb\nA. carbon dioxide\nB. light\nC. oxygen\nD. water\nAnswer:",
+        "prediction": "Green parts of",
+        "gold": "B"
+    },
+    "160": {
+        "origin_prompt": "Given the fact: if a new predator begins eating prey then the population of that prey will decrease\nQuestion: If a new species of predator joins a community\nA. the new species will become herbivores\nB. prey will experience an increase in population\nC. prey will experience a drop in population\nD. the old species will die out\nAnswer:",
+        "prediction": "C. pre",
+        "gold": "C"
+    },
+    "161": {
+        "origin_prompt": "Given the fact: if a tree falls then that tree is dead\nQuestion: Why would a perennial plant with an elongated stem a frequently used for lumber fall to the ground?\nA. It's dead\nB. For water\nC. For food\nD. For sun\nAnswer:",
+        "prediction": "C. For",
+        "gold": "A"
+    },
+    "162": {
+        "origin_prompt": "Given the fact: arctic animals live in an arctic environment\nQuestion: I'm an animal with a white fur and a large fluffy tail that lives in arctic regions; what am I?\nA. weasel\nB. snow fox\nC. wolf\nD. polar bear\nAnswer:",
+        "prediction": "C. w",
+        "gold": "B"
+    },
+    "163": {
+        "origin_prompt": "Given the fact: dairy is a source of Vitamin D\nQuestion: Dairy is a source of\nA. a vitamin that prevents blood loss\nB. a vitamin that treats amino acid deficiency\nC. a group of fat-soluble secosteroids\nD. a vitamin that helps treat liver problems\nAnswer:",
+        "prediction": "D. a",
+        "gold": "C"
+    },
+    "164": {
+        "origin_prompt": "Given the fact: metal is sometimes magnetic\nQuestion: Atomic 26 is drawn to a device, it could be\nA. magnetized\nB. Na\nC. compass\nD. K\nAnswer:",
+        "prediction": "A. magnet",
+        "gold": "A"
+    },
+    "165": {
+        "origin_prompt": "Given the fact: tadpole changes into a frog\nQuestion: why do tadpoles change into frogs?\nA. tadpoles change to different animals\nB. tadpoles are really just fish\nC. they are young frogs still growing\nD. none of these\nAnswer:",
+        "prediction": "tadpol",
+        "gold": "C"
+    },
+    "166": {
+        "origin_prompt": "Given the fact: cows only eat plants\nQuestion: What do cows eat?\nA. Chickpeas\nB. Chocolate\nC. Steak\nD. Poultry\nAnswer:",
+        "prediction": "C. Ste",
+        "gold": "A"
+    },
+    "167": {
+        "origin_prompt": "Given the fact: metal is an electrical energy conductor\nQuestion: Which object conducts electricity?\nA. Window\nB. Rubik's Cube\nC. Ship Anchor\nD. Boulder\nAnswer:",
+        "prediction": "B. Rub",
+        "gold": "C"
+    },
+    "168": {
+        "origin_prompt": "Given the fact: sugars are transported from the leaves to the roots of a plant\nQuestion: Glucose travels\nA. from roots to leaves of a daffodil\nB. from a rose's leaves to the atmosphere\nC. from a daisy's leaves into it's underground support system\nD. from the sun to a sunflower's buds\nAnswer:",
+        "prediction": "C. from",
+        "gold": "C"
+    },
+    "169": {
+        "origin_prompt": "Given the fact: if a liquid disappears then that liquid probably evaporated\nQuestion: Evaporation\nA. only happens in the summer\nB. is like nature's disappearing water trick\nC. is caused by snow\nD. involves the disappearance of sunlight\nAnswer:",
+        "prediction": "B. is",
+        "gold": "B"
+    },
+    "170": {
+        "origin_prompt": "Given the fact: runoff contains pesticides from cropland\nQuestion: In order for crops to grow food safely, pesticides are used on them. When it floods, this causes t he what to be poisonous?\nA. air\nB. Corn\nC. Runoff\nD. farmers\nAnswer:",
+        "prediction": "C. Run",
+        "gold": "C"
+    },
+    "171": {
+        "origin_prompt": "Given the fact: friction occurs when two object 's surfaces move against each other\nQuestion: The boy was able to warm the fireplace without a lighter thanks to what?\nA. friction\nB. metal\nC. wishing\nD. magic\nAnswer:",
+        "prediction": "friction\n",
+        "gold": "A"
+    },
+    "172": {
+        "origin_prompt": "Given the fact: a desert environment is dry\nQuestion: Where would a duck like to live?\nA. the Sahara\nB. Antarctica\nC. the Appalachian mountains\nD. Death Valley\nAnswer:",
+        "prediction": "D. Death",
+        "gold": "C"
+    },
+    "173": {
+        "origin_prompt": "Given the fact: tuna eat fish\nQuestion: What do tuna eat?\nA. Atlantic menhaden\nB. Swedish fish\nC. gummy fish\nD. laminariales\nAnswer:",
+        "prediction": "A. Atlantic",
+        "gold": "A"
+    },
+    "174": {
+        "origin_prompt": "Given the fact: An example of a seasonal change is plants dying in the winter\nQuestion: A woman notices that she is depressed every autumn, and wonders why. A friend suggests to her that perhaps certain changes that take place as seasons move from warm to cold may be having an effect on her. When pressed for an example of these changes, the friend cites\nA. flowers blooming\nB. grass turning brown\nC. trees growing\nD. blossoms blooming\nAnswer:",
+        "prediction": "A. flowers",
+        "gold": "B"
+    },
+    "175": {
+        "origin_prompt": "Given the fact: some adult animals lay eggs\nQuestion: is it normal for an adult animal to lay eggs?\nA. it has never happened\nB. yes it is standard\nC. it is abnormal and weird\nD. all of these\nAnswer:",
+        "prediction": "B. yes",
+        "gold": "B"
+    },
+    "176": {
+        "origin_prompt": "Given the fact: as the amount of food an animal eats increases , the weight of that animal will increase\nQuestion: If your dog is overweight\nA. add more fat to their diet\nB. cut back their caloric intake\nC. let them sleep more\nD. increase their caloric intake\nAnswer:",
+        "prediction": "C. Let",
+        "gold": "B"
+    },
+    "177": {
+        "origin_prompt": "Given the fact: seeing is used for sensing visual things\nQuestion: Eyes allow humans\nA. to detect when a traffic light changes\nB. detect sour flavors in candy\nC. hear music at concerts\nD. detect acrid odors in the air\nAnswer:",
+        "prediction": "A. E",
+        "gold": "A"
+    },
+    "178": {
+        "origin_prompt": "Given the fact: fossils are formed when layers of sediment cover the remains of organisms over time\nQuestion: Organisms covered by layers of sediment\nA. become fossils over night\nB. may end up reanimated over time\nC. develop characteristics for survival\nD. may end up fueling a car\nAnswer:",
+        "prediction": "C. develop",
+        "gold": "D"
+    },
+    "179": {
+        "origin_prompt": "Given the fact: the winter solstice is on December 21st in the northern hemisphere\nQuestion: The winter solstice is on December 21st in the\nA. counties\nB. north of equator\nC. states\nD. southern hemisphere\nAnswer:",
+        "prediction": "B. north",
+        "gold": "B"
+    },
+    "180": {
+        "origin_prompt": "Given the fact: fossils are formed when layers of sediment cover the remains of organisms over time\nQuestion: A lake environment is a good setup for what to happen to organic remains?\nA. bleaching\nB. burning\nC. fossilization\nD. drying\nAnswer:",
+        "prediction": "C. foss",
+        "gold": "C"
+    },
+    "181": {
+        "origin_prompt": "Given the fact: fossil fuels forming occurs over a period of 300000000 years which is considered a very long time to a human\nQuestion: were there fossil fuels in the ground when humans evolved?\nA. this was only created by humans\nB. humans predate fossil fuel formation\nC. significant supplies accumulated prior\nD. none of these\nAnswer:",
+        "prediction": "C. significant",
+        "gold": "C"
+    },
+    "182": {
+        "origin_prompt": "Given the fact: the Grand Canyon was formed by the Colorado River flowing over long periods of time\nQuestion: The Grand Canyon is massive, with large, high peaks and very deep lows, which was formed when\nA. some water is around it\nB. water rained on it\nC. natural waters weathered it\nD. a pool was opened\nAnswer:",
+        "prediction": "C. natural",
+        "gold": "C"
+    },
+    "183": {
+        "origin_prompt": "Given the fact: wind is used for producing electricity\nQuestion: What type of useful product can be made from the moving winds?\nA. wood\nB. bananas\nC. electricity\nD. metal\nAnswer:",
+        "prediction": "C. electric",
+        "gold": "C"
+    },
+    "184": {
+        "origin_prompt": "Given the fact: most canyons are formed by flowing rivers through erosion over long periods of time\nQuestion: The sides of the canyon are\nA. metal\nB. water\nC. rivers\nD. stone\nAnswer:",
+        "prediction": "C. rivers",
+        "gold": "D"
+    },
+    "185": {
+        "origin_prompt": "Given the fact: an landfill is a source of pollution\nQuestion: which of these people would have the worst air quality at their residence?\nA. a man who lives next to a landfill\nB. a man who lives in a city with the best air quality\nC. none of these\nD. a man who lives in a great suburb\nAnswer:",
+        "prediction": "A. a",
+        "gold": "A"
+    },
+    "186": {
+        "origin_prompt": "Given the fact: a stopwatch is used to measure time\nQuestion: What is a stopwatch used for?\nA. to rewind 5 minutes\nB. to tell what will happen 5 minutes from now\nC. to voice the time\nD. to measure minutes and hours\nAnswer:",
+        "prediction": "A. to",
+        "gold": "D"
+    },
+    "187": {
+        "origin_prompt": "Given the fact: drought means available water decreases in an environment\nQuestion: As a drought worsens the level at an aquifer will\nA. stay the same\nB. fluctuate wildly\nC. decrease\nD. increase\nAnswer:",
+        "prediction": "C. decrease",
+        "gold": "C"
+    },
+    "188": {
+        "origin_prompt": "Given the fact: wind carries dirt from one place to another place\nQuestion: Wind frequently helps transport from one place to another\nA. marble statues\nB. molten magma\nC. subterranean termites\nD. exposed topsoil\nAnswer:",
+        "prediction": "D. exposed",
+        "gold": "D"
+    },
+    "189": {
+        "origin_prompt": "Given the fact: skidding causes friction\nQuestion: When a kid slams on the brakes on their bike what is caused?\nA. bike helmet\nB. avoiding accidents\nC. friction\nD. gearing\nAnswer:",
+        "prediction": "C. fr",
+        "gold": "C"
+    },
+    "190": {
+        "origin_prompt": "Given the fact: plants are the source of spices\nQuestion: Sources of spices have\nA. crystals\nB. feathers\nC. cell walls\nD. craters\nAnswer:",
+        "prediction": "C. cell",
+        "gold": "C"
+    },
+    "191": {
+        "origin_prompt": "Given the fact: as the use of a resource decreases , the length of time that resource will be available increases\nQuestion: Conservation\nA. leads to longer drought of resources\nB. leads to longer availability of resources\nC. leads to more consumption\nD. leads to short supply of resources\nAnswer:",
+        "prediction": "B. leads",
+        "gold": "B"
+    },
+    "192": {
+        "origin_prompt": "Given the fact: organisms live in their habitat\nQuestion: A tree is not the habitat of a\nA. squirrel\nB. woodpecker\nC. monkey\nD. lion\nAnswer:",
+        "prediction": "A. squ",
+        "gold": "D"
+    },
+    "193": {
+        "origin_prompt": "Given the fact: erosion causes deposition\nQuestion: Erosion could lead to\nA. a change in the direction of a stream\nB. a change in ocean temperatures\nC. an increase in rainy weather\nD. an increase in plants and animals\nAnswer:",
+        "prediction": "Erosion",
+        "gold": "A"
+    },
+    "194": {
+        "origin_prompt": "Given the fact: summer is when a hemisphere is tilted towards the sun\nQuestion: A hemisphere experiences summer when\nA. it's tilted towards Jupiter\nB. it's angled towards the moon\nC. it's angled towards the largest star in the solar system\nD. it spins counter clockwise on Earth's axis\nAnswer:",
+        "prediction": "C. it",
+        "gold": "C"
+    },
+    "195": {
+        "origin_prompt": "Given the fact: the amount of daylight is least in the winter\nQuestion: What date is the amount of daylight minimized\nA. Jul 4th\nB. Feb 29th\nC. May 3rd\nD. Sep 1st\nAnswer:",
+        "prediction": "C. May",
+        "gold": "B"
+    },
+    "196": {
+        "origin_prompt": "Given the fact: skin is used for protecting the body from harmful substances\nQuestion: Which term is involved with protection by skin?\nA. Eucerin pH5 range\nB. Sagittal plane\nC. pyogenic vibrio\nD. popliteus\nAnswer:",
+        "prediction": "D. pop",
+        "gold": "A"
+    },
+    "197": {
+        "origin_prompt": "Given the fact: Earth is made of rock\nQuestion: The reason Earth is so sturdy is because\nA. It is made from rock\nB. It eats three meals a day\nC. It has a loving family\nD. It is made from metal\nAnswer:",
+        "prediction": "A. It",
+        "gold": "A"
+    },
+    "198": {
+        "origin_prompt": "Given the fact: a plant requires sunlight to grow\nQuestion: A plant left in the dark\nA. produces fruit\nB. grows faster\nC. fails to grow\nD. gets greener\nAnswer:",
+        "prediction": "A plant left",
+        "gold": "C"
+    },
+    "199": {
+        "origin_prompt": "Given the fact: electric devices require electrical energy to function\nQuestion: A boy wants to use his Walkman so that he can listen to some music. When he tries to turn it on, it us unable to, and the boy realizes that he will need\nA. heat\nB. metal\nC. lithium-ion\nD. plastic\nAnswer:",
+        "prediction": "C. l",
+        "gold": "C"
+    },
+    "200": {
+        "origin_prompt": "Given the fact: a star is a source of light through nuclear reactions\nQuestion: Nuclear activity is the cause of what celestial occurrence?\nA. axial planetary rotation\nB. comets\nC. planetary formation\nD. the sun's rays\nAnswer:",
+        "prediction": "A. ax",
+        "gold": "D"
+    },
+    "201": {
+        "origin_prompt": "Given the fact: rain is a source of water\nQuestion: Which source provides the safest water?\nA. River\nB. Sea\nC. Ocean\nD. Rain\nAnswer:",
+        "prediction": "Rain\nR",
+        "gold": "D"
+    },
+    "202": {
+        "origin_prompt": "Given the fact: inheriting is when a inherited characteristic is copied from parent to offspring by DNA\nQuestion: A rabbit has a litter of bunnies! Most of the babies are white, just like the mother rabbit, but one baby has brown spots, like the father rabbit. The father rabbit\nA. spread out some fur\nB. has black on his ears\nC. passed down inherited characteristics\nD. is the same size as the mother\nAnswer:",
+        "prediction": "C. passed",
+        "gold": "C"
+    },
+    "203": {
+        "origin_prompt": "Given the fact: photosynthesis means producers convert from carbon dioxide, water, and solar energy into food for themselves\nQuestion: Photosynthesis means plants are unable to\nA. convert sunlight to sand\nB. provide food sources for others\nC. be producers in an ecosystem\nD. make their own food\nAnswer:",
+        "prediction": "C. be",
+        "gold": "A"
+    },
+    "204": {
+        "origin_prompt": "Given the fact: offspring receive genes from their parents through DNA\nQuestion: Through DNA, a rabbit will have long ears if\nA. rabbits are born with ears\nB. there was a lot of food\nC. genetic contributors had long ears\nD. parents were also rabbits\nAnswer:",
+        "prediction": "A. rabb",
+        "gold": "C"
+    },
+    "205": {
+        "origin_prompt": "Given the fact: a deer lives in a forest\nQuestion: There are various creatures that live in forests, such as\nA. giant fish\nB. enormous crabs\nC. whitetails\nD. desert jackals\nAnswer:",
+        "prediction": "C. wh",
+        "gold": "C"
+    },
+    "206": {
+        "origin_prompt": "Given the fact: ink is used for hiding from predators by octopuses\nQuestion: An octopus protects itself with\nA. water splashing\nB. running fast\nC. long hands\nD. pigment squirting\nAnswer:",
+        "prediction": "D. p",
+        "gold": "D"
+    },
+    "207": {
+        "origin_prompt": "Given the fact: when available resources decrease in an environment , organisms have to conserve those resources\nQuestion: Resources decreasing in an environment\nA. induces organisms to use more of their resources\nB. causes an increase in use of resources\nC. causes an uptick in birthrate\nD. induces organisms to be more economical with resources\nAnswer:",
+        "prediction": "A. indu",
+        "gold": "D"
+    },
+    "208": {
+        "origin_prompt": "Given the fact: weathering means breaking down surface materials from larger whole into smaller pieces by weather\nQuestion: The sidewalk next to a house having a crack in it and having vegetation growing from it is considered?\nA. insects\nB. weathering\nC. lava\nD. erosion\nAnswer:",
+        "prediction": "B. weather",
+        "gold": "B"
+    },
+    "209": {
+        "origin_prompt": "Given the fact: all minerals are formed by natural geological processes\nQuestion: If you wanted to make a necklace, how long would you have to wait for the materials to appear inside the Earth?\nA. millions of years\nB. 1 day\nC. 10 days\nD. 100 days\nAnswer:",
+        "prediction": "A. millions",
+        "gold": "A"
+    },
+    "210": {
+        "origin_prompt": "Given the fact: the phases of the Moon change the appearance of the Moon\nQuestion: Moon phases\nA. change the moon into cheese\nB. alter the way the moon's facade looks\nC. change moon lakes into vapor\nD. cause lunar eclipse every day\nAnswer:",
+        "prediction": "B. alter",
+        "gold": "B"
+    },
+    "211": {
+        "origin_prompt": "Given the fact: skin is used for protecting the body from harmful substances\nQuestion: If hot water were poured on an arm, what would happen to internal organs?\nA. they would be scalded\nB. organs would remain uneffected\nC. they would begin to decay\nD. they would experience pain\nAnswer:",
+        "prediction": "A. they",
+        "gold": "B"
+    },
+    "212": {
+        "origin_prompt": "Given the fact: cows only eat plants\nQuestion: Barnyard bovines\nA. eat organic chicken\nB. eat eggs\nC. eat beef\nD. eat alfalfa hay\nAnswer:",
+        "prediction": "C. eat",
+        "gold": "D"
+    },
+    "213": {
+        "origin_prompt": "Given the fact: a desert environment usually has a lot of sunlight\nQuestion: Desert environments features\nA. tropical plants\nB. tons of sun\nC. massive rain totals\nD. icy precipitation\nAnswer:",
+        "prediction": "B. tons",
+        "gold": "B"
+    },
+    "214": {
+        "origin_prompt": "Given the fact: an ecosystem contains large numbers of living organisms in a particular place\nQuestion: a large cluster of humans, dogs, apple trees, atmosphere and more can be called\nA. army of ants\nB. a community\nC. a toy store\nD. a shopping mall\nAnswer:",
+        "prediction": "a community\n",
+        "gold": "B"
+    },
+    "215": {
+        "origin_prompt": "Given the fact: the heart is mostly made of muscle\nQuestion: A person is considering various organs, and is looking at which ones will be most muscular. A contender for most muscular is\nA. the lungs\nB. the kidney\nC. the heart\nD. the liver\nAnswer:",
+        "prediction": "C. the",
+        "gold": "C"
+    },
+    "216": {
+        "origin_prompt": "Given the fact: different organisms reproduce differently\nQuestion: Which pair don't reproduce the same way?\nA. rabbit and hare\nB. mule and hinny\nC. cat and catfish\nD. caterpillar and butterfly\nAnswer:",
+        "prediction": "A. rabb",
+        "gold": "C"
+    },
+    "217": {
+        "origin_prompt": "Given the fact: a mammal is warm-blooded\nQuestion: Which of the following is warm blooded?\nA. toad\nB. snake\nC. turtle\nD. skunk\nAnswer:",
+        "prediction": "D. sk",
+        "gold": "D"
+    },
+    "218": {
+        "origin_prompt": "Given the fact: coloration is used to find a mate by some animals\nQuestion: A male bird spots a female of his species and begins a fancy dance, flashing his bright feathers around in the air, showing off. This male is attempting to procure\nA. a manager\nB. an agent\nC. a meal\nD. a reproductive companion\nAnswer:",
+        "prediction": "A meal",
+        "gold": "D"
+    },
+    "219": {
+        "origin_prompt": "Given the fact: rocks often contain large amounts of metal\nQuestion: Vast quantities of metal can be obtained from\nA. a quarry\nB. concerts\nC. forests\nD. salt\nAnswer:",
+        "prediction": "A quarry",
+        "gold": "A"
+    },
+    "220": {
+        "origin_prompt": "Given the fact: cooking food requires adding heat energy\nQuestion: Roasting a turkey requires adding what type of energy\nA. Heat\nB. Kinetic\nC. Magnetic\nD. Chemical\nAnswer:",
+        "prediction": "Heat\n",
+        "gold": "A"
+    },
+    "221": {
+        "origin_prompt": "Given the fact: conserving water can be used for survival in a dry environment\nQuestion: Dry environments often\nA. liberally use water for everything\nB. allow plants to flourish\nC. require people to move\nD. institute rules about water usage\nAnswer:",
+        "prediction": "D. inst",
+        "gold": "D"
+    },
+    "222": {
+        "origin_prompt": "Given the fact: phloem transports materials through the plant\nQuestion: Phloem moves things around a plant similar to how\nA. blood moves in a body\nB. leaves move in the wind\nC. water moves in a system\nD. cars move on a street\nAnswer:",
+        "prediction": "A. blood",
+        "gold": "A"
+    },
+    "223": {
+        "origin_prompt": "Given the fact: polar bears live in cold environments\nQuestion: Where would a polar bear be most comfortable?\nA. Arizona\nB. Georgia\nC. Florida\nD. Nebraska\nAnswer:",
+        "prediction": "D. Neb",
+        "gold": "D"
+    },
+    "224": {
+        "origin_prompt": "Given the fact: as a source of light becomes closer , that source will appear brighter\nQuestion: When a plane is in the sky and is several miles away, the light seen is barely visible, but when it is drawing near\nA. light is far away\nB. light is more easily seen\nC. light is more distant\nD. light is further away\nAnswer:",
+        "prediction": "B. light",
+        "gold": "B"
+    },
+    "225": {
+        "origin_prompt": "Given the fact: musical instruments make sound when they are played\nQuestion: Members of rock bands often perform with\nA. flutes\nB. sandals\nC. earplugs\nD. gloves\nAnswer:",
+        "prediction": "D. glo",
+        "gold": "C"
+    },
+    "226": {
+        "origin_prompt": "Given the fact: muscles pull bones to move the bones\nQuestion: Muscles move bones to produce movement like when\nA. arms are resting\nB. hair is growing\nC. smiles are invisible\nD. toes are wiggled\nAnswer:",
+        "prediction": "A. arms",
+        "gold": "D"
+    },
+    "227": {
+        "origin_prompt": "Given the fact: tidal energy can be used to produce electricity\nQuestion: How is electricity produced from the ocean?\nA. decaying organic material from sealife\nB. energy is accessed underwater from tides\nC. drills to access oil supplies\nD. chemical reactions produced from the salt in the water\nAnswer:",
+        "prediction": "B. energy",
+        "gold": "B"
+    },
+    "228": {
+        "origin_prompt": "Given the fact: lizards eat insects\nQuestion: small reptile's diet consists mostly of\nA. invertebrates\nB. insects\nC. mammals\nD. fish\nAnswer:",
+        "prediction": "A. in",
+        "gold": "B"
+    },
+    "229": {
+        "origin_prompt": "Given the fact: a flower 's purpose is to produce seeds\nQuestion: The life work of a flower is to\nA. provide nice scents\nB. be successfully fertilized\nC. grow very tall\nD. look pretty\nAnswer:",
+        "prediction": "B. be",
+        "gold": "B"
+    },
+    "230": {
+        "origin_prompt": "Given the fact: the type of material through which sound passes changes the speed at which sound travels\nQuestion: Which of these would create the most sound if struck with a metal spoon?\nA. the plastic water bottle\nB. the backside of a person\nC. the hair on a doll\nD. the chassis of a car\nAnswer:",
+        "prediction": "A. the",
+        "gold": "D"
+    },
+    "231": {
+        "origin_prompt": "Given the fact: storms can cause a landslide\nQuestion: During landslides there is often a lot of\nA. air\nB. mud\nC. snow\nD. wind\nAnswer:",
+        "prediction": "D. wind",
+        "gold": "B"
+    },
+    "232": {
+        "origin_prompt": "Given the fact: combining two substances chemically causes chemical reactions\nQuestion: An example of a chemical reaction would be\nA. A rusty fence\nB. Sleeping\nC. Drinking water\nD. Rain\nAnswer:",
+        "prediction": "A. A",
+        "gold": "A"
+    },
+    "233": {
+        "origin_prompt": "Given the fact: as the size of an object appears larger , that object will be seen more easily\nQuestion: The size of an object and the ability to see it more easily have what kind of relationship?\nA. equal\nB. inverse\nC. direct\nD. reverse\nAnswer:",
+        "prediction": "B. inverse",
+        "gold": "C"
+    },
+    "234": {
+        "origin_prompt": "Given the fact: tuna eat fish\nQuestion: Tuna primarily eat\nA. parasites, soybeans and flaxseeds\nB. sea turtles, sharks and coral reefs\nC. spineless marine organisms, cartilaginous and gelatinous organisms\nD. sea vegetables like kelp, Irish moss and Arame\nAnswer:",
+        "prediction": "C. T",
+        "gold": "C"
+    },
+    "235": {
+        "origin_prompt": "Given the fact: evaporation is when water is drawn back up into the air in the water cycle\nQuestion: Evaporation of water can lead to\nA. waterfalls\nB. blizzards\nC. earthquakes\nD. hot springs\nAnswer:",
+        "prediction": "A. water",
+        "gold": "B"
+    },
+    "236": {
+        "origin_prompt": "Given the fact: metal is an electrical energy conductor\nQuestion: What is an electrical energy conductor?\nA. horseshoe\nB. tire\nC. cotton shirt\nD. maple branch\nAnswer:",
+        "prediction": "D. map",
+        "gold": "A"
+    },
+    "237": {
+        "origin_prompt": "Given the fact: if a hot substance is touches a cold object then that substance will likely cool\nQuestion: What kind of substance will cool when it touches a cold object?\nA. warm\nB. frozen\nC. chilly\nD. cold\nAnswer:",
+        "prediction": "A. warm",
+        "gold": "A"
+    },
+    "238": {
+        "origin_prompt": "Given the fact: scraping an object may cause small particles to break off of that object\nQuestion: Scraping an object\nA. may cause the object to grow in size\nB. may cause the object to fall\nC. may cause pieces to flake off the object\nD. may cause the object to snap in half\nAnswer:",
+        "prediction": "C. may",
+        "gold": "C"
+    },
+    "239": {
+        "origin_prompt": "Given the fact: a pulley is used to lift a flag on a flagpole\nQuestion: A pulley is used to lift a flag on a flagpole by\nA. moving a rope sideways\nB. putting something in the air\nC. moving things with wheels\nD. yanking string up a wheel\nAnswer:",
+        "prediction": "A. moving",
+        "gold": "D"
+    },
+    "240": {
+        "origin_prompt": "Given the fact: birds lay eggs\nQuestion: Which animal lays eggs\nA. emus\nB. dogs\nC. squirrels\nD. giraffes\nAnswer:",
+        "prediction": "A. em",
+        "gold": "A"
+    },
+    "241": {
+        "origin_prompt": "Given the fact: sand dunes are made of sand\nQuestion: Dunes can be made out of the same thing as\nA. clothes\nB. food\nC. forests\nD. castles\nAnswer:",
+        "prediction": "D. cast",
+        "gold": "D"
+    },
+    "242": {
+        "origin_prompt": "Given the fact: using tools is a learned characteristic\nQuestion: A learned behavior is exhibited when\nA. squinting in bright light\nB. inhaling and exhaling during sleep\nC. blinking and gulping air\nD. nailing up a picture frame\nAnswer:",
+        "prediction": "A learned behavior",
+        "gold": "D"
+    },
+    "243": {
+        "origin_prompt": "Given the fact: wax is an electrical insulator\nQuestion: Wax can be used similarly to\nA. wood\nB. rubber\nC. water\nD. metal\nAnswer:",
+        "prediction": "Wax can",
+        "gold": "B"
+    },
+    "244": {
+        "origin_prompt": "Given the fact: crop rotation is when different crops are planted on a field in different years\nQuestion: Bill planted rapeseed in his field one year and soybeans the next in order to\nA. get bigger yields\nB. make things boring\nC. keep things random\nD. get smaller yields\nAnswer:",
+        "prediction": "C. keep",
+        "gold": "A"
+    },
+    "245": {
+        "origin_prompt": "Given the fact: a thermal insulator slows the transfer of heat\nQuestion: What is the primary reason my duck feather filled jacket works well against the snow\nA. feathers slows heat transfer\nB. the natural duck wax\nC. a synthetic thick liner\nD. small flexible solar panels\nAnswer:",
+        "prediction": "A. fe",
+        "gold": "A"
+    },
+    "246": {
+        "origin_prompt": "Given the fact: tidal energy can be used to produce electricity\nQuestion: Turbines churning seawater can be used to produce what?\nA. a charge for appliances\nB. large quantities of soup\nC. large schools of fish\nD. creating some sharp cheese\nAnswer:",
+        "prediction": "A. a",
+        "gold": "A"
+    },
+    "247": {
+        "origin_prompt": "Given the fact: if a substance absorbs solar energy then that substance will increase in temperature\nQuestion: What will increase when a substance absorbs solar energy?\nA. weight\nB. height\nC. hotness\nD. nutrition\nAnswer:",
+        "prediction": "hotness\n",
+        "gold": "C"
+    },
+    "248": {
+        "origin_prompt": "Given the fact: sound can travel through air\nQuestion: Which of these travels through the air?\nA. planets\nB. thoughts\nC. automobile\nD. music\nAnswer:",
+        "prediction": "C. autom",
+        "gold": "D"
+    },
+    "249": {
+        "origin_prompt": "Given the fact: creating paper requires cutting down trees\nQuestion: A company makes notebooks for college courses, so their main material is\nA. chips\nB. water\nC. grass\nD. trees\nAnswer:",
+        "prediction": "A. ch",
+        "gold": "D"
+    },
+    "250": {
+        "origin_prompt": "Given the fact: if weather is stormy then there is a greater chance of rain\nQuestion: Rain is usually guaranteed when all are present but\nA. cirrus clouds\nB. cumulus clouds\nC. hail stones\nD. direct sunshine\nAnswer:",
+        "prediction": "A. cir",
+        "gold": "D"
+    },
+    "251": {
+        "origin_prompt": "Given the fact: a landfill is a source of pollution\nQuestion: Sources of air pollution are\nA. Walking\nB. Landfills\nC. Water\nD. Chips\nAnswer:",
+        "prediction": "B. Land",
+        "gold": "B"
+    },
+    "252": {
+        "origin_prompt": "Given the fact: iron nails are made of iron\nQuestion: What are iron nails made out of?\nA. wood\nB. plastic\nC. metal\nD. glass\nAnswer:",
+        "prediction": "C. metal",
+        "gold": "C"
+    },
+    "253": {
+        "origin_prompt": "Given the fact: An example of combining two substances is pouring one substance into the other substance\nQuestion: Putting one kind of soda into the same cup as another kind of soda is doing what to the substances?\nA. combining\nB. drinking\nC. Subtracting\nD. throwing\nAnswer:",
+        "prediction": "A. combining",
+        "gold": "A"
+    },
+    "254": {
+        "origin_prompt": "Given the fact: a moth undergoes metamorphosis\nQuestion: A moth leaving it's cocoon is the final step in a\nA. life cycle\nB. transformation\nC. recycling process\nD. chemical reaction\nAnswer:",
+        "prediction": "A. life",
+        "gold": "B"
+    },
+    "255": {
+        "origin_prompt": "Given the fact: alloys are made of two or more metals\nQuestion: Which of these combinations would be desired if someone wanted to make a cutting implement that lasts a long time?\nA. ice and snow\nB. sticks and stones\nC. snow and water\nD. iron and carbon\nAnswer:",
+        "prediction": "D. iron",
+        "gold": "D"
+    },
+    "256": {
+        "origin_prompt": "Given the fact: an electric car contains an electric motor\nQuestion: Which of the following is powered the same way an electric car is?\nA. a bicycle\nB. a motorcycle\nC. a propane grill\nD. a blender\nAnswer:",
+        "prediction": "A. a",
+        "gold": "D"
+    },
+    "257": {
+        "origin_prompt": "Given the fact: aluminum is recyclable\nQuestion: Aluminum is what?\nA. reprocessable\nB. plastic\nC. liquid\nD. absorbent\nAnswer:",
+        "prediction": "A. re",
+        "gold": "A"
+    },
+    "258": {
+        "origin_prompt": "Given the fact: as temperature in the environment increases , the body temperature of a reptile in that environment will increase\nQuestion: To get warm frogs can\nA. wear a Christmas sweater\nB. Drink a hot chocolate\nC. Go for a run\nD. sit under a lamp\nAnswer:",
+        "prediction": "D. sit",
+        "gold": "D"
+    },
+    "259": {
+        "origin_prompt": "Given the fact: Matter in the liquid phase has variable shape\nQuestion: if you put wine from a jug into a thin bottle, how come it conforms?\nA. it exhibits absolute rigidity\nB. it is a solid mass\nC. all of these\nD. it is a variable substance\nAnswer:",
+        "prediction": "it exhibits",
+        "gold": "D"
+    },
+    "260": {
+        "origin_prompt": "Given the fact: earthworms create tunnels in soil\nQuestion: Earthworms create tunnels in\nA. ice\nB. dirt\nC. water\nD. concrete\nAnswer:",
+        "prediction": "D. concrete",
+        "gold": "B"
+    },
+    "261": {
+        "origin_prompt": "Given the fact: decomposition is when a decomposer recycles nutrients from dead organisms to the soil by eating those dead organisms\nQuestion: when worms return nutrients from dead organisms to the soil by eating them it is known as\nA. regurgitation\nB. decomposition\nC. recycling\nD. burial\nAnswer:",
+        "prediction": "B. decomposition",
+        "gold": "B"
+    },
+    "262": {
+        "origin_prompt": "Given the fact: metal is a thermal conductor\nQuestion: The aluminum cans were much hotter than the\nA. gold jewelry\nB. wooden fence\nC. brass doorknob\nD. steel pole\nAnswer:",
+        "prediction": "A. gold",
+        "gold": "B"
+    },
+    "263": {
+        "origin_prompt": "Given the fact: photosynthesis makes energy for the plant by converting carbon dioxide, water, and sunlight into carbohydrates\nQuestion: Which of the following is not an input in photosynthesis?\nA. sunlight\nB. oxygen\nC. water\nD. carbon dioxide\nAnswer:",
+        "prediction": "D. carbon",
+        "gold": "B"
+    },
+    "264": {
+        "origin_prompt": "Given the fact: some lizards live in desert habitats\nQuestion: which of these are you most likely to find in a desert?\nA. a hammer head shark\nB. a big tilapia fish\nC. a prickly horned male lizard\nD. none of these\nAnswer:",
+        "prediction": "C. a",
+        "gold": "C"
+    },
+    "265": {
+        "origin_prompt": "Given the fact: an animal requires oxygen for to breathe\nQuestion: If your dog sits in an oxygen deficient chamber, what happens?\nA. it will be fine\nB. it will be happy\nC. it will be comfortable\nD. It will pass out\nAnswer:",
+        "prediction": "D. It",
+        "gold": "D"
+    },
+    "266": {
+        "origin_prompt": "Given the fact: an electrical device requires electricity to turn on\nQuestion: Which of the following can be used to turn on an electrical device?\nA. solar-rechargeable battery\nB. a wedge\nC. a magnet\nD. pressure gauge\nAnswer:",
+        "prediction": "A. solar",
+        "gold": "A"
+    },
+    "267": {
+        "origin_prompt": "Given the fact: the ocean contains large amounts of salt water\nQuestion: Which of the following contains large amounts of salt water?\nA. The Amazon\nB. The Nile\nC. The Indian\nD. The Mississippi\nAnswer:",
+        "prediction": "D. The",
+        "gold": "C"
+    },
+    "268": {
+        "origin_prompt": "Given the fact: some animals move quickly to escape predators\nQuestion: The nimbleness of this animal is a key adaption that allows it to escape attacks from predators:\nA. the butterfly\nB. the sloth\nC. the praying mantis\nD. the antelope\nAnswer:",
+        "prediction": "The nimbl",
+        "gold": "D"
+    },
+    "269": {
+        "origin_prompt": "Given the fact: animals learn some behaviors from watching their parents\nQuestion: A person speaks English as her first language because\nA. media is mainly in English\nB. school is in English\nC. she was genetically predisposed\nD. she watched her parents speak\nAnswer:",
+        "prediction": "D. she",
+        "gold": "D"
+    },
+    "270": {
+        "origin_prompt": "Given the fact: bees eat pollen\nQuestion: what are eaten by honey producing insects?\nA. they consume plants\nB. they eat cows\nC. plant reproduction parts\nD. they eat flowers\nAnswer:",
+        "prediction": "they consume plants",
+        "gold": "C"
+    },
+    "271": {
+        "origin_prompt": "Given the fact: the Sun is the star that is closest to Earth\nQuestion: The Earth's closest heat source is\nA. our celestial fireball\nB. solar flares\nC. gamma rays\nD. big bang\nAnswer:",
+        "prediction": "A. our",
+        "gold": "A"
+    },
+    "272": {
+        "origin_prompt": "Given the fact: wind carries sand from one place to another place\nQuestion: How can we see how wind effects sand?\nA. sand is always moving\nB. sandstorms create ripples in sand\nC. sand is easy to move through\nD. beaches often have waves in the sand\nAnswer:",
+        "prediction": "B. sand",
+        "gold": "B"
+    },
+    "273": {
+        "origin_prompt": "Given the fact: plants are the source of fruit\nQuestion: Fruit comes from what source\nA. an organism that releases carbon dioxide\nB. an organism that absorbs water through it's branches\nC. an organism that absorbs oxygen\nD. an organism that absorbs water through it's roots\nAnswer:",
+        "prediction": "C. an",
+        "gold": "D"
+    },
+    "274": {
+        "origin_prompt": "Given the fact: living underground can be used for hiding from predators\nQuestion: In which location would a groundhog hide from a wolf?\nA. beside a tree\nB. in the grass\nC. on a stump\nD. under the ground\nAnswer:",
+        "prediction": "D. under",
+        "gold": "D"
+    },
+    "275": {
+        "origin_prompt": "Given the fact: cutting down trees in a forest causes the number of trees to decrease in that forest\nQuestion: Cutting down trees in a forest\nA. leads to more habitats for animals\nB. decreases the chance of erosion\nC. increases the number of trees in the forest\nD. leads to less habitats for animals\nAnswer:",
+        "prediction": "C. increases",
+        "gold": "D"
+    },
+    "276": {
+        "origin_prompt": "Given the fact: as the roughness of something increases , the friction of that something will increase when its surface moves against another surface\nQuestion: I chipped away at a toy doll and the surface became really rough, when I rub it against a piece of wood that will create an increase in\nA. animals\nB. resistance\nC. water\nD. sunshine\nAnswer:",
+        "prediction": "B. resistance",
+        "gold": "B"
+    },
+    "277": {
+        "origin_prompt": "Given the fact: the arctic environment is white in color from being covered in snow\nQuestion: The arctic is white in coloring\nA. because it's overpopulated with polar bears\nB. because it's covered in white lilies\nC. because it's blanketed in crystalline ice water\nD. because it's gets so little sunlight\nAnswer:",
+        "prediction": "C. because",
+        "gold": "C"
+    },
+    "278": {
+        "origin_prompt": "Given the fact: an animal requires shelter\nQuestion: What would help to ensure that your dog remains free from hypothermia in January in Alaska?\nA. Lots of meat\nB. Lots of love\nC. Vitamin supplements\nD. An insulated room\nAnswer:",
+        "prediction": "D. An",
+        "gold": "D"
+    },
+    "279": {
+        "origin_prompt": "Given the fact: lizards eat insects\nQuestion: The majority of a lizard's diet consists of\nA. fleas\nB. crawlies\nC. gummy worms\nD. berries\nAnswer:",
+        "prediction": "B. craw",
+        "gold": "B"
+    },
+    "280": {
+        "origin_prompt": "Given the fact: a leaf performs photosynthesis\nQuestion: What food production happens in a leaf?\nA. nutrient making process\nB. the breathing\nC. the respiration\nD. the digestion\nAnswer:",
+        "prediction": "A. nut",
+        "gold": "A"
+    },
+    "281": {
+        "origin_prompt": "Given the fact: a plant requires sunlight to grow\nQuestion: Plants are unable to grow if they have zero access to\nA. a nice cool breeze\nB. fresh soil with manure\nC. a regular source of saltwater\nD. needs required for creating chlorophyll\nAnswer:",
+        "prediction": "D. needs",
+        "gold": "D"
+    },
+    "282": {
+        "origin_prompt": "Given the fact: the number of body parts of an organism is an inherited characteristic\nQuestion: Which characteristic did a person inherit?\nA. length of hair\nB. number of friends\nC. number of nails\nD. length of shirt\nAnswer:",
+        "prediction": "D. length",
+        "gold": "C"
+    },
+    "283": {
+        "origin_prompt": "Given the fact: cutting down trees has a negative impact on an organisms living in an ecosystem\nQuestion: Selective deforestation has a negative impact on\nA. rain clouds and ozone layer\nB. lakes, ponds and shellfish\nC. greenhouse gases and algae\nD. living organisms in ecosystem\nAnswer:",
+        "prediction": "Selective def",
+        "gold": "D"
+    },
+    "284": {
+        "origin_prompt": "Given the fact: coal mine is a source of coal under the ground\nQuestion: Where would you find a mine?\nA. in a tree\nB. under a mountain\nC. in the air\nD. in the water\nAnswer:",
+        "prediction": "B. under",
+        "gold": "B"
+    },
+    "285": {
+        "origin_prompt": "Given the fact: a decrease in visibility while driving can cause people to crash their car\nQuestion: What can cause people to crash their car?\nA. Seeing a solar eclipse\nB. Using their turn signals\nC. Driving the speed limit\nD. Keeping their eyes on the road\nAnswer:",
+        "prediction": "D. Keep",
+        "gold": "A"
+    },
+    "286": {
+        "origin_prompt": "Given the fact: usually coral lives in warm water\nQuestion: Coral grows in\nA. frigid waters\nB. tepid seas\nC. glacial environments\nD. jungle forests\nAnswer:",
+        "prediction": "C. gla",
+        "gold": "B"
+    },
+    "287": {
+        "origin_prompt": "Given the fact: a Punnett square is used to identify the percent chance of a trait being passed down from a parent to its offspring\nQuestion: A Punnett square is used to identify the percent chance of a trait being passed down from a parent to its offspring, so\nA. certain things may be featured\nB. certain features may be predicted\nC. certain traits may be given\nD. certain features may be guaranteed\nAnswer:",
+        "prediction": "A. certain",
+        "gold": "B"
+    },
+    "288": {
+        "origin_prompt": "Given the fact: a consumer can not produce its own food\nQuestion: A deer is eating in a field, and wants more food. Regardless of how hard the deer tries, the deer is unable to produce\nA. longer antlers\nB. food for itself\nC. baby deer\nD. urine\nAnswer:",
+        "prediction": "B. food",
+        "gold": "B"
+    },
+    "289": {
+        "origin_prompt": "Given the fact: landfills have a negative impact on the communities\nQuestion: Building new areas to dispose of refuse may lead to\nA. community concerns over environmental impact\nB. better air and soil quality\nC. higher value on land parcels\nD. improvement in water supply\nAnswer:",
+        "prediction": "A. community",
+        "gold": "A"
+    },
+    "290": {
+        "origin_prompt": "Given the fact: evaporation causes amount of water to decrease\nQuestion: Evaporation\nA. causes puddles to become dried out mud\nB. causes fields of crops to grow faster\nC. causes flowers to bloom abundantly\nD. fills up irrigation ponds\nAnswer:",
+        "prediction": "C. causes",
+        "gold": "A"
+    },
+    "291": {
+        "origin_prompt": "Given the fact: A bird is a pollinating animal\nQuestion: A field begins to bloom and blossom and plants need to be pollinated. In order to spread seeds, plants will most rely on\nA. pythons\nB. salmon\nC. robins\nD. craters\nAnswer:",
+        "prediction": "A. p",
+        "gold": "C"
+    },
+    "292": {
+        "origin_prompt": "Given the fact: all living things eliminate waste\nQuestion: Which item urinates?\nA. airplane\nB. car\nC. mammal\nD. boat\nAnswer:",
+        "prediction": "C. m",
+        "gold": "C"
+    },
+    "293": {
+        "origin_prompt": "Given the fact: evaporation causes amount of water to decrease\nQuestion: All of the following are examples of evaporation apart from\nA. Warm breath fogging up a mirror\nB. Morning dew drying on the grass\nC. The water level in a glass decreasing\nD. Sweat drying on skin\nAnswer:",
+        "prediction": "A. W",
+        "gold": "A"
+    },
+    "294": {
+        "origin_prompt": "Given the fact: the Moon completes a lunar cycle over a period of 29 days\nQuestion: The lunar cycle also changes\nA. water\nB. colors\nC. the sun\nD. planets\nAnswer:",
+        "prediction": "The lunar",
+        "gold": "A"
+    },
+    "295": {
+        "origin_prompt": "Given the fact: if an organism makes food for itself then that organism does not need to eat other organisms\nQuestion: An organism that makes food for itself\nA. is nutritionally self sustaining\nB. will die faster than other organisms\nC. will need help sustaining strength\nD. is reliant on other organisms for assistance\nAnswer:",
+        "prediction": "A. is",
+        "gold": "A"
+    },
+    "296": {
+        "origin_prompt": "Given the fact: the respiratory system transfers oxygen to the circulatory system\nQuestion: What does the respiratory system transfer to the circulatory system?\nA. food\nB. water\nC. nutrients\nD. O\nAnswer:",
+        "prediction": "C. nut",
+        "gold": "D"
+    },
+    "297": {
+        "origin_prompt": "Given the fact: a closed circuit has continuous path\nQuestion: In a closed circuit, electricity will\nA. burn out\nB. charge itself\nC. loop endlessly\nD. resist flow\nAnswer:",
+        "prediction": "C. loop",
+        "gold": "C"
+    },
+    "298": {
+        "origin_prompt": "Given the fact: a Punnett square is used to identify the percent chance of a trait being passed down from a parent to its offspring\nQuestion: A Punnett square can be used to calculate the chance of a trait being passed to someone's\nA. mother\nB. grandfather\nC. daughter\nD. father\nAnswer:",
+        "prediction": "A. mother",
+        "gold": "C"
+    },
+    "299": {
+        "origin_prompt": "Given the fact: decomposition increases the amount of nutrients in the soil\nQuestion: They looked where the log decayed to garden as it would leave the earth\nA. richer\nB. dryer\nC. sandy\nD. harder\nAnswer:",
+        "prediction": "A. rich",
+        "gold": "A"
+    },
+    "300": {
+        "origin_prompt": "Given the fact: some animals shed fur in warm weather\nQuestion: what kind of temperature causes fur shedding?\nA. in freezing cold\nB. a high temperature\nC. in any temperature\nD. a low temperature\nAnswer:",
+        "prediction": "B. a",
+        "gold": "B"
+    },
+    "301": {
+        "origin_prompt": "Given the fact: fire causes burning\nQuestion: exposure to fire could result in\nA. wet items\nB. cold items\nC. none of these\nD. combusted items\nAnswer:",
+        "prediction": "A. wet",
+        "gold": "D"
+    },
+    "302": {
+        "origin_prompt": "Given the fact: clear weather means sunny weather\nQuestion: What is an example of clear weather meaning sunny weather?\nA. more stars are visible on clear nights\nB. cloud cover protects from sunburn\nC. clear days will be warmer\nD. fewer clouds allow for more sunlight\nAnswer:",
+        "prediction": "C. clear",
+        "gold": "D"
+    },
+    "303": {
+        "origin_prompt": "Given the fact: special tissues in plants transport minerals throughout the plant\nQuestion: The special tissues in plants that transport minerals throughout the plant are similar to\nA. a wick\nB. a funnel\nC. a knife\nD. a whisk\nAnswer:",
+        "prediction": "A. a",
+        "gold": "A"
+    },
+    "304": {
+        "origin_prompt": "Given the fact: a compass is a kind of tool for determining direction by pointing north\nQuestion: a compass is a kind of tool for determining direction by pointing\nA. to western Canada shoreline\nB. to the lower pole\nC. to the upper pole\nD. directly to the equator\nAnswer:",
+        "prediction": "A. to",
+        "gold": "C"
+    },
+    "305": {
+        "origin_prompt": "Given the fact: as the time a tool lasts increases , the number of tools discarded will decrease\nQuestion: Which of these saws will last longer?\nA. iron saw\nB. aluminium saw\nC. plastic saw\nD. wooden saw\nAnswer:",
+        "prediction": "A. iron",
+        "gold": "A"
+    },
+    "306": {
+        "origin_prompt": "Given the fact: the Sun is the star that is closest to Earth\nQuestion: although there are many stars visible in the night sky, which is most visible in the day?\nA. the single moon close to us\nB. the orion star cluster\nC. the sun that shines all day\nD. all of these\nAnswer:",
+        "prediction": "C. the",
+        "gold": "C"
+    },
+    "307": {
+        "origin_prompt": "Given the fact: the moon 's surface contains many craters\nQuestion: The moon is known for having what feature?\nA. frozen streams of water\nB. large bowl shaped cavities\nC. caves formed by solar winds\nD. groups of large trees\nAnswer:",
+        "prediction": "B. large",
+        "gold": "B"
+    },
+    "308": {
+        "origin_prompt": "Given the fact: In the cellular respiration process carbon dioxide is a waste product\nQuestion: Cellular respiration's trash is\nA. a bug's treasure\nB. a cow's treasure\nC. a plant's treasure\nD. everyone's trash\nAnswer:",
+        "prediction": "C. a",
+        "gold": "C"
+    },
+    "309": {
+        "origin_prompt": "Given the fact: humans building homes in an ecosystem causes that environment to change\nQuestion: Which of the following human activities can lead to a change in the local ecosystem?\nA. swimming in a lake\nB. building a new subdivision\nC. dancing in a field\nD. going for a hike\nAnswer:",
+        "prediction": "B. building",
+        "gold": "B"
+    },
+    "310": {
+        "origin_prompt": "Given the fact: moving changes stored energy into motion and heat\nQuestion: A bird that takes off flying is\nA. using heat to produce motion\nB. using calories to produce motion\nC. using wings to produce heat\nD. using calories to produce energy\nAnswer:",
+        "prediction": "A. using",
+        "gold": "B"
+    },
+    "311": {
+        "origin_prompt": "Given the fact: water causes the most soil and rock erosion\nQuestion: The leading cause of soil and rock erosion is\nA. H2O\nB. CO2\nC. NaCl\nD. Fe\nAnswer:",
+        "prediction": "A. H",
+        "gold": "A"
+    },
+    "312": {
+        "origin_prompt": "Given the fact: eating food that contains pesticides can have a negative impact on humans\nQuestion: Which of these foods might have a negative impact on humans?\nA. Organic corn\nB. Conventional corn\nC. Organic potato\nD. Organic Apples\nAnswer:",
+        "prediction": "A. Organ",
+        "gold": "B"
+    },
+    "313": {
+        "origin_prompt": "Given the fact: a compass is a kind of tool for determining direction by pointing north\nQuestion: What kind of implement is a compass?\nA. to test heat\nB. for wind speed\nC. it measures distance\nD. it shows direction\nAnswer:",
+        "prediction": "it shows direction",
+        "gold": "D"
+    },
+    "314": {
+        "origin_prompt": "Given the fact: bees convert nectar into honey\nQuestion: Nectar is taken to\nA. flowers\nB. a hive\nC. a stream\nD. a nest\nAnswer:",
+        "prediction": "A. flowers",
+        "gold": "B"
+    },
+    "315": {
+        "origin_prompt": "Given the fact: plasma is formed by electrons separating from atoms in stars\nQuestion: what is the closest source of plasma to our planet?\nA. all of these\nB. the cloud in the sky\nC. the nearest star sulfur burning heavenly body\nD. the bare moon surface\nAnswer:",
+        "prediction": "C. the",
+        "gold": "C"
+    },
+    "316": {
+        "origin_prompt": "Given the fact: An example of navigation is directing a boat\nQuestion: A sailor needs to navigate to the shore, and does this by\nA. closing the sails quickly\nB. setting out to sea\nC. making an adjustment to the rudder\nD. taking the afternoon off\nAnswer:",
+        "prediction": "C. making",
+        "gold": "C"
+    },
+    "317": {
+        "origin_prompt": "Given the fact: a bat births live young\nQuestion: A bat starts its life similarly to a\nA. chicken\nB. pig\nC. butterfly\nD. duck\nAnswer:",
+        "prediction": "A. ch",
+        "gold": "B"
+    },
+    "318": {
+        "origin_prompt": "Given the fact: if an organism 's prey moves quickly then that organism may need to move quickly to catch its prey\nQuestion: In order to catch a rabbit, a predator must be\nA. big\nB. quick\nC. slow\nD. small\nAnswer:",
+        "prediction": "B. quick",
+        "gold": "B"
+    },
+    "319": {
+        "origin_prompt": "Given the fact: some birds are predators\nQuestion: If a bird is a carnivore, then it is likely a(n)\nA. prey\nB. predator\nC. herbivore\nD. canary\nAnswer:",
+        "prediction": "B. pred",
+        "gold": "B"
+    },
+    "320": {
+        "origin_prompt": "Given the fact: warm-weather organisms live in warm climates\nQuestion: A warm-weather organism can be found in\nA. the Sahara\nB. the mountains\nC. the ocean\nD. the sewers\nAnswer:",
+        "prediction": "A warm-",
+        "gold": "A"
+    },
+    "321": {
+        "origin_prompt": "Given the fact: as distance from an object decreases , that object will appear larger\nQuestion: When approaching an elephant from a great distance,\nA. it stays large\nB. it grows larger\nC. it gets bigger\nD. it looks bigger\nAnswer:",
+        "prediction": "B. it",
+        "gold": "D"
+    },
+    "322": {
+        "origin_prompt": "Given the fact: humans eat crops\nQuestion: What would cause a human to grow?\nA. light waves\nB. eating wheat\nC. photosynthesis\nD. marching\nAnswer:",
+        "prediction": "B. e",
+        "gold": "B"
+    },
+    "323": {
+        "origin_prompt": "Given the fact: changes in an environment cause plants to adapt to survive\nQuestion: A saguaro has adaptations for an environment with\nA. lots of snow\nB. many people\nC. less water\nD. more water\nAnswer:",
+        "prediction": "C. less",
+        "gold": "C"
+    },
+    "324": {
+        "origin_prompt": "Given the fact: feeders attract animals to a location\nQuestion: There are less hummingbirds by this house than before because of\nA. a feeder at this house\nB. the birds no longer like feeders\nC. the size of the feeder\nD. a feeder at another house\nAnswer:",
+        "prediction": "A. a",
+        "gold": "D"
+    },
+    "325": {
+        "origin_prompt": "Given the fact: aquatic animals live in bodies of water\nQuestion: the  oceans are full of\nA. water lilies\nB. guppies\nC. sea life\nD. fresh water\nAnswer:",
+        "prediction": "C. sea",
+        "gold": "C"
+    },
+    "326": {
+        "origin_prompt": "Given the fact: electricity can not flow through an open circuit\nQuestion: A light was off because the cord was\nA. sitting on the table\nB. attached to the wall\nC. attached to an extension cord\nD. attached to a battery pack\nAnswer:",
+        "prediction": "A light was",
+        "gold": "A"
+    },
+    "327": {
+        "origin_prompt": "Given the fact: a cactus stem is used for storing water\nQuestion: In the hottest months in the hottest desert, creatures such as birds may find water to drink\nA. in sticks\nB. in pebbles\nC. in sand\nD. in spiked plants\nAnswer:",
+        "prediction": "In sticks",
+        "gold": "D"
+    },
+    "328": {
+        "origin_prompt": "Given the fact: camouflage is used for hiding by animals against predators\nQuestion: Why might a polar bear grow white hair?\nA. look fancy\nB. random\nC. blend in\nD. stand out\nAnswer:",
+        "prediction": "C. bl",
+        "gold": "C"
+    },
+    "329": {
+        "origin_prompt": "Given the fact: xylem carries water from the roots of a plant to the leaves of a plant\nQuestion: Xylem\nA. discourages pests from landing on leaves\nB. allows plants to move carbon dioxide from root to stems\nC. carries seedlings from roots to leaves\nD. allows plants to move rain thru their systems\nAnswer:",
+        "prediction": "B. allows",
+        "gold": "D"
+    },
+    "330": {
+        "origin_prompt": "Given the fact: a warm something is a source of heat\nQuestion: A food that is a source of heat is\nA. ramen\nB. salad\nC. ice cream\nD. sushi\nAnswer:",
+        "prediction": "A. r",
+        "gold": "A"
+    },
+    "331": {
+        "origin_prompt": "Given the fact: adding heat to something kills viruses in that something\nQuestion: When heat is added to something\nA. contaminates may be destroyed\nB. bacterial can grow more rapidly\nC. viruses may be picked up\nD. the thing loses energy\nAnswer:",
+        "prediction": "A. cont",
+        "gold": "A"
+    },
+    "332": {
+        "origin_prompt": "Given the fact: the skeletal system protects internal organs\nQuestion: The heart is an example of\nA. a part of the nervous system\nB. an organ that filters toxins\nC. a self-healing protector from germs\nD. something protected by the skeletal system\nAnswer:",
+        "prediction": "D. something",
+        "gold": "D"
+    },
+    "333": {
+        "origin_prompt": "Given the fact: predators eat prey\nQuestion: Prey are eaten by\nA. an animal herded by sheep dogs\nB. the animal with a starring role in Bambi\nC. animals known for their memory\nD. the fastest mammal with four legs\nAnswer:",
+        "prediction": "C. animals",
+        "gold": "D"
+    },
+    "334": {
+        "origin_prompt": "Given the fact: a bird is warm-blooded\nQuestion: A dog is warm-blooded just like\nA. a snake\nB. a cardinal\nC. a spider\nD. a scorpion\nAnswer:",
+        "prediction": "A. a",
+        "gold": "B"
+    },
+    "335": {
+        "origin_prompt": "Given the fact: a flashlight requires a source of electricity to produce light\nQuestion: A flashlight will need this in order to radiate photons:\nA. radiation\nB. acoustic energy\nC. vibrations\nD. electron flow\nAnswer:",
+        "prediction": "A. radiation",
+        "gold": "D"
+    },
+    "336": {
+        "origin_prompt": "Given the fact: calculating speed requires knowing distance travelled\nQuestion: to find out how fast you are going you first need to know\nA. where you're going\nB. distance traveled\nC. distance to travel\nD. home location\nAnswer:",
+        "prediction": "B. distance",
+        "gold": "B"
+    },
+    "337": {
+        "origin_prompt": "Given the fact: the decrease of something required by an organism has a negative impact on that organism 's survival\nQuestion: A small lamb, two days old, is walking with its mother. The mother feels ill, so refuses food, which dries up her milk production. The lack of lactation causes the lamb to\nA. weaken\nB. strengthen\nC. coexist\nD. thrive\nAnswer:",
+        "prediction": "A. weak",
+        "gold": "A"
+    },
+    "338": {
+        "origin_prompt": "Given the fact: clams live at the bottom of the ocean\nQuestion: When trying to find fresh clams for dinner, a hungry person would don\nA. a dinner jacket\nB. a diving suit\nC. a warm coat\nD. a dress suit\nAnswer:",
+        "prediction": "A. a",
+        "gold": "B"
+    },
+    "339": {
+        "origin_prompt": "Given the fact: polar bears live in cold environments\nQuestion: How do polar bears survive the cold?\nA. B and D\nB. Double Fur Coats\nC. Cold blooded\nD. Compact ears\nAnswer:",
+        "prediction": "B and D",
+        "gold": "A"
+    },
+    "340": {
+        "origin_prompt": "Given the fact: freezing causes a solid to form\nQuestion: A solid is likely to form in extreme\nA. floods\nB. wind\nC. chill\nD. rain\nAnswer:",
+        "prediction": "C. ch",
+        "gold": "C"
+    },
+    "341": {
+        "origin_prompt": "Given the fact: webbed feet are used for moving faster through water by aquatic animals\nQuestion: What are the feet of Dendrocygna autumnalis designed for?\nA. catching prey\nB. aquatic speed\nC. flying\nD. walking\nAnswer:",
+        "prediction": "B. aqu",
+        "gold": "B"
+    },
+    "342": {
+        "origin_prompt": "Given the fact: fire gives off light\nQuestion: What is an example of fire giving off light?\nA. an oven is preheated and the pilot light is lit\nB. a match is lit to light a cigarette\nC. a lit candle in a window signalling to someone\nD. a fire that was put out to send smoke signals\nAnswer:",
+        "prediction": "A. an",
+        "gold": "C"
+    },
+    "343": {
+        "origin_prompt": "Given the fact: the respiratory system transfers oxygen to the circulatory system\nQuestion: The respiratory system works by\nA. directing oxygen from lungs to other organs\nB. pushing air through lungs\nC. moving air in a room\nD. making air quality better\nAnswer:",
+        "prediction": "A. direct",
+        "gold": "A"
+    },
+    "344": {
+        "origin_prompt": "Given the fact: an animal can survive in an environment with little food by storing fat\nQuestion: Animals have more fat\nA. in the ocean\nB. in human homes\nC. in landfills\nD. in polar areas\nAnswer:",
+        "prediction": "D. in",
+        "gold": "D"
+    },
+    "345": {
+        "origin_prompt": "Given the fact: camouflage is a kind of protection against predators\nQuestion: A stick bug uses what to protect itself from predators?\nA. poison\nB. its appearance\nC. speed\nD. hearing\nAnswer:",
+        "prediction": "B. its",
+        "gold": "B"
+    },
+    "346": {
+        "origin_prompt": "Given the fact: ethanol sometimes is made of corn\nQuestion: Corn is sometimes used to make\nA. a simple alcohol\nB. water\nC. glass\nD. milk\nAnswer:",
+        "prediction": "A. a",
+        "gold": "A"
+    },
+    "347": {
+        "origin_prompt": "Given the fact: cooking food requires adding heat energy\nQuestion: The inside of the Thanksgiving turkey is white instead of pink because of\nA. heat energy\nB. light energy\nC. color energy\nD. color transfusion\nAnswer:",
+        "prediction": "A. heat",
+        "gold": "A"
+    },
+    "348": {
+        "origin_prompt": "Given the fact: reproduction produces offspring\nQuestion: Little puppies are a result of:\nA. reproduction ?\nB. pet store sale\nC. a begging child\nD. evolution\nAnswer:",
+        "prediction": "A. reprodu",
+        "gold": "A"
+    },
+    "349": {
+        "origin_prompt": "Given the fact: cows only eat plants\nQuestion: What would a Jersey most likely be fed?\nA. hamburger\nB. moles\nC. alfalfa\nD. cow\nAnswer:",
+        "prediction": "C. al",
+        "gold": "C"
+    },
+    "350": {
+        "origin_prompt": "Given the fact: a windmill converts wind energy into electricity\nQuestion: Which of these energy sources generates the least amount of pollution?\nA. coal\nB. windmill\nC. lithium batteries\nD. gasoline\nAnswer:",
+        "prediction": "A. coal",
+        "gold": "B"
+    },
+    "351": {
+        "origin_prompt": "Given the fact: grass snakes live in grass\nQuestion: Grass snakes live in what?\nA. trees\nB. mountains\nC. lakes\nD. turf\nAnswer:",
+        "prediction": "Grass sn",
+        "gold": "D"
+    },
+    "352": {
+        "origin_prompt": "Given the fact: ink is used for hiding from predators by octopuses\nQuestion: Cephalopod ink is by octopuses to\nA. mate\nB. feed\nC. hide\nD. play\nAnswer:",
+        "prediction": "C. hide",
+        "gold": "C"
+    },
+    "353": {
+        "origin_prompt": "Given the fact: tapping two objects together causes the particles in those objects to vibrate\nQuestion: Tapping a drumstick to a drum will\nA. reverberate when touched together\nB. vibrate when next to each other\nC. shake around when near\nD. put each other down\nAnswer:",
+        "prediction": "A. rever",
+        "gold": "A"
+    },
+    "354": {
+        "origin_prompt": "Given the fact: snow falls during the winter in some environments\nQuestion: Snow is more likely to fall two months before\nA. June\nB. March\nC. September\nD. December\nAnswer:",
+        "prediction": "B. March",
+        "gold": "B"
+    },
+    "355": {
+        "origin_prompt": "Given the fact: a frog eats insects\nQuestion: If I want to avoid being dinner for some type of frog what should I reincarnate as?\nA. Scorpion\nB. House Fly\nC. Cricket\nD. Moth\nAnswer:",
+        "prediction": "A. Sc",
+        "gold": "A"
+    },
+    "356": {
+        "origin_prompt": "Given the fact: usually plants die or become dormant during the winter\nQuestion: Dead plants are easier to find in\nA. January\nB. July\nC. May\nD. September\nAnswer:",
+        "prediction": "C. May",
+        "gold": "A"
+    },
+    "357": {
+        "origin_prompt": "Given the fact: as force exerted on an object increases , distance travelled will increase\nQuestion: The harder a child pushes a toy car\nA. decreases the distance it will travel\nB. the further it will roll across the floor\nC. the quicker the child will want to play with another toy\nD. determines how long the child with play with it\nAnswer:",
+        "prediction": "B. the",
+        "gold": "B"
+    },
+    "358": {
+        "origin_prompt": "Given the fact: fossil fuels are formed by dead organisms over time\nQuestion: Fossil fuels\nA. come from old age\nB. come from expired life\nC. take two years to create\nD. are created in a year\nAnswer:",
+        "prediction": "D. are",
+        "gold": "B"
+    },
+    "359": {
+        "origin_prompt": "Given the fact: a star is a source of light through nuclear reactions\nQuestion: A star, burning far, far away, has enormous pressure and temperature. This allows for\nA. a room to have overhead lights\nB. night on Earth to be dimly lit\nC. plastic stars to decorate a ceiling\nD. a person to be the star of a show\nAnswer:",
+        "prediction": "A star,",
+        "gold": "B"
+    },
+    "360": {
+        "origin_prompt": "Given the fact: wind and rain cause erosion\nQuestion: Erosion is caused by different kinds of\nA. soil\nB. fish\nC. rocks\nD. weather\nAnswer:",
+        "prediction": "Erosion",
+        "gold": "D"
+    },
+    "361": {
+        "origin_prompt": "Given the fact: all animals breathe\nQuestion: Respiration is a\nA. happens for some species\nB. happens for only land dwelling mammals\nC. occurs for only sea creatures\nD. commonality among all animals\nAnswer:",
+        "prediction": "D. common",
+        "gold": "D"
+    },
+    "362": {
+        "origin_prompt": "Given the fact: a closed circuit has continuous path\nQuestion: In order for your computer to operate, it must have an electrical path that is what?\nA. magical\nB. closed\nC. broken\nD. open\nAnswer:",
+        "prediction": "B. closed",
+        "gold": "B"
+    },
+    "363": {
+        "origin_prompt": "Given the fact: polar bears live in cold environments\nQuestion: Polar bears live in\nA. frosty environments\nB. tepid environments\nC. warm environments\nD. tropical environments\nAnswer:",
+        "prediction": "A. fro",
+        "gold": "A"
+    },
+    "364": {
+        "origin_prompt": "Given the fact: iron is always magnetic\nQuestion: What would be more likely to attract a magnet?\nA. a plastic zipper\nB. flowing water\nC. a car engine\nD. A wooden desk\nAnswer:",
+        "prediction": "A. a",
+        "gold": "C"
+    },
+    "365": {
+        "origin_prompt": "Given the fact: a frog eats insects\nQuestion: What constitutes a frog's diet?\nA. it eats all plants\nB. it will eat dogs\nC. it only eats burgers\nD. it chomps on insects\nAnswer:",
+        "prediction": "C. it",
+        "gold": "D"
+    },
+    "366": {
+        "origin_prompt": "Given the fact: the digestive system digests food for the body\nQuestion: What is an example of the digestive system digesting food for the body?\nA. a man eating nachos then getting food poisoning\nB. a baby drinking formula then needing a diaper change\nC. a cat eating food then throwing it up\nD. a horse licking a salt lick\nAnswer:",
+        "prediction": "A. a",
+        "gold": "B"
+    },
+    "367": {
+        "origin_prompt": "Given the fact: illness has a negative impact on an organism 's health\nQuestion: The body is negatively impacted by\nA. white blood cells\nB. vitamins\nC. rotavirus\nD. nasal decongestants\nAnswer:",
+        "prediction": "C. rot",
+        "gold": "C"
+    },
+    "368": {
+        "origin_prompt": "Given the fact: electromagnets can be powered by electricity\nQuestion: Someone wants their electromagnets to work, but is having difficulty powering them. In order to make them work, they need to\nA. run wire through currants\nB. run a continuous current\nC. run around the wire\nD. currently run wire through\nAnswer:",
+        "prediction": "D. currently",
+        "gold": "B"
+    },
+    "369": {
+        "origin_prompt": "Given the fact: heavy rains cause flooding\nQuestion: if a place has experienced flooding, what could be responsible?\nA. all of these\nB. there has been excess condensed water vapor\nC. the water lacks oxygen\nD. the local deities are angry\nAnswer:",
+        "prediction": "B. there",
+        "gold": "B"
+    },
+    "370": {
+        "origin_prompt": "Given the fact: An example of reproduction is laying eggs\nQuestion: What is an example of reproduction?\nA. farming\nB. egg depositing\nC. flying\nD. walking\nAnswer:",
+        "prediction": "An example of",
+        "gold": "B"
+    },
+    "371": {
+        "origin_prompt": "Given the fact: snowy means a large amount of snow\nQuestion: A place that is snowy has a large amount of\nA. wind\nB. storms\nC. frozen water\nD. rain\nAnswer:",
+        "prediction": "C. fro",
+        "gold": "C"
+    },
+    "372": {
+        "origin_prompt": "Given the fact: some crickets live in forests\nQuestion: An ideal abode for crickets is\nA. a small potted plant in a house\nB. a green and lush tree and plant packed area\nC. a briny and warm body of water\nD. a area surrounded by spider webs\nAnswer:",
+        "prediction": "B. a",
+        "gold": "B"
+    },
+    "373": {
+        "origin_prompt": "Given the fact: carbon steel is always magnetic\nQuestion: Carbon steel is always what?\nA. attractive to various objects that contain iron\nB. pleasant with a magnetic personality\nC. made up of iron and pieces of magnets\nD. hard as a magnetizing rod\nAnswer:",
+        "prediction": "A. attract",
+        "gold": "A"
+    },
+    "374": {
+        "origin_prompt": "Given the fact: a bat births live young\nQuestion: if a bat delivers a live offspring, what does this tell us?\nA. it is a mammal\nB. calling it a bird is wrong\nC. all of these\nD. it is capable of reproducing\nAnswer:",
+        "prediction": "A, B",
+        "gold": "C"
+    },
+    "375": {
+        "origin_prompt": "Given the fact: rock is made of minerals\nQuestion: If you find something smooth and hard on the ground, it is probably made of what?\nA. minerals\nB. mist\nC. clouds\nD. water\nAnswer:",
+        "prediction": "minerals",
+        "gold": "A"
+    },
+    "376": {
+        "origin_prompt": "Given the fact: as distance from an object decreases , that object will appear larger\nQuestion: as you get closer to something it begins to\nA. shrinks down to nothing\nB. grow in size visually\nC. show a large shadow\nD. rotate in a clockwise direction\nAnswer:",
+        "prediction": "B. grow",
+        "gold": "B"
+    },
+    "377": {
+        "origin_prompt": "Given the fact: storms cause bodies of water to increase amount of water they contain\nQuestion: After a storm\nA. ponds may dry out\nB. flowers will wilt and wither\nC. creek beds may be spilling over\nD. drinking water will be in short supply\nAnswer:",
+        "prediction": "C. cre",
+        "gold": "C"
+    },
+    "378": {
+        "origin_prompt": "Given the fact: plants are a source of biofuel\nQuestion: What could I use as biofuel\nA. Gold\nB. Car\nC. Diamonds\nD. Pine Needles\nAnswer:",
+        "prediction": "C. Diam",
+        "gold": "D"
+    },
+    "379": {
+        "origin_prompt": "Given the fact: camouflage is used for hiding by animals from predators\nQuestion: Which animal is hiding from a predator?\nA. a tadpole losing its tail as it grows\nB. an angler fish using its Esca to lure another fish\nC. an octopus mimicking the color and texture of a rocky outcrop\nD. a great white shark breaching the water's surface\nAnswer:",
+        "prediction": "C. an",
+        "gold": "C"
+    },
+    "380": {
+        "origin_prompt": "Given the fact: force causes the speed of an object to increase\nQuestion: Which best demonstrates the concept of force causing an increase in speed?\nA. skating on a rough surface\nB. a full bag swung in circles\nC. a computer powering on\nD. a baker stirring batter\nAnswer:",
+        "prediction": "A. sk",
+        "gold": "B"
+    },
+    "381": {
+        "origin_prompt": "Given the fact: the stars in the night sky are very far away from the Earth\nQuestion: the night sky shows very far away what\nA. clumps of flaming gas\nB. tidal waves washing over beaches\nC. aircraft falling towards collision\nD. party balloons tied to houses\nAnswer:",
+        "prediction": "A. cl",
+        "gold": "A"
+    },
+    "382": {
+        "origin_prompt": "Given the fact: a beach ball contains gas\nQuestion: Which would you likely find inside a beach ball?\nA. cheese\nB. steam\nC. water\nD. air\nAnswer:",
+        "prediction": "A. che",
+        "gold": "D"
+    },
+    "383": {
+        "origin_prompt": "Given the fact: magnetism can cause objects to repel each other\nQuestion: Two fridge decorations when touched back to back\nA. shove each other away\nB. are attracted to each other\nC. have very little reaction\nD. are reflective when together\nAnswer:",
+        "prediction": "A. sh",
+        "gold": "A"
+    },
+    "384": {
+        "origin_prompt": "Given the fact: runoff is when cropland water enters bodies of water\nQuestion: Runoff happens because of\nA. birds\nB. cattails\nC. people\nD. fish\nAnswer:",
+        "prediction": "D. fish",
+        "gold": "C"
+    },
+    "385": {
+        "origin_prompt": "Given the fact: a desert environment is usually hot in temperature\nQuestion: Desert environments are generally\nA. sweltering\nB. arctic like\nC. lush\nD. frigid\nAnswer:",
+        "prediction": "A. sw",
+        "gold": "A"
+    },
+    "386": {
+        "origin_prompt": "Given the fact: a desert environment usually has a lot of sunlight\nQuestion: Are deserts characterized by high sunshine?\nA. they get low sunlight\nB. deserts get surplus sun\nC. deserts get little sun\nD. deserts are always cloudy\nAnswer:",
+        "prediction": "A. they",
+        "gold": "B"
+    },
+    "387": {
+        "origin_prompt": "Given the fact: conserving water can be used for survival in a dry environment\nQuestion: Water conservation could be a survival tactic in\nA. The Appalachian Mountains\nB. New York City\nC. The Amazon\nD. The Gobi Desert\nAnswer:",
+        "prediction": "D. The",
+        "gold": "D"
+    },
+    "388": {
+        "origin_prompt": "Given the fact: a paper clip is often made of ferromagnetic metals\nQuestion: Objects used to hold sheets of paper together are often\nA. large\nB. wooden\nC. ferromagnetic\nD. electronic\nAnswer:",
+        "prediction": "C. fer",
+        "gold": "C"
+    },
+    "389": {
+        "origin_prompt": "Given the fact: an organism requires energy for growth\nQuestion: In order for plants and animals to grow, they need to consume food and water for\nA. energy\nB. fun\nC. taste\nD. soil\nAnswer:",
+        "prediction": "A. energy",
+        "gold": "A"
+    },
+    "390": {
+        "origin_prompt": "Given the fact: animals learn some behaviors from watching their parents\nQuestion: A bear cub learns to stay away from unknown bears because\nA. they are much bigger than the cub\nB. the other bears look like its mother\nC. their mother teaches them to keep their distance\nD. the unknown bears look harmless\nAnswer:",
+        "prediction": "B. the",
+        "gold": "C"
+    },
+    "391": {
+        "origin_prompt": "Given the fact: sleet is made of ice\nQuestion: a person driving to work in which of these is most likely to lose control?\nA. a dry cobblestone road\nB. a sleet covered highway\nC. a dry paved road\nD. a dry gravel road\nAnswer:",
+        "prediction": "B. a",
+        "gold": "B"
+    },
+    "392": {
+        "origin_prompt": "Given the fact: birds lay eggs\nQuestion: The only creature with offspring that is hatched, of these, is the\nA. squirrel\nB. swallow\nC. mink\nD. bat\nAnswer:",
+        "prediction": "The correct answer",
+        "gold": "B"
+    },
+    "393": {
+        "origin_prompt": "Given the fact: a plateau is formed by a buildup of cooled lava\nQuestion: What element is prevalent in a plateau?\nA. helium\nB. krypton\nC. silicon\nD. neon\nAnswer:",
+        "prediction": "C. sil",
+        "gold": "C"
+    },
+    "394": {
+        "origin_prompt": "Given the fact: if a habitat is removed then that habitat is destroyed\nQuestion: When a city tears down a park in a city, the park\nA. is removed\nB. is renewed\nC. is retrieved\nD. is restored\nAnswer:",
+        "prediction": "D. is",
+        "gold": "A"
+    },
+    "395": {
+        "origin_prompt": "Given the fact: a seed is used for storing food for a new plant\nQuestion: Seeds\nA. are useless shells that need to be discarded\nB. store extra bits of chlorophyll\nC. need to be mashed to grow\nD. aid in feeding what grows from them\nAnswer:",
+        "prediction": "D. aid",
+        "gold": "D"
+    },
+    "396": {
+        "origin_prompt": "Given the fact: In the food chain process an animal has the role of consumer which eats producers for food\nQuestion: If a grizzly bear eats a salmon, what is the grizzly bear demonstrating?\nA. consumption\nB. cinematography\nC. direction\nD. production\nAnswer:",
+        "prediction": "A. consumption",
+        "gold": "A"
+    },
+    "397": {
+        "origin_prompt": "Given the fact: seasons cause change to the environment\nQuestion: The spring season brings\nA. Bees\nB. Snow\nC. More Oxygen\nD. Dust\nAnswer:",
+        "prediction": "C. More",
+        "gold": "A"
+    },
+    "398": {
+        "origin_prompt": "Given the fact: motion is a source of kinetic energy in an object\nQuestion: Kinetic energy can be found in objects that move, such as\nA. flower pots on a wagon\nB. cars that are in a lot\nC. kids that are sleeping soundly\nD. skateboards that are ridden all day\nAnswer:",
+        "prediction": "A. flower",
+        "gold": "D"
+    },
+    "399": {
+        "origin_prompt": "Given the fact: the moon is the celestial object that is closest to the Earth\nQuestion: which of these is the quickest to go visiting from our world?\nA. none of these\nB. a trip to mars\nC. a trip to the moon\nD. a trip to the northern star\nAnswer:",
+        "prediction": "A. none",
+        "gold": "C"
+    },
+    "400": {
+        "origin_prompt": "Given the fact: if a habitat is removed then that habitat is destroyed\nQuestion: Animals died after the removal of a\nA. bush\nB. street\nC. house\nD. city\nAnswer:",
+        "prediction": "A. bush",
+        "gold": "A"
+    },
+    "401": {
+        "origin_prompt": "Given the fact: a reflector is used to reflect light especially on vehicles\nQuestion: If I want to go running at night, what can I use as a reflector?\nA. A black shirt\nB. Kitchen foil\nC. Sunglasses\nD. A megaphone\nAnswer:",
+        "prediction": "A megaph",
+        "gold": "B"
+    },
+    "402": {
+        "origin_prompt": "Given the fact: if something is in the sunlight then that something will absorb solar energy\nQuestion: the closest star to our planet delivers solar energy to the planet\nA. maybe\nB. all of these\nC. this is sure\nD. this is uncertain\nAnswer:",
+        "prediction": "C. this",
+        "gold": "C"
+    },
+    "403": {
+        "origin_prompt": "Given the fact: coal is used to produce electricity by burning in coal-fire power stations\nQuestion: Coal-fire power stations heat coal to incredible temps in order to\nA. produce energy\nB. use heat energy\nC. burn energy\nD. fuel the world\nAnswer:",
+        "prediction": "A. produce",
+        "gold": "A"
+    },
+    "404": {
+        "origin_prompt": "Given the fact: a stinger is used for defense by a wasp\nQuestion: Creatures sometimes have barbs on their backs that they use to sting, all of these do, outside of the\nA. wasp\nB. bee\nC. scorpion\nD. butterfly\nAnswer:",
+        "prediction": "A. was",
+        "gold": "D"
+    },
+    "405": {
+        "origin_prompt": "Given the fact: renewable resources can be used over again\nQuestion: A renewable resource is\nA. fossil fuel\nB. turbine produced electricity\nC. copper\nD. coal lumps\nAnswer:",
+        "prediction": "A renewable",
+        "gold": "B"
+    },
+    "406": {
+        "origin_prompt": "Given the fact: if a population decreases to zero then that organism is extinct\nQuestion: In a hypothetical world, black bears decrease in numbers until there are zero black bears left on this world. The black bear species\nA. would cease existing\nB. would be troubled\nC. would be thriving\nD. would be endangered\nAnswer:",
+        "prediction": "A. would",
+        "gold": "A"
+    },
+    "407": {
+        "origin_prompt": "Given the fact: acid can cause chemical change\nQuestion: Acid can be used to make a new\nA. light\nB. substance\nC. electricity\nD. sound\nAnswer:",
+        "prediction": "A. light",
+        "gold": "B"
+    },
+    "408": {
+        "origin_prompt": "Given the fact: water is in the solid state , called ice , for temperatures between 0 and 0 F\nQuestion: Global warming is lowering the world's amount of\nA. hurricanes\nB. ocean levels\nC. carbon dioxide\nD. ice\nAnswer:",
+        "prediction": "B. ocean",
+        "gold": "D"
+    },
+    "409": {
+        "origin_prompt": "Given the fact: echolocation is when some animals detect objects by hearing echoes by emitting sound\nQuestion: Echolocation can't detect an object's\nA. distance\nB. shape\nC. size\nD. temperature\nAnswer:",
+        "prediction": "C. size",
+        "gold": "D"
+    },
+    "410": {
+        "origin_prompt": "Given the fact: break down means change from a whole into pieces\nQuestion: What material has already broken down?\nA. wood\nB. glass\nC. boulders\nD. sand\nAnswer:",
+        "prediction": "B. glass",
+        "gold": "D"
+    },
+    "411": {
+        "origin_prompt": "Given the fact: as temperature increases , the ability of that liquid to dissolve solids will increase\nQuestion: Which beverage would dissolve solids the best?\nA. A glass of ice-cold water\nB. A boiling hot mug of tea\nC. A cup of warm milk\nD. A room temperature glass of water\nAnswer:",
+        "prediction": "A glass of",
+        "gold": "B"
+    },
+    "412": {
+        "origin_prompt": "Given the fact: live birth means developing inside the mother instead of an egg\nQuestion: Which animal has live births?\nA. poodle\nB. hummingbird\nC. crocodile\nD. trout\nAnswer:",
+        "prediction": "C. cro",
+        "gold": "A"
+    },
+    "413": {
+        "origin_prompt": "Given the fact: a quartz is made of six-sided transparent crystals\nQuestion: Quartz crystals are made up of\nA. majic\nB. hexagons\nC. octogons\nD. water\nAnswer:",
+        "prediction": "A. maj",
+        "gold": "B"
+    },
+    "414": {
+        "origin_prompt": "Given the fact: cellular respiration is when cells break down food to produce energy\nQuestion: cellular respiration is when energy is produced in a cell by consumption of\nA. water\nB. nutrients\nC. mitochondria\nD. gas\nAnswer:",
+        "prediction": "C. mit",
+        "gold": "B"
+    },
+    "415": {
+        "origin_prompt": "Given the fact: Louis Pasteur invented pasteurization\nQuestion: Did pasteurization get invented by Thomas Edison?\nA. negative\nB. positive\nC. all of these\nD. maybe it was\nAnswer:",
+        "prediction": "B. positive",
+        "gold": "A"
+    },
+    "416": {
+        "origin_prompt": "Given the fact: if an object undergoes chemical change then that object will have new chemical properties\nQuestion: A glass of water can undergo a chemical change by adding\nA. a cup of salt\nB. a cup of dirt\nC. a cup of water\nD. a cup of ice\nAnswer:",
+        "prediction": "A. a",
+        "gold": "A"
+    },
+    "417": {
+        "origin_prompt": "Given the fact: the sun causes water to evaporate more quickly by adding heat\nQuestion: Water levels may decrease on cloudless days because\nA. water is warmer than the air\nB. air is warmer than water\nC. moisture is pulled upwards\nD. moisture always tries to rise\nAnswer:",
+        "prediction": "C. mo",
+        "gold": "C"
+    },
+    "418": {
+        "origin_prompt": "Given the fact: tearing an object changes that object 's shape\nQuestion: To change an object's shape\nA. rip off a corner portion\nB. lay it flat on a table\nC. color the edges of it\nD. add a piece of tape to it\nAnswer:",
+        "prediction": "A. rip",
+        "gold": "A"
+    },
+    "419": {
+        "origin_prompt": "Given the fact: a decrease in visibility while driving can cause people to crash their car\nQuestion: Steve was driving on the highway when he rear-ended another car because he didn't see it until he was just a foot away. This could have happened because of\nA. reports of tornadoes in the area\nB. a dog running across the highway behind Steve's car\nC. a sudden fog moving into the area\nD. ice forming on the road\nAnswer:",
+        "prediction": "D. ice",
+        "gold": "C"
+    },
+    "420": {
+        "origin_prompt": "Given the fact: DNA is a vehicle for passing inherited characteristics from parent to offspring\nQuestion: DNA is a vehicle for passing\nA. clothes types\nB. school grades\nC. elbow size\nD. language and dialect\nAnswer:",
+        "prediction": "D. language",
+        "gold": "C"
+    },
+    "421": {
+        "origin_prompt": "Given the fact: a beach ball contains gas\nQuestion: A beach ball goes from flat to round once you put what inside of it?\nA. food\nB. sunlight\nC. gas\nD. salt\nAnswer:",
+        "prediction": "C. gas",
+        "gold": "C"
+    },
+    "422": {
+        "origin_prompt": "Given the fact: each of the moon 's phases usually occurs once per month\nQuestion: In general, how many times per month is there a full moon?\nA. twice\nB. three times\nC. once\nD. four times\nAnswer:",
+        "prediction": "C. once",
+        "gold": "C"
+    },
+    "423": {
+        "origin_prompt": "Given the fact: when light hits a reflective object , that light bounces off that object\nQuestion: What kind of object does light bounce off of?\nA. tadpole\nB. any object\nC. item that reflects\nD. black hole\nAnswer:",
+        "prediction": "C. item",
+        "gold": "C"
+    },
+    "424": {
+        "origin_prompt": "Given the fact: as available water decreases , the population of plants will decrease\nQuestion: The amount of brush in a park has been decreasing. What could be a cause?\nA. the season has been quite dry\nB. There has been a lot of rain\nC. snakes shelter under the brush\nD. People have been walking by the brush on the trails\nAnswer:",
+        "prediction": "The amount of",
+        "gold": "A"
+    },
+    "425": {
+        "origin_prompt": "Given the fact: if an object is hot then the surfaces of that object are hot\nQuestion: if a pot on the stove is described as hot, what does this mean?\nA. the body of the pot is of high temperature\nB. the body of the pot is cold\nC. all of these\nD. the body of the pot is wet\nAnswer:",
+        "prediction": "A. the",
+        "gold": "A"
+    },
+    "426": {
+        "origin_prompt": "Given the fact: octopuses releasing ink into the water causes predators to have difficulty seeing the octopus\nQuestion: What animal is more difficult for predators to see in water?\nA. a fish\nB. a duck\nC. an octopus\nD. a crab\nAnswer:",
+        "prediction": "C. an",
+        "gold": "C"
+    },
+    "427": {
+        "origin_prompt": "Given the fact: a simple machine requires mechanical energy to function\nQuestion: A wedge requires\nA. electrical energy\nB. chemical energy\nC. mechanical energy\nD. heat energy\nAnswer:",
+        "prediction": "C. mechanical",
+        "gold": "C"
+    },
+    "428": {
+        "origin_prompt": "Given the fact: Matter in the solid phase has definite shape\nQuestion: In solid phase matter has a/an\nA. concrete configuration\nB. ambiguous form\nC. shapeless form\nD. radioactive glow\nAnswer:",
+        "prediction": "A. concrete",
+        "gold": "A"
+    },
+    "429": {
+        "origin_prompt": "Given the fact: coral lives in the ocean\nQuestion: A school trip is going to study the coral reef for a class. They want to see how strong coral is, and what species of life live in and around it. Therefore, the class\nA. takes a trip to the desert\nB. climbs a tall mountain\nC. travels to the seaside\nD. visits a remote jungle\nAnswer:",
+        "prediction": "C. travel",
+        "gold": "C"
+    },
+    "430": {
+        "origin_prompt": "Given the fact: adding salt to a solid decreases the freezing point of that solid\nQuestion: When ice buildup is on a sidewalk, the ice may be reduced by\nA. adding salt\nB. adding litter\nC. adding sand\nD. adding water\nAnswer:",
+        "prediction": "A. adding",
+        "gold": "A"
+    },
+    "431": {
+        "origin_prompt": "Given the fact: aluminum is recyclable\nQuestion: The appropriate place to put this item is the recycling bin\nA. used motor oil\nB. used soda can\nC. used Styrofoam plates\nD. left over medicine\nAnswer:",
+        "prediction": "D. left",
+        "gold": "B"
+    },
+    "432": {
+        "origin_prompt": "Given the fact: one year is equal to 365 days\nQuestion: How many times would someone change the page of a calendar in a year?\nA. 13\nB. 12\nC. 15\nD. 14\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "433": {
+        "origin_prompt": "Given the fact: stopped means no speed\nQuestion: A car has the least speed if it\nA. is heavy\nB. is large\nC. is turned off\nD. is small\nAnswer:",
+        "prediction": "D. is",
+        "gold": "C"
+    },
+    "434": {
+        "origin_prompt": "Given the fact: An example of playing a musical instrument is strumming a guitar string\nQuestion: Which musical instrument is the same type as a guitar?\nA. flute\nB. cello\nC. drum\nD. trumpet\nAnswer:",
+        "prediction": "A. fl",
+        "gold": "B"
+    },
+    "435": {
+        "origin_prompt": "Given the fact: a balance is used for measuring mass of an object\nQuestion: The balance result will be number of\nA. kilowatts\nB. kilobytes\nC. kilograms\nD. kilometers\nAnswer:",
+        "prediction": "kilograms",
+        "gold": "C"
+    },
+    "436": {
+        "origin_prompt": "Given the fact: some humans live in houses\nQuestion: Which of these is a place where a human might live?\nA. igloo\nB. cloud\nC. Mars\nD. the Moon\nAnswer:",
+        "prediction": "A. ig",
+        "gold": "A"
+    },
+    "437": {
+        "origin_prompt": "Given the fact: An example of camouflage is when an organism looks like its environment\nQuestion: Camouflage is when an organism does what?\nA. reconfigure appearance to blend in\nB. hides its young to avoid prey\nC. changes its shape to appear larger\nD. buries itself to disappear momentarily\nAnswer:",
+        "prediction": "A. re",
+        "gold": "A"
+    },
+    "438": {
+        "origin_prompt": "Given the fact: xylem transports materials through the plant\nQuestion: Which of these is required for a plant to enjoy the product of a rain storm?\nA. xylem\nB. luck\nC. magic\nD. dirt\nAnswer:",
+        "prediction": "A. x",
+        "gold": "A"
+    },
+    "439": {
+        "origin_prompt": "Given the fact: microscope is used to see small things by making them appear bigger\nQuestion: How does a microscope make small things appear?\nA. humongous\nB. transparent\nC. discolored\nD. distorted\nAnswer:",
+        "prediction": "D. dist",
+        "gold": "A"
+    },
+    "440": {
+        "origin_prompt": "Given the fact: evaporation means change from a liquid into a gas by adding heat energy\nQuestion: Water can turn to vapor\nA. when a pot of water is placed on an off stove burner\nB. when placing water in a freezer\nC. when boiling eggs on a stove top\nD. when placed in a room temperature setting\nAnswer:",
+        "prediction": "A. when",
+        "gold": "C"
+    },
+    "441": {
+        "origin_prompt": "Given the fact: an incandescent light bulb converts electricity into light by sending electricity through a filament\nQuestion: An incandescent bulb's filament produces similar light as an LED bulb, but more\nA. white light\nB. conversion\nC. heat\nD. sound\nAnswer:",
+        "prediction": "A. white",
+        "gold": "C"
+    },
+    "442": {
+        "origin_prompt": "Given the fact: seconds are used to measure time\nQuestion: A boy at school is waiting desperately for the school day to be over so that he can go home and play video games. He watches the time count down on the clock at the head of the class, counting the\nA. seconds\nB. days\nC. weeks\nD. years\nAnswer:",
+        "prediction": "A. seconds",
+        "gold": "A"
+    },
+    "443": {
+        "origin_prompt": "Given the fact: camouflage can be used for hunting for prey\nQuestion: Camouflage can be used by animals for hunting\nA. water\nB. trees\nC. air\nD. meals\nAnswer:",
+        "prediction": "Camoufl",
+        "gold": "D"
+    },
+    "444": {
+        "origin_prompt": "Given the fact: carbohydrates are made of sugars\nQuestion: Carbohydrates are made of sugar, which means that a diabetic would need to exhibit care in consuming\nA. broccoli\nB. meat\nC. celery\nD. toast\nAnswer:",
+        "prediction": "C. cel",
+        "gold": "D"
+    },
+    "445": {
+        "origin_prompt": "Given the fact: a hand dryer produces heat\nQuestion: Hand dryers can also be used to\nA. keep cold drinks cool\nB. dry out clothes after coming in from the rain\nC. hydrate your face and hands\nD. make a damp rag damper\nAnswer:",
+        "prediction": "D. make",
+        "gold": "B"
+    },
+    "446": {
+        "origin_prompt": "Given the fact: a polar bear requires a cold environment\nQuestion: Polar bears require\nA. a tropical environment\nB. a frigid environment\nC. a tepid environment\nD. a warm environment\nAnswer:",
+        "prediction": "B. a",
+        "gold": "B"
+    },
+    "447": {
+        "origin_prompt": "Given the fact: seconds are used to measure time\nQuestion: A measurement of time that is less than a minute is a\nA. day\nB. minute\nC. hour\nD. second\nAnswer:",
+        "prediction": "A. day",
+        "gold": "D"
+    },
+    "448": {
+        "origin_prompt": "Given the fact: as the amount of rainfall increases in an area , the amount of available water in that area will increase\nQuestion: What will be more available in an area when rainfall increases?\nA. fire\nB. air\nC. dirt\nD. H2O\nAnswer:",
+        "prediction": "D. H",
+        "gold": "D"
+    },
+    "449": {
+        "origin_prompt": "Given the fact: the first quarter phase of the moon occurs after the new moon\nQuestion: When does the first quarter phase of the moon occur?\nA. when you cannot see the moon in the sky at night\nB. after the first phase of the lunar month\nC. after a blue moon\nD. during the full moon\nAnswer:",
+        "prediction": "A. when",
+        "gold": "B"
+    },
+    "450": {
+        "origin_prompt": "Given the fact: sunlight produces heat\nQuestion: An ice cube placed in sunlight will\nA. shrink\nB. change color\nC. grow\nD. freeze\nAnswer:",
+        "prediction": "A. shr",
+        "gold": "A"
+    },
+    "451": {
+        "origin_prompt": "Given the fact: when available resources decrease in an environment , organisms have to conserve those resources\nQuestion: If a person loses his job and is low on money, he will have to start cutting back on how much food he consumes or he'd run out, otherwise known as\nA. destroying\nB. conserving\nC. losing\nD. squandering\nAnswer:",
+        "prediction": "conserving\n",
+        "gold": "B"
+    },
+    "452": {
+        "origin_prompt": "Given the fact: the skeletal system protects internal organs\nQuestion: The skeletal system protects which of these?\nA. liver\nB. eyelashes\nC. finger nails\nD. blood vessels\nAnswer:",
+        "prediction": "D. blood",
+        "gold": "A"
+    },
+    "453": {
+        "origin_prompt": "Given the fact: as mass of a celestial body increases , the force of gravity on that planet will increase\nQuestion: What has more gravity force than Earth but less than the sun?\nA. Jupiter\nB. the moon\nC. a space station\nD. a comet\nAnswer:",
+        "prediction": "A. Jup",
+        "gold": "A"
+    },
+    "454": {
+        "origin_prompt": "Given the fact: as the amount of water in a body of water increases , the water levels will increase\nQuestion: The dam was put under much more stress after the\nA. party\nB. huge rain storm\nC. drought\nD. breakup.\nAnswer:",
+        "prediction": "The dam was",
+        "gold": "B"
+    },
+    "455": {
+        "origin_prompt": "Given the fact: photosynthesis means green plants convert from carbon dioxide, water, and solar energy into oxygen for themselves\nQuestion: If photosynthesis was a recipe it would require these ingredients\nA. CO2, water, and argon\nB. sunlight, oxygen, and fertilizer\nC. CO2, H20, and cloudy skies\nD. CO2, H20, and sun rays\nAnswer:",
+        "prediction": "D. CO",
+        "gold": "D"
+    },
+    "456": {
+        "origin_prompt": "Given the fact: iron nails are made of iron\nQuestion: If a nail is Fe, that nail is\nA. foreign\nB. atomic 26\nC. nickel\nD. atomic 12\nAnswer:",
+        "prediction": "C. nick",
+        "gold": "B"
+    },
+    "457": {
+        "origin_prompt": "Given the fact: tearing an object changes that object 's shape\nQuestion: when a circle is torn it is\nA. doubled\nB. changed\nC. a smaller circle\nD. a square\nAnswer:",
+        "prediction": "B. changed",
+        "gold": "B"
+    },
+    "458": {
+        "origin_prompt": "Given the fact: wind causes erosion\nQuestion: Wind can cause\nA. leaves to remain on branches\nB. trees to stand perfectly still\nC. dunes at the beach to be depleted\nD. still waters on the ocean\nAnswer:",
+        "prediction": "C. d",
+        "gold": "C"
+    },
+    "459": {
+        "origin_prompt": "Given the fact: as the level of water rises , the amount of available land will decrease\nQuestion: What happens as water levels rise?\nA. fish swim more\nB. homes are built\nC. land is taller\nD. beaches shrink\nAnswer:",
+        "prediction": "C. land",
+        "gold": "D"
+    },
+    "460": {
+        "origin_prompt": "Given the fact: moving an object from a cool place to a warm place causes the object 's temperature to increase\nQuestion: An increase in an object's temperature occurs when\nA. an orange is placed in a refrigerator\nB. a steak is removed from the freezer to defrost\nC. a glass of water is moved from counter top to dinner table\nD. an ice tray is placed in a freezer\nAnswer:",
+        "prediction": "A. an",
+        "gold": "B"
+    },
+    "461": {
+        "origin_prompt": "Given the fact: musical instruments make sound when they are played\nQuestion: A sousaphone\nA. is ancient\nB. is a frog\nC. makes deep noises\nD. is a smartphone\nAnswer:",
+        "prediction": "C. makes",
+        "gold": "C"
+    },
+    "462": {
+        "origin_prompt": "Given the fact: if a living thing dies then that living thing is dead\nQuestion: A cooked lobster is\nA. inedible\nB. cold\nC. dead\nD. green\nAnswer:",
+        "prediction": "C. dead",
+        "gold": "C"
+    },
+    "463": {
+        "origin_prompt": "Given the fact: panting is when an animal hangs its tongue out of its mouth to adjust to hot temperatures\nQuestion: An animal might pant\nA. on a sunny day\nB. during a rain storm\nC. when it is snowing\nD. during the night time\nAnswer:",
+        "prediction": "A. on",
+        "gold": "A"
+    },
+    "464": {
+        "origin_prompt": "Given the fact: carnivores are predators\nQuestion: Carnivores\nA. eat foliage and vegetables exclusively\nB. are the bottom of the food chain\nC. require prey to survive\nD. require carbon dioxide to survive\nAnswer:",
+        "prediction": "C. require",
+        "gold": "C"
+    },
+    "465": {
+        "origin_prompt": "Given the fact: as distance from a source of light increases , that source of light will appear dimmer\nQuestion: The light that appears dimmest is\nA. the light in the hall\nB. a light in the room\nC. a star outside the window\nD. a streetlight outside the window\nAnswer:",
+        "prediction": "A. the",
+        "gold": "C"
+    },
+    "466": {
+        "origin_prompt": "Given the fact: a plant requires soil for to grow\nQuestion: A plant will grow strong if it has\nA. love\nB. heat\nC. earth\nD. sand\nAnswer:",
+        "prediction": "C. earth",
+        "gold": "C"
+    },
+    "467": {
+        "origin_prompt": "Given the fact: tunnels in soil loosen that soil\nQuestion: loose soil can be caused by one of these\nA. a koala sitting on a tree\nB. none of these\nC. a worm burrowing through the earth\nD. a bird flying through the air\nAnswer:",
+        "prediction": "C. a",
+        "gold": "C"
+    },
+    "468": {
+        "origin_prompt": "Given the fact: migration is an instinctive behavior\nQuestion: An instinctual behavior is\nA. dogs rolling over on command\nB. frogs returning to the ponds were they hatched to lay eggs\nC. birds mimicking human speech\nD. seals clapping for treats from trainers\nAnswer:",
+        "prediction": "D. se",
+        "gold": "B"
+    },
+    "469": {
+        "origin_prompt": "Given the fact: reproduction is a stage in the life cycle process\nQuestion: How do plants reproduce?\nA. seeds\nB. stem\nC. flowers\nD. leaves\nAnswer:",
+        "prediction": "A. se",
+        "gold": "A"
+    },
+    "470": {
+        "origin_prompt": "Given the fact: a flower produces pollen and seeds\nQuestion: What produce pollen and seeds?\nA. lakes that are frozen over\nB. things you give a loved one in a bouquet\nC. various types of animals\nD. a person that is healthy\nAnswer:",
+        "prediction": "C. various",
+        "gold": "B"
+    },
+    "471": {
+        "origin_prompt": "Given the fact: the looseness of soil has a positive impact on a plant 's roots' growth in that soil\nQuestion: which of these would be most ideal for plant root growth?\nA. a sticky clay soil\nB. soil with worms burrowing around\nC. an arid soil with little looseness\nD. all of these\nAnswer:",
+        "prediction": "D. all",
+        "gold": "B"
+    },
+    "472": {
+        "origin_prompt": "Given the fact: feeling is when an living thing senses through touch\nQuestion: Having a sense of touch means\nA. I am the water\nB. I am a tree\nC. I am an Ant\nD. I am the Air\nAnswer:",
+        "prediction": "I am the",
+        "gold": "C"
+    },
+    "473": {
+        "origin_prompt": "Given the fact: live birth means developing inside the mother instead of an egg\nQuestion: Live birth is exemplified in\nA. snakes slithering out of eggs\nB. a calf emerging from a mother giraffe\nC. owlets pecking out of their encasement\nD. sea turtles emerging from their shells\nAnswer:",
+        "prediction": "D. sea",
+        "gold": "B"
+    },
+    "474": {
+        "origin_prompt": "Given the fact: cooking food requires adding heat energy\nQuestion: Cooking peas requires\nA. fresh briny sea water\nB. an unheated stove top\nC. salt and cayenne pepper\nD. turning on a stove top\nAnswer:",
+        "prediction": "D. turning",
+        "gold": "D"
+    },
+    "475": {
+        "origin_prompt": "Given the fact: the Earth revolves around the sun\nQuestion: Earth revolves around\nA. the moon\nB. outer space\nC. another planet\nD. an energy source\nAnswer:",
+        "prediction": "D. an",
+        "gold": "D"
+    },
+    "476": {
+        "origin_prompt": "Given the fact: a satellite orbits a planet\nQuestion: A satellite orbits a\nA. empty space\nB. ocean\nC. terrestrial body\nD. air pocket\nAnswer:",
+        "prediction": "C. terrest",
+        "gold": "C"
+    },
+    "477": {
+        "origin_prompt": "Given the fact: as the level of water rises , the amount of available land will decrease\nQuestion: Will happen to the number of islands if the planet's temperature rises?\nA. they will increase\nB. nothing will happen\nC. they will shrink\nD. they will double\nAnswer:",
+        "prediction": "they will shr",
+        "gold": "C"
+    },
+    "478": {
+        "origin_prompt": "Given the fact: landslides often occur on mountains\nQuestion: There is a heightened threat of landslide in\nA. the desert\nB. The Andes\nC. the ocean\nD. Indiana\nAnswer:",
+        "prediction": "B. The",
+        "gold": "B"
+    },
+    "479": {
+        "origin_prompt": "Given the fact: water is an electrical conductor\nQuestion: An example of water being an electrical conductor would be what?\nA. lightening hitting water and organisms inside dying\nB. standing in a puddle and avoiding being struck by lightening\nC. standing in a field and getting struck by lightening\nD. grabbing a fence and being shocked\nAnswer:",
+        "prediction": "B. standing",
+        "gold": "A"
+    },
+    "480": {
+        "origin_prompt": "Given the fact: a complete revolution of the Earth around the sun takes one solar year\nQuestion: What would Occur once between January 1st and December 31st\nA. The moons orbit around the year\nB. One rotation on mercury\nC. The distance between earth and Jupiter when traveling at light speed\nD. A Solar Year on earth\nAnswer:",
+        "prediction": "A. The",
+        "gold": "D"
+    },
+    "481": {
+        "origin_prompt": "Given the fact: burning a living thing usually causes harm to that living thing\nQuestion: Burning something that reproduces usually will:\nA. impair its well being in some way\nB. weed out weaker members of the species\nC. speed up its biological functions\nD. increase its population growth\nAnswer:",
+        "prediction": "A. imp",
+        "gold": "A"
+    },
+    "482": {
+        "origin_prompt": "Given the fact: a chipmunk eats acorns\nQuestion: what does a chipmunk do with acorns\nA. throw them at other chipmunks\nB. leave them where they're found\nC. use them to build shelter\nD. transfer them to the stomach\nAnswer:",
+        "prediction": "C. use",
+        "gold": "D"
+    },
+    "483": {
+        "origin_prompt": "Given the fact: water is in the gas state , called water vapor , for temperatures between 100 and 100000000000 F\nQuestion: A pot of pasta is boiling on the stove, and the lid on top of the pot is shaking as the water boils more rapidly. A person goes to the stove and removes the pot, releasing steam into the air above, and so the steam is\nA. cold air\nB. water vapor\nC. very dry\nD. boiling water\nAnswer:",
+        "prediction": "B. water",
+        "gold": "B"
+    },
+    "484": {
+        "origin_prompt": "Given the fact: plants absorb nutrients from soil into themselves through their roots\nQuestion: A plant that gets extra minerals such as zinc are probably\nA. planted in zinc pills\nB. plated in the sea\nC. placed in good soil\nD. made out of soil\nAnswer:",
+        "prediction": "C. placed",
+        "gold": "C"
+    },
+    "485": {
+        "origin_prompt": "Given the fact: high means great in altitude\nQuestion: Which item has a higher altitude?\nA. Tile Floor\nB. Cars\nC. A 6'' Man\nD. A Picture Book\nAnswer:",
+        "prediction": "A 6",
+        "gold": "C"
+    },
+    "486": {
+        "origin_prompt": "Given the fact: plants are the source of fruit\nQuestion: if a student wants an orange, he would have to get it from which of these?\nA. from a live cow\nB. from a live plant\nC. from a volcano cave\nD. from a wild dog\nAnswer:",
+        "prediction": "from a live",
+        "gold": "B"
+    },
+    "487": {
+        "origin_prompt": "Given the fact: fossils are formed when layers of sediment cover the remains of organisms over time\nQuestion: What could have covered an organism in order to create a trilobite?\nA. Grass\nB. Water\nC. Snow\nD. Sand\nAnswer:",
+        "prediction": "D. Sand",
+        "gold": "D"
+    },
+    "488": {
+        "origin_prompt": "Given the fact: cool temperatures cause animals to shiver\nQuestion: A dog is more likely to shiver at\nA. 1 pm\nB. 5 am\nC. 9 am\nD. 6 pm\nAnswer:",
+        "prediction": "A dog is",
+        "gold": "B"
+    },
+    "489": {
+        "origin_prompt": "Given the fact: photosynthesis makes food for the plant by converting carbon dioxide, water, and sunlight into carbohydrates\nQuestion: Photosynthesis does what by converting carbon dioxide, water, and sunlight into carbohydrates?\nA. nourishes small protein bits that need to eat with tiny shakes\nB. providing nourishment which enables some growth to vegetation\nC. mixes carbs into soluble plant matter\nD. makes good vegetable protein\nAnswer:",
+        "prediction": "A. n",
+        "gold": "B"
+    },
+    "490": {
+        "origin_prompt": "Given the fact: some rabbits live in forests\nQuestion: where might a bunny live?\nA. a thicket\nB. atop palm trees\nC. a sewer system\nD. a deserted island\nAnswer:",
+        "prediction": "A. a",
+        "gold": "A"
+    },
+    "491": {
+        "origin_prompt": "Given the fact: if an animal eats another animal then that animal is a carnivore or omnivore or predator\nQuestion: A shark will be unable to survive on eating algae and moss, because\nA. it is a predator\nB. it is a vegetarian\nC. it is a freshwater fish\nD. it is a producer\nAnswer:",
+        "prediction": "A. it",
+        "gold": "A"
+    },
+    "492": {
+        "origin_prompt": "Given the fact: meadow voles eat insects\nQuestion: A meadow vole just gave birth, and needs to feed herself so that she can produce milk for her babies. She searches for food in a field, and happily munches down on some\nA. oil\nB. deer\nC. bugs\nD. recycled plastic fruit\nAnswer:",
+        "prediction": "B. de",
+        "gold": "C"
+    },
+    "493": {
+        "origin_prompt": "Given the fact: the Grand Canyon was formed by the Colorado River flowing over long periods of time\nQuestion: The Grand Canyon was formed by\nA. a volcano erupting in 1782\nB. a river named after the 20th state to join the union flowing over time\nC. a river named after the 38th state to join the union flowing over time\nD. the Great Lakes drying up\nAnswer:",
+        "prediction": "B. a",
+        "gold": "C"
+    },
+    "494": {
+        "origin_prompt": "Given the fact: sunlight contains ultraviolet light\nQuestion: A woman, with a pale complexion, wants to spend the bright, sunny day at the beach. She makes sure that she stops at the store to pick up some sunblock before she begins to enjoy her day filled with sand and surf. She applies the sunblock carefully and thoroughly, because she knows that\nA. UV rays are harmful\nB. sunlight will be fun\nC. the sun is close\nD. the sun is in space\nAnswer:",
+        "prediction": "A. U",
+        "gold": "A"
+    },
+    "495": {
+        "origin_prompt": "Given the fact: if liquid is boiling then that liquid is hot\nQuestion: A person is heating water in order to cook pasta. He spills the pot of water on his leg and finds that the water\nA. scalds\nB. cools\nC. toasts\nD. freezes\nAnswer:",
+        "prediction": "A. sc",
+        "gold": "A"
+    },
+    "496": {
+        "origin_prompt": "Given the fact: boiling is when liquids are heated above their boiling point\nQuestion: Pasta may be cooked in water when\nA. the water is warm\nB. the water is on the stove\nC. water is bubbling from applied warmth\nD. the pasta is very fresh\nAnswer:",
+        "prediction": "C. water",
+        "gold": "C"
+    },
+    "497": {
+        "origin_prompt": "Given the fact: decreasing something negative has a positive impact on a thing\nQuestion: A decrease in diseases\nA. has no impact on a population\nB. leads to more sick people\nC. leads to less sick people\nD. leads to an uptick in emergency room visits\nAnswer:",
+        "prediction": "C. leads",
+        "gold": "C"
+    },
+    "498": {
+        "origin_prompt": "Given the fact: studying a soil sample means studying the microorganisms in that soil\nQuestion: When soil is viewed in a scientific way, what is seen and viewed is actually\nA. insects like big beetles\nB. tiny lifeforms in dirt\nC. small mammals living there\nD. a lot of tiny pebbles\nAnswer:",
+        "prediction": "B. tiny",
+        "gold": "B"
+    },
+    "499": {
+        "origin_prompt": "Given the fact: sweat is used for adjusting to hot temperatures by some animals\nQuestion: Some animals use a liquid coming from their skin to adjust to\nA. cold\nB. water\nC. heat\nD. humidity\nAnswer:",
+        "prediction": "heat\nEx",
+        "gold": "C"
+    }
+}

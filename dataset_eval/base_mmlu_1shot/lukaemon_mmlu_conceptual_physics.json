@@ -1,0 +1,1177 @@
+{
+    "0": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A 10-N force at an angle 45\u00b0 above the horizontal has a horizontal component of about\nA. 7 N\nB. 5 N\nC. 10 N\nD. 12 N\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "1": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A completely submerged object always displaces its own\nA. weight of fluid.\nB. volume of fluid.\nC. density of fluid.\nD. All of these.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "2": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When a diver points a flashlight upward toward the surface of the water at an angle 20\u00b0 from the normal, the beam of light\nA. totally internally reflects\nB. passes into the air above\nC. is absorbed\nD. None of these\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "3": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: According to four-dimensional geometry, the angles of a triangle add to 180\u00b0\nA. always.\nB. sometimes.\nC. never.\nD. on planet Earth only.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "4": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A voltage will be induced in a wire loop when the magnetic field within that loop\nA. changes\nB. aligns with the electric field\nC. is at right angles to the electric field\nD. converts to magnetic energy\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "5": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Among these colors, the one that has the most energy per photon is\nA. red\nB. yellow-green\nC. blue\nD. violet\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "6": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: According to general relativity,\nA. mass distorts spacetime.\nB. gravity affects clocks.\nC. light can\u2019t escape from a black hole.\nD. All of these.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "7": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A step-up transformer in an electric circuit can step up\nA. voltage\nB. energy\nC. Both of these\nD. Neither of these\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "8": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Spectral lines of the elements are\nA. chaotic\nB. ordered\nC. positioned by amplitude\nD. in phase\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "9": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A wave transfers\nA. amplitude\nB. wavelength\nC. frequency\nD. energy\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "10": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Immediately after two separated charged particles are released from rest, both increase in acceleration. The sign of charge of the particles is therefore\nA. the same\nB. opposite\nC. Either of these\nD. Need more information\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "11": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The surface of planet Earth loses energy to outer space due mostly to\nA. conduction\nB. convection\nC. radiation\nD. radioactivity\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "12": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: In a series circuit, if the current in one lamp is 2 A, the current in the lamp next to it is\nA. half, 1 A\nB. 2 A\nC. Depends on which lamp is closer to the battery\nD. Not enough information to say\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "13": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: As a blinking light source approaching you gains speed, you see the frequency of flashes\nA. increase.\nB. decrease.\nC. remain unchanged.\nD. None of these.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "14": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: In the absence of air resistance a ball of mass m is tossed upward to reach a height of 20 m. At the 10-m position half way up the net force on the ball is\nA. 2mg\nB. mg\nC. mg/2\nD. mg/4\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "15": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Pumice is a volcanic rock that floats in water. The density of pumice compared with that of water is\nA. less.\nB. equal.\nC. greater.\nD. none because it sinks.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "16": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When you look at the red petals of a rose the color light you're seeing is\nA. red.\nB. green.\nC. white minus red.\nD. a mixture of green and yellow.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "17": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Compared with the sound you hear from the siren of a stationary fire engine the sound you hear when it approaches you has an increased\nA. speed\nB. frequency\nC. wavelength\nD. All of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "18": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When you squeeze an air-filled party balloon, you increase its\nA. volume\nB. mass\nC. weight\nD. density\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "19": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Polarization is a property of\nA. transverse waves\nB. longitudinal waves\nC. all waves\nD. None of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "20": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: In a vacuum, an object has no\nA. buoyant force\nB. mass\nC. weight\nD. All of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "21": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Temperature is generally proportional to a substance\u2019s\nA. thermal energy.\nB. vibrational kinetic energy.\nC. average translational kinetic energy.\nD. rotational kinetic energy.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "22": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: In a hydraulic press operation, the output piston cannot\nA. move farther than the input piston\nB. exceed the force input\nC. exceed the input piston\u2019s speed\nD. produce increased energy\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "23": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When a spinning system contracts in the absence of an external torque its rotational speed increases and its angular momentum\nA. decreases\nB. increases\nC. remains unchanged\nD. may increase or decrease\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "24": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: According to Hooke\u2019s law, if you hang by a tree branch and note how much it bends, then hanging with twice the weight produces\nA. half the bend.\nB. the same bend if the branch doesn\u2019t break.\nC. twice the bend.\nD. 4 times the bend.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "25": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When an increase in speed doubles the kinetic energy of a moving body its momentum\nA. increases but less than doubles\nB. doubles\nC. more than doubles\nD. depends on factors not stated\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "26": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Suppose the number of neutrons in a reactor that is starting up doubles each minute reaching one billion neutrons in 10 minutes. When did the number of neutrons reach half a billion?\nA. 1 minute.\nB. 2 minutes.\nC. 5 minutes.\nD. 9 minutes.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "27": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: If an object is already moving and the sum of all the vector forces on a mass is zero, then the object will\nA. move at a constant speed in a straight line\nB. accelerate at a constant rate in a straight line\nC. come to rest\nD. increase its amount of inertia\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "28": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Relativity equations for time, length, and momentum hold true for\nA. everyday low speeds.\nB. relativistic speeds.\nC. Both of these.\nD. Neither of these.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "29": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Put a saucer of water on your table. A process that then occurs is\nA. evaporation\nB. condensation\nC. Both\nD. Neither\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "30": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A barometer that uses water instead of mercury will be\nA. shorter\nB. taller\nC. equal in height\nD. inoperable\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "31": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A heavy rock and a light rock in free fall (zero air resistance) have the same acceleration. The heavy rock doesn't have a greater acceleration because the\nA. force due to gravity is the same on each.\nB. air resistance is always zero in free fall.\nC. inertia of both rocks is the same.\nD. ratio of force to mass is the same.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "32": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When an increase in speed doubles the momentum of a moving body its kinetic energy\nA. increases but less than doubles\nB. doubles\nC. more than doubles\nD. depends on factors not stated\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "33": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The equation E = mc^2 indicates that energy\nA. equals mass moving at the speed of light squared.\nB. equals moving mass.\nC. is fundamentally different than mass.\nD. and mass are closely related.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "34": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: General relativity predicts that\nA. light leaving the Sun is slowed by gravity.\nB. light passing the Sun is deflected.\nC. a clock on the Sun\u2019s surface runs faster than on Earth.\nD. All of these.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "35": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When an element ejects an alpha particle, the atomic number of the resulting element\nA. reduces by 2\nB. reduces by 4\nC. increases by 2\nD. increases by 4\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "36": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: As more lamps are connected in parallel in a circuit, the current in the power source\nA. increases\nB. decreases\nC. remains the same\nD. Not enough information to say\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "37": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: An airplane with its nose pointing north with an airspeed of 40 km/h in a 30-km/h crosswind (at right angles) has a groundspeed of\nA. 30 km/h\nB. 40 km/h\nC. 50 km/h\nD. 60 km/h\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "38": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The energy of an emitted photon is related to its\nA. amplitude\nB. polarization\nC. momentum\nD. frequency\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "39": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Thermal conduction involves mainly\nA. electrons\nB. protons\nC. neutrons\nD. ions\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "40": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Compared with the current in an LED lamp the current in the connecting wire is\nA. less.\nB. more.\nC. the same.\nD. Need more information.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "41": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Bow waves are produced by waves of water\nA. overlapping one another\nB. constructively interfering\nC. moving slower than the source producing them\nD. All of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "42": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The speed of sound is slightly greater on a\nA. cold day\nB. hot day\nC. day with steady temperature\nD. None of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "43": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Consider two mercury barometers, one having a cross-sectional area of 1 cm2 and the other 2 cm2. The height of mercury in the narrower tube is\nA. half\nB. twice\nC. the same\nD. None of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "44": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The second law of thermodynamics tells us that heat doesn\u2019t flow from\nA. hot to cold ever\nB. cold to hot ever\nC. hot to cold without external energy\nD. cold to hot without external energy\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "45": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: In a mixture of hydrogen oxygen and nitrogen gases at a given temperature the molecules having the greatest average speed are those of\nA. hydrogen.\nB. oxygen.\nC. nitrogen.\nD. But all have the same speed on average.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "46": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Compared with the power input, the power output of an ideal transformer is\nA. greater\nB. less\nC. the same\nD. Any of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "47": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The amount of air drag on an 0.8-N flying squirrel dropping vertically at terminal velocity is\nA. less than 0.8 N\nB. 0.8 N\nC. greater than 0.8 N\nD. dependent on the orientation of its body\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "48": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The vibrations in a longitudinal wave move in a direction\nA. along and parallel to the wave\nB. perpendicular to the wave\nC. Both of these\nD. Neither of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "49": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The potential energy of a compressed spring and the potential energy of a charged object both depend on\nA. the work done on them\nB. motion\nC. Both of these\nD. Neither of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "50": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A step-up transformer in an electrical circuit can step up\nA. voltage\nB. energy\nC. Both of these\nD. Neither of these\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "51": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The neutrons in an atom are normally found\nA. inside the nucleus\nB. outside the nucleus\nC. Either of these\nD. Neither of these\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "52": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The greenish-blue color of ocean water is due mostly to light that hasn\u2019t been\nA. absorbed\nB. reflected\nC. scattered\nD. refracted\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "53": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Noise-canceling devices make use of sound\nA. destruction\nB. interference\nC. resonance\nD. amplification\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "54": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Black is the combination of\nA. all the colors together\nB. two or more appropriate colors\nC. light when a prism is held upside down\nD. None of these\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "55": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: In a circuit of two lamps in parallel, if the current in one lamp is 2 A, the current in the other lamp is\nA. about 1 A\nB. 2 A\nC. Depends on which lamp is closer to the battery\nD. Not enough information to say\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "56": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Which of these changes when light refracts in passing from one medium to another?\nA. Speed only\nB. Wavelength only\nC. Both speed and wavelength\nD. Neither of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "57": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: If the frequency of one source of sound is 500 Hz and a second sound source is 504 Hz, then when the two waves interfere with each other, the beat frequency will be\nA. 2 Hz\nB. 4 Hz\nC. 8 Hz\nD. 16 Hz\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "58": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The loudness of a sound is most closely related to its\nA. frequency\nB. period\nC. wavelength\nD. amplitude\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "59": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The electric field inside the dome of a Van de Graaff generator is zero when the dome is\nA. charged\nB. uncharged\nC. Either of these\nD. Neither of these\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "60": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The redness of a sunrise or sunset is due mostly to light that hasn\u2019t been\nA. absorbed\nB. transmitted\nC. scattered\nD. polarized\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "61": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When a nucleus of uranium-238 emits an alpha particle, left behind is\nA. thorium-242\nB. thorium-238\nC. thorium-234\nD. radium-214\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "62": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The Doppler effect occurs when a source of sound moves\nA. toward you\nB. away from you\nC. Both of these\nD. None of these\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "63": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When a proton is plucked from an atomic nucleus, the atom has a decrease in\nA. charge\nB. energy\nC. mass\nD. all of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "64": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: If the Sun were twice as massive, its pull on Mars would be\nA. unchanged\nB. twice as much\nC. half as much\nD. four times as much\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "65": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: During the time an aircraft produces a sonic boom the aircraft is\nA. breaking the sound barrier\nB. pulling out of a subsonic dive\nC. flying faster than sound\nD. Each of these produces a sonic boom\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "66": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When food is exposed to gamma radiation, the food\nA. becomes slightly radioactive\nB. doesn\u2019t become radioactive\nC. will spoil faster\nD. should be avoided\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "67": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The red glow in the neon tube of an advertising sign is a result of\nA. fluorescence.\nB. coherence.\nC. polarization.\nD. de-excitation.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "68": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Light that is not transmitted by opaque materials is\nA. reflected or converted to internal energy in the material.\nB. mainly reflected.\nC. mainly refracted.\nD. transmitted at a lower frequency.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "69": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Imagine you're standing on the surface of a shrinking planet. If it shrinks to one-tenth its original diameter with no change in mass on the shrunken surface you'd weigh\nA. 1/100 as much\nB. 10 times as much\nC. 100 times as much\nD. 1000 times as much\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "70": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A magnetic force acting on a beam of electrons can change its\nA. direction\nB. energy\nC. Both of these\nD. Neither of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "71": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Microscopic slush in water tends to make the water\nA. more dense\nB. less dense\nC. more slippery\nD. warmer\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "72": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The speed of sound in air depends on\nA. frequency.\nB. wavelength.\nC. air temperature.\nD. All of these.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "73": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Heat comes from the Sun to Earth by the process of\nA. conduction\nB. convection\nC. radiation\nD. All of these, although radiation is greatest\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "74": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A torque is a force\nA. like any other force\nB. multiplied by a lever arm\nC. that is fictitious\nD. that accelerates things\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "75": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: All of the following are electromagnetic waves EXCEPT\nA. microwaves\nB. light waves\nC. X-rays\nD. None is outside the family; all are electromagnetic waves\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "76": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Big brother and little sister can balance on a seesaw because of balanced\nA. forces\nB. torques\nC. energies\nD. All of these\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "77": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Any atom that emits an alpha particle or beta particle\nA. becomes an atom of a different element always.\nB. may become an atom of a different element.\nC. becomes a different isotope of the same element.\nD. increases its mass.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "78": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Regelation occurs due to water\u2019s\nA. high specific heat\nB. open-structured ice crystals\nC. high rate of expansion\nD. slight tendency to freeze when its temperature is lowered\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "79": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A big fish swims upon and swallows a small fish that is at rest. Right after lunch, the fattened big fish has a change in\nA. speed\nB. momentum\nC. Both\nD. Neither\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "80": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A capacitor can store\nA. charge\nB. energy\nC. Both of these\nD. Neither of these\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "81": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: For a tube closed at one end, the length of the tube at a frequency of 256 Hz will be\nA. one-quarter the value for a tube open at both ends\nB. one-half the value for a tube open at both ends\nC. twice the value for a tube open at both ends\nD. four times the value for a tube open at both ends\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "82": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The period of a 10-Hz wave is\nA. 1/10 s\nB. 1.0 s\nC. 10 s\nD. None of these\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "83": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: If the Sun collapsed to become a black hole Planet Earth would\nA. continue in its present orbit.\nB. likely be sucked into the black hole.\nC. be pulled apart by tidal forces.\nD. Both C and D.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "84": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The electric field between a pair of oppositely charged parallel plates\nA. gets weaker with distance inside the plates\nB. follows the inverse-square law\nC. Both of these\nD. Neither of these\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "85": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The flight of a blimp best illustrates\nA. Archimedes\u2019 principle\nB. Pascal\u2019s principle\nC. Bernoulli\u2019s principle\nD. Boyle\u2019s law\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "86": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The distance of your image behind a plane mirror is equal to\nA. half your height\nB. half your distance from the mirror\nC. your distance in front of the mirror\nD. more than your distance in front of the mirror\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "87": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The discrete orbits of electrons are best understood when modeled by\nA. high-speed particles\nB. particles on springs\nC. waves\nD. photons\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "88": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Heat engines, such as a jet engine, are more efficient when run at\nA. high temperatures\nB. constant temperatures\nC. low temperatures\nD. a constant rate\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "89": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The phenomenon of interference occurs for\nA. sound waves\nB. light waves\nC. Both of these\nD. Neither of these\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "90": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: As more lamps are connected in a series circuit the current in the power source\nA. increases.\nB. decreases.\nC. remains much the same.\nD. Need more information.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "91": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When you buy a pipe in a hardware store, the water isn\u2019t included. When you buy copper wire, electrons\nA. must be supplied by you\nB. are included in the wire\nC. may fall out\u2014hence insulation\nD. None of these\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "92": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When a uranium nucleus undergoes fission the energy released is primarily in the form of\nA. gamma radiation.\nB. kinetic energy of fission fragments.\nC. kinetic energy of ejected neutrons.\nD. All of these about equally.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "93": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Most of the radiation in Earth\u2019s biosphere is\nA. natural background radiation\nB. the result of military activities\nC. from nuclear power plants\nD. in the form of cosmic rays\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "94": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When white light enters a prism green light is bent more than\nA. blue light.\nB. violet light.\nC. red light.\nD. None of these choices is correct.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "95": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When a ball at rest hangs by a single vertical string tension in the string is mg. If the ball is made to move in amhorizontal circle so that the string describes a cone string tension\nA. is mg\nB. is greater than mg always\nC. is less than mg always\nD. may be greater or less than mg depending on the speed of the ball\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "96": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When a tin can is whirled in a horizontal circle, the net force on the can acts\nA. inward\nB. outward\nC. upward\nD. None of these\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "97": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The highest ocean tides occur when Earth and the Moon are\nA. lined up with the Sun\nB. at right angles to the Sun\nC. at any angle to the Sun\nD. lined up during spring\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "98": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Lift a 100-N crate with an ideal pulley system by pulling a rope downward with 25 N of force. For every 1-m length of rope pulled down, the crate rises\nA. 25 cm\nB. 25 m\nC. 50 cm\nD. None of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "99": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Hot sand cools off faster at night than does vegetation. Compared with vegetation, sand\u2019s specific heat capacity is\nA. lower\nB. higher\nC. about the same\nD. Can\u2019t say\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "100": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The color of light most intense in the solar radiation curve is\nA. infrared\nB. red\nC. yellow-green\nD. violet\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "101": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: If the current in the filament of a lamp is 3 A, the current in the connecting wire is\nA. less than 3 A\nB. 3 A\nC. more than 3 A\nD. Not enough information to say\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "102": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: If two protons and two neutrons are removed from the nucleus of neon-20, a nucleus of which element remains?\nA. Magnesium-22\nB. Magnesium-20\nC. Oxygen-18\nD. Oxygen-16\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "103": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: If a star that is 20 light-years from Earth explodes, gravitational waves from the explosion would reach Earth in\nA. less than 20 years.\nB. 20 years.\nC. more than 20 years.\nD. None of these.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "104": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: In a mixture of hydrogen, oxygen, and nitrogen gases at a given temperature, the fastest molecules on average are those of\nA. hydrogen\nB. oxygen\nC. nitrogen\nD. All have same average speed\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "105": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The mutual induction of electric and magnetic fields can produce\nA. light\nB. energy\nC. Both of these\nD. Neither of these\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "106": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When a model car speeds up to three times its original speed, its kinetic energy is\nA. the same\nB. twice as great\nC. three times greater\nD. None of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "107": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: If an iron nucleus split in two, its fission fragments would have\nA. less mass per nucleon\nB. more mass per nucleon\nC. the same mass per nucleon\nD. either more or less mass per nucleon\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "108": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The surface of Planet Earth loses energy to outer space due mostly to\nA. conduction.\nB. convection.\nC. radiation.\nD. radioactivity.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "109": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The direction of natural processes is from states of\nA. higher order to lower order\nB. lower order to higher order\nC. disorganization to organization\nD. disorder to equilibrium\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "110": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A principal source of the Earth\u2019s internal energy is\nA. tidal friction.\nB. gravitational pressure.\nC. radioactivity.\nD. solar radiation.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "111": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A diffraction grating relies on light\nA. interference\nB. amplitudes\nC. variations in brightness\nD. being composed of photons\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "112": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A satellite in Earth orbit is above Earth\u2019s\nA. atmosphere\nB. gravitational field\nC. Both\nD. Neither\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "113": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The time it takes for a pendulum swinging to and fro refers to its\nA. frequency\nB. period\nC. wavelength\nD. amplitude\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "114": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: As entropy in a system increases, energy in the system\nA. becomes more ordered\nB. becomes less ordered\nC. reaches equilibrium\nD. moves toward destruction\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "115": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When water changes to steam, energy is\nA. absorbed by the water\nB. released by the water\nC. conserved as the phase change occurs\nD. changed to a different form\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "116": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: According to Coulomb, a pair of charged particles placed twice as close to each other experience a force\nA. twice as strong\nB. four times as strong\nC. half as strong\nD. one-fourth as strong\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "117": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The factors, both of which will increase the magnetic field strength of an electromagnet, are\nA. increased electrical current and fewer coils of wire\nB. increased diameter of coil and an increase in the number of coils\nC. an increase in the electrical current and using a strong ferromagnetic material like iron\nD. using an air core instead of iron and increasing the diameter of the coil\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "118": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The team that wins in a tug-of-war is the team that\nA. produces more tension in the rope than the opponent\nB. pushes hardest on the ground\nC. Both\nD. Neither\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "119": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Which type of radiation from cosmic sources predominates on the inside of high-flying commercial airplanes?\nA. Alpha\nB. Beta\nC. Gamma\nD. None of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "120": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Thermal convection involves mainly\nA. radiant energy\nB. fluids\nC. insulators\nD. All of these\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "121": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A 10-\u03a9 resistor carries 10 A. The voltage across the resistor is\nA. 0\nB. more than 0 but less than 10 V\nC. 10 V\nD. more than 10 V\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "122": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A cannonball is fired horizontally at 10 m/s from a cliff. Its speed one second after being fired is about\nA. 10 m/s\nB. 14 m/s\nC. 16 m/s\nD. 20 m/s\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "123": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The average speed of a gazelle traveling a distance of 2 km in a time of one-half hour is\nA. 1 km/h\nB. 2 km/h\nC. 4 km/h\nD. greater than 4 km/h\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "124": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The metal detectors people walk through at airports operate via\nA. Ohm\u2019s law\nB. Faraday\u2019s law\nC. Coulomb\u2019s law\nD. Newton\u2019s laws\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "125": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Sound travels in\nA. solids\nB. liquids\nC. gases\nD. All of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "126": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When a fusion reaction converts a pair of hydrogen isotopes to an alpha particle and a neutron most of the energy released is in the form of\nA. gamma radiation.\nB. kinetic energy of the alpha particle.\nC. kinetic energy of the neutron.\nD. All of these about equally.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "127": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Polarization is a property of\nA. transverse waves.\nB. longitudinal waves.\nC. all waves.\nD. None of these.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "128": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The phenomenon of beats results from sound\nA. reflection.\nB. refraction.\nC. interference.\nD. All of these.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "129": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The lowest possible temperature is absolute zero, at\nA. 0 kelvin\nB. \u2212273\u00b0C\nC. Both are the same\nD. None of these\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "130": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Refraction occurs when a wave crosses a boundary and changes\nA. speed and direction\nB. intensity\nC. frequency\nD. amplitude\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "131": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When you tap a piece of wood, it will produce a characteristic sound related to its\nA. wavelength\nB. amplitude\nC. period\nD. natural frequency\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "132": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When wind speeds up as it blows over the top of a hill, atmospheric pressure there\nA. increases\nB. decreases\nC. isn\u2019t affected\nD. reduces to zero\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "133": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When white light passes through a prism, the light that bends more than green is\nA. red\nB. yellow\nC. blue\nD. None of these\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "134": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: If you travel at high speed, then compared with your friends who \u201cstay at home,\u201d you are\nA. older.\nB. younger.\nC. neither younger nor older.\nD. longer.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "135": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The component of velocity that can remain constant for a tossed baseball is\nA. horizontal\nB. vertical\nC. Either of these\nD. None of these\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "136": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The crystals that make up minerals are composed of\nA. atoms with a definite geometrical arrangement.\nB. molecules that perpetually move.\nC. X-ray patterns.\nD. 3-dimensional chessboards.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "137": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Two vectors, one 3 N and the other 4 N, can have a resultant of\nA. 0 N\nB. 5 N\nC. 8 N\nD. Any of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "138": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Radioactivity has been around on Earth since the\nA. middle of the 1900s\nB. Industrial Revolution\nC. advent of medical technology\nD. Earth formed\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "139": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When the shadow of the Moon falls on Earth, we have a\nA. lunar eclipse.\nB. solar eclipse.\nC. solar eclipse if it\u2019s daytime and lunar eclipse if it\u2019s nighttime.\nD. very dangerous event.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "140": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: In both fission and fusion, energy is released while mass\nA. decreases\nB. remains unchanged; is conserved\nC. increases\nD. may decrease or increase\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "141": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When relatively slow-moving molecules condense from the air, the temperature of the remaining air tends to\nA. remain unchanged\nB. decrease\nC. increase\nD. spread out uniformly\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "142": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: If the volume of an object were to double, with no change in mass, its density would\nA. halve.\nB. double.\nC. be the same.\nD. None of these.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "143": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The pressure at the bottom of a pond does NOT depend on the\nA. acceleration due to gravity.\nB. water density.\nC. depth of the pond.\nD. surface area of the pond.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "144": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The blueness of the daytime sky is due mostly to light\nA. absorption\nB. transmission\nC. reflection\nD. scattering\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "145": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A galvanometer can be calibrated to read electric\nA. current\nB. voltage\nC. Either of these\nD. Neither of these\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "146": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Which of these temperatures is likely when a container of water at 20\u00b0C is mixed with water at 28\u00b0C?\nA. 19\u00b0C\nB. 22\u00b0C\nC. 30\u00b0C\nD. Higher than 30\u00b0C\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "147": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: To view your full-face image in a steamy mirror compared with the height of your face the minimum height of the patch to wipe away is\nA. one-quarter.\nB. one-half.\nC. the same.\nD. dependent on your distance from the mirror.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "148": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The vibrations in a transverse wave move in a direction\nA. along the wave\nB. perpendicular to the wave\nC. Both of these\nD. Neither of these\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "149": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A 1134-Hz tuning fork is sounded at the same time a piano note is struck. You hear three beats per second. The frequency of the piano string is\nA. 1131 Hz\nB. 1134 Hz\nC. 1137 Hz\nD. More information is needed\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "150": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Huygens\u2019 principle for light is primarily described by\nA. waves\nB. rays\nC. particles\nD. photons\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "151": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When the temperature of a strip of iron is increased, the length of the strip\nA. also increases.\nB. actually decreases.\nC. may increase and may decrease.\nD. decreases in width as it gets longer.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "152": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When light undergoes interference, it can sometimes\nA. build up to more than the sum of amplitudes\nB. cancel completely\nC. Both of these\nD. Neither of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "153": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When the color yellow is seen on your TV screen the phosphors being activated on the screen are\nA. mainly yellow.\nB. blue and red.\nC. green and yellow.\nD. red and green.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "154": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Which of these does NOT belong in the family of electromagnetic waves?\nA. Light\nB. Sound\nC. Radio waves\nD. X-rays\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "155": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A math book and a physics book sitting on a table are tied together with a length of string. With the string taut one book is pushed off the edge of the table. As it falls the other book is dragged horizontally across the table surface. With no friction acceleration of the books is\nA. zero\nB. g/2\nC. g\nD. a value between zero and g\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "156": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A motor and a generator are\nA. similar devices\nB. very different devices\nC. forms of transformers\nD. energy sources\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "157": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: As more lamps are connected in parallel in a circuit the current in the power source\nA. increases.\nB. decreases.\nC. remains much the same.\nD. Need more information.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "158": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Newton\u2019s law of cooling applies to objects that\nA. cool\nB. warm up\nC. Both\nD. Neither\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "159": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The fact that the Moon always shows its same face to Earth is evidence that the Moon rotates about its axis about once per\nA. day\nB. month\nC. year\nD. None of these for the moon does not rotate about an axis\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "160": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Consider a ball rolling in a horizontal circular path on the inside surface of a cone. The normal force on the ball\nA. is mg\nB. is greater than mg always\nC. may be greater or less than mg\nD. is less than mg always\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "161": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The compressions and rarefactions in sound normally travel\nA. in the same direction\nB. in opposite directions\nC. at right angles to each other\nD. None of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "162": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The power required to raise a 100-kg crate a vertical distance of 2 m in a time of 4 s is\nA. 200 W\nB. 500 W\nC. 800 W\nD. 2000 W\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "163": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The phenomenon of beats is the result of sound\nA. destruction\nB. interference\nC. resonance\nD. amplification\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "164": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Interference is characteristic of\nA. sound waves\nB. light waves\nC. water waves\nD. All of these\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "165": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: In either a fission event or a fusion event, a quantity that remains unchanged is the\nA. kinetic energy\nB. mass\nC. number of nucleons\nD. binding of nucleons\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "166": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The magnetic force on a moving charged particle can change the particle's\nA. speed\nB. direction\nC. Both of these\nD. Neither of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "167": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: If you were to travel at a speed close to the speed of light, you could notice that your own\nA. mass changes.\nB. pulse decreases.\nC. Both of these.\nD. Neither of these.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "168": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Electricity and magnetism connect to form\nA. mass\nB. energy\nC. ultrahigh-frequency sound\nD. light\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "169": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Sound travels in air by a series of\nA. compressions\nB. rarefactions\nC. Both of these\nD. Neither of these\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "170": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When a cannonball is fired from a cannon, both the cannonball and the cannon experience equal\nA. amounts of force\nB. accelerations\nC. Both\nD. Neither\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "171": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The nucleus of an electrically neutral iron atom contains 26 protons. The number of electrons this iron atom has is\nA. 52\nB. 26\nC. 24\nD. None.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "172": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: To say that a rose petal is red is to say that it\nA. absorbs red\nB. reflects red\nC. emits red\nD. transmits red\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "173": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Compared with a sound of 60 decibels, a sound of 80 decibels has an intensity\nA. 10 times greater\nB. 100 times greater\nC. 1000 times greater\nD. more than 1000 times greater\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "174": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When red and blue light are overlapped, the color produced is\nA. magenta\nB. yellow\nC. cyan\nD. white\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "175": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When 100 J are put into a device that puts out 40 J of useful work, the efficiency of the device is\nA. 40%\nB. 50%\nC. 60%\nD. 140%\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "176": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Shock waves are produced by waves of sound\nA. overlapping one another\nB. constructively interfering\nC. moving slower than the source producing them\nD. All of these\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "177": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A rock suspended by a weighing scale weighs 5 N out of water and 3 N when submerged in water. What is the buoyant force on the rock?\nA. 3 N\nB. 5 N\nC. 8 N\nD. None of these\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "178": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The work done on a 100-kg crate that is hoisted 2 m in a time of 4 s is\nA. 200 J\nB. 500 J\nC. 800 J\nD. 2000 J\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "179": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A capacitor loses half its remaining charge every second. If after five seconds its charge is q what was its initial charge?\nA. 4q.\nB. 8q.\nC. 16q.\nD. 32q.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "180": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The mass of an atom comes mostly from its _ ; and its volume from its _.\nA. nucleons; nucleons.\nB. electrons; electrons.\nC. electrons; nucleons.\nD. nucleons; electrons.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "181": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The definition of magnetic inclination is the angle between\nA. magnetic north and geographic north\nB. magnetic north and geographic south\nC. the earth\u2019s magnetic field at any point and the vertical\nD. the earth\u2019s magnetic field at any point and the horizontal\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "182": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The pitch of a sound is mostly related to its\nA. intensity\nB. frequency\nC. amplitude\nD. speed\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "183": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: As more lamps are connected to a series circuit, the current in the power source\nA. increases\nB. decreases\nC. remains the same\nD. None of these\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "184": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When an element ejects an alpha particle, the mass number of the resulting element\nA. reduces by 2\nB. reduces by 4\nC. increases by 2\nD. increases by 4\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "185": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: An electron can be speeded up by\nA. an electric field\nB. a magnetic field\nC. Both of these\nD. Neither of these\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "186": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A certain element emits 1 alpha particle, and its products then emit 2 beta particles in succession. The atomic number of the resulting element is changed by\nA. zero\nB. minus 1\nC. minus 2\nD. plus 1\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "187": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When an object is set vibrating by a wave that has a matching frequency, what occurs is\nA. forced vibration\nB. resonance\nC. refraction\nD. amplitude reduction\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "188": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The red glow in the neon tube of an advertising sign is a result of\nA. fluorescence\nB. incandescence\nC. de-excitation\nD. polarization\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "189": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: At very high speeds, an object appears to an observer at rest to be\nA. shorter in the direction of travel.\nB. shrunken in all directions.\nC. shorter in the direction perpendicular to travel.\nD. longer in all directions.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "190": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When a wave moves from shallow water to deep water, the\nA. frequency decreases, the wavelength increases, and the speed increases\nB. frequency does not change, the wavelength increases, and the speed increases\nC. frequency does not change, the wavelength decreases, and the speed decreases\nD. frequency does not change, the wavelength increases, and the speed decreases\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "191": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When you drop a ball from rest it accelerates downward at 9.8 m/s^2. If you instead throw it downward assuming no air resistance its acceleration immediately after leaving your hand is\nA. 9.8 m/s2\nB. more than 9.8 m/s2\nC. less than 9.8 m/s2\nD. Cannot say unless the speed of throw is given.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "192": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Carbon-14 is primarily produced by cosmic radiation in the\nA. atmosphere\nB. food we eat\nC. Earth\u2019s interior\nD. fallout of nuclear bomb tests\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "193": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Chain reactions in a fission reactor are caused by\nA. kinetic energy\nB. energy conversion\nC. mass conversion\nD. ejected neutrons\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "194": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Satellites in circular Earth orbit maintain a constant speed because gravitational force on them is\nA. zero\nB. practically zero\nC. appreciably weaker than at Earth\u2019s surface\nD. without a component of force along their circular path\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "195": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The complementary color of blue is\nA. magenta\nB. yellow\nC. cyan\nD. white\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "196": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The difference between dc and ac in electric circuits is that in dc, charges flow\nA. steadily in one direction\nB. in one direction\nC. to and fro\nD. All of these\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "197": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: To receive an electric shock there must be a\nA. current in one direction.\nB. presence of moisture.\nC. high voltage and low body resistance.\nD. voltage difference across part or all of your body.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "198": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A karate chop delivers a force of 3000 N to a board that breaks. The force that the board exerts on the hand during this event is\nA. less than 3000 N\nB. 3000 N\nC. greater than 3000 N\nD. Need more information\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "199": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Find the speed of a wave by multiplying its frequency by its\nA. period\nB. wavelength\nC. amplitude\nD. None of these\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "200": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The magnitude of the gravitational force on a satellite is constant if the orbit is\nA. parabolic\nB. circular\nC. elliptical\nD. All of these\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "201": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The impulse\u2013momentum relationship is a direct result of Newton\u2019s\nA. first law\nB. second law\nC. third law\nD. law of gravity\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "202": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A common nuclear fission reactor\nA. heats water\nB. generates electricity directly\nC. gets energy from nothing\nD. is a major polluter of the atmosphere\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "203": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The process of boiling water tends to\nA. warm the water\nB. cool the water\nC. Both\nD. Neither\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "204": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When you scale up an object to 3 times its linear size, the surface area increases by\nA. 3 and the volume by 9.\nB. 3 and the volume by 27.\nC. 9 and the volume by 27.\nD. 4 and the volume by 8.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "205": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: If you change the magnetic field in a closed loop of wire, what is created in the loop is a(n)\nA. current\nB. voltage\nC. electric field\nD. All of these\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "206": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Clocks on a fast-moving spaceship whizzing past Earth appear to run slow when viewed from\nA. inside the spaceship.\nB. Earth.\nC. Both of these.\nD. Neither of these.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "207": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The model of light most supported by the photoelectric effect is the\nA. wave model\nB. particle model\nC. Both of these\nD. Neither of these\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "208": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Compared with a fundamental tone, the frequency of its second harmonic is\nA. half as much\nB. twice as much\nC. the same\nD. four times as much\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "209": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A string is plucked producing four loops (antinodes). The length of the string is 12.00 m. The wavelength of the wave must be\nA. 48.0 m\nB. 24.0 m\nC. 6.00 m\nD. 3.00 m\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "210": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: During the time an aircraft produces a sonic boom, the aircraft is\nA. breaking the sound barrier\nB. pulling out of a subsonic dive\nC. flying faster than sound\nD. All of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "211": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The principal source of Earth\u2019s internal energy is\nA. tidal friction\nB. gravitational pressure\nC. radioactivity\nD. geothermal heat\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "212": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When you brush your hair and scrape electrons from your hair, the charge of your hair becomes\nA. positive\nB. negative\nC. Both of these\nD. Neither of these\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "213": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Astrophysicists are able to identify the elements in the outer layers of a star by studying its\nA. Doppler effect.\nB. molecular structure.\nC. temperature.\nD. spectrum.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "214": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Relativistic equations for time dilation length contraction and relativistic momentum and energy hold true\nA. at speeds near that of light.\nB. at everyday low speeds.\nC. at all speeds.\nD. only approximately.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "215": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: In his special theory of relativity, Einstein stated that the laws of physics are\nA. different in different situations.\nB. common sense applied to microscopic and macroscopic things.\nC. the same in all frames of reference.\nD. the same in all uniformly moving frames of reference.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "216": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When an element ejects a beta particle, the atomic number of that element\nA. reduces by 1\nB. increases by 1\nC. reduces by 2\nD. increases by 2\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "217": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The amount of heat transferred to a system can be measured in\nA. calories\nB. joules\nC. Either\nD. Neither\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "218": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Compared with the sound you hear from the siren of a stationary fire engine, its sound when it approaches you has an increased\nA. speed\nB. frequency\nC. Both of these\nD. Neither of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "219": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Light reflecting from a smooth surface undergoes a change in\nA. frequency.\nB. wavelength.\nC. All of these.\nD. None of these.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "220": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: What Einstein discovered about space and time is that they\nA. are separate entities.\nB. are parts of one whole.\nC. follow an inverse-square law.\nD. are special to space travelers.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "221": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: All parts of a laser beam have the same\nA. frequency\nB. phase\nC. speed\nD. All of these\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "222": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The rotational inertia of an object is greater when most of the mass is located\nA. near the rotational axis\nB. away from the axis\nC. on the rotational axis\nD. off center\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "223": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When small pieces of material are assembled into a larger piece, the combined surface area\nA. greatly increases\nB. slightly increases\nC. decreases\nD. is unchanged\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "224": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A rainbow is the result of light in raindrops that undergoes\nA. internal reflection\nB. dispersion\nC. refraction\nD. All of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "225": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: In the atomic nucleus, electrical forces tend to\nA. hold particles together\nB. push particles apart\nC. produce orbital motion\nD. charge particles\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "226": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The fact that the acceleration of free fall is the same for all masses is explained by Newton\u2019s\nA. first law\nB. second law\nC. third law\nD. law of action\u2013reaction\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "227": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Compared with radiation from the Sun, terrestrial radiation has a lower\nA. wavelength\nB. frequency\nC. Both\nD. Neither\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "228": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When we speak of time dilation, we mean that time\nA. compresses with speed.\nB. stretches with speed.\nC. is a constant at all speeds.\nD. is related to space.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "229": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: The magnetic field lines about a current-carrying wire form\nA. circles\nB. radial lines\nC. eddy currents\nD. energy loops\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "230": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: An inflated balloon with a heavy rock tied to it is dropped into a deep lake. As the balloon sinks deeper and deeper the buoyant force acting on it\nA. increases.\nB. decreases.\nC. remains largely unchanged.\nD. Need more information.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "231": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A radioactive sample has a half-life of 1 hour. If we start with 1.000 gram of it at noon, how much remains at 3:00 pm?\nA. 0.50 g\nB. 0.25 g\nC. 0.125 g\nD. 0.0625 g\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "232": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: Boiling and freezing occur when water is subjected to\nA. decreased temperatures\nB. decreased atmospheric pressure\nC. increased temperatures\nD. increased atmospheric pressure\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "233": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: When you bend the branch of a tree by hanging on its end, the top side of the branch is under\nA. tension.\nB. compression.\nC. Both.\nD. Neither.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "234": {
+        "origin_prompt": "There is a single choice question about conceptual physics. Answer the question by replying A, B, C or D.\nQuestion: A simple and correct way to comprehend satellites orbiting Earth is to view them as\nA. balanced between gravitational and centripetal forces.\nB. beyond the main pull of Earth gravity.\nC. in mechanical equilibrium with a net force of zero.\nD. having sufficient tangential velocities to fall around rather than into Earth.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    }
+}

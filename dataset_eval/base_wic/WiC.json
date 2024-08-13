@@ -1,0 +1,3192 @@
+{
+    "0": {
+        "origin_prompt": "Sentence 1: An emerging professional class.\nSentence 2: Apologizing for losing your temper, even though you were badly provoked, showed real class.\nAre 'class' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "1": {
+        "origin_prompt": "Sentence 1: Businessmen of every stripe joined in opposition to the proposal.\nSentence 2: They earned their stripes in Kuwait.\nAre 'stripe' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "2": {
+        "origin_prompt": "Sentence 1: As he called the role he put a check mark by each student's name.\nSentence 2: A check on its dependability under stress.\nAre 'check' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "3": {
+        "origin_prompt": "Sentence 1: She gave her hair a quick brush.\nSentence 2: The dentist recommended two brushes a day.\nAre 'brush' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "4": {
+        "origin_prompt": "Sentence 1: The child's acquisition of language.\nSentence 2: That graphite tennis racquet is quite an acquisition.\nAre 'acquisition' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "5": {
+        "origin_prompt": "Sentence 1: A thing of the spirit.\nSentence 2: Things of the heart.\nAre 'thing' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "6": {
+        "origin_prompt": "Sentence 1: The minister said a prayer on behalf of the entire congregation.\nSentence 2: Clergymen are usually called ministers in Protestant churches.\nAre 'minister' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "7": {
+        "origin_prompt": "Sentence 1: The very easiness of the deed held her back.\nSentence 2: There was an easiness between them.\nAre 'easiness' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "8": {
+        "origin_prompt": "Sentence 1: Sculpture in contradistinction to painting.\nSentence 2: We used hamburgers and soda in contradistinction to healthy food.\nAre 'contradistinction' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "9": {
+        "origin_prompt": "Sentence 1: Canadian tariffs enabled United States lumber companies to raise prices at home.\nSentence 2: His home is New Jersey.\nAre 'home' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "10": {
+        "origin_prompt": "Sentence 1: The alkaline inclination of the local waters.\nSentence 2: An inclination of his head indicated his agreement.\nAre 'inclination' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "11": {
+        "origin_prompt": "Sentence 1: An assurance of help when needed.\nSentence 2: His assurance in his superiority did not make him popular.\nAre 'assurance' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "12": {
+        "origin_prompt": "Sentence 1: The relief pitcher got credit for a save.\nSentence 2: The goalie made a brilliant save.\nAre 'save' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "13": {
+        "origin_prompt": "Sentence 1: He got a bang on the head.\nSentence 2: They got a great bang out of it.\nAre 'bang' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "14": {
+        "origin_prompt": "Sentence 1: She felt a tremor in her stomach before going on stage.\nSentence 2: Did you feel the tremor this morning?\nAre 'tremor' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "15": {
+        "origin_prompt": "Sentence 1: This situation developed in response to events in Africa.\nSentence 2: His responses have slowed with age.\nAre 'response' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "16": {
+        "origin_prompt": "Sentence 1: He could not touch the meaning of the poem.\nSentence 2: Helen Keller felt the physical world by touching people and objects around her.\nAre 'touch' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "17": {
+        "origin_prompt": "Sentence 1: Hail a cab.\nSentence 2: He was hailed as a hero.\nAre 'hail' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "18": {
+        "origin_prompt": "Sentence 1: He was concerned with rail safety.\nSentence 2: He traveled by rail.\nAre 'rail' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "19": {
+        "origin_prompt": "Sentence 1: Lack of imagination is an obstacle to one's advancement.\nSentence 2: The poverty of a district is an obstacle to good education.\nAre 'obstacle' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "20": {
+        "origin_prompt": "Sentence 1: Force socialization rarely creates strong friendships, but there are exceptions.\nSentence 2: There was too much socialization with the enlisted men.\nAre 'socialization' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "21": {
+        "origin_prompt": "Sentence 1: The strike was supported by the union rank and file.\nSentence 2: He rose from the ranks to become a colonel.\nAre 'rank' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "22": {
+        "origin_prompt": "Sentence 1: The stick does not bend.\nSentence 2: Bend your knees.\nAre 'bend' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "23": {
+        "origin_prompt": "Sentence 1: $50 won't even buy a dress.\nSentence 2: FMC has bought 565.\nAre 'buy' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "24": {
+        "origin_prompt": "Sentence 1: Youth everywhere rises in revolt.\nSentence 2: Her youth and beauty is what attracted him to her.\nAre 'youth' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "25": {
+        "origin_prompt": "Sentence 1: To lay a tax on land.\nSentence 2: Lay a responsibility on someone.\nAre 'lay' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "26": {
+        "origin_prompt": "Sentence 1: Leave lots of time for the trip.\nSentence 2: This leaves no room for improvement.\nAre 'leave' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "27": {
+        "origin_prompt": "Sentence 1: Students making aliyah.\nSentence 2: He was called on for an aliyah.\nAre 'aliyah' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "28": {
+        "origin_prompt": "Sentence 1: Violate the sanctity of the church.\nSentence 2: This sentence violates the rules of syntax.\nAre 'violate' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "29": {
+        "origin_prompt": "Sentence 1: An eyebrow pencil.\nSentence 2: This artist's favorite medium is pencil.\nAre 'pencil' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "30": {
+        "origin_prompt": "Sentence 1: An invasion of locusts.\nSentence 2: An invasion of tourists.\nAre 'invasion' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "31": {
+        "origin_prompt": "Sentence 1: Answer the question.\nSentence 2: She didn't want to answer.\nAre 'answer' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "32": {
+        "origin_prompt": "Sentence 1: The weather system of the Pacific is determined by the uninterrupted smoothness of the ocean.\nSentence 2: His oily smoothness concealed his guilt from the police.\nAre 'smoothness' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "33": {
+        "origin_prompt": "Sentence 1: The need for informational flexibility can lead to adhocracy.\nSentence 2: The choice between bureaucracy and adhocracy represents a common dilemma.\nAre 'adhocracy' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "34": {
+        "origin_prompt": "Sentence 1: The captain was obliged to allowance his crew.\nSentence 2: Our provisions were allowanced.\nAre 'allowance' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "35": {
+        "origin_prompt": "Sentence 1: Lie down on the bed until you feel better.\nSentence 2: She lied when she told me she was only 29.\nAre 'lie' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "36": {
+        "origin_prompt": "Sentence 1: He's a shtik crazy.\nSentence 2: How did you ever fall for a shtik like that?\nAre 'shtik' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "B"
+    },
+    "37": {
+        "origin_prompt": "Sentence 1: Which hinge is the squeaker?\nSentence 2: Those sneakers are squeakers.\nAre 'squeaker' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "38": {
+        "origin_prompt": "Sentence 1: He has a touch of rheumatism.\nSentence 2: He longed for the touch of her hand.\nAre 'touch' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "39": {
+        "origin_prompt": "Sentence 1: After the blizzard he shoveled the front walk.\nSentence 2: Walking is a healthy form of exercise.\nAre 'walk' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "40": {
+        "origin_prompt": "Sentence 1: If you average 10, 20 and 24, you get 18.\nSentence 2: The number of hours I work per work averages out to 40.\nAre 'average' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "41": {
+        "origin_prompt": "Sentence 1: The operator couldn't get Kobe because of the earthquake.\nSentence 2: I'll get this finished by lunchtime.\nAre 'get' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "42": {
+        "origin_prompt": "Sentence 1: The government must do its part.\nSentence 2: Religions in all parts of the world.\nAre 'part' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "43": {
+        "origin_prompt": "Sentence 1: I'll row out on the lake but stay within earshot.\nSentence 2: The children were told to stay within earshot.\nAre 'earshot' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "44": {
+        "origin_prompt": "Sentence 1: Strike an arc.\nSentence 2: The clock struck midnight.\nAre 'strike' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "45": {
+        "origin_prompt": "Sentence 1: His work established a new department of literature.\nSentence 2: Baking is not my department.\nAre 'department' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "46": {
+        "origin_prompt": "Sentence 1: The rug had a wide blue border.\nSentence 2: The borders of the garden.\nAre 'border' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "47": {
+        "origin_prompt": "Sentence 1: He made a great maneuver.\nSentence 2: Parallel parking can be a difficult maneuver.\nAre 'maneuver' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "48": {
+        "origin_prompt": "Sentence 1: A look of triumph.\nSentence 2: His look was fixed on her eyes.\nAre 'look' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "49": {
+        "origin_prompt": "Sentence 1: Excite the neurons.\nSentence 2: The fireworks which opened the festivities excited anyone present.\nAre 'excite' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "50": {
+        "origin_prompt": "Sentence 1: The plane made a smooth landing.\nSentence 2: His landing on his feet was catlike.\nAre 'landing' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "51": {
+        "origin_prompt": "Sentence 1: A strand of pearls.\nSentence 2: He tried to pick up the strands of his former life.\nAre 'strand' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "52": {
+        "origin_prompt": "Sentence 1: He trained at putting the shot.\nSentence 2: The shot flew twenty metres, and nearly landed on the judge's foot.\nAre 'shot' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "53": {
+        "origin_prompt": "Sentence 1: The invaders spread their language all over the country.\nSentence 2: A big oil spot spread across the water.\nAre 'spread' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "54": {
+        "origin_prompt": "Sentence 1: He was mistreated while in police custody.\nSentence 2: He is in the custody of police.\nAre 'custody' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "55": {
+        "origin_prompt": "Sentence 1: Plants from a cold clime travel best in winter.\nSentence 2: After working hard all of his life, Max retired to warmer climes in Florida.\nAre 'clime' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "56": {
+        "origin_prompt": "Sentence 1: The children began to clap in time with the music.\nSentence 2: The big bird clapped its wings.\nAre 'clap' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "57": {
+        "origin_prompt": "Sentence 1: It was the deliberation of his act that was insulting.\nSentence 2: The deliberations of the jury.\nAre 'deliberation' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "58": {
+        "origin_prompt": "Sentence 1: He tripled to the rightfield corner.\nSentence 2: The southeastern corner of the Mediterranean.\nAre 'corner' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "59": {
+        "origin_prompt": "Sentence 1: Misdirect the letter.\nSentence 2: The pedestrian misdirected the out-of-town driver.\nAre 'misdirect' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "60": {
+        "origin_prompt": "Sentence 1: What does the law say?\nSentence 2: The clock says noon.\nAre 'say' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "61": {
+        "origin_prompt": "Sentence 1: Configure a plane for a combat mission.\nSentence 2: Configure my new computer.\nAre 'configure' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "62": {
+        "origin_prompt": "Sentence 1: He wasted his pay on drink.\nSentence 2: Many employers have rules designed to keep employees from comparing their pays.\nAre 'pay' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "63": {
+        "origin_prompt": "Sentence 1: Tap a keg of beer.\nSentence 2: Tap a maple tree for its syrup.\nAre 'tap' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "64": {
+        "origin_prompt": "Sentence 1: Some languages sexualize all nouns and do not have a neuter gender.\nSentence 2: The god was sexualized and married to another god.\nAre 'sexualize' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "65": {
+        "origin_prompt": "Sentence 1: The board has seven members.\nSentence 2: He got out the board and set up the pieces.\nAre 'board' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "66": {
+        "origin_prompt": "Sentence 1: I need to update my records to take account of the most recent transaction.\nSentence 2: We updated the kitchen in the old house.\nAre 'update' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "67": {
+        "origin_prompt": "Sentence 1: Her reinstatement to her former office followed quickly.\nSentence 2: Many people are unhappy with the sacking of the chief constable and demand his immediate reinstatement.\nAre 'reinstatement' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "68": {
+        "origin_prompt": "Sentence 1: The belief that the world is flat is a falsity.\nSentence 2: Argument could not determine its truth or falsity.\nAre 'falsity' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "69": {
+        "origin_prompt": "Sentence 1: Higher wages caused an escalation of prices.\nSentence 2: There was a gradual escalation of hostilities.\nAre 'escalation' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "70": {
+        "origin_prompt": "Sentence 1: He practiced the art of sophistication upon reason.\nSentence 2: Understanding affine transformations requires considerable mathematical sophistication.\nAre 'sophistication' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "71": {
+        "origin_prompt": "Sentence 1: Her glasses left marks on the bridge of her nose.\nSentence 2: Rugby players often break the bridge of their noses.\nAre 'bridge' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "72": {
+        "origin_prompt": "Sentence 1: Put a little baking soda in some vinegar and watch what happens.\nSentence 2: The world is watching Sarajevo.\nAre 'watch' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "73": {
+        "origin_prompt": "Sentence 1: Grind lenses for glasses and cameras.\nSentence 2: Grind an axe.\nAre 'grind' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "74": {
+        "origin_prompt": "Sentence 1: It will avail them to dispose of their booty.\nSentence 2: He availed himself of the available resources.\nAre 'avail' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "75": {
+        "origin_prompt": "Sentence 1: That thing is a poor excuse for a gingerbread man. Hasn't anyone taught you how to bake?\nSentence 2: He's a sorry excuse of a doctor.\nAre 'excuse' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "A"
+    },
+    "76": {
+        "origin_prompt": "Sentence 1: The bald eagle is a denizen of the northern part of the state.\nSentence 2: The giant squid is one of many denizens of the deep.\nAre 'denizen' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "77": {
+        "origin_prompt": "Sentence 1: I need him to be nice.\nSentence 2: I needed him to go.\nAre 'need' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "78": {
+        "origin_prompt": "Sentence 1: She ordered some wine for the meal.\nSentence 2: Wine is stronger than beer.\nAre 'wine' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "79": {
+        "origin_prompt": "Sentence 1: Plan an attack.\nSentence 2: He plans to be in graduate school next year.\nAre 'plan' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "80": {
+        "origin_prompt": "Sentence 1: Gunny invariably tried to bite her.\nSentence 2: As soon as you bite that sandwich, you'll know how good it is.\nAre 'bite' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "81": {
+        "origin_prompt": "Sentence 1: Particle detectors sense ionization.\nSentence 2: She immediately sensed her disdain.\nAre 'sense' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "82": {
+        "origin_prompt": "Sentence 1: The explanation was very simple.\nSentence 2: The explanation was long and drawn-out.\nAre 'explanation' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "83": {
+        "origin_prompt": "Sentence 1: Slip into something comfortable.\nSentence 2: My grades are slipping.\nAre 'slip' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "84": {
+        "origin_prompt": "Sentence 1: He has been on relief for many years.\nSentence 2: Was the relief supposed to be protection from future harm or compensation for past injury?\nAre 'relief' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "85": {
+        "origin_prompt": "Sentence 1: She lost all her respect and authority after turning up drunk to the meeting.\nSentence 2: This book is the final authority on the life of Milton.\nAre 'authority' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "86": {
+        "origin_prompt": "Sentence 1: We decided to forge ahead with our plans even though our biggest underwriter backed out.\nSentence 2: He forged ahead.\nAre 'forge' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "87": {
+        "origin_prompt": "Sentence 1: A mule is a cross between a horse and a donkey.\nSentence 2: That is his cross to bear.\nAre 'cross' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "88": {
+        "origin_prompt": "Sentence 1: The game was interrupted by a brief shower.\nSentence 2: A little shower of rose petals.\nAre 'shower' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "89": {
+        "origin_prompt": "Sentence 1: They went bankrupt during the economic crisis.\nSentence 2: After the crisis the patient either dies or gets better.\nAre 'crisis' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "90": {
+        "origin_prompt": "Sentence 1: The diet of the Giant Panda consists mainly of bamboo.\nSentence 2: He's been reading a steady diet of nonfiction for the last several years.\nAre 'diet' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "91": {
+        "origin_prompt": "Sentence 1: A recrudescence of racism.\nSentence 2: A recrudescence of the symptoms.\nAre 'recrudescence' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "92": {
+        "origin_prompt": "Sentence 1: Leave your child the nurse's care.\nSentence 2: He left the decision to his deputy.\nAre 'leave' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "93": {
+        "origin_prompt": "Sentence 1: Incorporate this document with those pertaining to the same case.\nSentence 2: The company was incorporated in 1980.\nAre 'incorporate' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "94": {
+        "origin_prompt": "Sentence 1: The promulgation was written in English.\nSentence 2: His promulgation of the policy proved to be premature.\nAre 'promulgation' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "95": {
+        "origin_prompt": "Sentence 1: He could not conceal his hostility.\nSentence 2: He could no longer contain his hostility.\nAre 'hostility' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "96": {
+        "origin_prompt": "Sentence 1: They started at the bottom of the hill.\nSentence 2: They did much of their overseas trade in foreign bottoms.\nAre 'bottom' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "97": {
+        "origin_prompt": "Sentence 1: He's my best mate.\nSentence 2: I'm going to the pub with a few mates.\nAre 'mate' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "98": {
+        "origin_prompt": "Sentence 1: The publisher wants to distribute the book in Asia.\nSentence 2: The function distributes the values evenly.\nAre 'distribute' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "99": {
+        "origin_prompt": "Sentence 1: Rust remover.\nSentence 2: Paint remover.\nAre 'remover' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "100": {
+        "origin_prompt": "Sentence 1: The forwarding of resumes to the personnel department.\nSentence 2: The forwarding of mail to a new address is done automatically.\nAre 'forwarding' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "101": {
+        "origin_prompt": "Sentence 1: They worship in the traditional manner.\nSentence 2: Many Hindus worship Shiva.\nAre 'worship' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "102": {
+        "origin_prompt": "Sentence 1: They gave full play to the artist's talent.\nSentence 2: It was all done in play.\nAre 'play' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "103": {
+        "origin_prompt": "Sentence 1: Flush the meadows.\nSentence 2: The sky flushed with rosy splendor.\nAre 'flush' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "104": {
+        "origin_prompt": "Sentence 1: Probation is part of the sentencing process.\nSentence 2: You'll be on probation for first six months. After that, if you work out, they'll hire you permanently.\nAre 'probation' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "105": {
+        "origin_prompt": "Sentence 1: Their military is the largest in the region.\nSentence 2: He spent six years in the military.\nAre 'military' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "106": {
+        "origin_prompt": "Sentence 1: They had to consult before arriving at a decision.\nSentence 2: Consult your local broker.\nAre 'consult' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "107": {
+        "origin_prompt": "Sentence 1: A girl's education was less important than a boy's.\nSentence 2: Education is a preparation for life.\nAre 'education' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "108": {
+        "origin_prompt": "Sentence 1: At liberty to choose whatever occupation one wishes.\nSentence 2: Liberty to think or feel or do just as one pleases.\nAre 'liberty' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "109": {
+        "origin_prompt": "Sentence 1: Scientists often can not date precisely archeological or prehistorical findings.\nSentence 2: To date the building of the pyramids.\nAre 'date' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "110": {
+        "origin_prompt": "Sentence 1: Prices vary.\nSentence 2: His moods vary depending on the weather.\nAre 'vary' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "111": {
+        "origin_prompt": "Sentence 1: The breeze rustled the papers on her desk.\nSentence 2: The breeze was cooled by the lake.\nAre 'breeze' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "112": {
+        "origin_prompt": "Sentence 1: A subsidy for research in artificial intelligence.\nSentence 2: Manufacturing firms are supported by government subsidies in some countries.\nAre 'subsidy' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "113": {
+        "origin_prompt": "Sentence 1: Injustice is a heinous wrong.\nSentence 2: He feels that you are in the wrong.\nAre 'wrong' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "114": {
+        "origin_prompt": "Sentence 1: One aspect of Waterloo has not yet been treated in the literature.\nSentence 2: The technical literature.\nAre 'literature' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "115": {
+        "origin_prompt": "Sentence 1: Banish bad thoughts.\nSentence 2: Banish gloom.\nAre 'banish' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "116": {
+        "origin_prompt": "Sentence 1: Carve one's name into the bark.\nSentence 2: That chisel carved the statue.\nAre 'carve' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "117": {
+        "origin_prompt": "Sentence 1: -- Who's the caller?\nSentence 2: There were so many callers that he finally disconnected the telephone.\nAre 'caller' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "118": {
+        "origin_prompt": "Sentence 1: Time seems to drag when you're waiting for a bus.\nSentence 2: The speech dragged on for two hours.\nAre 'drag' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "119": {
+        "origin_prompt": "Sentence 1: After so much stress, he suffered a breakdown and simply gave up.\nSentence 2: His warning came after the breakdown of talks in London.\nAre 'breakdown' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nThe",
+        "gold": "B"
+    },
+    "120": {
+        "origin_prompt": "Sentence 1: Did you ever lecture at Harvard?\nSentence 2: She lectured to the class about her travels.\nAre 'lecture' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "121": {
+        "origin_prompt": "Sentence 1: A danger to all races over the whole circumference of the globe.\nSentence 2: He had walked the full circumference of his land.\nAre 'circumference' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "122": {
+        "origin_prompt": "Sentence 1: Choke a carburetor.\nSentence 2: This neckband is choking the cat.\nAre 'choke' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "123": {
+        "origin_prompt": "Sentence 1: Calibrate a gun.\nSentence 2: He calibrated the thermometer for the Celsius scale.\nAre 'calibrate' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "124": {
+        "origin_prompt": "Sentence 1: Did I fail the test?\nSentence 2: She studied hard but failed nevertheless.\nAre 'fail' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "125": {
+        "origin_prompt": "Sentence 1: You need to push quite hard to get this door open.\nSentence 2: Nora pushed through the crowd.\nAre 'push' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "126": {
+        "origin_prompt": "Sentence 1: It was a miracle that he survived the drop from that height.\nSentence 2: That was a long drop, but fortunately I didn't break any bones.\nAre 'drop' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "127": {
+        "origin_prompt": "Sentence 1: \"Among other native delicacies, they give you fresh char.\".\nSentence 2: \"I had to scrub the kitchen today, because the char couldn't come\".\nAre 'char' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "B"
+    },
+    "128": {
+        "origin_prompt": "Sentence 1: The bus was late so he missed his connection at Penn Station and had to wait six hours for the next train.\nSentence 2: The plane was late and he missed his connection in Atlanta.\nAre 'connection' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "129": {
+        "origin_prompt": "Sentence 1: They departed hurriedly because of some great urgency in their affairs.\nSentence 2: I'll be there, barring any urgencies.\nAre 'urgency' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "130": {
+        "origin_prompt": "Sentence 1: I am trying to contact my sister.\nSentence 2: He never contacted his children after he emigrated to Australia.\nAre 'contact' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "131": {
+        "origin_prompt": "Sentence 1: A surprising experience.\nSentence 2: Experience is the best teacher.\nAre 'experience' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "132": {
+        "origin_prompt": "Sentence 1: Segment a compound word.\nSentence 2: Segment an orange.\nAre 'segment' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "133": {
+        "origin_prompt": "Sentence 1: The floats and horses in the parade were impressive, but the marching bands were really amazing.\nSentence 2: She made a parade of her sorrows.\nAre 'parade' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "134": {
+        "origin_prompt": "Sentence 1: He needed a lot of power to hit the ball out of the stadium.\nSentence 2: The mysterious presence of an evil power.\nAre 'power' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "B"
+    },
+    "135": {
+        "origin_prompt": "Sentence 1: A valuable financial affiliation.\nSentence 2: Welcomed the affiliation of the research center with the university.\nAre 'affiliation' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "136": {
+        "origin_prompt": "Sentence 1: My weekly allowance of two eggs.\nSentence 2: Travel allowance.\nAre 'allowance' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "137": {
+        "origin_prompt": "Sentence 1: We opened a new branch in London.\nSentence 2: Our main branch is downtown.\nAre 'branch' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "138": {
+        "origin_prompt": "Sentence 1: Instant replay caused too long a delay.\nSentence 2: The delay before the echo of a sound.\nAre 'delay' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "139": {
+        "origin_prompt": "Sentence 1: The addition of a leap day every four years.\nSentence 2: The addition of a bathroom was a major improvement.\nAre 'addition' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "140": {
+        "origin_prompt": "Sentence 1: To liberate the mind from prejudice.\nSentence 2: To liberate gases.\nAre 'liberate' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "141": {
+        "origin_prompt": "Sentence 1: Bell cows.\nSentence 2: Who will bell the cat?\nAre 'bell' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "142": {
+        "origin_prompt": "Sentence 1: Disable this command on your computer.\nSentence 2: He was disabled in a car accident.\nAre 'disable' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "143": {
+        "origin_prompt": "Sentence 1: Please listen carefully as I explain.\nSentence 2: I like to listen to music.\nAre 'listen' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "144": {
+        "origin_prompt": "Sentence 1: Stop a car.\nSentence 2: Stop the thief.\nAre 'stop' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "145": {
+        "origin_prompt": "Sentence 1: Elections figure prominently in every government program.\nSentence 2: How do the elections figure in the current pattern of internal politics?\nAre 'figure' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "146": {
+        "origin_prompt": "Sentence 1: A marriage of ideas.\nSentence 2: The marriage of music and dance.\nAre 'marriage' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "147": {
+        "origin_prompt": "Sentence 1: The accident created a dimple in the hood of the car.\nSentence 2: There are approximately 336 dimples on a golf ball.\nAre 'dimple' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "148": {
+        "origin_prompt": "Sentence 1: The trailer for that movie makes it seem like it would be fun.\nSentence 2: At the end of the day, we put the snowmobiles back on the trailer.\nAre 'trailer' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "B"
+    },
+    "149": {
+        "origin_prompt": "Sentence 1: The intention of this legislation is to boost the economy.\nSentence 2: Good intentions are not enough.\nAre 'intention' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "150": {
+        "origin_prompt": "Sentence 1: Mandate a colony.\nSentence 2: The new director of the school board mandated regular tests.\nAre 'mandate' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "151": {
+        "origin_prompt": "Sentence 1: It was a long pull but we made it.\nSentence 2: He was sidelined with a hamstring pull.\nAre 'pull' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "152": {
+        "origin_prompt": "Sentence 1: Glaze the bread with eggwhite.\nSentence 2: The potter glazed the dishes.\nAre 'glaze' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "153": {
+        "origin_prompt": "Sentence 1: He was a familiar sight on the television.\nSentence 2: They went to Paris to see the sights.\nAre 'sight' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "154": {
+        "origin_prompt": "Sentence 1: Can I keep my old stuffed animals?\nSentence 2: She kept her maiden name after she married.\nAre 'keep' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "155": {
+        "origin_prompt": "Sentence 1: There was plenty of food for everyone.\nSentence 2: It must have cost plenty.\nAre 'plenty' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "156": {
+        "origin_prompt": "Sentence 1: The tyrant's oppression of the people.\nSentence 2: The oppression of the poor by the aristocracy was one cause of the French Revolution.\nAre 'oppression' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "157": {
+        "origin_prompt": "Sentence 1: Don't strain your mind too much.\nSentence 2: The rope strained when the weight was attached.\nAre 'strain' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "158": {
+        "origin_prompt": "Sentence 1: The news caused a sensation.\nSentence 2: A sensation of touch.\nAre 'sensation' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "159": {
+        "origin_prompt": "Sentence 1: Always a step behind.\nSentence 2: Keep in step with the fashions.\nAre 'step' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "160": {
+        "origin_prompt": "Sentence 1: Shoot cloth.\nSentence 2: Shoot a star.\nAre 'shoot' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "161": {
+        "origin_prompt": "Sentence 1: Hook a fish.\nSentence 2: He hooked a snake accidentally, and was so scared he dropped his rod into the water.\nAre 'hook' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "A"
+    },
+    "162": {
+        "origin_prompt": "Sentence 1: The homogenization of cream.\nSentence 2: The network's homogenization of political news.\nAre 'homogenization' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "163": {
+        "origin_prompt": "Sentence 1: The entire building complained about the noise.\nSentence 2: The building of the bridge will be completed in a couple of weeks.\nAre 'building' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "164": {
+        "origin_prompt": "Sentence 1: The relations between town and gown are always sensitive.\nSentence 2: In the perennial town versus gown battles, townies win some violent battles, but the collegians are winning the war.\nAre 'gown' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "165": {
+        "origin_prompt": "Sentence 1: The new car is a delight.\nSentence 2: His delight to see her was obvious to all.\nAre 'delight' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "166": {
+        "origin_prompt": "Sentence 1: The couple chose to solemnize their relationship in a secular ceremony, instead of having a wedding.\nSentence 2: The King solemnized this day of morning.\nAre 'solemnize' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "167": {
+        "origin_prompt": "Sentence 1: Scallop the hem of the dress.\nSentence 2: Scallop the meat.\nAre 'scallop' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "168": {
+        "origin_prompt": "Sentence 1: His success in the marathon was unexpected.\nSentence 2: The election was a remarkable success for the Whigs.\nAre 'success' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "169": {
+        "origin_prompt": "Sentence 1: The nap was a welcome refresher.\nSentence 2: He stopped at the bar for a quick refresher.\nAre 'refresher' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "170": {
+        "origin_prompt": "Sentence 1: Block the signals emitted by this station.\nSentence 2: The thick curtain blocked the action on the stage.\nAre 'block' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "171": {
+        "origin_prompt": "Sentence 1: Writing was a form of therapy for him.\nSentence 2: The idea occurs with increasing frequency in Hemingway's writings.\nAre 'writing' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "172": {
+        "origin_prompt": "Sentence 1: His studio was cramped when he began as an artist.\nSentence 2: You don't need a studio to make a passport photograph.\nAre 'studio' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "173": {
+        "origin_prompt": "Sentence 1: Harass the enemy.\nSentence 2: This man harasses his female co-workers.\nAre 'harass' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "174": {
+        "origin_prompt": "Sentence 1: The average cost of a new house is twice as much as t was 20 years ago.\nSentence 2: The total cost of the new complex was an estimated $1.5 million.\nAre 'cost' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "175": {
+        "origin_prompt": "Sentence 1: Dip the brush into the paint.\nSentence 2: She dipped her knee.\nAre 'dip' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "176": {
+        "origin_prompt": "Sentence 1: Fuel aircraft, ships, and cars.\nSentence 2: Fuel the debate on creationism.\nAre 'fuel' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "177": {
+        "origin_prompt": "Sentence 1: A lace frame.\nSentence 2: His starved flesh hung loosely on his once imposing frame.\nAre 'frame' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "178": {
+        "origin_prompt": "Sentence 1: Experiments show clearly that genes segregate.\nSentence 2: Many towns segregated into new counties.\nAre 'segregate' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "179": {
+        "origin_prompt": "Sentence 1: The main body of the sound ran parallel to the coast.\nSentence 2: He strained to hear the faint sounds.\nAre 'sound' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "180": {
+        "origin_prompt": "Sentence 1: That is the correct pronunciation.\nSentence 2: The pronunciation of Chinese is difficult for foreigners.\nAre 'pronunciation' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "A"
+    },
+    "181": {
+        "origin_prompt": "Sentence 1: Utter counterfeit currency.\nSentence 2: He uttered strange sounds that nobody could understand.\nAre 'utter' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "182": {
+        "origin_prompt": "Sentence 1: A joy to behold.\nSentence 2: The joys and demands of parenthood.\nAre 'joy' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "183": {
+        "origin_prompt": "Sentence 1: Guests should never be late to a dinner party.\nSentence 2: On Sundays they had a large dinner when they returned from church.\nAre 'dinner' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "184": {
+        "origin_prompt": "Sentence 1: I mess with the wardroom officers.\nSentence 2: The afternoon breeze messed up my hair.\nAre 'mess' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "185": {
+        "origin_prompt": "Sentence 1: The French treat food with gentle reverence.\nSentence 2: The Chinese reverence for the dead.\nAre 'reverence' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "186": {
+        "origin_prompt": "Sentence 1: Load a car.\nSentence 2: Load the truck with hay.\nAre 'load' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "187": {
+        "origin_prompt": "Sentence 1: She flossed her teeth.\nSentence 2: The hygienist flossed my teeth.\nAre 'floss' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "188": {
+        "origin_prompt": "Sentence 1: Printing at higher resolution will cause a reduction in performance.\nSentence 2: They never did achieve a final resolution of their differences.\nAre 'resolution' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "189": {
+        "origin_prompt": "Sentence 1: Threw down the gauntlet.\nSentence 2: Took up the gauntlet.\nAre 'gauntlet' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "190": {
+        "origin_prompt": "Sentence 1: Room and board.\nSentence 2: He nailed boards across the windows.\nAre 'board' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "191": {
+        "origin_prompt": "Sentence 1: Let's eliminate the course on Akkadian hieroglyphics.\nSentence 2: This possibility can be eliminated from our consideration.\nAre 'eliminate' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "192": {
+        "origin_prompt": "Sentence 1: He took a stab at forecasting.\nSentence 2: She felt a stab of excitement.\nAre 'stab' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "193": {
+        "origin_prompt": "Sentence 1: The kick must be synchronized with the arm movements.\nSentence 2: A sidecar is a smooth drink but it has a powerful kick.\nAre 'kick' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "B"
+    },
+    "194": {
+        "origin_prompt": "Sentence 1: The professionalization of warfare.\nSentence 2: The professionalization of American sports.\nAre 'professionalization' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "195": {
+        "origin_prompt": "Sentence 1: The linebackers were ready to stop a rush.\nSentence 2: Come back after the rush.\nAre 'rush' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "196": {
+        "origin_prompt": "Sentence 1: A generous tipper.\nSentence 2: The Americans are among the most generous tippers in the world.\nAre 'tipper' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "197": {
+        "origin_prompt": "Sentence 1: I seem to be misunderstood by everyone.\nSentence 2: There seems no reason to go ahead with the project now.\nAre 'seem' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "198": {
+        "origin_prompt": "Sentence 1: To bull railroad bonds.\nSentence 2: He bulled his way in.\nAre 'bull' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "199": {
+        "origin_prompt": "Sentence 1: A clothes horse.\nSentence 2: 500 horse led the attack.\nAre 'horse' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "200": {
+        "origin_prompt": "Sentence 1: The history of this work is discussed in the next section.\nSentence 2: A graduate student taught sections for the professor's lecture course.\nAre 'section' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "201": {
+        "origin_prompt": "Sentence 1: Shake the salt out of the salt shaker.\nSentence 2: His hands shook.\nAre 'shake' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "202": {
+        "origin_prompt": "Sentence 1: The politician wore a bright yellow button with the slogan \"Vote Smart\" emblazoned on it.\nSentence 2: They passed out campaign buttons for their candidate.\nAre 'button' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "A"
+    },
+    "203": {
+        "origin_prompt": "Sentence 1: To influence the arousal of brain and behavior.\nSentence 2: The purpose of art is the arousal of emotions.\nAre 'arousal' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "204": {
+        "origin_prompt": "Sentence 1: To pick rags.\nSentence 2: Don't always pick on your little brother.\nAre 'pick' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "205": {
+        "origin_prompt": "Sentence 1: Reline the paper.\nSentence 2: The old fur coat must be relined.\nAre 'reline' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "206": {
+        "origin_prompt": "Sentence 1: I vote that we all go home.\nSentence 2: She voted for going to the Chinese restaurant.\nAre 'vote' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "207": {
+        "origin_prompt": "Sentence 1: Burn a CD.\nSentence 2: My eyes are burning.\nAre 'burn' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "208": {
+        "origin_prompt": "Sentence 1: The superintendence and agency of Providence in the natural world. -- Woodward.\nSentence 2: The Central Intelligence Agency.\nAre 'agency' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "209": {
+        "origin_prompt": "Sentence 1: They swam in the nude.\nSentence 2: The marketing rule 'nude sells' spread from verbal to visual mainstream media in the 20th century.\nAre 'nude' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "210": {
+        "origin_prompt": "Sentence 1: He put the cup back in the saucer.\nSentence 2: The handle of the cup was missing.\nAre 'cup' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "211": {
+        "origin_prompt": "Sentence 1: The might have repercussions of unimaginable largeness.\nSentence 2: A man distinguished by the largeness and scope of his views.\nAre 'largeness' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "212": {
+        "origin_prompt": "Sentence 1: Limited runway capacity.\nSentence 2: He should be retained in his present capacity at a higher salary.\nAre 'capacity' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "213": {
+        "origin_prompt": "Sentence 1: Inject heroin.\nSentence 2: He injected new life into the performance.\nAre 'inject' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "214": {
+        "origin_prompt": "Sentence 1: The enemy had the advantage of a more elevated position.\nSentence 2: The experience gave him the advantage over me.\nAre 'advantage' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "215": {
+        "origin_prompt": "Sentence 1: The book tells the story of two roommates.\nSentence 2: Disney's stories entertain adults as well as children.\nAre 'story' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "216": {
+        "origin_prompt": "Sentence 1: The reappearance of Halley's comet.\nSentence 2: His reappearance as Hamlet has been long awaited.\nAre 'reappearance' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "217": {
+        "origin_prompt": "Sentence 1: You can characterize his behavior as that of an egotist.\nSentence 2: This poem can be characterized as a lament for a dead lover.\nAre 'characterize' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "218": {
+        "origin_prompt": "Sentence 1: Each club played six home games with teams in its own division.\nSentence 2: He played the drums at a jazz club.\nAre 'club' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "219": {
+        "origin_prompt": "Sentence 1: The carpenter who built this room must have lost his square.\nSentence 2: 64 is the square of 8.\nAre 'square' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "220": {
+        "origin_prompt": "Sentence 1: They set up camp next to the dig.\nSentence 2: She takes a dig at me every chance she gets.\nAre 'dig' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "221": {
+        "origin_prompt": "Sentence 1: Conditioning is a form of learning by association.\nSentence 2: Many close associations with England.\nAre 'association' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "222": {
+        "origin_prompt": "Sentence 1: The chemistry of indigo.\nSentence 2: The chemistry of iron.\nAre 'chemistry' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "223": {
+        "origin_prompt": "Sentence 1: He played the trumps in sequence.\nSentence 2: The doctor saw a sequence of patients.\nAre 'sequence' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "224": {
+        "origin_prompt": "Sentence 1: The impregnation of wood with preservative.\nSentence 2: The impregnation, whatever it was, had turned the rock blue.\nAre 'impregnation' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "225": {
+        "origin_prompt": "Sentence 1: She wants to act Lady Macbeth, but she is too young for the role.\nSentence 2: I started acting at the age of eleven in my local theatre.\nAre 'act' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "226": {
+        "origin_prompt": "Sentence 1: Recruit new soldiers.\nSentence 2: The lab director recruited an able crew of assistants.\nAre 'recruit' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "227": {
+        "origin_prompt": "Sentence 1: I know of the man; but have no acquaintance with him.\nSentence 2: I have trouble remembering the names of all my acquaintances.\nAre 'acquaintance' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "228": {
+        "origin_prompt": "Sentence 1: Bag a few pheasants.\nSentence 2: We bagged three deer yesterday.\nAre 'bag' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "229": {
+        "origin_prompt": "Sentence 1: Summer seems to last longer each year.\nSentence 2: The bad weather lasted for three days.\nAre 'last' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "230": {
+        "origin_prompt": "Sentence 1: Let's finalize the proposal.\nSentence 2: As soon as we get the plane tickets, we'll finalize our reservations with the hotel.\nAre 'finalize' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "231": {
+        "origin_prompt": "Sentence 1: Admit someone to the profession.\nSentence 2: She was admitted to the New Jersey Bar.\nAre 'admit' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "232": {
+        "origin_prompt": "Sentence 1: An executive or judical office.\nSentence 2: During his first year in office.\nAre 'office' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "233": {
+        "origin_prompt": "Sentence 1: They look the same in outward view.\nSentence 2: The most desirable feature of the park are the beautiful views.\nAre 'view' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "234": {
+        "origin_prompt": "Sentence 1: He was a tool, no more than a pawn to her.\nSentence 2: I don't have the right tools to start fiddling around with the engine.\nAre 'tool' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "B"
+    },
+    "235": {
+        "origin_prompt": "Sentence 1: The policeman waited for a heartbeat in vain.\nSentence 2: He alone gives me such heartbeats.\nAre 'heartbeat' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "236": {
+        "origin_prompt": "Sentence 1: This will renovate my spirits.\nSentence 2: They renovated the ceiling of the Sistine Chapel.\nAre 'renovate' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "237": {
+        "origin_prompt": "Sentence 1: A branch of Congress.\nSentence 2: We have branches in all major suburbs.\nAre 'branch' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "238": {
+        "origin_prompt": "Sentence 1: Her dog likes to tree squirrels.\nSentence 2: This lot should be treed so that the house will be shaded in summer.\nAre 'tree' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "239": {
+        "origin_prompt": "Sentence 1: Bean curd.\nSentence 2: Lemon curd.\nAre 'curd' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "240": {
+        "origin_prompt": "Sentence 1: War is hell.\nSentence 2: The hell of battle.\nAre 'hell' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "241": {
+        "origin_prompt": "Sentence 1: The CIA chief of station accepted responsibility for his agents' failures of tradecraft.\nSentence 2: Instructional designers are trained in something that might be called tradecraft.\nAre 'tradecraft' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "242": {
+        "origin_prompt": "Sentence 1: We didn't believe his stories from the War.\nSentence 2: I believed his report.\nAre 'believe' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "243": {
+        "origin_prompt": "Sentence 1: The annual crop of students brings many new ideas.\nSentence 2: The latest crop of fashions is about to hit the stores.\nAre 'crop' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "244": {
+        "origin_prompt": "Sentence 1: A glow of regret.\nSentence 2: The glow of new love.\nAre 'glow' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "245": {
+        "origin_prompt": "Sentence 1: Wrangle horses.\nSentence 2: The bar keeper threw them out, but they continued to wrangle on down the street.\nAre 'wrangle' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "246": {
+        "origin_prompt": "Sentence 1: He lacks the foundation necessary for advanced study.\nSentence 2: The Wikimedia Foundation, Inc. is the parent organization of the Wiktionary collaborative project.\nAre 'foundation' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "247": {
+        "origin_prompt": "Sentence 1: Render the brick walls in the den.\nSentence 2: The face of the child is rendered with much tenderness in this painting.\nAre 'render' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "248": {
+        "origin_prompt": "Sentence 1: His date never stopped talking.\nSentence 2: The date for pleading.\nAre 'date' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "249": {
+        "origin_prompt": "Sentence 1: A disease of frequent occurrence.\nSentence 2: The occurrence (or presence) of life on other planets.\nAre 'occurrence' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "250": {
+        "origin_prompt": "Sentence 1: Indent the documents.\nSentence 2: Indent the paragraphs of a letter.\nAre 'indent' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "251": {
+        "origin_prompt": "Sentence 1: There's no weeping at an Irish wake.\nSentence 2: The motorboat's wake capsized the canoe.\nAre 'wake' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "252": {
+        "origin_prompt": "Sentence 1: The woods planted in ash will see a different mix of species.\nSentence 2: The ash trees are dying off.\nAre 'ash' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "253": {
+        "origin_prompt": "Sentence 1: The preponderance of good over evil.\nSentence 2: The preponderance of wealth and power.\nAre 'preponderance' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "254": {
+        "origin_prompt": "Sentence 1: They played a gig in New Jersey.\nSentence 2: Our guitar player had another gig so we had to get a sub.\nAre 'gig' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "255": {
+        "origin_prompt": "Sentence 1: I forbid you to call me late at night.\nSentence 2: The rules forbid it.\nAre 'forbid' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "256": {
+        "origin_prompt": "Sentence 1: English is a cognate of Greek, German, Russian and Persian.\nSentence 2: English and, Russian, Icelandic and Irish are all cognates.\nAre 'cognate' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "257": {
+        "origin_prompt": "Sentence 1: He counted the house.\nSentence 2: The house applauded.\nAre 'house' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "258": {
+        "origin_prompt": "Sentence 1: He allowed a month to elapse before beginning the work.\nSentence 2: Several days elapsed before they met again.\nAre 'elapse' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "259": {
+        "origin_prompt": "Sentence 1: The intolerable license with which the newspapers break ... the rules of decorum -- Edmund Burke.\nSentence 2: When liberty becomes license dictatorship is near -- Will Durant.\nAre 'license' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "A"
+    },
+    "260": {
+        "origin_prompt": "Sentence 1: The city has an excellent natural harbour.\nSentence 2: The neighbourhood is a well-known harbour for petty thieves.\nAre 'harbour' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "261": {
+        "origin_prompt": "Sentence 1: All abuse, whether physical, verbal, psychological or sexual, is bad.\nSentence 2: The child showed signs of physical abuse.\nAre 'abuse' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "262": {
+        "origin_prompt": "Sentence 1: The dancer was praised for her uncanny extension.\nSentence 2: Good extension comes from a combination of training and native ability.\nAre 'extension' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "263": {
+        "origin_prompt": "Sentence 1: Making a hobby of domesticity.\nSentence 2: A royal family living in unpretentious domesticity.\nAre 'domesticity' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "264": {
+        "origin_prompt": "Sentence 1: The imperialist nation wanted to strangle the free trade between the two small countries.\nSentence 2: A man in Boston has been strangling several dozen prostitutes.\nAre 'strangle' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "265": {
+        "origin_prompt": "Sentence 1: He had a bye in the first round.\nSentence 2: Craig's Crew plays the bye next week.\nAre 'bye' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "266": {
+        "origin_prompt": "Sentence 1: The round of the seasons.\nSentence 2: The postman's rounds.\nAre 'round' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "267": {
+        "origin_prompt": "Sentence 1: I could see it in the distance.\nSentence 2: The distance from New York to Chicago.\nAre 'distance' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "268": {
+        "origin_prompt": "Sentence 1: That's a load off my mind.\nSentence 2: I'm worried that the load on that transformer will be too high.\nAre 'load' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "269": {
+        "origin_prompt": "Sentence 1: One can never fully repair the suffering and losses of the Jews in the Third Reich.\nSentence 2: She repaired her TV set.\nAre 'repair' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "270": {
+        "origin_prompt": "Sentence 1: A streak of wildness.\nSentence 2: He has a stubborn streak.\nAre 'streak' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "271": {
+        "origin_prompt": "Sentence 1: Indifference is the sweetest revenge.\nSentence 2: When I left my wife, she tried to set fire to the house in revenge.\nAre 'revenge' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "272": {
+        "origin_prompt": "Sentence 1: He hadn't seen his dad in years.\nSentence 2: Dad, happy Father's Day!\nAre 'dad' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "273": {
+        "origin_prompt": "Sentence 1: More fuel is needed during the winter months.\nSentence 2: They developed alternative fuels for aircraft.\nAre 'fuel' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "274": {
+        "origin_prompt": "Sentence 1: The woman charged that her jailer was a fondler.\nSentence 2: Not all fondlers are sexual perverts.\nAre 'fondler' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "275": {
+        "origin_prompt": "Sentence 1: I'd flip if anyone broke my phone.\nSentence 2: He flipped when he heard that he was accepted into Princeton University.\nAre 'flip' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "276": {
+        "origin_prompt": "Sentence 1: The luck of the draw.\nSentence 2: They anticipated a tough draw.\nAre 'draw' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "277": {
+        "origin_prompt": "Sentence 1: I saw a poster for it on the side of a bus.\nSentence 2: A poster advertised the coming attractions.\nAre 'poster' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "278": {
+        "origin_prompt": "Sentence 1: The restaurant is noted for its excellent cuisine.\nSentence 2: French cuisine is considered to be one of the world's most refined and elegant styles of cooking.\nAre 'cuisine' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nC",
+        "gold": "A"
+    },
+    "279": {
+        "origin_prompt": "Sentence 1: Tap a cask of wine.\nSentence 2: He tapped a new barrel of beer.\nAre 'tap' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "280": {
+        "origin_prompt": "Sentence 1: I would love to have dinner but I have to catch a plane.\nSentence 2: We caught something of his theory in the lecture.\nAre 'catch' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "281": {
+        "origin_prompt": "Sentence 1: This car could be just the ticket for a small family.\nSentence 2: Joe will be running on an anti-crime ticket.\nAre 'ticket' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "282": {
+        "origin_prompt": "Sentence 1: They didn't have much in the way of clothing.\nSentence 2: We went our separate ways.\nAre 'way' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "283": {
+        "origin_prompt": "Sentence 1: Triangulate the piece of cardboard.\nSentence 2: The land surveyor worked by triangulating the plot.\nAre 'triangulate' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "284": {
+        "origin_prompt": "Sentence 1: Can I invite you for dinner on Sunday night?\nSentence 2: The organizers invite submissions of papers for the conference.\nAre 'invite' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "B"
+    },
+    "285": {
+        "origin_prompt": "Sentence 1: A political gesture.\nSentence 2: A gesture of defiance.\nAre 'gesture' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "286": {
+        "origin_prompt": "Sentence 1: He is about average in height.\nSentence 2: The snowfall this month is below average.\nAre 'average' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "287": {
+        "origin_prompt": "Sentence 1: These paintings exalt the imagination.\nSentence 2: The man was exalted from a humble carpenter to a minister.\nAre 'exalt' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "288": {
+        "origin_prompt": "Sentence 1: Comb the wool.\nSentence 2: Comb your hair before dinner.\nAre 'comb' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "289": {
+        "origin_prompt": "Sentence 1: Truman upset Dewey in the 1948 US presidential election.\nSentence 2: The foreign team upset the local team.\nAre 'upset' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "290": {
+        "origin_prompt": "Sentence 1: To convey information.\nSentence 2: She conveyed the message to me.\nAre 'convey' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "291": {
+        "origin_prompt": "Sentence 1: Send me your latest results.\nSentence 2: Nora sent the book from Paris.\nAre 'send' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "292": {
+        "origin_prompt": "Sentence 1: The animal died a painful death.\nSentence 2: He seemed more content in death than he had ever been in life.\nAre 'death' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "293": {
+        "origin_prompt": "Sentence 1: He left the preparation of meals to his wife.\nSentence 2: The resolution of one dissonance is often the preparation for another dissonance.\nAre 'preparation' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "294": {
+        "origin_prompt": "Sentence 1: Absorb the costs for something.\nSentence 2: He absorbed the knowledge or beliefs of his tribe.\nAre 'absorb' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "295": {
+        "origin_prompt": "Sentence 1: Some of the members may donate privately.\nSentence 2: She donates to her favorite charity every month.\nAre 'donate' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "296": {
+        "origin_prompt": "Sentence 1: For an ellipse, the eccentricity is the ratio of the distance from the center to a focus divided by the length of the semi-major axis.\nSentence 2: A circle is an ellipse with zero eccentricity.\nAre 'eccentricity' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "A"
+    },
+    "297": {
+        "origin_prompt": "Sentence 1: Don't fiddle with the screws.\nSentence 2: She always fiddles with her van on the weekend.\nAre 'fiddle' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "298": {
+        "origin_prompt": "Sentence 1: To ask at that particular time was the ultimate in bad taste.\nSentence 2: He got a taste of life on the wild side.\nAre 'taste' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "299": {
+        "origin_prompt": "Sentence 1: Point a gun.\nSentence 2: It's rude to point at other people.\nAre 'point' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "300": {
+        "origin_prompt": "Sentence 1: In the summer the nightlife shifts to the dance clubs.\nSentence 2: A futile search for intelligent nightlife.\nAre 'nightlife' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "301": {
+        "origin_prompt": "Sentence 1: Some people put the stress on the first syllable of \"controversy\"; others put it on the second.\nSentence 2: The intensity of stress is expressed in units of force divided by units of area.\nAre 'stress' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "302": {
+        "origin_prompt": "Sentence 1: An amendment to piggyback the current law.\nSentence 2: He piggybacked her child so she could see the show.\nAre 'piggyback' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "303": {
+        "origin_prompt": "Sentence 1: He was ordered to report for induction into the army.\nSentence 2: The induction of an anesthetic state.\nAre 'induction' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "304": {
+        "origin_prompt": "Sentence 1: Please modify this letter to make it more polite.\nSentence 2: He modified his views on same-gender marriage.\nAre 'modify' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "305": {
+        "origin_prompt": "Sentence 1: By adding \"-ness\", you can form a noun from an adjective.\nSentence 2: Form cylinders from the dough.\nAre 'form' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "306": {
+        "origin_prompt": "Sentence 1: These shoes cost $100.\nSentence 2: The bill will cost them 500 million dollars.\nAre 'cost' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "307": {
+        "origin_prompt": "Sentence 1: Pat pushed the button marked \"shred\" on the blender.\nSentence 2: The elevator was operated by push buttons.\nAre 'button' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "308": {
+        "origin_prompt": "Sentence 1: The army retreated in confusion.\nSentence 2: A confusion of impressions.\nAre 'confusion' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "309": {
+        "origin_prompt": "Sentence 1: The house was a mess.\nSentence 2: My boss dumped a whole mess of projects on my desk today.\nAre 'mess' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "310": {
+        "origin_prompt": "Sentence 1: There was a blockage in the sewer, so we called out the plumber.\nSentence 2: We had to call a plumber to clear out the blockage in the drainpipe.\nAre 'blockage' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "311": {
+        "origin_prompt": "Sentence 1: The action teams worked in partnership with the government.\nSentence 2: Effective language learning is a partnership between school, teacher and student.\nAre 'partnership' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "312": {
+        "origin_prompt": "Sentence 1: Gap between income and outgo.\nSentence 2: The exploring party went through the high gap in the mountains.\nAre 'gap' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "313": {
+        "origin_prompt": "Sentence 1: Please can I have a look, if I promise not to touch?\nSentence 2: Carrie touched his shoulder with the stick.\nAre 'touch' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "314": {
+        "origin_prompt": "Sentence 1: The Nile delta.\nSentence 2: The Mississippi River delta.\nAre 'delta' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "315": {
+        "origin_prompt": "Sentence 1: We went there by foot because we could not afford a taxi.\nSentence 2: There is a lot of foot traffic on this street.\nAre 'foot' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "316": {
+        "origin_prompt": "Sentence 1: He wishes to accumulate a sum of money.\nSentence 2: Journals are accumulating in my office.\nAre 'accumulate' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "317": {
+        "origin_prompt": "Sentence 1: Most websites contain metadata to tell the computer how to lay the words out on the screen.\nSentence 2: A library catalog is metadata because it describes publications.\nAre 'metadata' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "318": {
+        "origin_prompt": "Sentence 1: This behavior will ruin your chances of winning the election.\nSentence 2: The country lay ruined after the war.\nAre 'ruin' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "319": {
+        "origin_prompt": "Sentence 1: I already have a son, so I would like to have a daughter.\nSentence 2: Her daughter cared for her in her old age.\nAre 'daughter' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "320": {
+        "origin_prompt": "Sentence 1: Accession to such demands would set a dangerous precedent.\nSentence 2: The librarian shelved the new accessions.\nAre 'accession' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "321": {
+        "origin_prompt": "Sentence 1: Let loose mines.\nSentence 2: Loose terrible plagues upon humanity.\nAre 'loose' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "322": {
+        "origin_prompt": "Sentence 1: This silly excuse won't wash in traffic court.\nSentence 2: The cat washes several times a day.\nAre 'wash' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "323": {
+        "origin_prompt": "Sentence 1: He left an indelible mark on the American theater.\nSentence 2: It was in London that he made his mark.\nAre 'mark' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "324": {
+        "origin_prompt": "Sentence 1: Analyze your real motives.\nSentence 2: The inspector analyzed the building's soundness.\nAre 'analyze' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "325": {
+        "origin_prompt": "Sentence 1: The steak was tough to chew as it had been cooked too long.\nSentence 2: Chew your food and don't swallow it!\nAre 'chew' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "A"
+    },
+    "326": {
+        "origin_prompt": "Sentence 1: Lydia put the change in her left pocket.\nSentence 2: Lydia pocketed the change.\nAre 'pocket' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "327": {
+        "origin_prompt": "Sentence 1: There are three synagogues in the Jewish section.\nSentence 2: Sections from the left ventricle showed diseased tissue.\nAre 'section' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "328": {
+        "origin_prompt": "Sentence 1: There is a group of houses behind the hill.\nSentence 2: A group of people gathered in front of the Parliament to demonstrate against the Prime Minister's proposals.\nAre 'group' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "329": {
+        "origin_prompt": "Sentence 1: Process iron.\nSentence 2: They processed into the dining room.\nAre 'process' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "330": {
+        "origin_prompt": "Sentence 1: Inject hydrogen into the balloon.\nSentence 2: Now lie back while we inject you with the anesthetic.\nAre 'inject' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "331": {
+        "origin_prompt": "Sentence 1: The sultriness of her look was unmistakable.\nSentence 2: The sultriness of lust was in the air.\nAre 'sultriness' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "332": {
+        "origin_prompt": "Sentence 1: Percolate coffee.\nSentence 2: I'll percolate some coffee.\nAre 'percolate' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "333": {
+        "origin_prompt": "Sentence 1: To clutch power.\nSentence 2: She clutched her purse.\nAre 'clutch' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "334": {
+        "origin_prompt": "Sentence 1: To mire a horse or wagon.\nSentence 2: Our people should not be mired in the past.\nAre 'mire' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "335": {
+        "origin_prompt": "Sentence 1: Students receive instruction in the arts and sciences.\nSentence 2: Instruction will be provided on how to handle difficult customers.\nAre 'instruction' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "336": {
+        "origin_prompt": "Sentence 1: Afflict with the plague.\nSentence 2: She was afflicted by the death of her parents.\nAre 'afflict' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "337": {
+        "origin_prompt": "Sentence 1: They served me a dish of rice.\nSentence 2: We gave them a set of dishes for a wedding present.\nAre 'dish' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "338": {
+        "origin_prompt": "Sentence 1: In my opinion, white chocolate is better than milk chocolate.\nSentence 2: I would like to know your opinions on the new systems.\nAre 'opinion' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "339": {
+        "origin_prompt": "Sentence 1: The peak of perfection.\nSentence 2: The view from the peak was magnificent.\nAre 'peak' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "340": {
+        "origin_prompt": "Sentence 1: Anthropology's kinship with the humanities.\nSentence 2: Felt a deep kinship with the other students.\nAre 'kinship' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "341": {
+        "origin_prompt": "Sentence 1: They died in the defense of Stalingrad.\nSentence 2: They were developed for the defense program.\nAre 'defense' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "342": {
+        "origin_prompt": "Sentence 1: In the middle of the marathon, David collapsed from fatigue.\nSentence 2: Rain during the middle of April.\nAre 'middle' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "343": {
+        "origin_prompt": "Sentence 1: To moderate a synod.\nSentence 2: John moderated the discussion.\nAre 'moderate' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "344": {
+        "origin_prompt": "Sentence 1: Flick a piece of paper across the table.\nSentence 2: He flicked his Bic.\nAre 'flick' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "345": {
+        "origin_prompt": "Sentence 1: He came out of nowhere.\nSentence 2: They went on a cruise to nowhere.\nAre 'nowhere' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "346": {
+        "origin_prompt": "Sentence 1: The buzz of excitement was so great that a formal denial was issued.\nSentence 2: The buzz of a bumble bee.\nAre 'buzz' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "347": {
+        "origin_prompt": "Sentence 1: Elizabethan schoolboys were taught adoxography, the art of eruditely praising worthless things.\nSentence 2: Adoxography is particularly useful to lawyers.\nAre 'adoxography' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nAdo",
+        "gold": "A"
+    },
+    "348": {
+        "origin_prompt": "Sentence 1: There are drugs designed to excite certain nerves in our body.\nSentence 2: Excite the audience.\nAre 'excite' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "349": {
+        "origin_prompt": "Sentence 1: Discussion of the emergency situation will preempt the lecture by the professor.\nSentence 2: Live broadcast of the presidential debate preempts the regular news hour.\nAre 'preempt' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "350": {
+        "origin_prompt": "Sentence 1: Winterize cars.\nSentence 2: Winterize your houses.\nAre 'winterize' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "351": {
+        "origin_prompt": "Sentence 1: She can not conceive.\nSentence 2: Assisted procreation can help those trying to conceive.\nAre 'conceive' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "352": {
+        "origin_prompt": "Sentence 1: Their troops were untrained militia.\nSentence 2: Congress shall have power to provide for calling forth the militia -- United States Constitution.\nAre 'militia' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "353": {
+        "origin_prompt": "Sentence 1: He felt a stream of air.\nSentence 2: The hose ejected a stream of water.\nAre 'stream' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "354": {
+        "origin_prompt": "Sentence 1: I watch these movies because they amuse me.\nSentence 2: The clown amused the children.\nAre 'amuse' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "355": {
+        "origin_prompt": "Sentence 1: Militarize the Civil Service.\nSentence 2: Militarize Germany again after the war.\nAre 'militarize' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "356": {
+        "origin_prompt": "Sentence 1: He took the manuscript in both hands and gave it a mighty tear.\nSentence 2: There were big tears rolling down Lisa's cheeks.\nAre 'tear' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "357": {
+        "origin_prompt": "Sentence 1: Martin's snatch at the bridle failed and the horse raced away.\nSentence 2: Overheard snatches of their conversation.\nAre 'snatch' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "358": {
+        "origin_prompt": "Sentence 1: Catalytic activity.\nSentence 2: They avoided all recreational activity.\nAre 'activity' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "359": {
+        "origin_prompt": "Sentence 1: The aptness of men to follow example.\nSentence 2: The aptness of iron to rust.\nAre 'aptness' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "360": {
+        "origin_prompt": "Sentence 1: That toaster can make wonderful toasts.\nSentence 2: I ate a piece of toast for breakfast.\nAre 'toast' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "361": {
+        "origin_prompt": "Sentence 1: The engineer marvelled at his construction.\nSentence 2: Construction is underway on the new bridge.\nAre 'construction' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "362": {
+        "origin_prompt": "Sentence 1: They had a bitter exchange.\nSentence 2: An exchange of cattle for grain.\nAre 'exchange' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "363": {
+        "origin_prompt": "Sentence 1: He ran to safety.\nSentence 2: The reciprocal of safety is risk.\nAre 'safety' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "364": {
+        "origin_prompt": "Sentence 1: Please hold a table at Maxim's.\nSentence 2: Hold a table for us at 7:00.\nAre 'hold' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "365": {
+        "origin_prompt": "Sentence 1: Those who criticize others often are not perfect, either.\nSentence 2: The paper criticized the new movie.\nAre 'criticize' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "366": {
+        "origin_prompt": "Sentence 1: The duke's fiefdom had been greatly expanded as a reward for his dutiful military service on behalf of the king.\nSentence 2: Most of our company's computers are standardized, but the IT director allows the employees in his own little fiefdom to specify their own machines.\nAre 'fiefdom' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nThe",
+        "gold": "B"
+    },
+    "367": {
+        "origin_prompt": "Sentence 1: Whimsy can be humorous to someone with time to enjoy it.\nSentence 2: He had a whimsy about flying to the moon.\nAre 'whimsy' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "368": {
+        "origin_prompt": "Sentence 1: There's too much shadiness to take good photographs.\nSentence 2: The shadiness of their transactions.\nAre 'shadiness' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "369": {
+        "origin_prompt": "Sentence 1: A hard hitter.\nSentence 2: Blacksmiths are good hitters.\nAre 'hitter' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "A"
+    },
+    "370": {
+        "origin_prompt": "Sentence 1: I'll toss you for it.\nSentence 2: Steve tossed John the ball.\nAre 'toss' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "371": {
+        "origin_prompt": "Sentence 1: Build up confidence.\nSentence 2: They had to build up their fortress to protect against attack.\nAre 'build' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "372": {
+        "origin_prompt": "Sentence 1: Fold up the newspaper.\nSentence 2: Tony folded the flaps open.\nAre 'fold' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "373": {
+        "origin_prompt": "Sentence 1: That language has a complex system for indicating gender.\nSentence 2: They have to operate under a system they oppose.\nAre 'system' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "374": {
+        "origin_prompt": "Sentence 1: My horse was several lengths behind at the finish.\nSentence 2: The winner is the team with the most points at the finish.\nAre 'finish' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "375": {
+        "origin_prompt": "Sentence 1: You shuffle, I'll deal.\nSentence 2: Shuffle the cards.\nAre 'shuffle' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "376": {
+        "origin_prompt": "Sentence 1: The plane's operation in high winds.\nSentence 2: The power of its engine determines its operation.\nAre 'operation' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "377": {
+        "origin_prompt": "Sentence 1: The new law might abridge our freedom of expression.\nSentence 2: He had his rights abridged by the crooked sheriff.\nAre 'abridge' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "378": {
+        "origin_prompt": "Sentence 1: He got his wish.\nSentence 2: My best wishes.\nAre 'wish' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "379": {
+        "origin_prompt": "Sentence 1: He published an unexpected attack on my work.\nSentence 2: An attack of diarrhea.\nAre 'attack' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "380": {
+        "origin_prompt": "Sentence 1: He was given a month to pay the bill.\nSentence 2: We went on holiday for two months.\nAre 'month' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "381": {
+        "origin_prompt": "Sentence 1: To gnash the air in fury.\nSentence 2: To gnash a carpet.\nAre 'gnash' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "382": {
+        "origin_prompt": "Sentence 1: We combust coal and other fossil fuels.\nSentence 2: The professor combusted when the student didn't know the answer to a very elementary question.\nAre 'combust' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "383": {
+        "origin_prompt": "Sentence 1: Economic cooperation.\nSentence 2: They agreed on a policy of cooperation.\nAre 'cooperation' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "384": {
+        "origin_prompt": "Sentence 1: 'Brunch' is a well-known portmanteau.\nSentence 2: 'Motel' is a portmanteau word made by combining 'motor' and 'hotel'.\nAre 'portmanteau' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "385": {
+        "origin_prompt": "Sentence 1: Brush aside the objections.\nSentence 2: Brush the dust from the jacket.\nAre 'brush' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "386": {
+        "origin_prompt": "Sentence 1: You can not be convicted of criminal guilt by association.\nSentence 2: He joined the Modern Language Association.\nAre 'association' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "387": {
+        "origin_prompt": "Sentence 1: A right identity, x * I = x for any x in the structure.\nSentence 2: You can lose your identity when you join the army.\nAre 'identity' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "388": {
+        "origin_prompt": "Sentence 1: A barrage of questions.\nSentence 2: They laid down a barrage in front of the advancing troops.\nAre 'barrage' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "389": {
+        "origin_prompt": "Sentence 1: I rarely attend services at my church.\nSentence 2: She attends class regularly.\nAre 'attend' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "390": {
+        "origin_prompt": "Sentence 1: They kept a log of all transmission by the radio station.\nSentence 2: An email log.\nAre 'log' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "391": {
+        "origin_prompt": "Sentence 1: We can't afford to send our children to college.\nSentence 2: Can you afford this car?\nAre 'afford' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "392": {
+        "origin_prompt": "Sentence 1: The files will erase quickly.\nSentence 2: The chalkboard erased easily.\nAre 'erase' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "393": {
+        "origin_prompt": "Sentence 1: She has free agency.\nSentence 2: Central Intelligence Agency.\nAre 'agency' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "394": {
+        "origin_prompt": "Sentence 1: She loves to stay at home and cocoon.\nSentence 2: Families cocoon around the T.V. set most evenings.\nAre 'cocoon' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "395": {
+        "origin_prompt": "Sentence 1: A rehearsal will be held the day before the wedding.\nSentence 2: He missed too many rehearsals.\nAre 'rehearsal' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nRe",
+        "gold": "A"
+    },
+    "396": {
+        "origin_prompt": "Sentence 1: Will the new rules affect me?\nSentence 2: The medicine affects my heart rate.\nAre 'affect' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "397": {
+        "origin_prompt": "Sentence 1: Please sign on the dotted line.\nSentence 2: Please sign here.\nAre 'sign' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "398": {
+        "origin_prompt": "Sentence 1: A string of islands.\nSentence 2: The strings played superlatively well.\nAre 'string' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "399": {
+        "origin_prompt": "Sentence 1: She only wore that dress to upstage everyone.\nSentence 2: When the dog entered the stage, he upstaged the actress.\nAre 'upstage' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "400": {
+        "origin_prompt": "Sentence 1: The wateriness of his blood.\nSentence 2: The haziness and wateriness of his disquisitions.\nAre 'wateriness' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "401": {
+        "origin_prompt": "Sentence 1: The drawing of water from the well.\nSentence 2: He did complicated pen-and-ink drawings like medieval miniatures.\nAre 'drawing' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "402": {
+        "origin_prompt": "Sentence 1: He drank a mixture of beer and lemonade.\nSentence 2: The mixture of sulphuric acid and water produces heat.\nAre 'mixture' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "403": {
+        "origin_prompt": "Sentence 1: His detention was politically motivated.\nSentence 2: The detention of tardy pupils.\nAre 'detention' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "404": {
+        "origin_prompt": "Sentence 1: The collapse of the old star under its own gravity.\nSentence 2: The roof is in danger of collapse.\nAre 'collapse' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "405": {
+        "origin_prompt": "Sentence 1: Don't handle the merchandise.\nSentence 2: About his altar, handling holy things -- John Milton.\nAre 'handle' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "406": {
+        "origin_prompt": "Sentence 1: State your name.\nSentence 2: State your opinion.\nAre 'state' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "407": {
+        "origin_prompt": "Sentence 1: Ease the pain in your legs.\nSentence 2: The pain eased overnight.\nAre 'ease' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "408": {
+        "origin_prompt": "Sentence 1: He was a bad influence on the children.\nSentence 2: Used her parents' influence to get the job.\nAre 'influence' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "409": {
+        "origin_prompt": "Sentence 1: The force required to compress a spring varies linearly with the displacement.\nSentence 2: She compressed her lips.\nAre 'compress' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "410": {
+        "origin_prompt": "Sentence 1: Rouge Dragon is a herald at the College of Arms.\nSentence 2: The chieftain had a herald who announced his arrival with a trumpet.\nAre 'herald' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "411": {
+        "origin_prompt": "Sentence 1: I appreciate your efforts.\nSentence 2: The yen appreciated again!\nAre 'appreciate' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "412": {
+        "origin_prompt": "Sentence 1: Return her love.\nSentence 2: Return a compliment.\nAre 'return' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "413": {
+        "origin_prompt": "Sentence 1: Prepare for war.\nSentence 2: We prepared a fish for dinner.\nAre 'prepare' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "414": {
+        "origin_prompt": "Sentence 1: Hit the bottle.\nSentence 2: He tries to hit on women in bars.\nAre 'hit' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "B"
+    },
+    "415": {
+        "origin_prompt": "Sentence 1: Want the strength to go on living.\nSentence 2: Flood victims wanting food and shelter.\nAre 'want' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "416": {
+        "origin_prompt": "Sentence 1: Today is a Wiccan holiday!\nSentence 2: No mail is delivered on federal holidays.\nAre 'holiday' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "417": {
+        "origin_prompt": "Sentence 1: The ball at the base of the thumb.\nSentence 2: He stood on the balls of his feet.\nAre 'ball' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "418": {
+        "origin_prompt": "Sentence 1: He remembered her because she was carrying a large portfolio.\nSentence 2: He holds the portfolio for foreign affairs.\nAre 'portfolio' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "419": {
+        "origin_prompt": "Sentence 1: Washing dishes is a chore, but we can not just stop eating.\nSentence 2: The farmer's morning chores.\nAre 'chore' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "420": {
+        "origin_prompt": "Sentence 1: Collapse the music stand.\nSentence 2: The school system is collapsing.\nAre 'collapse' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "421": {
+        "origin_prompt": "Sentence 1: I woke up in the middle of the night.\nSentence 2: A whole is that which has beginning, middle, and end -- Aristotle.\nAre 'middle' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "A"
+    },
+    "422": {
+        "origin_prompt": "Sentence 1: The level of activity declines with age.\nSentence 2: His sphere of activity.\nAre 'activity' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "423": {
+        "origin_prompt": "Sentence 1: Be careful crossing the street.\nSentence 2: The whole street protested the absence of lights.\nAre 'street' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "424": {
+        "origin_prompt": "Sentence 1: The computer had a desktop footprint of 10 by 16 inches.\nSentence 2: The footprints of an earlier civilization.\nAre 'footprint' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "425": {
+        "origin_prompt": "Sentence 1: Birds of prey often seize small mammals.\nSentence 2: The invaders seized the land and property of the inhabitants.\nAre 'seize' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "426": {
+        "origin_prompt": "Sentence 1: A profession of disagreement.\nSentence 2: My father was a barrister by profession.\nAre 'profession' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "427": {
+        "origin_prompt": "Sentence 1: A growth of hair.\nSentence 2: The growth of culture.\nAre 'growth' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "428": {
+        "origin_prompt": "Sentence 1: These delicate plants do not transplant easily.\nSentence 2: Transplant the young rice plants.\nAre 'transplant' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "429": {
+        "origin_prompt": "Sentence 1: She's a demon at math.\nSentence 2: He worked like a demon to finish the job on time.\nAre 'demon' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "430": {
+        "origin_prompt": "Sentence 1: His thinking was in the American mainstream.\nSentence 2: His ideas were well outside the mainstream, but he presented them intelligently, and we were impressed if not convinced.\nAre 'mainstream' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "431": {
+        "origin_prompt": "Sentence 1: He put an ice pack on the injury as a precaution.\nSentence 2: To take precautions against risks of accident.\nAre 'precaution' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "432": {
+        "origin_prompt": "Sentence 1: There was no meeting of minds.\nSentence 2: The meeting elected a chairperson.\nAre 'meeting' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "433": {
+        "origin_prompt": "Sentence 1: Take a right at the corner.\nSentence 2: Film rights.\nAre 'right' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "434": {
+        "origin_prompt": "Sentence 1: People do that sort of thing every day, without ever stopping to reflect on the consequences.\nSentence 2: The teacher's ability reflects well on the school.\nAre 'reflect' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "435": {
+        "origin_prompt": "Sentence 1: Submerge your head completely.\nSentence 2: The submarine submerged in the water.\nAre 'submerge' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "436": {
+        "origin_prompt": "Sentence 1: Surgeons must scrub prior to an operation.\nSentence 2: She scrubbed his back.\nAre 'scrub' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "437": {
+        "origin_prompt": "Sentence 1: I promise you my best effort.\nSentence 2: I promised somebody my time.\nAre 'promise' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "438": {
+        "origin_prompt": "Sentence 1: A mechanism of social control.\nSentence 2: Mechanisms of communication.\nAre 'mechanism' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "439": {
+        "origin_prompt": "Sentence 1: Undo the shoelace.\nSentence 2: A single mistake undid the President and he had to resign.\nAre 'undo' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "440": {
+        "origin_prompt": "Sentence 1: She led a low spade.\nSentence 2: Spades were trumps.\nAre 'spade' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "441": {
+        "origin_prompt": "Sentence 1: He tried to clear his head of the whisky fuzz.\nSentence 2: Peach fuzz.\nAre 'fuzz' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "442": {
+        "origin_prompt": "Sentence 1: In a world where financial probity may not be widespread.\nSentence 2: He enjoys an exaggerated reputation for probity.\nAre 'probity' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "443": {
+        "origin_prompt": "Sentence 1: The senator rose to register his protest.\nSentence 2: They finished the game under protest to the league president.\nAre 'protest' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "444": {
+        "origin_prompt": "Sentence 1: To shock rye.\nSentence 2: Shock grain.\nAre 'shock' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "445": {
+        "origin_prompt": "Sentence 1: Sign an intersection.\nSentence 2: This road has been signed.\nAre 'sign' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "446": {
+        "origin_prompt": "Sentence 1: The embodiment of hope.\nSentence 2: A circle was the embodiment of his concept of life.\nAre 'embodiment' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "447": {
+        "origin_prompt": "Sentence 1: He lived in exile.\nSentence 2: She lived as an exile.\nAre 'exile' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "448": {
+        "origin_prompt": "Sentence 1: From the window he could catch a glimpse of the lake.\nSentence 2: He caught only a glimpse of the professor's meaning.\nAre 'glimpse' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "449": {
+        "origin_prompt": "Sentence 1: The abatement of a nuisance is the suppression thereof.\nSentence 2: Laws enforcing noise abatement.\nAre 'abatement' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "450": {
+        "origin_prompt": "Sentence 1: They are nearing the coast.\nSentence 2: The ship nears the land.\nAre 'near' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "451": {
+        "origin_prompt": "Sentence 1: She wanted to aim a pun.\nSentence 2: He aimed his fists towards his opponent's face.\nAre 'aim' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "452": {
+        "origin_prompt": "Sentence 1: It was not what it appeared to be on the surface.\nSentence 2: The cloth had a pattern of red dots on a white surface.\nAre 'surface' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "453": {
+        "origin_prompt": "Sentence 1: Boot your computer.\nSentence 2: When arriving at the office, first thing I do is booting my machine.\nAre 'boot' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "454": {
+        "origin_prompt": "Sentence 1: He had the gem set in a ring for his wife.\nSentence 2: She's an absolute gem.\nAre 'gem' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "455": {
+        "origin_prompt": "Sentence 1: There's no help for it.\nSentence 2: I need some help with my homework.\nAre 'help' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "456": {
+        "origin_prompt": "Sentence 1: He made his morning toilet and went to breakfast.\nSentence 2: Pensions are in the toilet.\nAre 'toilet' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "457": {
+        "origin_prompt": "Sentence 1: Kill the engine.\nSentence 2: He killed the ball.\nAre 'kill' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "458": {
+        "origin_prompt": "Sentence 1: Had unusual longevity in the company.\nSentence 2: Her longevity as a star.\nAre 'longevity' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "459": {
+        "origin_prompt": "Sentence 1: Remove a wrapper.\nSentence 2: The President removed many postmasters.\nAre 'remove' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "460": {
+        "origin_prompt": "Sentence 1: He welded together some pieces of strip.\nSentence 2: She did a strip right in front of everyone.\nAre 'strip' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "461": {
+        "origin_prompt": "Sentence 1: A force out was recorded on the scorecard.\nSentence 2: A public force is necessary to give security to the rights of citizens.\nAre 'force' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "462": {
+        "origin_prompt": "Sentence 1: His manipulation of his friends was scandalous.\nSentence 2: He found that the new manager was known for his Machiavellian manipulations in his last two positions.\nAre 'manipulation' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "463": {
+        "origin_prompt": "Sentence 1: Most of the works by Frédéric Chopin are for the piano.\nSentence 2: He can play \"Happy Birthday\" on the piano.\nAre 'piano' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "464": {
+        "origin_prompt": "Sentence 1: They organized a rescue operation.\nSentence 2: Consolidate the companies various operations.\nAre 'operation' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "465": {
+        "origin_prompt": "Sentence 1: Preserve the peace in the family.\nSentence 2: To preserve silence.\nAre 'preserve' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "466": {
+        "origin_prompt": "Sentence 1: This proves beyond peradventure that he is innocent.\nSentence 2: Proved beyond peradventure. -- South.\nAre 'peradventure' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "467": {
+        "origin_prompt": "Sentence 1: The restaurant had an upper class patronage.\nSentence 2: Even before noon there was a considerable patronage.\nAre 'patronage' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "468": {
+        "origin_prompt": "Sentence 1: Circulate a rumor.\nSentence 2: This letter is being circulated among the faculty.\nAre 'circulate' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "469": {
+        "origin_prompt": "Sentence 1: The senators used their muscle to get the party leader to resign.\nSentence 2: Muscle consists largely of actin and myosin filaments.\nAre 'muscle' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "470": {
+        "origin_prompt": "Sentence 1: Direct your anger towards others, not towards yourself.\nSentence 2: He directed all his energies into his dissertation.\nAre 'direct' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "471": {
+        "origin_prompt": "Sentence 1: Plant bugs in the dissident's apartment.\nSentence 2: Plant a spy in Moscow.\nAre 'plant' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "472": {
+        "origin_prompt": "Sentence 1: The conclusion of the peace treaty.\nSentence 2: The conclusion of a business deal.\nAre 'conclusion' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "473": {
+        "origin_prompt": "Sentence 1: The infielder's snap and throw was a single motion.\nSentence 2: Children can manage snaps better than buttons.\nAre 'snap' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "474": {
+        "origin_prompt": "Sentence 1: He used terror to make them confess.\nSentence 2: He was the terror of the neighborhood.\nAre 'terror' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "475": {
+        "origin_prompt": "Sentence 1: Pioneers had to cross the continent on foot.\nSentence 2: There are seven continents.\nAre 'continent' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "476": {
+        "origin_prompt": "Sentence 1: We did not understand his motivation.\nSentence 2: His motivation was at a high level.\nAre 'motivation' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "477": {
+        "origin_prompt": "Sentence 1: In the old days a policeman walked a beat and knew all his people by name.\nSentence 2: A beat of the heart.\nAre 'beat' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "478": {
+        "origin_prompt": "Sentence 1: The catch was only 10 fish.\nSentence 2: He shared his catch with the others.\nAre 'catch' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "479": {
+        "origin_prompt": "Sentence 1: Post a warning at the dump.\nSentence 2: The newspaper posted him in Timbuktu.\nAre 'post' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "480": {
+        "origin_prompt": "Sentence 1: He worships the almighty dollar.\nSentence 2: The dollar coin has never been popular in the United States.\nAre 'dollar' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "481": {
+        "origin_prompt": "Sentence 1: He beat his breast in anger.\nSentence 2: The robin has a red breast.\nAre 'breast' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "482": {
+        "origin_prompt": "Sentence 1: This shall not relieve either Party of any obligations.\nSentence 2: The thief relieved me of $100.\nAre 'relieve' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "483": {
+        "origin_prompt": "Sentence 1: Conserve your energy for the ascent to the summit.\nSentence 2: Mom always conserved the strawberries we grew in the backyard.\nAre 'conserve' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "484": {
+        "origin_prompt": "Sentence 1: They regretted the closure of the day care center.\nSentence 2: He needed to grieve before he could achieve a sense of closure.\nAre 'closure' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "485": {
+        "origin_prompt": "Sentence 1: Engrave a letter.\nSentence 2: Engrave a pen.\nAre 'engrave' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "486": {
+        "origin_prompt": "Sentence 1: The runners emerged from the trees into his clear vision.\nSentence 2: He had a vision of the Virgin Mary.\nAre 'vision' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "487": {
+        "origin_prompt": "Sentence 1: All that bowing and scraping did not impress him.\nSentence 2: They collected blood scrapings for analysis.\nAre 'scraping' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "488": {
+        "origin_prompt": "Sentence 1: I would like to thank the brother who just spoke.\nSentence 2: None of his brothers would betray him.\nAre 'brother' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "489": {
+        "origin_prompt": "Sentence 1: Let's not whitewash the crimes of Stalin.\nSentence 2: In his sermon, the minister didn't try to whitewash over the sins of his church.\nAre 'whitewash' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "490": {
+        "origin_prompt": "Sentence 1: A deal of trouble.\nSentence 2: He made a deal with the devil.\nAre 'deal' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "491": {
+        "origin_prompt": "Sentence 1: Children must develop a sense of right and wrong.\nSentence 2: We have developed a new theory of evolution.\nAre 'develop' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "492": {
+        "origin_prompt": "Sentence 1: She twirled the knife through her fingers with impressive dexterity.\nSentence 2: Playing computer games can improve your manual dexterity.\nAre 'dexterity' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "493": {
+        "origin_prompt": "Sentence 1: Here's a good potluck of beans and stew.\nSentence 2: Having arrived unannounced we had to take potluck.\nAre 'potluck' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "494": {
+        "origin_prompt": "Sentence 1: It was an apology for a meal.\nSentence 2: The Apology of Socrates.\nAre 'apology' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "495": {
+        "origin_prompt": "Sentence 1: A straggle of followers.\nSentence 2: A straggle of outbuildings.\nAre 'straggle' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "496": {
+        "origin_prompt": "Sentence 1: The nurse gave him a flu shot.\nSentence 2: He tried to get unposed shots of his friends.\nAre 'shot' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "497": {
+        "origin_prompt": "Sentence 1: To command an army or a ship.\nSentence 2: Command the military forces.\nAre 'command' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "498": {
+        "origin_prompt": "Sentence 1: Please refrigerate your uncooked meats at or below 40 Fahrenheit.\nSentence 2: Refrigerate this medicine.\nAre 'refrigerate' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "499": {
+        "origin_prompt": "Sentence 1: He handled the vase with care.\nSentence 2: Care should be taken when holding babies.\nAre 'care' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "500": {
+        "origin_prompt": "Sentence 1: Don't twist my words.\nSentence 2: Twist the dough into a braid.\nAre 'twist' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "501": {
+        "origin_prompt": "Sentence 1: A place setting of sterling flatware.\nSentence 2: He changed the setting on the thermostat.\nAre 'setting' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "502": {
+        "origin_prompt": "Sentence 1: The infection spread.\nSentence 2: Optimism spread among the population.\nAre 'spread' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "503": {
+        "origin_prompt": "Sentence 1: We sleep five people in each room.\nSentence 2: This tent sleeps six people.\nAre 'sleep' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "504": {
+        "origin_prompt": "Sentence 1: They were restrained by a prohibition in their charter.\nSentence 2: In 1920 the 18th amendment to the Constitution established prohibition in the US.\nAre 'prohibition' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "505": {
+        "origin_prompt": "Sentence 1: Wear gloves so your hands stay warm.\nSentence 2: Stay with me, please.\nAre 'stay' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "506": {
+        "origin_prompt": "Sentence 1: His treatment of the race question is badly biased.\nSentence 2: His treatment of space borrows from Italian architecture.\nAre 'treatment' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "507": {
+        "origin_prompt": "Sentence 1: Make a break for it.\nSentence 2: He finally got his big break.\nAre 'break' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "508": {
+        "origin_prompt": "Sentence 1: Real life.\nSentence 2: It was a heavy play and the actors tried in vain to give life to it.\nAre 'life' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "509": {
+        "origin_prompt": "Sentence 1: Wait a minute, I'm not ready yet!\nSentence 2: It only takes a minute.\nAre 'minute' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "510": {
+        "origin_prompt": "Sentence 1: There was an art exhibition on in the town hall.\nSentence 2: A boat exhibition.\nAre 'exhibition' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "511": {
+        "origin_prompt": "Sentence 1: The unhappy couple got into a terrible scrap.\nSentence 2: That car isn't good for anything but scrap.\nAre 'scrap' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "512": {
+        "origin_prompt": "Sentence 1: Hooligans destroy unprovoked.\nSentence 2: The fire destroyed the house.\nAre 'destroy' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "513": {
+        "origin_prompt": "Sentence 1: Cleat running shoes for better traction.\nSentence 2: Cleat a line.\nAre 'cleat' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "514": {
+        "origin_prompt": "Sentence 1: Pinnacle a pediment.\nSentence 2: He did not want to be pinnacled.\nAre 'pinnacle' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "515": {
+        "origin_prompt": "Sentence 1: The world's heritage of knowledge.\nSentence 2: A heritage of freedom.\nAre 'heritage' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "516": {
+        "origin_prompt": "Sentence 1: Wail in self-pity.\nSentence 2: She wailed with pain.\nAre 'wail' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "517": {
+        "origin_prompt": "Sentence 1: Even the pitcher doesn't know where his knuckleball is going.\nSentence 2: Boston Red Sox pitcher Tim Wakefield is best known for his use of the knuckleball.\nAre 'knuckleball' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "A"
+    },
+    "518": {
+        "origin_prompt": "Sentence 1: I am reading a good book on economics.\nSentence 2: He was frustrated because he couldn't find anything about dinosaurs in the book.\nAre 'book' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "519": {
+        "origin_prompt": "Sentence 1: The roll of a ball.\nSentence 2: Look at the roll of the waves.\nAre 'roll' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "520": {
+        "origin_prompt": "Sentence 1: The children acted out a comic piece to amuse the guests.\nSentence 2: He sacrificed a piece to get a strategic advantage.\nAre 'piece' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "521": {
+        "origin_prompt": "Sentence 1: Our children share a love of music.\nSentence 2: The two countries share a long border.\nAre 'share' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "522": {
+        "origin_prompt": "Sentence 1: He sought release from his bondage to Satan.\nSentence 2: A self freed from the bondage of time.\nAre 'bondage' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "523": {
+        "origin_prompt": "Sentence 1: To pierce a mystery.\nSentence 2: The path pierced the jungle.\nAre 'pierce' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "524": {
+        "origin_prompt": "Sentence 1: In Britain they call a bobby pin a grip.\nSentence 2: They kept a firm grip on the two top priorities.\nAre 'grip' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "525": {
+        "origin_prompt": "Sentence 1: Geometry is the mathematical science of shape.\nSentence 2: He could barely make out their shapes.\nAre 'shape' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "526": {
+        "origin_prompt": "Sentence 1: I could just make out her face in the twilight.\nSentence 2: He loved the twilight.\nAre 'twilight' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "527": {
+        "origin_prompt": "Sentence 1: Sugar your tea.\nSentence 2: John heavily sugars his coffee.\nAre 'sugar' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "528": {
+        "origin_prompt": "Sentence 1: My neighbor was the lead role in last year's village play.\nSentence 2: Play its role.\nAre 'role' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "529": {
+        "origin_prompt": "Sentence 1: We must not proliferate nuclear arms.\nSentence 2: The flowers proliferated rapidly all spring.\nAre 'proliferate' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "530": {
+        "origin_prompt": "Sentence 1: A pedestrian was able to trip the burglar as he was running away.\nSentence 2: The questions on the test tripped him up.\nAre 'trip' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "531": {
+        "origin_prompt": "Sentence 1: Cloister the garden.\nSentence 2: She cloistered herself in the office.\nAre 'cloister' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "532": {
+        "origin_prompt": "Sentence 1: I expect to receive wages.\nSentence 2: We were expecting a visit from our relatives.\nAre 'expect' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "533": {
+        "origin_prompt": "Sentence 1: Rock fracture and rock flowage are different types of geological deformation.\nSentence 2: Many campsites were located near the flowage.\nAre 'flowage' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "534": {
+        "origin_prompt": "Sentence 1: We must follow closely the economic development is Cuba.\nSentence 2: It follows that your assertion is false.\nAre 'follow' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "535": {
+        "origin_prompt": "Sentence 1: He is a man of property.\nSentence 2: That hat is my property.\nAre 'property' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "536": {
+        "origin_prompt": "Sentence 1: He knew that it was trash day, when the garbage collectors made all the noise.\nSentence 2: They heard indistinct noises of people talking.\nAre 'noise' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "537": {
+        "origin_prompt": "Sentence 1: You should have read the small print on your policy.\nSentence 2: It was a policy of retribution.\nAre 'policy' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "538": {
+        "origin_prompt": "Sentence 1: A zipper pull.\nSentence 2: He grabbed the pull and opened the drawer.\nAre 'pull' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "539": {
+        "origin_prompt": "Sentence 1: It is none of your affair.\nSentence 2: He used a hook-shaped affair with a long handle to unlock the car.\nAre 'affair' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "540": {
+        "origin_prompt": "Sentence 1: He used pressure to stop the bleeding.\nSentence 2: The sensitivity of his skin to pressure and temperature was normal.\nAre 'pressure' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "541": {
+        "origin_prompt": "Sentence 1: The reality of his situation slowly dawned on him.\nSentence 2: The reality of the crash scene on TV dawned upon him only when he saw the victim was no actor but his friend.\nAre 'reality' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "542": {
+        "origin_prompt": "Sentence 1: The party of the first part.\nSentence 2: He planned a party to celebrate Bastille Day.\nAre 'party' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "543": {
+        "origin_prompt": "Sentence 1: Result in tragedy.\nSentence 2: This measure will result in good or in evil.\nAre 'result' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "544": {
+        "origin_prompt": "Sentence 1: Let's peg the rug to the floor.\nSentence 2: Peg a tent.\nAre 'peg' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "545": {
+        "origin_prompt": "Sentence 1: The Nazi assumption of power in 1934.\nSentence 2: He acquired all the company's assets for ten million dollars and the assumption of the company's debts.\nAre 'assumption' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "546": {
+        "origin_prompt": "Sentence 1: A fight broke out at the hockey game.\nSentence 2: There were fights in the streets.\nAre 'fight' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "547": {
+        "origin_prompt": "Sentence 1: Hook the ball.\nSentence 2: His opponent hooked him badly.\nAre 'hook' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "548": {
+        "origin_prompt": "Sentence 1: Flood the market with tennis shoes.\nSentence 2: The swollen river flooded the village.\nAre 'flood' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "549": {
+        "origin_prompt": "Sentence 1: He has a keen intellect.\nSentence 2: Some of the world's leading intellects were meeting there.\nAre 'intellect' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "550": {
+        "origin_prompt": "Sentence 1: We had a word or two about it.\nSentence 2: There was then a long discussion of whether to capitalize words like \"east\".\nAre 'word' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "551": {
+        "origin_prompt": "Sentence 1: The room was simply decorated with great restraint.\nSentence 2: The car did not have proper restraints fitted.\nAre 'restraint' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "552": {
+        "origin_prompt": "Sentence 1: It's my go.\nSentence 2: I'll give it a go.\nAre 'go' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "553": {
+        "origin_prompt": "Sentence 1: To crush grapes.\nSentence 2: The car crushed the toy.\nAre 'crush' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "554": {
+        "origin_prompt": "Sentence 1: To cushion a blow.\nSentence 2: Cushion the blow.\nAre 'cushion' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "555": {
+        "origin_prompt": "Sentence 1: Hyenas scavenge.\nSentence 2: She scavenged the garbage cans for food.\nAre 'scavenge' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "556": {
+        "origin_prompt": "Sentence 1: For recreation he wrote poetry and solved crossword puzzles.\nSentence 2: Drug abuse is often regarded as a form of recreation.\nAre 'recreation' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "A"
+    },
+    "557": {
+        "origin_prompt": "Sentence 1: His claim to the property has come under question.\nSentence 2: He obeyed without question.\nAre 'question' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "558": {
+        "origin_prompt": "Sentence 1: I swear by my grandmother's recipes.\nSentence 2: Before God I swear I am innocent.\nAre 'swear' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "559": {
+        "origin_prompt": "Sentence 1: Gargle with this liquid.\nSentence 2: Every morning he gargled a little cheap Scotch.\nAre 'gargle' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "560": {
+        "origin_prompt": "Sentence 1: Heel a golf ball.\nSentence 2: Heel that dance.\nAre 'heel' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "561": {
+        "origin_prompt": "Sentence 1: Don't fuss too much over the grandchildren -- they are quite big now.\nSentence 2: She fusses over her husband.\nAre 'fuss' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "B"
+    },
+    "562": {
+        "origin_prompt": "Sentence 1: He was driving his car like a nut.\nSentence 2: I kicked him in the nuts.\nAre 'nut' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "563": {
+        "origin_prompt": "Sentence 1: He was indebted to the pioneering work of John Dewey.\nSentence 2: The work of an active imagination.\nAre 'work' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "564": {
+        "origin_prompt": "Sentence 1: A keen musical sense.\nSentence 2: A good sense of timing.\nAre 'sense' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "A"
+    },
+    "565": {
+        "origin_prompt": "Sentence 1: It was his last wish.\nSentence 2: They should respect the wishes of the people.\nAre 'wish' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "566": {
+        "origin_prompt": "Sentence 1: The airliner had to land with a nose-up attitude after the incident.\nSentence 2: The actor struck just the right attitude.\nAre 'attitude' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "567": {
+        "origin_prompt": "Sentence 1: Just steam the vegetables.\nSentence 2: Her indifference to his amorous advances really steamed the young man.\nAre 'steam' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "568": {
+        "origin_prompt": "Sentence 1: The dissipation of the mist.\nSentence 2: Mindless dissipation of natural resources.\nAre 'dissipation' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "569": {
+        "origin_prompt": "Sentence 1: The path of virtue.\nSentence 2: Our paths in life led us apart.\nAre 'path' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "570": {
+        "origin_prompt": "Sentence 1: When England defeated Pakistan it ended a ten-year drought.\nSentence 2: Farmers most affected by the drought hope that there may yet be sufficient rain early in the growing season.\nAre 'drought' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "571": {
+        "origin_prompt": "Sentence 1: It's your move! Roll the dice!\nSentence 2: If you roll a six, you can make two moves.\nAre 'move' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "572": {
+        "origin_prompt": "Sentence 1: He is an officer of the court.\nSentence 2: The club elected its officers for the coming year.\nAre 'officer' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "573": {
+        "origin_prompt": "Sentence 1: He signed the deed.\nSentence 2: I inherited the deed to the house.\nAre 'deed' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "574": {
+        "origin_prompt": "Sentence 1: The transfer of the music from record to tape suppressed much of the background noise.\nSentence 2: The best student was a transfer from LSU.\nAre 'transfer' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "575": {
+        "origin_prompt": "Sentence 1: Growing fatigue was apparent from the decline in the execution of their athletic skills.\nSentence 2: He was hospitalized for extreme fatigue.\nAre 'fatigue' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "576": {
+        "origin_prompt": "Sentence 1: Belabor the obvious.\nSentence 2: She was belabored by her fellow students.\nAre 'belabor' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "577": {
+        "origin_prompt": "Sentence 1: The houses were swept away in the torrent.\nSentence 2: They endured a torrent of inquiries.\nAre 'torrent' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "578": {
+        "origin_prompt": "Sentence 1: The symphony was hailed as an ingenious work.\nSentence 2: Erosion is the work of wind or water over time.\nAre 'work' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "579": {
+        "origin_prompt": "Sentence 1: Canada is a member of the United Nations.\nSentence 2: The library was a member of the interlibrary loan association.\nAre 'member' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "580": {
+        "origin_prompt": "Sentence 1: They asked for a 10% rise in rates.\nSentence 2: The rising of the Holy Ghost.\nAre 'rise' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "581": {
+        "origin_prompt": "Sentence 1: Territorial disputes were resolved in Guatemala's recognition of Belize in 1991.\nSentence 2: The partners were delighted with the recognition of their work.\nAre 'recognition' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "582": {
+        "origin_prompt": "Sentence 1: The fibers decussate.\nSentence 2: This nerve decussates the other.\nAre 'decussate' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "583": {
+        "origin_prompt": "Sentence 1: A succession of failures.\nSentence 2: A succession of stalls offering soft drinks.\nAre 'succession' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "584": {
+        "origin_prompt": "Sentence 1: How did your interview go?\nSentence 2: She was going that way anyway, so she offered to show him where it was.\nAre 'go' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "585": {
+        "origin_prompt": "Sentence 1: The campaign put a favorable spin on the story.\nSentence 2: The skaters demonstrated their spins.\nAre 'spin' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "586": {
+        "origin_prompt": "Sentence 1: The body of the car was badly rusted.\nSentence 2: Administrative body.\nAre 'body' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "587": {
+        "origin_prompt": "Sentence 1: She served a creamy sort of dessert thing.\nSentence 2: She wore a sort of magenta dress.\nAre 'sort' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "588": {
+        "origin_prompt": "Sentence 1: I love French food.\nSentence 2: I loved to write.\nAre 'love' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "589": {
+        "origin_prompt": "Sentence 1: He went from grunt to chairman in six years.\nSentence 2: Infantrymen in Vietnam were called grunts.\nAre 'grunt' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "590": {
+        "origin_prompt": "Sentence 1: You can crash here, though it's not very comfortable.\nSentence 2: The terrorists crashed the plane into the palace.\nAre 'crash' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "591": {
+        "origin_prompt": "Sentence 1: Create a poem.\nSentence 2: Create one a peer.\nAre 'create' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "592": {
+        "origin_prompt": "Sentence 1: Worldwide in distribution.\nSentence 2: The distribution of nerve fibers.\nAre 'distribution' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "593": {
+        "origin_prompt": "Sentence 1: The neoclassical canon.\nSentence 2: Canons of polite society.\nAre 'canon' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "594": {
+        "origin_prompt": "Sentence 1: She used to wait down at the Dew Drop Inn.\nSentence 2: Wait here until your car arrives.\nAre 'wait' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "595": {
+        "origin_prompt": "Sentence 1: Switch to a different brand of beer.\nSentence 2: I want to switch this red dress for a green one.\nAre 'switch' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "596": {
+        "origin_prompt": "Sentence 1: A mince of mushrooms.\nSentence 2: Mince tastes really good fried in a pan with some chopped onion and tomato.\nAre 'mince' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "A"
+    },
+    "597": {
+        "origin_prompt": "Sentence 1: On entering a host cell, a virus will start to replicate.\nSentence 2: Replicate the cell.\nAre 'replicate' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "598": {
+        "origin_prompt": "Sentence 1: A show of impatience.\nSentence 2: A good show of looking interested.\nAre 'show' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "599": {
+        "origin_prompt": "Sentence 1: Map the genes.\nSentence 2: Map the surface of Venus.\nAre 'map' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "600": {
+        "origin_prompt": "Sentence 1: Please bracket this remark.\nSentence 2: Bracket bookshelves.\nAre 'bracket' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "601": {
+        "origin_prompt": "Sentence 1: I applaud your efforts.\nSentence 2: Although we don't like your methods, we applaud your motives.\nAre 'applaud' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "602": {
+        "origin_prompt": "Sentence 1: A plume of smoke.\nSentence 2: Grass with large plumes.\nAre 'plume' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "603": {
+        "origin_prompt": "Sentence 1: 'Smog' is a blend of 'smoke' and 'fog'.\nSentence 2: Their music has been described as a blend of jazz and heavy metal.\nAre 'blend' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "A"
+    },
+    "604": {
+        "origin_prompt": "Sentence 1: He was a bull of a man.\nSentence 2: He made a bad bull of the assignment.\nAre 'bull' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "605": {
+        "origin_prompt": "Sentence 1: Spend money.\nSentence 2: He spends far more on gambling than he does on living proper.\nAre 'spend' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "606": {
+        "origin_prompt": "Sentence 1: English usage.\nSentence 2: A usage borrowed from French.\nAre 'usage' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "A"
+    },
+    "607": {
+        "origin_prompt": "Sentence 1: He gave a speech as part of his installation into the hall of fame.\nSentence 2: The telephone installation took only a few minutes.\nAre 'installation' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "608": {
+        "origin_prompt": "Sentence 1: The locks pound the water of the canal.\nSentence 2: Pound the roots with a heavy flat stone.\nAre 'pound' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "609": {
+        "origin_prompt": "Sentence 1: Donate money to the orphanage.\nSentence 2: I donated blood to the Red Cross for the victims of the earthquake.\nAre 'donate' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "610": {
+        "origin_prompt": "Sentence 1: Hew out a path in the rock.\nSentence 2: One of the most widely used typefaces in the world was hewn by the English printer and typographer John Baskerville.\nAre 'hew' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "611": {
+        "origin_prompt": "Sentence 1: Google represents a new breed of entrepreneurs.\nSentence 2: A breed of tulip.\nAre 'breed' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "612": {
+        "origin_prompt": "Sentence 1: I can not risk smoking.\nSentence 2: Why risk your life?\nAre 'risk' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "613": {
+        "origin_prompt": "Sentence 1: When does the court of law sit?\nSentence 2: In what city is the circuit court sitting for this session.\nAre 'sit' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "614": {
+        "origin_prompt": "Sentence 1: Let's review your situation.\nSentence 2: Before I tackle the question directly, I must briefly review historical approaches to the problem.\nAre 'review' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "615": {
+        "origin_prompt": "Sentence 1: He's a truck jockey.\nSentence 2: A disc jockey.\nAre 'jockey' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "616": {
+        "origin_prompt": "Sentence 1: The whole body filed out of the auditorium.\nSentence 2: The student body.\nAre 'body' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "617": {
+        "origin_prompt": "Sentence 1: The country will stabilize after the next election ends.\nSentence 2: The economy stabilized.\nAre 'stabilize' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "618": {
+        "origin_prompt": "Sentence 1: A good lead for a job.\nSentence 2: Joe is a great addition to our sales team, he has numerous leads in the paper industry.\nAre 'lead' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "A"
+    },
+    "619": {
+        "origin_prompt": "Sentence 1: He told the painter that he wanted a yellow base with just a hint of green.\nSentence 2: Bases include oxides and hydroxides of metals and ammonia.\nAre 'base' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "B"
+    },
+    "620": {
+        "origin_prompt": "Sentence 1: Juvenile offenses often reflect an inadequacy in the parents.\nSentence 2: The inadequacy of unemployment benefits.\nAre 'inadequacy' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "621": {
+        "origin_prompt": "Sentence 1: The power plant received a new upgrade.\nSentence 2: With my phone company, I get a free upgrade every twelve months if I keep topping up 10 pounds a month.\nAre 'upgrade' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "622": {
+        "origin_prompt": "Sentence 1: The senator received severe criticism from his opponent.\nSentence 2: The politician received a lot of public criticism for his controversial stance on the issue.\nAre 'criticism' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "623": {
+        "origin_prompt": "Sentence 1: The last bastion of communism.\nSentence 2: A bastion against corruption.\nAre 'bastion' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "624": {
+        "origin_prompt": "Sentence 1: It's a pity he couldn't do it.\nSentence 2: The blind are too often objects of pity.\nAre 'pity' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "625": {
+        "origin_prompt": "Sentence 1: To embellish a story, the truth.\nSentence 2: The old book cover was embellished with golden letters.\nAre 'embellish' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "626": {
+        "origin_prompt": "Sentence 1: The court's tilt toward conservative rulings.\nSentence 2: The tower had a pronounced tilt.\nAre 'tilt' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "627": {
+        "origin_prompt": "Sentence 1: The assembly plant is an enormous facility.\nSentence 2: Educational facilities.\nAre 'facility' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "628": {
+        "origin_prompt": "Sentence 1: We live an hour from the airport.\nSentence 2: It was their finest hour.\nAre 'hour' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "629": {
+        "origin_prompt": "Sentence 1: The drug capital of Columbia.\nSentence 2: The crime capital of Italy.\nAre 'capital' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "630": {
+        "origin_prompt": "Sentence 1: Clinton directed his fire at the Republican Party.\nSentence 2: There was a fire at the school last night and the whole place burned down.\nAre 'fire' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "631": {
+        "origin_prompt": "Sentence 1: In every war there are acts of torture that cause the world to shudder.\nSentence 2: Using large dogs to attack bound, hand-cuffed prisoners is clearly torture.\nAre 'torture' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "632": {
+        "origin_prompt": "Sentence 1: The outward passage took 10 days.\nSentence 2: She struggled to play the difficult passages.\nAre 'passage' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "633": {
+        "origin_prompt": "Sentence 1: Rise to the occasion.\nSentence 2: Her spirits rose when she heard the good news.\nAre 'rise' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "634": {
+        "origin_prompt": "Sentence 1: Chisel the marble.\nSentence 2: Who's chiseling on the side?\nAre 'chisel' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "635": {
+        "origin_prompt": "Sentence 1: The bane of my existence.\nSentence 2: The bane of my life.\nAre 'bane' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "636": {
+        "origin_prompt": "Sentence 1: Let's hang this cute animal in the nursery.\nSentence 2: Hang wallpaper.\nAre 'hang' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "637": {
+        "origin_prompt": "Sentence 1: He experimented on a particular breed of white rats.\nSentence 2: A breed of animal.\nAre 'breed' in the above two sentenses the same?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    }
+}

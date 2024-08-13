@@ -1,0 +1,502 @@
+{
+    "0": {
+        "origin_prompt": "The man turned on the faucet.\nQuestion: Which may be the effect?\nA. The toilet filled with water.\nB. Water flowed from the spout.\nAnswer:",
+        "prediction": "The toile",
+        "gold": "B"
+    },
+    "1": {
+        "origin_prompt": "The girl found a bug in her cereal.\nQuestion: Which may be the effect?\nA. She poured milk in the bowl.\nB. She lost her appetite.\nAnswer:",
+        "prediction": "She lost her",
+        "gold": "B"
+    },
+    "2": {
+        "origin_prompt": "The woman retired.\nQuestion: Which may be the effect?\nA. She received her pension.\nB. She paid off her mortgage.\nAnswer:",
+        "prediction": "She paid off",
+        "gold": "A"
+    },
+    "3": {
+        "origin_prompt": "I wanted to conserve energy.\nQuestion: Which may be the effect?\nA. I swept the floor in the unoccupied room.\nB. I shut off the light in the unoccupied room.\nAnswer:",
+        "prediction": "I shut off",
+        "gold": "B"
+    },
+    "4": {
+        "origin_prompt": "The hamburger meat browned.\nQuestion: Which may be the cause?\nA. The cook froze it.\nB. The cook grilled it.\nAnswer:",
+        "prediction": "The cook gr",
+        "gold": "B"
+    },
+    "5": {
+        "origin_prompt": "I doubted the salesman's pitch.\nQuestion: Which may be the effect?\nA. I turned his offer down.\nB. He persuaded me to buy the product.\nAnswer:",
+        "prediction": "A. I",
+        "gold": "A"
+    },
+    "6": {
+        "origin_prompt": "I decided to stay home for the night.\nQuestion: Which may be the cause?\nA. The forecast called for storms.\nB. My friends urged me to go out.\nAnswer:",
+        "prediction": "A. The",
+        "gold": "A"
+    },
+    "7": {
+        "origin_prompt": "My eyes became red and puffy.\nQuestion: Which may be the cause?\nA. I was sobbing.\nB. I was laughing.\nAnswer:",
+        "prediction": "I was la",
+        "gold": "A"
+    },
+    "8": {
+        "origin_prompt": "The flame on the candle went out.\nQuestion: Which may be the cause?\nA. I blew on the wick.\nB. I put a match to the wick.\nAnswer:",
+        "prediction": "I blew",
+        "gold": "A"
+    },
+    "9": {
+        "origin_prompt": "The man drank heavily at the party.\nQuestion: Which may be the effect?\nA. He had a headache the next day.\nB. He had a runny nose the next day.\nAnswer:",
+        "prediction": "He had a",
+        "gold": "A"
+    },
+    "10": {
+        "origin_prompt": "The bowling ball knocked over the bowling pins.\nQuestion: Which may be the cause?\nA. The man rolled the bowling ball down the alley.\nB. The man dropped the bowling ball on his foot.\nAnswer:",
+        "prediction": "The man rolled",
+        "gold": "A"
+    },
+    "11": {
+        "origin_prompt": "The community learned of the man's death.\nQuestion: Which may be the cause?\nA. His family buried him in the cemetery.\nB. His obituary appeared in the newspaper.\nAnswer:",
+        "prediction": "His family buried",
+        "gold": "B"
+    },
+    "12": {
+        "origin_prompt": "My computer crashed.\nQuestion: Which may be the effect?\nA. I installed new speakers.\nB. I lost all my data.\nAnswer:",
+        "prediction": "A. I",
+        "gold": "B"
+    },
+    "13": {
+        "origin_prompt": "The woman resigned from her job.\nQuestion: Which may be the cause?\nA. She aspired to hold an executive position in the firm.\nB. She believed her superiors were acting unethically.\nAnswer:",
+        "prediction": "A. She",
+        "gold": "B"
+    },
+    "14": {
+        "origin_prompt": "The player caught the ball.\nQuestion: Which may be the cause?\nA. Her teammate threw it to her.\nB. Her opponent tried to intercept it.\nAnswer:",
+        "prediction": "Her teammate",
+        "gold": "A"
+    },
+    "15": {
+        "origin_prompt": "The judge pounded the gavel.\nQuestion: Which may be the cause?\nA. The courtroom broke into uproar.\nB. The jury announced its verdict.\nAnswer:",
+        "prediction": "The jury",
+        "gold": "A"
+    },
+    "16": {
+        "origin_prompt": "The woman banished the children from her property.\nQuestion: Which may be the cause?\nA. The children hit a ball into her yard.\nB. The children trampled through her garden.\nAnswer:",
+        "prediction": "The children tr",
+        "gold": "B"
+    },
+    "17": {
+        "origin_prompt": "The kidnappers released the hostage.\nQuestion: Which may be the cause?\nA. They accepted ransom money.\nB. They escaped from jail.\nAnswer:",
+        "prediction": "They accepted r",
+        "gold": "A"
+    },
+    "18": {
+        "origin_prompt": "The cook's eyes watered.\nQuestion: Which may be the cause?\nA. He ran out of onions.\nB. He cut an onion.\nAnswer:",
+        "prediction": "He cut an",
+        "gold": "B"
+    },
+    "19": {
+        "origin_prompt": "The woman ran her finger under cold water.\nQuestion: Which may be the cause?\nA. She burned her finger on the toaster.\nB. She put a diamond ring on her finger.\nAnswer:",
+        "prediction": "She put a",
+        "gold": "A"
+    },
+    "20": {
+        "origin_prompt": "The student misspelled the word.\nQuestion: Which may be the effect?\nA. The teacher corrected her.\nB. The teacher dismissed her.\nAnswer:",
+        "prediction": "The teacher corrected",
+        "gold": "A"
+    },
+    "21": {
+        "origin_prompt": "I regained composure from my fit of anger.\nQuestion: Which may be the cause?\nA. My heart pounded.\nB. I took deep breaths.\nAnswer:",
+        "prediction": "A. My",
+        "gold": "B"
+    },
+    "22": {
+        "origin_prompt": "I put my hands under the running faucet.\nQuestion: Which may be the effect?\nA. The soap rinsed off my hands.\nB. The water splashed in my face.\nAnswer:",
+        "prediction": "The soap r",
+        "gold": "A"
+    },
+    "23": {
+        "origin_prompt": "The man dressed in his best suit.\nQuestion: Which may be the cause?\nA. He scheduled a meeting with an important client.\nB. His wife bought him a new tie.\nAnswer:",
+        "prediction": "A. He",
+        "gold": "A"
+    },
+    "24": {
+        "origin_prompt": "The man confessed his love for the woman.\nQuestion: Which may be the effect?\nA. The woman rejected him.\nB. The woman envied him.\nAnswer:",
+        "prediction": "The woman rejected",
+        "gold": "A"
+    },
+    "25": {
+        "origin_prompt": "The driver got a flat tire.\nQuestion: Which may be the cause?\nA. He went over the speed limit.\nB. He ran over a nail.\nAnswer:",
+        "prediction": "He ran over",
+        "gold": "B"
+    },
+    "26": {
+        "origin_prompt": "My view of the movie screen was blocked.\nQuestion: Which may be the cause?\nA. The couple behind me was whispering.\nB. A tall person was sitting in front of me.\nAnswer:",
+        "prediction": "A tall person",
+        "gold": "B"
+    },
+    "27": {
+        "origin_prompt": "The driver turned on the car's headlights.\nQuestion: Which may be the cause?\nA. He heard thunder.\nB. The sun went down.\nAnswer:",
+        "prediction": "He heard th",
+        "gold": "B"
+    },
+    "28": {
+        "origin_prompt": "The girl refused to eat her vegetables.\nQuestion: Which may be the effect?\nA. Her father told her to drink her milk.\nB. Her father took away her dessert.\nAnswer:",
+        "prediction": "Her father took",
+        "gold": "B"
+    },
+    "29": {
+        "origin_prompt": "The woman covered her mouth with her hand.\nQuestion: Which may be the cause?\nA. She exhaled.\nB. She sneezed.\nAnswer:",
+        "prediction": "She sne",
+        "gold": "B"
+    },
+    "30": {
+        "origin_prompt": "The secretary put the caller on hold.\nQuestion: Which may be the effect?\nA. The caller's phone lost reception.\nB. The caller waited on the line.\nAnswer:",
+        "prediction": "The caller'",
+        "gold": "B"
+    },
+    "31": {
+        "origin_prompt": "The woman walked with crutches.\nQuestion: Which may be the cause?\nA. She shaved her legs.\nB. She broke her leg.\nAnswer:",
+        "prediction": "She broke her",
+        "gold": "B"
+    },
+    "32": {
+        "origin_prompt": "I coughed.\nQuestion: Which may be the cause?\nA. I inhaled smoke.\nB. I lowered my voice.\nAnswer:",
+        "prediction": "I lowered",
+        "gold": "A"
+    },
+    "33": {
+        "origin_prompt": "The clock chimed.\nQuestion: Which may be the cause?\nA. It was the top of the hour.\nB. The hour seemed to drag on.\nAnswer:",
+        "prediction": "It was the",
+        "gold": "A"
+    },
+    "34": {
+        "origin_prompt": "The chef hit the egg on the side of the bowl.\nQuestion: Which may be the effect?\nA. The egg cracked.\nB. The egg rotted.\nAnswer:",
+        "prediction": "The egg crack",
+        "gold": "A"
+    },
+    "35": {
+        "origin_prompt": "The police searched the offender's car.\nQuestion: Which may be the cause?\nA. They were trying to elicit a confession.\nB. They were looking for illegal drugs.\nAnswer:",
+        "prediction": "A. They",
+        "gold": "B"
+    },
+    "36": {
+        "origin_prompt": "The couple travelled south for the winter.\nQuestion: Which may be the cause?\nA. They were retired.\nB. They were separated.\nAnswer:",
+        "prediction": "They were married",
+        "gold": "A"
+    },
+    "37": {
+        "origin_prompt": "The man felt obligated to attend the event.\nQuestion: Which may be the cause?\nA. He turned down his friend's invitation to go.\nB. He promised his friend that he would go.\nAnswer:",
+        "prediction": "He turned down",
+        "gold": "B"
+    },
+    "38": {
+        "origin_prompt": "The bride got cold feet before the wedding.\nQuestion: Which may be the effect?\nA. The wedding guests brought gifts.\nB. She called the wedding off.\nAnswer:",
+        "prediction": "The wedding",
+        "gold": "B"
+    },
+    "39": {
+        "origin_prompt": "The man grew old.\nQuestion: Which may be the effect?\nA. His hair turned gray.\nB. He sold his belongings.\nAnswer:",
+        "prediction": "His hair turned",
+        "gold": "A"
+    },
+    "40": {
+        "origin_prompt": "The friends decided to share the hamburger.\nQuestion: Which may be the effect?\nA. They cut the hamburger in half.\nB. They ordered fries with the hamburger.\nAnswer:",
+        "prediction": "They ordered f",
+        "gold": "A"
+    },
+    "41": {
+        "origin_prompt": "I twisted the cap off the soda bottle.\nQuestion: Which may be the effect?\nA. The soda fizzed.\nB. The soda leaked out.\nAnswer:",
+        "prediction": "The soda",
+        "gold": "A"
+    },
+    "42": {
+        "origin_prompt": "The pair of students came under scrutiny by the teacher.\nQuestion: Which may be the cause?\nA. The students both received excellent grades.\nB. Their responses on the assignment were identical.\nAnswer:",
+        "prediction": "The students both",
+        "gold": "B"
+    },
+    "43": {
+        "origin_prompt": "The student was in a rush to get to school on time.\nQuestion: Which may be the effect?\nA. He left his assignment at home.\nB. He brought his lunch to school.\nAnswer:",
+        "prediction": "He left his",
+        "gold": "A"
+    },
+    "44": {
+        "origin_prompt": "The journalist wrote a biography about the humanitarian's life.\nQuestion: Which may be the cause?\nA. The humanitarian was difficult for the journalist to interview.\nB. The journalist was intrigued by the humanitarian's work.\nAnswer:",
+        "prediction": "The journalist was",
+        "gold": "B"
+    },
+    "45": {
+        "origin_prompt": "The man defied the authorities of the church.\nQuestion: Which may be the effect?\nA. He donated money to the church.\nB. He was excommunicated from the church.\nAnswer:",
+        "prediction": "He was ex",
+        "gold": "B"
+    },
+    "46": {
+        "origin_prompt": "The woman's hair fell in her face.\nQuestion: Which may be the effect?\nA. She pulled her hair back with a clip.\nB. She lathered shampoo into her hair.\nAnswer:",
+        "prediction": "She lather",
+        "gold": "A"
+    },
+    "47": {
+        "origin_prompt": "The ring on my finger got stuck.\nQuestion: Which may be the cause?\nA. My finger swelled.\nB. I chipped my fingernail.\nAnswer:",
+        "prediction": "A. My",
+        "gold": "A"
+    },
+    "48": {
+        "origin_prompt": "I pulled the rubber band.\nQuestion: Which may be the effect?\nA. It flung across the room.\nB. It stretched.\nAnswer:",
+        "prediction": "It stretched",
+        "gold": "B"
+    },
+    "49": {
+        "origin_prompt": "I pressed my hand into the wet cement.\nQuestion: Which may be the effect?\nA. My handprint dried in the cement.\nB. Cracks emerged in the cement.\nAnswer:",
+        "prediction": "My handprint",
+        "gold": "A"
+    },
+    "50": {
+        "origin_prompt": "My skin broke out into a rash.\nQuestion: Which may be the cause?\nA. I brushed against poison ivy in my yard.\nB. I eradicated the poison ivy from my yard.\nAnswer:",
+        "prediction": "B. I",
+        "gold": "A"
+    },
+    "51": {
+        "origin_prompt": "My subscription to the magazine expired.\nQuestion: Which may be the effect?\nA. I discarded the new issue.\nB. I stopped receiving new issues.\nAnswer:",
+        "prediction": "I stopped receiving",
+        "gold": "B"
+    },
+    "52": {
+        "origin_prompt": "The detective revealed an anomaly in the case.\nQuestion: Which may be the effect?\nA. He finalized his theory.\nB. He scrapped his theory.\nAnswer:",
+        "prediction": "He finalized",
+        "gold": "B"
+    },
+    "53": {
+        "origin_prompt": "The boy threw a temper tantrum.\nQuestion: Which may be the cause?\nA. His brother took his toys from him.\nB. He shared his toys with his brother.\nAnswer:",
+        "prediction": "A. His",
+        "gold": "A"
+    },
+    "54": {
+        "origin_prompt": "The child learned how to read.\nQuestion: Which may be the cause?\nA. He began attending school.\nB. He skipped a grade in school.\nAnswer:",
+        "prediction": "He skipped",
+        "gold": "A"
+    },
+    "55": {
+        "origin_prompt": "The boy skipped dinner.\nQuestion: Which may be the cause?\nA. His mother cooked his favorite meal.\nB. He ate a big lunch.\nAnswer:",
+        "prediction": "B. He",
+        "gold": "B"
+    },
+    "56": {
+        "origin_prompt": "The woman lavished her friend with flattery.\nQuestion: Which may be the cause?\nA. She wanted to ask her friend for a favor.\nB. She was irritated with her friend's whining.\nAnswer:",
+        "prediction": "A. She",
+        "gold": "A"
+    },
+    "57": {
+        "origin_prompt": "The key was missing from my pants pocket.\nQuestion: Which may be the cause?\nA. The pocket had a hole.\nB. The pants were new.\nAnswer:",
+        "prediction": "The pants",
+        "gold": "A"
+    },
+    "58": {
+        "origin_prompt": "The man fainted.\nQuestion: Which may be the cause?\nA. He took a nap.\nB. He ran a marathon.\nAnswer:",
+        "prediction": "He ran a",
+        "gold": "B"
+    },
+    "59": {
+        "origin_prompt": "The man lost the competition.\nQuestion: Which may be the cause?\nA. The competition was sabotaged.\nB. He intimidated his competitors.\nAnswer:",
+        "prediction": "A. The",
+        "gold": "A"
+    },
+    "60": {
+        "origin_prompt": "The mother called an ambulance.\nQuestion: Which may be the cause?\nA. Her son lost his cat.\nB. Her son fell out of his bed.\nAnswer:",
+        "prediction": "Her son fell",
+        "gold": "B"
+    },
+    "61": {
+        "origin_prompt": "The driver slammed on his brakes.\nQuestion: Which may be the cause?\nA. A deer appeared on the road.\nB. The car radio shut off.\nAnswer:",
+        "prediction": "A deer",
+        "gold": "A"
+    },
+    "62": {
+        "origin_prompt": "The lock opened.\nQuestion: Which may be the cause?\nA. I turned the key in the lock.\nB. I made a duplicate of the key.\nAnswer:",
+        "prediction": "I turned the",
+        "gold": "A"
+    },
+    "63": {
+        "origin_prompt": "I put rubber gloves on.\nQuestion: Which may be the cause?\nA. I was preparing to wash my hands.\nB. I was preparing to clean the bathroom.\nAnswer:",
+        "prediction": "I was prepar",
+        "gold": "B"
+    },
+    "64": {
+        "origin_prompt": "The animal species became endangered.\nQuestion: Which may be the cause?\nA. Their habitat was destroyed.\nB. Their predators went extinct.\nAnswer:",
+        "prediction": "A. Their",
+        "gold": "A"
+    },
+    "65": {
+        "origin_prompt": "The man perceived that the woman looked different.\nQuestion: Which may be the cause?\nA. The woman got her hair cut.\nB. The woman wore a bracelet.\nAnswer:",
+        "prediction": "The woman wore",
+        "gold": "A"
+    },
+    "66": {
+        "origin_prompt": "The student forgot to do her assignment.\nQuestion: Which may be the effect?\nA. She made up an excuse to tell the teacher.\nB. The teacher promoted her to the next grade.\nAnswer:",
+        "prediction": "A. She",
+        "gold": "A"
+    },
+    "67": {
+        "origin_prompt": "The dog barked.\nQuestion: Which may be the cause?\nA. The cat lounged on the couch.\nB. A knock sounded at the door.\nAnswer:",
+        "prediction": "The dog b",
+        "gold": "B"
+    },
+    "68": {
+        "origin_prompt": "Plans were announced to replace a local park with a shopping mall.\nQuestion: Which may be the effect?\nA. Environmentalists started a petition.\nB. Environmentalists produced a documentary.\nAnswer:",
+        "prediction": "A. Environment",
+        "gold": "A"
+    },
+    "69": {
+        "origin_prompt": "The couple was happy to see each other.\nQuestion: Which may be the effect?\nA. They kissed.\nB. They rested.\nAnswer:",
+        "prediction": "They kissed",
+        "gold": "A"
+    },
+    "70": {
+        "origin_prompt": "The woman asked the man to leave.\nQuestion: Which may be the cause?\nA. He insulted her.\nB. He thanked her.\nAnswer:",
+        "prediction": "He insult",
+        "gold": "A"
+    },
+    "71": {
+        "origin_prompt": "The tree branch landed in the river.\nQuestion: Which may be the effect?\nA. The branch moved downstream.\nB. The river's current became stronger.\nAnswer:",
+        "prediction": "The branch moved",
+        "gold": "A"
+    },
+    "72": {
+        "origin_prompt": "The teacher assigned homework to the students.\nQuestion: Which may be the effect?\nA. The students passed notes.\nB. The students groaned.\nAnswer:",
+        "prediction": "The students gro",
+        "gold": "B"
+    },
+    "73": {
+        "origin_prompt": "The seasons changed from summer to autumn.\nQuestion: Which may be the effect?\nA. People evacuated their homes.\nB. Leaves fell from the trees.\nAnswer:",
+        "prediction": "People evacu",
+        "gold": "B"
+    },
+    "74": {
+        "origin_prompt": "The politician was convicted of fraud.\nQuestion: Which may be the effect?\nA. He campaigned for re-election.\nB. He was removed from office.\nAnswer:",
+        "prediction": "He was removed",
+        "gold": "B"
+    },
+    "75": {
+        "origin_prompt": "I pushed the wagon.\nQuestion: Which may be the effect?\nA. The objects in the wagon fell out.\nB. The wagon wheels spun forward.\nAnswer:",
+        "prediction": "The wagon",
+        "gold": "B"
+    },
+    "76": {
+        "origin_prompt": "The lobbyist persuaded the legislature to support the bill.\nQuestion: Which may be the effect?\nA. The president vetoed the bill.\nB. The legislature passed the bill.\nAnswer:",
+        "prediction": "The legislature",
+        "gold": "B"
+    },
+    "77": {
+        "origin_prompt": "My closet was messy.\nQuestion: Which may be the effect?\nA. I organized it.\nB. I decorated it.\nAnswer:",
+        "prediction": "I organized it",
+        "gold": "A"
+    },
+    "78": {
+        "origin_prompt": "I stayed up late.\nQuestion: Which may be the effect?\nA. I had vivid dreams that night.\nB. I was tired in the morning.\nAnswer:",
+        "prediction": "A. I",
+        "gold": "B"
+    },
+    "79": {
+        "origin_prompt": "The man's pocket jingled as he walked.\nQuestion: Which may be the cause?\nA. His pocket was filled with coins.\nB. He sewed the hole in his pocket.\nAnswer:",
+        "prediction": "His pocket was",
+        "gold": "A"
+    },
+    "80": {
+        "origin_prompt": "Everyone in the class turned to stare at the student.\nQuestion: Which may be the cause?\nA. The student's phone rang.\nB. The student took notes.\nAnswer:",
+        "prediction": "The student'",
+        "gold": "A"
+    },
+    "81": {
+        "origin_prompt": "The horse bucked.\nQuestion: Which may be the cause?\nA. A fly bit the horse.\nB. The rider stroked the horse.\nAnswer:",
+        "prediction": "A. A",
+        "gold": "A"
+    },
+    "82": {
+        "origin_prompt": "The jewelry thieves were caught.\nQuestion: Which may be the effect?\nA. The stolen jewelry was returned to its owners.\nB. The cost of the stolen jewelry was calculated.\nAnswer:",
+        "prediction": "The stolen",
+        "gold": "A"
+    },
+    "83": {
+        "origin_prompt": "Political violence broke out in the nation.\nQuestion: Which may be the effect?\nA. Many citizens relocated to the capitol.\nB. Many citizens took refuge in other territories.\nAnswer:",
+        "prediction": "A. Many",
+        "gold": "B"
+    },
+    "84": {
+        "origin_prompt": "The woman was arrested.\nQuestion: Which may be the cause?\nA. She checked into rehab.\nB. She committed assault.\nAnswer:",
+        "prediction": "She committed assault",
+        "gold": "B"
+    },
+    "85": {
+        "origin_prompt": "The woman read the newspaper.\nQuestion: Which may be the effect?\nA. She discovered the outcome of the election.\nB. She casted a vote in the election.\nAnswer:",
+        "prediction": "She discovered the",
+        "gold": "A"
+    },
+    "86": {
+        "origin_prompt": "The sick child coughed on his friend.\nQuestion: Which may be the effect?\nA. His friend got sick.\nB. His friend sneezed.\nAnswer:",
+        "prediction": "His friend got",
+        "gold": "A"
+    },
+    "87": {
+        "origin_prompt": "The couple got engaged.\nQuestion: Which may be the effect?\nA. They planned a wedding.\nB. They took some time apart.\nAnswer:",
+        "prediction": "They planned a",
+        "gold": "A"
+    },
+    "88": {
+        "origin_prompt": "The woman contacted the real estate agent.\nQuestion: Which may be the cause?\nA. The woman planned to buy a condo.\nB. The woman needed to clean her house.\nAnswer:",
+        "prediction": "The woman planned",
+        "gold": "A"
+    },
+    "89": {
+        "origin_prompt": "The man won the lottery.\nQuestion: Which may be the effect?\nA. He became rich.\nB. He owed money.\nAnswer:",
+        "prediction": "He became rich",
+        "gold": "A"
+    },
+    "90": {
+        "origin_prompt": "I lit the candle.\nQuestion: Which may be the effect?\nA. Wax dripped off the candle.\nB. The wax on the candle hardened.\nAnswer:",
+        "prediction": "Wax dri",
+        "gold": "A"
+    },
+    "91": {
+        "origin_prompt": "I spent the day at the pool.\nQuestion: Which may be the effect?\nA. I sprained my ankle.\nB. My face got sunburned.\nAnswer:",
+        "prediction": "I sprained",
+        "gold": "B"
+    },
+    "92": {
+        "origin_prompt": "The man received a parking ticket.\nQuestion: Which may be the cause?\nA. He parallel parked on the street.\nB. The parking meter expired.\nAnswer:",
+        "prediction": "A. He",
+        "gold": "B"
+    },
+    "93": {
+        "origin_prompt": "The woman became famous.\nQuestion: Which may be the effect?\nA. Photographers followed her.\nB. Her family avoided her.\nAnswer:",
+        "prediction": "A. Phot",
+        "gold": "A"
+    },
+    "94": {
+        "origin_prompt": "The girl wanted to wear earrings.\nQuestion: Which may be the effect?\nA. She got her ears pierced.\nB. She got a tattoo.\nAnswer:",
+        "prediction": "She got her",
+        "gold": "A"
+    },
+    "95": {
+        "origin_prompt": "My ears were ringing.\nQuestion: Which may be the cause?\nA. I went to a museum.\nB. I went to a concert.\nAnswer:",
+        "prediction": "I went to",
+        "gold": "B"
+    },
+    "96": {
+        "origin_prompt": "I tidied up my house.\nQuestion: Which may be the cause?\nA. I was swamped with work.\nB. I was expecting company.\nAnswer:",
+        "prediction": "A. I",
+        "gold": "B"
+    },
+    "97": {
+        "origin_prompt": "The airline mishandled my luggage.\nQuestion: Which may be the effect?\nA. They offered me compensation.\nB. They cancelled my flight.\nAnswer:",
+        "prediction": "They cancelled",
+        "gold": "A"
+    },
+    "98": {
+        "origin_prompt": "The computer was expensive to fix.\nQuestion: Which may be the effect?\nA. I got it repaired.\nB. I bought a new one.\nAnswer:",
+        "prediction": "I bought a",
+        "gold": "B"
+    },
+    "99": {
+        "origin_prompt": "The woman was in a bad mood.\nQuestion: Which may be the effect?\nA. She engaged in small talk with her friend.\nB. She told her friend to leave her alone.\nAnswer:",
+        "prediction": "She told her",
+        "gold": "B"
+    }
+}

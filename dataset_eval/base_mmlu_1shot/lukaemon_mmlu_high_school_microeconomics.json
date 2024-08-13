@@ -1,0 +1,1192 @@
+{
+    "0": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Marginal revenue equals marginal cost at the point where\nA. total revenue is greater than total cost at its greatest distance\nB. total revenue is equal to total cost\nC. marginal product is at its highest point\nD. total product is at its highest point\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "1": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The price of labor is $2, and the price of capital is $1. The marginal product of labor is 200, and the marginal product of capital is 50. What should the firm do?\nA. Increase capital and decrease labor so that the marginal product of capital falls and the marginal product of labor rises.\nB. Increase capital and decrease labor so that the marginal product of capital rises and the marginal product of labor falls.\nC. Decrease capital and increase labor so that the marginal product of capital rises and the marginal product of labor falls.\nD. Decrease capital and increase labor so that the marginal product of capital falls and the marginal product of labor rises.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "2": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: At a Nash equilibrium,\nA. the supply curve intersects the demand curve\nB. neither party has an incentive to deviate from his or her strategy\nC. the marginal revenue curve intersects the marginal cost curve\nD. the equilibrium is unstable and each party would like to switch strategies\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "3": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: You are told that the cross-price elasticity between goods X and Y is +2.0. This means that\nA. goods X and Y are normal goods.\nB. goods X and Y are inferior goods.\nC. goods X and Y are complementary goods.\nD. goods X and Y are substitute goods.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "4": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: An externality\nA. causes the equilibrium price to be artificially high\nB. causes the equilibrium price to be artificially low\nC. exists when markets cannot reach equilibrium\nD. results in an equilibrium that does not maximize the total benefit to society\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "5": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: What is one reason why the government discourages collusion between large firms in the same industry?\nA. Collusive output levels tend to increase, driving the price above competitive levels.\nB. Consumer surplus falls as the price is driven downward.\nC. Collusive output levels tend to decrease, driving the price down to competitive levels.\nD. Joint profit maximization costs society consumer surplus as the price rises above competitive levels.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "6": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following illustrates the demand curve facing an oligopolist when rival firms follow a price decrease but not a price increase?\nA. Perfectly horizontal demand curve.\nB. Highly inelastic demand curve.\nC. Highly elastic demand curve.\nD. A demand curve consisting of two discontinuous segments.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "7": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not the basis for a wage differential?\nA. Higher risk job.\nB. Investment in human capital.\nC. Increase in production of SUVs.\nD. Racial discrimination.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "8": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Patents, control of resources, economies of scale, and exclusive licenses are\nA. all requirements for price discrimination\nB. required in order for a firm to earn short-run profits\nC. all sources of elastic demand\nD. all barriers to entry\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "9": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The industry that makes plastic army figures uses a small fraction of the plastic demanded for all purposes. On this basis, we can conclude that the army-figures industry is most likely a(n)\nA. increasing-cost industry\nB. constant-cost industry\nC. decreasing-cost industry\nD. profit-making industry\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "10": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is most likely an example of production inputs that can be adjusted in the long run, but not in the short run?\nA. Amount of wood used to make a desk.\nB. Number of pickles put on a sandwich.\nC. The size of a McDonald\u2019s kitchen.\nD. Number of teacher\u2019s assistants in local high schools.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "11": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The apple market is in equilibrium. Suppose we observe that apple growers are using more pesticides to increase apple production. At the same time, we hear that the price of pears, a substitute for apples, is rising. Which of the following is a reasonable prediction for the new price and quantity of apples?\nA. Price rises, but quantity is ambiguous.\nB. Price falls, but quantity is ambiguous.\nC. Price is ambiguous, but quantity rises.\nD. Price is ambiguous, but quantity falls.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "12": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is most likely to result in a shift to the right in the demand curve for orange juice?\nA. A bumper crop of oranges in Florida\nB. A decrease in the price of Tang\nC. Expectations of lower future prices for orange juice\nD. Expectations of higher future income among juice drinkers\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "13": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following statements is accurate in regard to a perfectly competitive firm?\nA. Demand is downward-sloping.\nB. The demand curve lies above the marginal revenue curve.\nC. Price is determined by the equilibrium in the entire market.\nD. Average revenue differs from price.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "14": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Economists use the term \"capital\" to mean\nA. money.\nB. plant and equipment.\nC. where the central government is located.\nD. the center of the economy.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "15": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Ray and Dorothy can both cook and can both pull weeds in the garden on a Saturday afternoon. For every hour of cooking, Ray can pull 50 weeds and Dorothy can pull 100 weeds. Based on this information,\nA. Ray pulls weeds, since he has absolute advantage in cooking.\nB. Dorothy pulls weeds, since she has absolute advantage in cooking.\nC. Dorothy cooks, since she has comparative advantage in cooking.\nD. Ray cooks, since he has comparative advantage in cooking.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "16": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Your aunt runs a small firm from her home making apple pies. She hires some friends to help her. Which of the following situations would most likely increase her demand for labor?\nA. The price of apple peelers/corers rises.\nB. Your aunt\u2019s friends gossip all day, slowing their dough-making process.\nC. There is a sale on ovens.\nD. A new study reveals that apples increase your risk of cancer.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "17": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Mrs. Johnson spends her entire daily budget on potato chips, at a price of $1 each, and onion dip at a price of $2 each. At her current consumption bundle, the marginal utility of chips is 12 and the marginal utility of dip is 30. Mrs. Johnson should\nA. do nothing; she is consuming her utility maximizing combination of chips and dip.\nB. increase her consumption of chips until the marginal utility of chip consumption equals 30.\nC. decrease her consumption of chips until the marginal utility of chip consumption equals 30.\nD. decrease her consumption of chips and increase her consumption of dip until the marginal utility per dollar is equal for both goods.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "18": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: In the absence of intervention, imperfect competition, externalities, public goods, and imperfect information all result in which of the following?\nA. Demand curves that should be added vertically\nB. Market failure\nC. Prices that are too low\nD. Quantities of output that are too high\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "19": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Marginal cost (MC) is equal to average variable cost (AVC) and average total cost (ATC) when:\nA. marginal cost (MC) intersects AVC and ATC at their maximum points.\nB. AVC and ATC intersect MC at its maximum point.\nC. MC intersects AVC and ATC at their minimum points.\nD. AVC and ATC intersect MC at its minimum point.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "20": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: After Julia received a raise in her income, she began purchasing more ice cream cones and fewer popsicles. For Julia, popsicles\nA. disobey the law of demand\nB. are a joint product\nC. are a complementary good with ice cream\nD. are an inferior good\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "21": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following conditions is characteristic of oligopoly?\nA. A rival firm matches price decreases of rivals, but fails to match any price increases of rivals.\nB. A rival firm matches price increases of rivals, but fails to match any price decrease of rivals.\nC. A rival firm fails to match both price increases or price decreases of rivals.\nD. (I)) Rival firms act independently of each other.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "22": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is characteristic of oligopoly? I. Formidable barriers to entry. II. Price (P) = Marginal Revenue (MR). III. Relatively few sellers.\nA. I only.\nB. II only.\nC. III only.\nD. I and III only.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "23": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: A monopoly is less efficient than a perfect competitor because\nA. a monopoly produces more output and sells for a higher price\nB. a monopoly produces less output and sells for a higher price\nC. a monopoly can make profit in the short run but not in the long run\nD. a perfect competitor breaks even in the short run and the monopoly does not\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "24": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: In the design of a competitive market system, which of the following does NOT describe how resources are allocated?\nA. Price signals that guide producers on what, when, how, and for whom to produce goods and services.\nB. Active government ownership and direction of production.\nC. Voluntary market exchange between buyers and sellers.\nD. Distribution of income and goods on the basis of contribution or productivity.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "25": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: A production possibility frontier will be a straight line when\nA. efficiency is achieved\nB. the goods on the axes are perfect substitutes in consumption\nC. utility is maximized\nD. resources are not specialized\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "26": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following statements is correct?\nA. Economic Profits = Accounting Profits.\nB. Economic Costs = Explicit Costs plus Implicit Costs.\nC. Economic Costs = Explicit Costs minus Implicit Costs.\nD. Opportunity Costs = Economic Profits.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "27": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If the per unit price of labor, a variable resource, increases, it causes which of the following?\nA. An upward shift in AFC.\nB. An upward shift in MPL.\nC. A downward shift in ATC.\nD. An upward shift in MC.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "28": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If the wage paid to all units of labor is $4.50, how many units of labor are hired?\nA. 1\nB. 2\nC. 3\nD. 4\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "29": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If consumers are advised that multigrained bread will substantially lessen the risk of cancer, which of the following will happen in the market for multigrained bread?\nA. The demand curve will shift to the left, decreasing the price of multigrained bread.\nB. The supply curve will shift to the left, increasing the price of multigrained bread.\nC. The demand curve will shift to the right, increasing the price of multigrained bread.\nD. The supply curve will shift to the right, decreasing the price of multigrained bread.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "30": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The market structures of perfect competition and monopolistic competition share which of the following characteristics?\nA. Ease of entry and exit in the long run\nB. Homogenous products\nC. Perfectly elastic demand for the firm's product\nD. Long-run positive profits\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "31": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: When a negative externality exists as the result of the production of a good, the socially optimal quantity of output could be achieved by\nA. free market capitalism\nB. placing limits on the quantity that can be produced\nC. government purchases of the good\nD. setting a minimum on the quantity that can be produced\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "32": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Jason cleans swimming pools in a perfectly competitive local market. A profit maximizer, he can charge $10 per pool to clean 9 pools per day, incurring total variable costs of $80 and total fixed costs of $20. Which of the following is true?\nA. Jason should shut down in the short run, with economic losses of $20.\nB. Jason should shut down in the short run, with economic losses of $10.\nC. Jason should clean 9 pools per day, with economic losses of $20.\nD. Jason should clean 9 pools per day, with economic losses of $10.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "33": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not a characteristic of oligopoly?\nA. P = MC.\nB. Price-maker.\nC. Strong barriers to entry.\nD. Few firms.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "34": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The competitive market provides the best outcome for society because\nA. consumer surplus is minimized, while producer surplus is maximized.\nB. the total welfare is maximized.\nC. producer surplus is minimized, while consumer surplus is maximized.\nD. the difference between consumer and producer surplus is maximized.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "35": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: You are told that the income elasticity for DVDs is + 1.5. This means that\nA. a 10 percent increase in income produces a 15 percent increase in consumption of DVDs. DVDs are a normal luxury good.\nB. a 10 percent increase in income produces a 15 percent increase in consumption of DVDs. DVDs are an inferior good.\nC. a 10 percent increase in income produces a 15 percent decrease in consumption of DVDs. DVDs are an inferior good.\nD. a 10 percent increase in the price of DVDs produces a 15 percent decrease in consumption of DVDs. DVDs are a price elastic good.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "36": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If the price of a product decreases with the price of a substitute product remaining constant such that the consumer buys more of this product, this is called the\nA. income effect.\nB. substitution effect.\nC. marginal effect.\nD. supply effect.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "37": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is an example of a transfer earning?\nA. A superstar basketball player's $40 million earnings.\nB. A social security retirement income.\nC. A welfare payment from social services.\nD. A cashier at a restaurant receiving the same $8 an hour that other cashiers receive.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "38": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: A small business estimates price elasticity of demand for the product to be 3. To raise total revenue, owners should\nA. decrease price as demand is elastic.\nB. decrease price as demand is inelastic.\nC. increase price as demand is elastic.\nD. increase price as demand is inelastic.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "39": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: A bilateral monopoly exists when\nA. a monopsony buys from a monopoly\nB. a monopoly sells to two different types of consumers\nC. a monopoly buys from a monopsony\nD. a monopolist sells two different types of goods\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "40": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If firms are entering an industry that is monopolistically competitive, we would expect\nA. the demand for existing firms to shift rightward.\nB. the market price of the product to increase.\nC. the demand for existing firms to become more inelastic.\nD. the demand for existing firms to shift leftward.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "41": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The Law of Diminishing Marginal Returns is responsible for\nA. AVC that first rises, but eventually falls, as output increases.\nB. AFC that first rises, but eventually falls, as output increases.\nC. MP that first falls, but eventually rises, as output increases.\nD. MC that first falls, but eventually rises, as output increases.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "42": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following would best complete a short definition of economics? \"Economics is the study of . . .\"\nA. how unlimited resources are allocated between scarce wants.\nB. how money is circulated through the economy.\nC. how corporations maximize the share price of their stock.\nD. how scarce resources are allocated to satisfy unlimited wants.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "43": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: With capital fixed at one unit with 1, 2, 3 units of labor added in equal successive units, production of the output increases from 300 (1 unit of labor), to 350 (2 units of labor) to 375 (3 units of labor). Which of the following is a correct interpretation?\nA. This is long run increasing returns to scale.\nB. This is long run decreasing returns to scale.\nC. This is long run constant returns to scale.\nD. This is short run diminishing marginal productivity.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "44": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is the best example of a public good?\nA. Private violin lessons\nB. The volunteer fire department in your community\nC. A $1 ticket for admission to a museum\nD. A bag of potato chips\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "45": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is the best example of a public good?\nA. A visit to the orthodontist\nB. A session at the tanning salon\nC. A large pizza\nD. The International Space Station\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "46": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: When the cross-price elasticity of demand is negative, the goods in question are necessarily\nA. normal\nB. inferior\nC. complements\nD. substitutes\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "47": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: A competitive labor market is currently in equilibrium. Which of the following most likely increases the market wage?\nA. More students graduate with the necessary skills for this labor market.\nB. Demand for the good produced by this labor is stronger.\nC. The price of a complementary resource increases.\nD. The Department of Labor removes the need for workers to pass an exam before they can work in this field.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "48": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: One of the reasons that the government discourages and regulates monopolies is that\nA. producer surplus is lost and consumer surplus is gained.\nB. monopoly prices ensure productive efficiency but cost society allocative efficiency.\nC. monopoly firms do not engage in significant research and development.\nD. consumer surplus is lost with higher prices and lower levels of output.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "49": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is true of equilibrium in a purely (or perfectly) competitive market for good X?\nA. A shortage of good X exists.\nB. The quantity demanded equals the quantity supplied of good X.\nC. A surplus of good X exists.\nD. The government regulates the quantity of good X produced at the market price.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "50": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: When the price of pears increases, we expect the following:\nA. Quantity demanded of pears rises.\nB. Quantity supplied of pears falls.\nC. Quantity demanded of pears falls.\nD. Demand for pears falls.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "51": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If the demand for grapes increases simultaneously with an increase in the supply of grapes, we can say that\nA. equilibrium quantity rises, but the price change is ambiguous.\nB. equilibrium quantity falls, but the price change is ambiguous.\nC. equilibrium quantity rises, and the price rises.\nD. equilibrium quantity falls, and the price falls.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "52": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If the government wishes to regulate a natural monopoly so that it produces an allocatively efficient level of output, it would be at an output\nA. where price is equal to average total cost.\nB. where marginal revenue equals marginal cost.\nC. where normal profits are made.\nD. where price is equal to marginal cost.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "53": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: When price elasticity of demand is greater than 1, demand is\nA. perfectly inelastic.\nB. elastic.\nC. inelastic.\nD. unit elastic.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "54": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following tax systems is designed to redistribute income from the wealthy to the poor?\nA. A progressive tax system\nB. A regressive tax system\nC. A proportional tax system\nD. An excise tax system\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "55": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of these situations is not an example of price discrimination?\nA. Brent works nights, so he chooses to buy bread at 7 a.m. rather than at 7 p.m.\nB. Bob and Nancy each receive a \"$1 off\" coupon in the mail, but Bob redeems it while Nancy does not.\nC. Katie buys 12 Cokes for $3, and Josh buys one Coke at a time for $1.\nD. Velma likes to go to the movies at the lower afternoon matinee price, and Rosemary would rather pay more for the evening show.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "56": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: With the presence of a positive externality, which of the following would correct the externality?\nA. A government subsidy.\nB. A government tax.\nC. A higher price.\nD. A lower level of output.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "57": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The market for denim jeans is in equilibrium, and the price of polyester pants, a substitute good, rises. In the jean market\nA. supply falls, increasing the price and decreasing the quantity.\nB. supply falls, increasing the price and increasing the quantity.\nC. demand falls, increasing the price and decreasing the quantity.\nD. demand rises, increasing the price and increasing the quantity.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "58": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: A rational consumer who is eating Girl Scout cookies stops eating when\nA. the total benefit equals the total cost of eating cookies.\nB. the marginal benefit equals the marginal cost of the next cookie.\nC. the marginal cost of eating cookies is maximized.\nD. the marginal benefit of eating cookies is minimized.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "59": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following correctly illustrates why price (P) equals marginal revenue (MR) under perfect competition, and why price (P) is greater than marginal revenue under monopoly or imperfect competition? I. MR = P = demand on horizontal function for perfect competition. II. P > MR as downward sloping functions for imperfect competition. III. Demand and Price are represented as a vertical function for imperfect competition.\nA. I, II, and III.\nB. I and II.\nC. I only.\nD. I and III.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "60": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: When a good is taxed, the tax burden falls mainly on the consumer if\nA. the demand is inelastic and the supply is inelastic\nB. the demand is inelastic and the supply is elastic\nC. the demand is elastic and the supply is inelastic\nD. the demand is elastic and the supply is elastic\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "61": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The long-run average cost curve\nA. is always below the short-run average cost curve\nB. is always above the short-run average cost curve\nC. always intersects the short-run average cost curve at the minimum of short-run average cost\nD. is below the short-run average cost except at one point\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "62": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not a characteristic of a kinked demand curve?\nA. A range of marginal costs over which MR = MC.\nB. P < MC.\nC. Interdependence of rivals.\nD. Pricing at the kink.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "63": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Economics is a social science that\nA. is primarily concerned with money.\nB. is primarily concerned with how resources are used.\nC. relies solely on the scientific method for analysis.\nD. is primarily concerned with maximizing spiritual well-being.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "64": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is true?\nA. TC = (AVC + AFC)Q.\nB. TFC = TC at all levels of output.\nC. AVC + AFC = TC.\nD. MC = TC - TFC.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "65": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: A monopsonist is identified by one of the following:\nA. A wage payment lower than the marginal revenue product of labor.\nB. Employment level greater than that of a competitive labor market.\nC. A wage payment higher than that of a competitive labor market.\nD. A single seller of labor services.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "66": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If the price of one good (A) increases and the quantity demanded of another good (B) increases, the two goods are\nA. substitute goods.\nB. complement goods.\nC. inferior goods.\nD. normal goods.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "67": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following statements is true for a firm in a perfectly competitive industry?\nA. Total revenue increases and then decreases.\nB. Marginal revenue is decreasing.\nC. Average revenue is initially negative and then becomes positive.\nD. Average revenue equals marginal revenue.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "68": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: A perfectly competitive employer hires labor up to the point where\nA. Wage = Marginal factor cost.\nB. Wage = Marginal product of labor.\nC. Wage = Marginal revenue.\nD. Wage = Marginal revenue product of labor.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "69": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The necessity for a monopoly to lower its price in order to sell more units of its product explains why\nA. monopolies are common among public utilities\nB. the marginal revenue curve is below the demand curve for a monopoly\nC. the marginal cost curve for a monopoly slopes upward\nD. monopolies are able to maintain market power\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "70": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Suppose a price floor is installed in the market for coffee. One result of this policy would be\nA. a decrease in the demand for coffee-brewing machines.\nB. a persistent shortage of coffee in the market.\nC. an increase in consumer surplus due to lower coffee prices.\nD. an increase in the demand for coffee.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "71": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: A minimum wage in the market for fast-food workers is likely to produce\nA. an increase in the demand for fast-food workers.\nB. a decrease in the supply of fast-food workers.\nC. a shortage of fast-food workers.\nD. a surplus of fast-food workers.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "72": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is true of the perfectly competitive firm in the short run?\nA. The firm earns a normal profit.\nB. The firm shuts down if the price falls below average total cost.\nC. The firm earns positive economic profit.\nD. The firm may earn positive, negative, or normal profits.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "73": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: A competitive market for coffee, a normal good, is currently in equilibrium. Which of the following would most likely result in an increase in the demand for coffee?\nA. Consumer income falls.\nB. The price of tea rises.\nC. The wage of coffee plantation workers falls.\nD. Technology in the harvesting of coffee beans improves.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "74": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: When a firm is earning a normal profit from the production of a good, it is true that\nA. total revenues from production are equal to explicit costs.\nB. explicit costs are equal to implicit costs.\nC. total revenues from production are equal to implicit costs.\nD. total revenues from production are equal to the sum of explicit and implicit costs.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "75": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If a business wants to increase its revenue and it knows that the demand price elasticity of its product is equal to 0.78, it should\nA. decrease price because demand is elastic\nB. decrease price because demand is unit elastic\nC. decrease price because demand is inelastic\nD. increase price because demand is inelastic\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "76": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is a characteristic of monopolistic competition?\nA. P > MC.\nB. Efficiency.\nC. Mostly price competition.\nD. P =MR.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "77": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The backward bending supply curve is characterized by which of the following?\nA. As wage rates rise, the quantity of labor supplied continues to rise at every wage rate increase.\nB. The labor-leisure trade-off continues to favor the supply of more jobs, or the substitution effect.\nC. The labor-leisure trade-off favors the income effect or more leisure at higher wage rates.\nD. inexperienced, low-income, younger workers at the backward bending portion.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "78": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following goods is likely to provide both the largest total utility and the smallest marginal utility?\nA. Plastic\nB. Automobiles\nC. Computers\nD. Air\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "79": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The Lorenz Curve is used to measure which of the following:\nA. The ratio of income to wealth in different countries.\nB. The ratio of public goods to private goods in different countries.\nC. The ratio of income inequality to income equality in different countries.\nD. The ratio of the working poor to the non-working poor.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "80": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following examples would result in consumers paying for the largest burden of an excise tax placed on a producer?\nA. If the demand curve is price elastic and the supply curve is price inelastic\nB. If the demand curve is price elastic and the supply curve is perfectly elastic\nC. If the demand curve is price inelastic and the supply curve is price elastic\nD. If the demand curve is perfectly inelastic and the supply curve is price elastic\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "81": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following could have caused an increase in the demand for ice cream cones?\nA. A decrease in the price of ice cream cones\nB. A decrease in the price of ice cream, a complimentary good to ice cream cones\nC. An increase in the price of ice cream, a complimentary good to ice cream cones\nD. A decrease in the price of lollipops, a close substitute for ice cream\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "82": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The primary focus of microeconomics is\nA. families and how they make money.\nB. firms and how they make profits.\nC. individual units within the overall economy.\nD. government.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "83": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: In order for a firm to successfully carry out price discrimination, which of the following conditions must hold? I. The firm cannot face a downward sloping demand curve. II. The firm must have market power. III. Buyers with differing demand elasticities must be separable. IV. The firm must have motives beyond profit maximization. V. The firm must be able to prevent the re-sale of its products.\nA. I, III, and V only\nB. III and IV only\nC. I and IV only\nD. II, III, and V only\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "84": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is an example of an economic rent?\nA. A superstar basketball player's $50 million earnings.\nB. A social security retirement income.\nC. A welfare payment from social services.\nD. A check to a college student from a parent or guardian.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "85": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: With the presence of a negative externality, which of the following would internalize (or correct) the externality?\nA. A government subsidy.\nB. A government tax.\nC. A lower price.\nD. A higher level of output.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "86": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is a characteristic of monopoly?\nA. A single firm in the industry.\nB. Price equal to marginal revenue.\nC. Perfectly elastic demand curve.\nD. Weak barriers to entry.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "87": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: A monopoly with a straight, downward-sloping demand curve has a marginal revenue curve that is\nA. upward sloping\nB. halfway between the demand curve and the vertical axis\nC. initially downward sloping and then upward sloping\nD. parallel to the demand curve\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "88": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: A consequence of a price floor is\nA. a persistent shortage of the good.\nB. an increase in total welfare.\nC. a persistent surplus of the good.\nD. elimination of deadweight loss.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "89": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not among the methods unions use to increase wages?\nA. Negotiations to obtain a wage floor\nB. Restrictive membership policies\nC. Efforts to decrease the prices of substitute resources\nD. Featherbedding or make-work rules\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "90": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is a characteristic of perfect competition?\nA. Firms produce a homogeneous product.\nB. Barriers to entry exist.\nC. Firms are price-setting profit maximizers.\nD. The government regulates the price so that deadweight loss is eliminated.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "91": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is correct?\nA. In the long run, all inputs are variable.\nB. In the short run, all inputs are variable.\nC. In the long run, supply is not able to adjust fully to changes in demand.\nD. In the short run, supply is able to adjust fully to changes in demand.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "92": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Monopolistic competition is said to be productively inefficient because\nA. the long-run price is above minimum average total cost.\nB. long-run profits are positive.\nC. firms engage in collusive behavior.\nD. there exist no barriers to entry.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "93": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Compared to perfect competition in the long run, monopoly has\nA. more choices of products for consumers.\nB. more efficiency.\nC. lower prices.\nD. price greater than marginal revenue.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "94": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If the price of firm A's cell phone service rises by 5 percent and the quantity demanded for firm B's cell phone service increases by 10 percent, we can say that\nA. demand for firm B is price elastic.\nB. supply for firm B is price elastic.\nC. firms A and B are substitutes because the cross-price elasticity is greater than zero.\nD. firms A and B are complements because the cross-price elasticity is less than zero.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "95": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The relationship between the marginal revenue curve and the demand curve for a monopoly is most similar to the relationship between the marginal factor cost curve and what curve for a monopsony?\nA. Labor demand\nB. Labor supply\nC. Marginal external cost\nD. Total cost\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "96": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Suppose the market for roses is currently in equilibrium. If the supply of roses falls, while at the same time the demand for roses rises, what can you say about the price and quantity of roses in the market?\nA. Price and quantity both rise.\nB. Price rises, but the change in quantity is ambiguous.\nC. Price and quantity both fall.\nD. Quantity rises, but the change in price is ambiguous.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "97": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The competitive market for gasoline, a normal good, is currently in a state of equilibrium. Which of the following would most likely increase the price of gasoline?\nA. Household income falls.\nB. Technology used to produce gasoline improves.\nC. The price of subway tickets and other public transportation falls.\nD. The price of crude oil, a raw material for gasoline, rises.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "98": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following will increase wages for tuba makers?\nA. An increase in the number of graduates at tuba maker training school\nB. An increase in the price of tubas\nC. An increase in the price of tuba lessons\nD. An increase in the tax on tubas\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "99": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Diminishing marginal returns to short-run production begin when\nA. the average product of labor begins to fall.\nB. the total product of labor begins to fall.\nC. marginal product of labor becomes negative.\nD. marginal product of labor begins to fall.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "100": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: What you give up to pursue another alternative is known as\nA. capital.\nB. land.\nC. money cost.\nD. opportunity cost.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "101": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is NOT a characteristic of perfectly competitive industry?\nA. Free entry into the industry.\nB. Product differentiation.\nC. Perfectly elastic demand curve.\nD. Homogeneous products.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "102": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Relative to a competitive input market, a monopsony\nA. pays less and hires more\nB. pays less and hires the same amount\nC. pays more and hires more\nD. pays less and hires fewer\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "103": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If a monopsony labor market suddenly were transformed into a perfectly competitive labor market, how would the wage and employment change?\nA. Both would increase.\nB. Both would decrease.\nC. The wage would remain constant, but employment would increase.\nD. The wage would fall, but employment would increase.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "104": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If corn is produced in a perfectly competitive market and the government placed a price ceiling above equilibrium, which of the following would be true?\nA. There would be no change in the amount of corn demanded or supplied.\nB. There would be a shortage created of corn.\nC. There would be a surplus created of corn.\nD. The producers of corn would lose revenue due to the decreased price.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "105": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Marginal cost always intersects average variable cost at\nA. the profit-maximizing quantity\nB. the minimum of marginal cost\nC. the maximum of average variable cost\nD. the minimum of average variable cost\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "106": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Production possibilities frontiers are concave to the origin because\nA. of inefficiencies in the economy.\nB. of opportunity cost.\nC. of the law of increasing costs.\nD. of constant opportunity costs.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "107": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Scarcity is best defined as\nA. the difference between limited wants and limited economic resources.\nB. the difference between the total benefit of an action and the total cost of that action.\nC. the difference between unlimited wants and limited economic resources.\nD. the opportunity cost of pursuing a given course of action.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "108": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The market for Cincinnati Reds baseball tickets is currently in equilibrium. Which of the following events would most likely increase the consumer surplus received by Reds fans?\nA. The Reds offer discounted parking for all home games.\nB. The Reds increase hot dog prices to reflect a higher cost of buns.\nC. The city of Cincinnati is undertaking a huge highway construction project that strands fans in pregame traffic jams for hours.\nD. The Reds must increase ticket prices to afford the most talented players.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "109": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Firms with the following market structure(s) maximize profits by producing where marginal cost equals marginal revenue, if at all. I. Perfect competition II. Oligopoly III. Monopoly IV. Monopolistic competition\nA. I only\nB. I and II only\nC. I and III only\nD. I, II, III, and IV\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "110": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Consumer surplus is\nA. the price of a good divided by its marginal utility.\nB. the marginal utility of the good divided by its price.\nC. the total utility of the good.\nD. the difference between the consumer's value and the market price.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "111": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following statements is positive?\nA. An economy that produces more butter than guns is better off than an economy that produces more guns than butter.\nB. Nations should concentrate their resources on producing wholesome consumer goods as opposed to the weapons of war.\nC. The production possibilities frontier is concave to the origin because of the law of increasing costs.\nD. Nations ought to devote at least some of their resources to national defense.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "112": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Relatively free or easy entry (low or nonexistent barriers to entry) is best matched by which of the following?\nA. More consumer choices, greater price elasticity of demand, more competitors.\nB. More consumer choices, lower price elasticity of demand, more competitors.\nC. More consumer choices, greater price elasticity of demand, fewer competitors.\nD. Fewer consumer choices, lower price elasticity of demand, fewer competitors.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "113": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Firms maximize their profits by producing a level of output at which\nA. MC = AFC.\nB. MC = MR.\nC. P = ATC.\nD. MR= AVC.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "114": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: A typical characteristic of capitalist market economies is\nA. government ownership of land and capital.\nB. extensive price controls.\nC. centralized government decision making to determine production limits.\nD. private ownership of economic resources.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "115": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: When a monopolist has maximized profit,\nA. price is set equal to marginal cost, creating zero economic profit.\nB. output is set where price is equal to average total cost.\nC. price is set above marginal cost, creating allocative inefficiency.\nD. any short-run profit will be eliminated through the long-run entry of new firms.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "116": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following situations best exemplifies the concept of consumer surplus?\nA. It refers to a consumer who no longer has any outstanding debts.\nB. The federal government has taken in more revenue than it has paid out in expenditures.\nC. A consumer pays more for a pizza than she thought it was worth at the margin of the purchase.\nD. A consumer pays less for a pizza than she thought it was worth at the margin of the purchase.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "117": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If the perfectly competitive price is currently below minimum average total cost, we can expect which of the following events in the long run?\nA. The price will rise and each firm's output will fall as firms exit the industry.\nB. Market equilibrium quantity will increase as firms exit the industry.\nC. Nothing. The industry is currently in long-run equilibrium.\nD. The price will rise to the breakeven point as firms exit the industry.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "118": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If total product of labor is rising at an increasing rate,\nA. marginal product of labor is rising.\nB. marginal product of labor is at its minimum.\nC. marginal product of labor is at its maximum.\nD. marginal cost is rising.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "119": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: When the opportunity for price discrimination arises,\nA. market segments with relatively elastic demand pay higher prices\nB. market segments with relatively inelastic demand pay lower prices\nC. consumer surplus decreases\nD. demand is horizontal\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "120": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Price times quantity measures\nA. the international trade gap.\nB. the budget deficit.\nC. total revenue.\nD. price elasticity of demand.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "121": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: A tax imposed on a supplier will more likely be passed on to the consumer in the form of price increase if\nA. price elasticity of demand is highly elastic.\nB. price elasticity of demand is highly inelastic.\nC. price elasticity of demand is unit elastic.\nD. wage elasticity of demand is highly elastic.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "122": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The law of increasing costs\nA. does not apply to guns and butter.\nB. is the result of resources not being perfectly adaptable between the production of two goods.\nC. implies that prices will rise when the costs of making a good rise.\nD. causes the production possibilities frontier to be a straight line.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "123": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is true about a price ceiling?\nA. It is used to correct government policy.\nB. It is used when equilibrium prices are too low.\nC. It will be located above the equilibrium price.\nD. It will be located below the equilibrium price.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "124": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Consider a profit-maximizing firm in a perfectly competitive market with several sellers and several buyers (i.e., the firm is a \"price taker\" of the goods it sells and a \"price taker\" of the hourly wages it pays its workers). If a technological innovation made by someone in this firm were to significantly raise the firm's marginal physical product (but not that of any other firm's), then this innovation would\nA. reduce the firm\u2019s employment level, because fewer workers are now needed\nB. raise the workers\u2019 hourly wage as they now contribute more marginal revenue\nC. lead the firm to hire more workers but not to raise their wages\nD. lead the firm to hire more workers and to pay them higher wages\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "125": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Suppose the price of beef rises by 10 percent and the quantity of beef demanded falls by 20 percent. We can conclude that\nA. demand for beef is price elastic and consumer spending on beef is falling.\nB. demand for beef is price elastic and consumer spending on beef is rising.\nC. demand for beef is price inelastic and consumer spending on beef is falling.\nD. demand for beef is price inelastic and consumer spending on beef is rising.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "126": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The elasticity of supply is typically greater when\nA. producers have fewer alternative goods to produce.\nB. producers have less time to respond to price changes.\nC. producers are operating near the limits of their production.\nD. producers have more time to respond to price changes.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "127": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is true?\nA. A marginal social cost = marginal private cost + marginal social benefits.\nB. Value of externality = marginal social costs.\nC. Value of externality = marginal private costs.\nD. Marginal social cost = marginal private cost + negative externality.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "128": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is most likely to decrease the demand for kindergarten teachers?\nA. An increase in funding for education\nB. Increased immigration of foreign citizens and their families\nC. A decrease in the average number of children per household\nD. Subsidies given to college students who major in elementary education\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "129": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Monopoly deadweight loss is the result of\nA. setting the price above marginal cost.\nB. setting the price above average total cost.\nC. monopoly output being greater than the competitive output.\nD. long-run normal profits.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "130": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Education makes Chris a better worker, voter, parent, and citizen. Because the benefits from education go beyond those that Chris enjoys himself, education provides\nA. increasing marginal utility and should be subsidized\nB. externalities and should be taxed\nC. decreasing marginal utility and should be taxed\nD. externalities and should be subsidized\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "131": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If, for each additional unit of a variable input, the increases in output become smaller, which of the following correctly identifies the concept?\nA. Diminishing marginal productivity.\nB. Diminishing marginal utility.\nC. Increasing marginal utility.\nD. Increasing marginal productivity.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "132": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If there is a positive externality associated with the production of a private good, which of the following is an action of government that would most likely move the market to an efficient outcome?\nA. Close the firm producing the good.\nB. Subsidize the firm or its customers.\nC. Tax the firm.\nD. Appoint a commission.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "133": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: A positive sign on cross price elasticity of demand indicates that the two products are\nA. luxuries.\nB. necessities.\nC. substitutes.\nD. complements.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "134": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The price elasticity of demand for a product is greater if\nA. the proportion of the good of the consumer's budget is high.\nB. the period of time to respond to a price change is short.\nC. the number of substitute products is limited.\nD. the product is a necessity.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "135": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: A price discriminating monopoly differs from a non-discriminating monopoly because a discriminating monopoly\nA. has a demand curve that is more elastic than a non-discriminating monopoly\nB. earns less revenue than a non-discriminating monopoly\nC. earns more revenue than a non-discriminating monopoly\nD. will produce less than a non-discriminating monopoly\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "136": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Every time Mr. Hamm makes another pizza in his shop, he places $0.45 worth of sauce on top. For Mr. Hamm, the cost of pizza sauce is a component of which of the following? I. Total Fixed Costs II. Total Variable Costs III. Marginal Cost IV. Total Costs\nA. I and IV only\nB. II and III only\nC. II and IV only\nD. II, III, and IV only\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "137": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The law of increasing costs is useful in describing\nA. a demand curve.\nB. a marginal benefit curve.\nC. a linear production possibility frontier.\nD. a concave production possibility frontier.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "138": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Suppose that aluminum is a key production input in the production of bicycles. If the price of aluminum falls, and all other variables are held constant, we expect\nA. the demand for aluminum to rise.\nB. the supply of bicycles to rise.\nC. the supply of bicycles to fall.\nD. the demand for bicycles to rise.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "139": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The sales tax that you pay at the grocery store is commonly labeled a\nA. progressive tax.\nB. regressive tax.\nC. proportional tax.\nD. excise tax.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "140": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is the best example of the free-rider effect?\nA. You and a friend take a road trip to Florida in your friend's car. You pay for the gas.\nB. In exchange for tutoring your friend in economics, she helps you with your geometry assignment.\nC. You have ordered a big college football game on pay-per-view, and several of your buddies show up unannounced to watch it at your place.\nD. You buy your date dinner, but your date insists on leaving a tip for the server.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "141": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is the best example of a negative externality and the appropriate plan for eliminating it?\nA. Air pollution from a factory blows downwind and harms children in a small community. Tax the citizens of the community.\nB. Your neighbor plants a fragrant blooming cherry tree in her front yard. Give a tree subsidy to your neighbor.\nC. The waste from a hog farm pollutes a neighbor's drinking water. Give a subsidy to the hog farmer.\nD. Air pollution from a power plant is blowing downwind and harming the trees in your community. Tax the production of electricity.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "142": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If the government regulates a monopoly to produce at the allocative efficient quantity, which of the following would be true?\nA. The monopoly would break even.\nB. The monopoly would incur an economic loss.\nC. The monopoly would make an economic profit.\nD. The deadweight loss in this market would decrease.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "143": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following indicates that two goods are complements?\nA. A positive income elasticity\nB. A horizontal demand curve\nC. A negative cross-price elasticity\nD. A demand elasticity greater than one\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "144": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If the government subsidizes the production of halogen headlights,\nA. the demand curve will shift to the left.\nB. the demand curve will shift to the right.\nC. the supply curve will shift to the left.\nD. the supply curve will shift to the right.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "145": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Suppose the county government sends each parent a coupon that can be used to subsidize the cost of sending each child to daycare. What would you expect to occur in the market for daycare services?\nA. The demand for daycare falls, lowering the market price.\nB. The demand for daycare rises, increasing the market price.\nC. The supply of daycare rises, lowering the market price.\nD. The supply of daycare falls, increasing the market price.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "146": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is a characteristic of monopolistic competition?\nA. Economically efficient in the long run.\nB. Pricing at minimum ATC in long run.\nC. Excess capacity.\nD. Very few competitors.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "147": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is a fundamental aspect of the free market system?\nA. A high degree of government involvement.\nB. Public ownership of resources.\nC. Private property.\nD. Central planners set wages and prices.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "148": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: A price ceiling is characterized by\nA. a price set below the current (or equilibrium) market price of the good.\nB. a price set above the current (or equilibrium) market price of the good.\nC. a shift of the demand curve (function).\nD. a shift of the supply curve.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "149": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Elsa values her time at $50 per hour, and tutors David for two hours. David is willing to pay $175 for two hours of tutoring, but they negotiate a price of $125 for the entire two hours. Which of the following statements is true about the transaction above:\nA. Consumer surplus is greater than producer surplus by between $50 and $75.\nB. Producer surplus is greater than consumer surplus by between $50 and $75.\nC. Consumer surplus is greater than producer surplus by more than $75.\nD. The difference between consumer and producer surplus is $25.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "150": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If a consumer is not required to pay a monetary price for each cookie she consumes, the consumer will stop eating cookies when\nA. the total utility from eating cookies is equal to zero.\nB. the substitution effect outweighs the income effect from eating cookies.\nC. the ratio of marginal utility divided by total utility is equal to one.\nD. the marginal utility from eating the last cookie is zero.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "151": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: For a competitive firm, what is the most important thing to consider in deciding whether to shut down in the short run?\nA. Compare AVC to MR.\nB. Compare TR to TC.\nC. Do not produce if the TFC is not covered by revenue.\nD. Produce the highest quantity demanded regardless of price.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "152": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which is true of monopolistic competition?\nA. Firms earn long-run economic profits.\nB. P = MR = MC = ATC.\nC. Firms spend money to differentiate and advertise their products.\nD. In the long run the market is allocatively efficient.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "153": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The supply curve for lawn-mowing services is likely to slope upward because of\nA. decreasing marginal costs\nB. increasing opportunity cost of time\nC. diminishing marginal utility\nD. increasing returns to scale\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "154": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Labor, human capital, entrepreneurship, natural resources, and physical capital are all examples of which of the following?\nA. Public goods\nB. Inferior goods\nC. Factors of production\nD. Outputs\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "155": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: According to the principle of diminishing marginal utility,\nA. marginal utility stays the same.\nB. total utility stays the same.\nC. marginal utility decreases with each additional unit of a good that is consumed.\nD. marginal utility and total utility both decrease.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "156": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The downward-sloping demand curve is partially explained by which of the following?\nA. Substitution effects and income effects\nB. The law of increasing marginal costs\nC. The principle of comparative advantage\nD. The law of diminishing marginal returns to production\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "157": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If a market is organized by a cartel, we can expect\nA. normal profits for all cartel firms.\nB. an incentive for cartel firms to cheat on the cartel agreement.\nC. profit maximization by individual firms in the cartel.\nD. allocative efficiency.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "158": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: At the birthday party of your best friend, you see Skylar help himself to a second piece of cake. For this individual, it must be the case that\nA. the marginal benefit of the second piece of cake is less than the marginal cost.\nB. the total benefit received from eating cake is falling.\nC. the ratio of marginal benefit over marginal cost is less than one.\nD. the marginal benefit of the second piece of cake is greater than the marginal cost.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "159": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: In the short run, a firm employs labor and capital to produce gadgets. If the annual price of capital increases, what will happen to the short-run cost curves?\nA. The marginal cost and average variable cost curves will shift upward.\nB. The average fixed cost and average total cost curves will shift upward.\nC. The marginal cost and average fixed cost curves will shift upward.\nD. The marginal cost, average fixed cost, average variable cost, and average total cost curves will all shift upward.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "160": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is true about a price floor?\nA. It is used to correct government policy.\nB. It is used when the equilibrium price is too high.\nC. It will be located above the equilibrium price.\nD. It will be located below the equilibrium price.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "161": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is true?\nA. Average total cost = total fixed costs divided by the number of units produced.\nB. Average total cost = average variable costs divided by the total number of units produced.\nC. Average total cost = average variable cost plus marginal cost.\nD. Average total cost = average variable cost plus average fixed cost.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "162": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: An industry described as an oligopoly would most likely have\nA. normal profits in the long run.\nB. no opportunities for collusive behavior.\nC. significant barriers to entry.\nD. price-taking behavior.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "163": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is correct about the demand for labor?\nA. The demand for labor is independent of the demand for other inputs or resources.\nB. The demand for labor is independent of the demand for the products produced by labor.\nC. The demand for labor is independent of the availability of other inputs or resources.\nD. The demand for labor is derived from the demand for the products produced by labor.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "164": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not correct for the perfectly competitive firm, in the long run?\nA. price = minimum average cost.\nB. price = marginal revenue.\nC. price = minimum average variable cost.\nD. price = marginal cost.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "165": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The demand curve for a perfectly competitive firm's product is\nA. downward sloping and equal to the market demand curve.\nB. perfectly elastic.\nC. perfectly inelastic.\nD. kinked at the going market price.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "166": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Normal goods always have a/an\nA. elastic demand curve\nB. inelastic demand curve\nC. elastic supply curve\nD. positive income elasticity\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "167": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following represents a measure of a firm's monopoly pricing or market power, i.e., the larger the value of the index, the greater the firm's market pricing power?\nA. (MC-P)/MC\nB. (MC-P)/P\nC. (P-MC)/P\nD. (P-MC)/MC\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "168": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The market demand curve for labor would shift to the left as the result of\nA. an increase in the price of the good which the labor is producing\nB. an increase in demand for the good which the labor is producing\nC. an increase in the wage rate paid to workers\nD. a decrease in the marginal product of labor\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "169": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Opportunity costs or implicit costs of a \"Mom & Pop\"-owned business are:\nA. equal to accounting costs.\nB. equal to accounting profits.\nC. equal to earnings or profits that could have occurred using resources elsewhere.\nD. equal to earnings or profits that occurred for Mom & Pop's business.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "170": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The owner of a competitive firm making zero economic profit\nA. should consider shutting down because she could make more elsewhere\nB. is making less than normal profits\nC. is making exactly what she would make in her next best alternative job\nD. will most likely make more profits in the long run\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "171": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If the market price is above the perfectly competitive firm's average total cost curve, we expect that in the long run,\nA. the industry contracts as firms exit the market.\nB. the industry expands as firms exit the market.\nC. the industry contracts as firms enter the market.\nD. the industry expands as firms enter the market.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "172": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Land, labor, capital and entrepreneurial talent are often referred to as\nA. production possibilities.\nB. goods and services.\nC. unlimited human wants.\nD. scarce economic resources.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "173": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following goods is likely to have the most elastic demand curve?\nA. Demand for white Ford minivans\nB. Demand for automobiles\nC. Demand for Ford automobiles\nD. Demand for American-made automobiles\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "174": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Deadweight loss occurs in\nA. monopolistic competition as P > MC.\nB. monopoly markets because P > MC.\nC. oligopoly markets because P > MC.\nD. All of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "175": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The individual firm, operating under perfect competition, is characterized as:\nA. a price-maker.\nB. one of a few sellers.\nC. a price strategist.\nD. a price-taker.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "176": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following are associated with public goods? I. Free riders II. Adding demand curves vertically to find the demand curve for society III. Nonrivalry in consumption IV. Nonexcludability\nA. I and II only\nB. I and IV only\nC. II and III only\nD. I, II, III, and IV\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "177": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is true about the pure public good?\nA. The marginal cost of providing an additional unit of the good to additional citizens is greater than zero.\nB. Consumers can be excluded from its benefits by not paying for it.\nC. One more unit of a public good for some consumers means one less unit for other consumers.\nD. The good cannot be divided into discrete units.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "178": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Nancy has the choice to spend one hour studying for an exam, mowing the lawn for one hour at a wage of $6, or babysitting her niece for one hour at a wage of $8. If we know that Nancy has chosen to study for the exam, which of the following is true?\nA. The benefit received from studying is greater than the opportunity cost of $8.\nB. The opportunity cost of studying is $14, which is less than the benefit received from studying.\nC. Nancy is indifferent to both studying and mowing the lawn.\nD. Nancy's behavior is irrational, since babysitting was clearly superior to all other options.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "179": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following statements accurately describes the relationship between average product (AP) and marginal product (MP) of labor?\nA. AP rises when MP is above it and falls when MP is below it.\nB. MP intersects AP at the maximum of MP.\nC. AP and MP are always parallel to each other.\nD. AP and MP are either both rising or both falling at all levels of labor.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "180": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Because people with relatively low incomes spend a larger percentage of their income on food than people with relatively high incomes, a sales tax on food would fall into which category of taxes?\nA. Progressive\nB. Proportional\nC. Regressive\nD. Neutral\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "181": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is NOT a source of wage differentials?\nA. Differences in human capital stock.\nB. Racial or gender discrimination.\nC. Immobility of workers.\nD. Decrease in the birth rate.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "182": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following certainly lowers the equilibrium price of a good exchanged in a competitive market?\nA. The demand curve shifts to the right.\nB. The supply curve shifts to the left.\nC. The demand curve shifts to the left, and the supply curve shifts to the right.\nD. The demand curve shifts to the right, and the supply curve shifts to the left.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "183": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is true for a firm operating under perfect competition in the long run?\nA. The firm will engage in non-price competition.\nB. The firm will realize economic profits.\nC. The firm will incur economic losses.\nD. The firm will realize zero economic profits.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "184": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: A negative externality in the market for a good exists when\nA. the market overallocates resources to the production of this good.\nB. spillover benefits are received by society.\nC. the marginal social benefit equals the marginal social cost.\nD. total welfare is maximized.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "185": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which characteristic is likely a part of a monopoly market but not of monopolistic competition?\nA. Differentiated products\nB. Patents and copyrights\nC. Possibility of profit in the short run\nD. Deadweight loss exists\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "186": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Every day Melanie spends her lunch money consuming apples, at $1 each, and oranges, at $2 each. At her current level of consumption, Melanie's marginal utility of apples is 12 and her marginal utility of oranges is 18. If she has already spent all of her lunch money, how should Melanie change her consumption decision to maximize utility?\nA. She should make no changes; she is consuming the utility maximizing combination of apples and oranges.\nB. She should increase her apple consumption and decrease her orange consumption until the marginal utility per dollar is equal for both.\nC. She should decrease her apple consumption and increase her orange consumption until the marginal utility per dollar is equal for both.\nD. She should increase her apple consumption and decrease her orange consumption until the marginal utility is equal for both.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "187": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following describes the theory behind the demand curve?\nA. Decreasing marginal utility as consumption rises.\nB. Increasing marginal cost as consumption rises.\nC. Decreasing marginal cost as consumption rises.\nD. Increasing total utility at an increasing rate as consumption rises.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "188": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Economics is best described as\nA. the study of how scarce material wants are allocated between unlimited resources.\nB. the study of how scarce labor can be replaced by unlimited capital.\nC. the study of how decision makers choose the best way to satisfy their unlimited material wants with a scarce supply of resources.\nD. the study of how unlimited material wants can best be satisfied by allocating limitless amounts of productive resources.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "189": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: An effective price ceiling in the market for good X likely results in\nA. a persistent surplus of good X.\nB. a persistent shortage of good X.\nC. an increase in the demand for good Y, a substitute for good X.\nD. a decrease in the demand for good Z, a complement with good X.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "190": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: When the production or consumption of a good creates a positive externality, it is deemed a market failure because at the market quantity\nA. the marginal social benefit exceeds the marginal social cost.\nB. the marginal social cost exceeds the marginal social benefit.\nC. society produces too much of the good.\nD. the private benefits from consuming the good exceed the social benefits.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "191": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: A competitive firm's demand for labor is determined directly by\nA. profits\nB. the opportunity cost of workers\u2019 time\nC. the wage and the average (physical) product of labor\nD. the marginal (physical) product of labor and the output price\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "192": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: When a perfectly competitive labor market is in equilibrium,\nA. everyone who wants to work has the opportunity to do so\nB. individual firms face downward sloping labor demand curves\nC. unemployment can reach as high as 10-15 percent\nD. individual firms face upward sloping labor demand curves\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "193": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The market demand curve for labor will shift to the right when\nA. the number of firms increases\nB. the price of output decreases\nC. the labor supply curve shifts to the right\nD. the labor supply curve shifts to the left\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "194": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following was not a landmark antitrust act?\nA. The Wagner Act\nB. The Sherman Act\nC. The Clayton Act\nD. The Robinson-Patman Act\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "195": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following might explain how a price decrease might cause a decrease in quantity demanded and an upward-sloping demand curve?\nA. The good is inferior and the income effect is stronger than the substitution effect.\nB. The good is normal and the income effect is stronger than the substitution effect.\nC. The good is normal and the income effect is weaker than the substitution effect.\nD. The good is inferior and a luxury.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "196": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If the government wants to establish a socially optimal price for a natural monopoly, it should select the price at which\nA. average revenue equals zero\nB. marginal revenue equals zero\nC. the marginal cost curve intersects the demand curve\nD. the average total cost curve intersects the demand curve\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "197": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is an implicit cost for the owner of a small store in your hometown?\nA. The wage that is paid to the assistant manager\nB. The cost of purchasing canned goods from a wholesale food distributor\nC. The value placed on the owner's skills in an alternative career\nD. The cost of cooling the refrigerated meat display\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "198": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The greater (higher) the wage elasticity of demand, the\nA. greater the proportion of capital costs to labor costs in the production of goods.\nB. greater the price elasticity for the product produced by labor.\nC. the smaller the number of substitutes for labor.\nD. the smaller the time period.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "199": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Unlike a perfectly competitive firm, a monopoly\nA. will charge the highest price it can on the demand curve\nB. has a horizontal marginal revenue curve\nC. has an upward sloping total revenue curve\nD. faces a downward sloping demand curve\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "200": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The law of diminishing marginal utility is most useful for explaining the\nA. law of supply\nB. law of demand\nC. curvature of the total cost curve\nD. shape of the production possibilities frontier\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "201": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following statements is most consistent with a capitalist market economy?\nA. Economic resources are allocated according to the decisions of the central bank.\nB. Private property is fundamental to innovation, growth, and trade.\nC. A central government plans the production and distribution of goods.\nD. Most wages and prices are legally controlled.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "202": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is an example of a long-run adjustment for the owners of a small caf\u00e9?\nA. The owners switch from whole wheat to sourdough bread.\nB. The owners hire several part-time workers to cover the dinner shifts.\nC. The owners work overtime on a busy weekend.\nD. The owners buy the office next door, and this doubles the customer seating.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "203": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is most likely to be true in the long run for a monopoly firm?\nA. P = MR = MC = ATC\nB. P = MR = MC > ATC\nC. P > MR = MC = ATC\nD. P > ATC > MR = MC\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "204": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not correct about economies of scale?\nA. Economies of scale are associated with increases in production of output.\nB. Economies of scale are associated with the rising or increasing portion of an average total cost (ATC) curve.\nC. Economies of scale are associated with the declining or decreasing portions of the ATC curve.\nD. Economies of scale result in decreases in per unit average cost.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "205": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: For the perfectly competitive firm, the profit-maximizing decision to shut down is made when the price\nA. falls below minimum average total cost.\nB. is greater than minimum average variable cost, but lower than minimum average total cost.\nC. falls below minimum average variable cost.\nD. is equal to minimum average total cost.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "206": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is true in the long run in perfect competition?\nA. P = MR = MC = ATC\nB. P = MR = MC > ATC\nC. P > MR = MC = ATC\nD. P = MR > MC = ATC\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "207": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If the perfectly competitive price is currently above minimum ATC, we can expect which of the following events in the long run?\nA. Price rises as firms enter the industry.\nB. Market equilibrium quantity rises as firms exit the industry.\nC. Nothing. The industry is currently in long-run equilibrium.\nD. Price falls as firms enter the industry.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "208": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following will shift the supply curve for textbooks to the left?\nA. A decrease in the demand for a substitute in production\nB. A decrease in the number of buyers\nC. An increase in printing costs\nD. Expectations of future surpluses\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "209": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If Matt's total utility from consuming bratwurst increased at a constant rate, no matter how many bratwurst Matt consumed, what would Matt's demand curve for bratwurst look like?\nA. Vertical\nB. Horizontal\nC. Downward sloping\nD. Upward sloping\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "210": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following causes the supply curve of paper to shift to the left?\nA. Paper producers expect lower paper prices in the months ahead.\nB. The price of pencils, a complement to paper, increases.\nC. Improvements in the technology used to produce paper.\nD. Environmental concerns reduce the yearly amount of timber that can be harvested.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "211": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: When opportunity cost is constant across all production levels, the productions possibilities frontier is\nA. concave to the origin.\nB. convex to the origin.\nC. undefined.\nD. a straight diagonal line sloping downward from left to right.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "212": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is likely to have a demand curve that is the least elastic?\nA. Demand for the perfectly competitive firm's output\nB. Demand for the oligopoly firm's output with a homogenous product\nC. Demand for the oligopoly firm's output with a differentiated product\nD. Demand for the monopoly firm's output\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "213": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: A demand curve slopes downward for an individual as the result of\nA. diminishing marginal utility\nB. diminishing marginal returns\nC. the Fisher effect\nD. diminishing returns to scale\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "214": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: In order to find the market supply curve for a particular good, one would\nA. aggregate the firm marginal revenue curves horizontally\nB. aggregate the firm supply curves vertically\nC. aggregate the firm marginal cost curves vertically\nD. aggregate the firm supply curves horizontally\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "215": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The ability for firms to enter and exit a market over time means that\nA. the marginal cost is zero\nB. the marginal revenue is zero\nC. the long run supply curve is more elastic\nD. the long run supply curve is more inelastic\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "216": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: If one person has the only original signed copy of The Wealth of Nations by Adam Smith, which of the following would illustrate this situation?\nA. A downward sloping demand curve.\nB. An upward sloping supply curve.\nC. An invisible hand.\nD. A perfectly vertical supply curve.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "217": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Land refers to\nA. all productive resources.\nB. all natural resources.\nC. farmland only.\nD. real estate.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "218": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The basis for the answer in number 1 is\nA. P or wage rate of labor > MRP of labor and with one additional unit of labor, wage rate < MRP.\nB. P or wage rate of labor < MRP of labor and with one additional unit of labor WI, > MRP.\nC. total revenue is at a maximum.\nD. total output is at a maximum.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "219": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: In the same period there is a drought affecting the supply of pineapples and a discovery that may assist in the avoidance of cancer. How will this combination of events affect the equilibrium price and quantity of pineapples?Equilibrium Quantity\nA. Increases         Decreases\nB. Increases         Indeterminate\nC. Indeterminate         Increases\nD. Decreases         Indeterminate\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "220": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: With respect to the kinked demand curve, which of the following is NOT correct?\nA. There is no price leader.\nB. There are relatively equal shares of the market.\nC. Price is greater than marginal costs.\nD. The demand curve is of one continuous function.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "221": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Suppose that there are only two goods: x and y. Which of the following is NOT correct?\nA. One can have comparative advantage in producing both goods.\nB. One can have both an absolute advantage and a comparative advantage in producing x.\nC. One can have absolute advantage and no comparative advantage in producing x.\nD. One can have comparative advantage and no absolute advantage in producing x.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "222": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The total utility from sardines is maximized when they are purchased until\nA. marginal utility is zero\nB. marginal benefit equals marginal cost\nC. consumer surplus is zero\nD. distributive efficiency is achieved\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "223": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Assume a firm hires labor for $15 each and sells its products for $3 each. If the MP of the 3rd worker is 10, which of the following statements would be the most true?\nA. The firm should hire more labor so that the MRPL will increase.\nB. The firm should hire more labor so that the MRPL will decrease.\nC. The firm should hire less labor so that the MRPL will increase.\nD. The firm should hire less labor so that the MRPL will decrease.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "224": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The demand curve for labor is derived from\nA. the market labor demand curve\nB. the demand curve for the output produced by labor\nC. the labor supply curve for the firm\nD. the equilibrium wage in the labor market\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "225": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Monopolistic competition is often characterized by\nA. strong barriers to entry.\nB. a long-run price that exceeds average total cost.\nC. a price that exceeds average variable cost, causing excess capacity.\nD. many resources devoted to advertising.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "226": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: A student decides that, having already spent three hours studying for an exam, she should spend one more hour studying for the same exam. Which of the following is most likely true?\nA. The marginal benefit of the fourth hour is certainly less than the marginal cost of the fourth hour.\nB. The marginal benefit of the fourth hour is at least as great as the marginal cost of the fourth hour.\nC. Without knowing the student\u2019s opportunity cost of studying, we have no way of knowing whether or not her marginal benefits outweigh her marginal costs.\nD. The marginal cost of the third hour was likely greater than the marginal cost of the fourth hour.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "227": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Macroeconomics focuses on\nA. government and its laws that affect commerce.\nB. individuals and their resource use.\nC. corporations and their production levels.\nD. the resource use of the entire nation.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "228": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is true?\nA. Marginal Social Costs = Private Marginal Costs + Negative Externality.\nB. Marginal Social Costs = Private Marginal Costs + Subsidy.\nC. Marginal Social Benefits = Private Marginal Benefits + Tax.\nD. Tax = Positive Externality.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "229": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Good X is exchanged in a competitive market. Which of the following is true if an excise tax is now imposed on the production of good X?\nA. If the demand curve is perfectly elastic, the price rises by the amount of the tax.\nB. The consumer's burden of the tax rises as the demand curve is more elastic.\nC. Consumer surplus rises as a result of the tax.\nD. The consumer's burden of the tax rises as the demand curve is less elastic.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "230": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: What could the government do to most effectively avoid a free rider problem?\nA. Enact stricter antitrust legislation\nB. Provide more complete information about the relevant goods\nC. Supply public goods using tax dollars\nD. Tax those creating negative externalities\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "231": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: In order to hire the least-cost combination of labor and capital, the firm must do which of the following?\nA. Find the combination of labor and capital where the marginal product of labor is equal to the marginal product of capital.\nB. Find the combination of labor and capital where the ratio of the marginal product of labor to the marginal product of capital is equal to one.\nC. Find the combination of labor and capital where the marginal product of labor divided by the price of labor is equal to the marginal product of capital divided by the price of capital.\nD. Find the combination of labor and capital where the price of labor is equal to the price of capital.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "232": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is a characteristic of monopolistic competition in the long run?\nA. Strong barriers to entry.\nB. Homogeneous products.\nC. Zero economic profits.\nD. Minimum average total cost equals price.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "233": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: A student eats 3 slices of pizza while studying for his Economics exam. The marginal utility of the first slice of pizza is 10 utils, the second slice is 7 utils, and the third slice is 3 utils. Which of the statements below holds true with the above data?\nA. The student would not eat any more pizza.\nB. The marginal utility of the 4th slice of pizza will be 0.\nC. The student should have stopped eating pizza after 2 slices.\nD. The total utility this student received from eating pizza is 20 utils.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "234": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: The United States is trading salmon to Peru in exchange for anchovies. If these nations are trading based upon relative opportunity costs, what must be the case?\nA. The United States has comparative advantage in anchovy production, and Peru has comparative advantage in salmon production.\nB. The United States has comparative advantage in salmon production, and Peru has comparative advantage in anchovy production.\nC. The United States has absolute advantage in anchovy production, and Peru has absolute advantage in salmon production.\nD. The United States has absolute advantage in salmon production, and Peru has absolute advantage in anchovy production.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "235": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is true about the relationship of the average total cost (ATC) curve and the marginal cost (MC) curve?\nA. ATC and MC are always equal.\nB. ATC and MC are never equal.\nC. The ATC curve intersects the MC curve at the minimum point of the MC curve.\nD. The MC curve intersects the ATC curve at the minimum point of the ATC curve.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "236": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following statements about a price ceiling is accurate?\nA. An effective price ceiling must be at a price below the equilibrium price.\nB. A price ceiling will increase the quantity of the good supplied.\nC. A price ceiling will cause a shift in the demand curve for the good.\nD. A price ceiling will have no effect on the quantity of the good supplied.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "237": {
+        "origin_prompt": "There is a single choice question about high school microeconomics. Answer the question by replying A, B, C or D.\nQuestion: In an oligopoly market, firms\nA. cannot earn economic profits\nB. are interdependent\nC. are not subject to antitrust legislation\nD. are large in number\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    }
+}

@@ -1,0 +1,1732 @@
+{
+    "0": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Just war theory's principle of military necessity belongs to\nA. jus in bello.\nB. jus ad bellum.\nC. moral nihilism.\nD. all of the above\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "1": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Mill, censoring speech that is possibly true\nA. violates human dignity.\nB. fails a prima facie duty of honesty.\nC. is tantamount to asserting that you are infallible.\nD. is a risk worth taking of the speech is dangerous enough.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "2": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  West argues that feminist rhetoric has\nA. obscures the harms of noncoerced, consensual sex by implying that because what is coerced is bad what is noncoerced is good.\nB. obscures the harms of rape by equating all sex with nonconsensual sex.\nC. by not acknowledging a distinction between what is good and what noncoerced, has led to the acknowledgement of the harms of consensual sex.\nD. All of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "3": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Mill, the value of a particular pleasure depends on\nA. its quantity alone.\nB. its quality alone.\nC. both its quantity and its quality.\nD. neither its quantity nor its quality.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "4": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Carruthers, whenever someone is required to act in a certain way toward an animal for the sake of the animal, what explains that fact are facts about\nA. the animal.\nB. the wider effects on human beings.\nC. both A and B\nD. neither A nor B\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "5": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  What does SCNT stand for, as used in the discussion on cloning?\nA. skin cell nuclear transfer\nB. stem cell nuclear transmission\nC. somatic cell nuclear transfer\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "6": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Velleman worries that, by offering a patient the option of euthanasia,\nA. we allow the patient to harm him- or herself.\nB. we force doctors to harm the patient.\nC. we harm the patient's family.\nD. we harm the patient.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "7": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Nathanson supports which of the following kinds of retributivism?\nA. preventive\nB. proportional\nC. equality\nD. retaliatory\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "8": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Carruthers approaches questions about the moral standing of nonhuman animals from the perspective of which of the following moral theories?\nA. consequentialism\nB. Kantianism\nC. virtue ethics\nD. contractualism\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "9": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In Gardiner's analysis, which of the following is a characteristic of the climate change problem?\nA. institutional adequacy\nB. dispersion of causes and effects\nC. fragmentation of agency\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "10": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  What is the \"intergenerational storm\" of climate change?\nA. the problem of massive world overpopulation over generations.\nB. the problem that the bad effects of current carbon dioxide emissions will fall largely on future generations.\nC. the problem that the compounding effects of greenhouse gas emissions require the current generation to, in effect, cooperate with future generations.\nD. the problem that countries are possibly biased toward the interests of the current generation, which largely benefits from carbon dioxide emissions.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "11": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Hourdequin argues that one flaw of consequentialist calculation is that\nA. it fails to reconcile prima facie duties.\nB. it can run counter to a person's being able to integrate her commitments at various levels.\nC. it can run counter to the idea that persons are atomistic and individually rational actors.\nD. it fails to recognize that possibility that the persons are best understood in relation to one another.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "12": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Dershowitz discusses the hypothetical case where the hijacked planes of 9/11 must be shot down to argue that important decisions like these\nA. often have to be made quickly and without immediate authorization.\nB. should be made with visibility and accountability by the highest-level officials.\nC. have no objective answer.\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "13": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Baxter argues that we should view our treatment of the environment as a matter of various trade-offs whose aim is\nA. to minimize damage incurred by all individual living beings.\nB. to minimize the suffering of all sentient creatures.\nC. to promote the functional integrity of ecosystems.\nD. to promote human welfare.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "14": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is an example of a value-based moral theory?\nA. consequentialism\nB. virtue ethics\nC. both A and B\nD. neither A nor B\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "15": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Kass worries that cloned individuals:\nA. will be seen as curiosities.\nB. will be scrutinized in relation to the person they are clones of.\nC. both of the above\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "16": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Why, according to Gill, does Leon Kass think the notion of being \"better off dead\" is incoherent?\nA. because dead people no longer exist, and thus cannot benefit from choosing to die.\nB. because some things (e.g., long-term torture) are worse than death.\nC. because there has yet to be a satisfactory philosophical explanation of why death is bad.\nD. because death is, by definition, undesirable.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "17": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In response to the argument that embryos are not persons because they lack certain rights that all persons have (such as the right to life), Lee and George argue that\nA. the right to life belongs to a human being at all times that he or she exists.\nB. the right to life belongs to all living creatures, human or not.\nC. not all persons have the right to life-for example, a murderer has given up his or her right to life through his or her actions\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "18": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  The consequentialist approach to punishment is at odds with\nA. retributive theories of punishment.\nB. perfectionist theories of punishment.\nC. legal theories of punishment.\nD. preventive theories of punishment.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "19": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  What does Hursthouse say about the claim that any adequate action-guiding (i.e., moral) theory must provide clear guidance about what ought and ought not to be done that any intelligent person could follow?\nA. She says the claim is very plausible.\nB. She says the claim is implausible.\nC. She says the claim is self-evident.\nD. She says the claim is true.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "20": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is not an objection that Kass makes against cloning?\nA. It constitutes unethical experimentation.\nB. It threatens identity and individuality.\nC. It will produce harmful biological mutations as clones produce further clones.\nD. It perverts our values concerning parenthood and the raising of children.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "21": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In response to the objection that freedom of association is much more important in the marital context than the political realm, Wellman says\nA. there is no freedom of association in the marital context.\nB. his argument does not require that marital and political freedom of association be equally important.\nC. freedom of association is equally important in both contexts.\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "22": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  If it were known that a policy would wipe out several animal species without negatively affecting human beings, Baxter would most likely say that\nA. this policy is morally problematic because it harms the environment.\nB. this policy is morally problematic because it damages the integrity of the ecosystem.\nC. this policy is morally obligatory because the environment ought not to exist.\nD. this policy is morally unproblematic.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "23": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Reiman, van den Haag's argument leads to the conclusion that\nA. we should refrain from imposing the death penalty.\nB. the refusal to execute criminals has a civilizing effect.\nC. we should institute death by torture.\nD. murder is wrong.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "24": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Singer, the principle of equality requires\nA. identical treatment.\nB. differential treatment.\nC. equal consideration.\nD. differential consideration.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "25": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Advocates of care ethics argue that\nA. care ethics is an important development of virtue ethics.\nB. that traditional moral theories have difficulty explaining the rightness or wrongness of attitudes.\nC. that the only important more concepts are care and compassion.\nD. that we should think about welfare and happiness in terms of sympathy.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "26": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Norcross, any attempt to justify the claim that humans have a higher moral status than other animals by appealing to some version of rationality as the morally relevant difference between humans and animals will\nA. fail to give an adequate answer to the argument from marginal cases.\nB. fail to make the case that such a difference is morally relevant to the status of animals as moral patients as opposed to their status as moral agents.\nC. both A and B\nD. neither A nor B\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "27": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In response to the argument that the death penalty does not deter murderers, van den Haag claims that\nA. he is still confident that the threat of the death penalty at least sometimes prevents murder.\nB. criminal law is supposed to protect the innocent over murderers.\nC. the severity and finality of the death penalty is appropriate to the seriousness and finality of murder.\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "28": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Thomas Nagel call the two kinds of moral considerations he discusses in \"War and Massacre\"\nA. consequentialist and dignity-based\nB. forward-looking and backward-looking\nC. utilitarian and absolutist\nD. All of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "29": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  What is the main reason why Arthur doesn't think that the poor have a right to aid from the affluent?\nA. Persons can never have a right to aid from anyone.\nB. The right to aid is a negative right.\nC. The consequences of helping the poor would be worse than the consequences of not helping them.\nD. This kind of right would require a contract or agreement, and the affluent haven't entered into a contract or agreement with the poor.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "30": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  What assumption does Pence think people who object to SCNT make when they say that SCNT is not best for the child?\nA. The parents have good motives.\nB. We can't tell what the motives of the parents are.\nC. The parents have bad motives.\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "31": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Van den Haag is\nA. a distributionist.\nB. an abolitionist.\nC. a retentionist.\nD. a humanitarian.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "32": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Against Kant's view of sexual objectification, Papadaki argues that\nA. it is not clear how sexual use sacrifices humanity.\nB. Kant is wrong to think about the wrong of sexual objectification in terms of humanity.\nC. sexual objectification actually enhances humanity.\nD. Papadaki actually agrees with Kant's view\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "33": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Thomson discusses a different version of the violinist case wherein the violinist only needs to use your kidneys for one hour to survive. Her own view about this case is that\nA. you have no obligation to let the violinist use your kidneys for that hour.\nB. the violinist has an obligation to disconnect him- or herself before that hour is over.\nC. because you ought to let the violinist use your kidneys for that hour, we should conclude that he or she has a right to use your kidneys for that hour.\nD. even though you ought to let the violinist use your kidneys for that hour, we should not conclude that he or she has a right to use your kidneys for that hour.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "34": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Fine asks us to consider the example of a yoga group that practices in Central Park and is free to reject prospective members but isn't free to exclude others from making use of Central Park. The point of this example is to show that\nA. Central Park qualifies as a state.\nB. there is a difference between rules of membership and rules about settlement within a physical territory.\nC. territorial rights only belong to individuals.\nD. Wellman is committed to an absurd theory of group membership.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "35": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  The annual death-toll from poverty related causes is, according to Pogge,\nA. around one quarter of all human deaths.\nB. around one third of all human deaths.\nC. around one half of all human deaths.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "36": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  What is the overall percentage of capital cases that are overturned because of serious errors?\nA. under 50 percent\nB. 52 percent\nC. 68 percent\nD. 82 percent\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "37": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Nussbaum, treating someone as an object is\nA. sufficient for sexual objectification.\nB. necessary for sexual objectification.\nC. not necessary for sexual objectification.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "38": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In Corvino's reading of Aquinas, \"unnatural\" sexual acts are those that are\nA. deliberately pro-creative.\nB. non-consensual.\nC. deliberately non-procreative.\nD. uncommonly practiced among adults.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "39": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Rachels compares the cases of Smith and Jones to show that\nA. killing is in itself morally worse than letting die.\nB. letting die in itself is morally worse than killing.\nC. killing is not in itself morally worse than letting die.\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "40": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Biocentrism is the view that\nA. the only beings that possess direct moral standing are human beings.\nB. all and only sentient creatures have direct moral standing.\nC. all living beings, because they are living, possess direct moral standing.\nD. the primary bearers of direct moral standing are ecosystems in virtue of their functional integrity.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "41": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is a feature of consequentialist moral theory?\nA. It is a value-based theory.\nB. It involves the idea of alternative actions open to the agent.\nC. It is a strongly impartialist moral theory.\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "42": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  On West's account, women who engage in undesired sex because of actual or felt dependence on their partner may experience injury to their sense of autonomy because\nA. they have neglected to take whatever steps would lead to their self-sustenance.\nB. they are dominated by their partners insofar as they are not free to do as they please.\nC. they are actually coerced into having sex.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "43": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is not mentioned by Macedo as a duty that societies have toward nonmembers?\nA. duties of fair dealing (e.g., nonexploitation)\nB. cosmopolitan egalitarian duties (e.g., ensuring that everyone has equal wealth)\nC. duties of rectification and redress (e.g., redressing those who were oppressed)\nD. humanitarian duties (e.g., preventing systematic violations of human rights)\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "44": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Mill thinks that each person desires\nA. to do his or her duty.\nB. to be virtuous.\nC. his or her own happiness.\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "45": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Valls, a just cause for political violence is usually\nA. defensive.\nB. offensive.\nC. territorial.\nD. economically motivated.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "46": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Fine asks us to consider an example in which a private club \"regularly arranges noisy late-night gatherings\" to show that\nA. private clubs can rightfully exclude outsiders.\nB. the actions of groups can affect members outside that group.\nC. there is no difference between an individual's and a group's freedom of association.\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "47": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Huemer, even if drug use harms a person's friends, families, and other relations,\nA. this would still not justify drug prohibition.\nB. this would justify drug prohibition.\nC. this would only justify drug prohibition if drug use was extremely likely to cause these harms.\nD. this would only justify drug prohibition if drug use was more likely to cause these kinds of harms than other prohibited activity.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "48": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  The basic idea of social contract theories of morality is that correct or justified moral rules or principles are the ones that result from\nA. a social leader's moral deliberations.\nB. an actual or hypothetical social agreement of some sort.\nC. a contract that has been signed by most of the affected parties.\nD. none of the above\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "49": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In Singer's view, the question of when it's wrong to painlessly kill an animal is one\nA. to which we need to give a precise answer.\nB. to which we need give no precise answer.\nC. that cannot be answered, vaguely or precisely.\nD. that is ethically unimportant.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "50": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is one of de Marneffe's responses to the objection that drug prohibition would be paternalistic?\nA. Drug prohibition would be done for the benefit of others, not the benefit of those who wish to produce/sell drugs, so it is not paternalistic in an objectionable sense.\nB. Drug prohibition would be paternalistic, but its consequences would be good enough to outweigh considerations about paternalism.\nC. Drug prohibition would be targeted to adults, and one can only be paternalistic toward children.\nD. Paternalism is always justified when the paternalistic practices truly are in the best interest of those affected.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "51": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Lukianoff and Haidt argue that the disinvitation of certain speakers\nA. is an example of mental filtering.\nB. will only serve to promote intellectual homogeneity on college and universities.\nC. will encourage students to disregard positive aspects of a person's history.\nD. All of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "52": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Ashford's article is meant to address a particular paralysis in the face of\nA. the sheer scope of global poverty.\nB. having to choose between addressing immediate harm and addressing structural injustice.\nC. reconciling conflict moral theories.\nD. having to give up so much of our own wealth in light of Singer's arguments.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "53": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In support of her thesis that global social institutions violate the rights of the world's poor, Ashford argues that\nA. illicit cash flow to tax havens from rich countries exceeds aid to the world's poor.\nB. the implementation of neoliberal economic policies have had at mixed and at worse adverse impacts of the economic and social rights of the world's poor.\nC. that wealthy nations press their political and economic advantages to secure unfair trade agreements with poor countries.\nD. all of the above\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "54": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Papadaki argues that\nA. sexual objectification is not always wrong.\nB. sexual objectification involves the total reduction of a person to an object.\nC. sexual objectification is not explainable in Kantian terms.\nD. sexual objectification involves the denial of a person's humanity.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "55": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  The two kinds of anti-homosexuality arguments to which Corvino responds are\nA. naturalness arguments and arguments from fidelity.\nB. harm arguments and arguments from divine command.\nC. unnaturalness arguments and harm arguments.\nD. naturalness arguments and economic arguments.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "56": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  The view that moral considerations do not apply to war is known as\nA. jus ad bellum.\nB. antiwar pacifism.\nC. just war theory.\nD. moral nihilism.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "57": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In the context of Gardiner's article, \"the fragmentation of agency\" refers to what?\nA. an agent's inability to acknowledge his or her contribution to climate change\nB. the fragmentation of the effects of greenhouse gas emissions across generations\nC. the vast number of individuals and agents who contribute to climate change\nD. the idea that it's not rational for each individual to restrict his or her own pollution\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "58": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Ashford thinks that the right test of whether or not legal and economic structures are minimally just is to see whether or not\nA. they help develop human capabilities.\nB. they minimize the amount of suffering in the world.\nC. they recognize, enforce, and implement duties not to violate human rights.\nD. they are universalizable.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "59": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Little argues that we should accept a prerogative on the part of mothers to end a pregnancy until the fetus is a person because\nA. we should accept a prerogative to decline radical changes to one's practical identity.\nB. abortion is absolutely morally wrong.\nC. abortion is presumptively morally wrong but can become permissible in certain extreme cases.\nD. there is no clear answer about the moral status of abortion.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "60": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is, according to the introduction to chapter 8, typically defined as the act or practice of killing or allowing someone to die?\nA. murder\nB. ethical killing\nC. suicide\nD. euthanasia\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "61": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In Baxter's view, the first and foremost step toward a solution of our environmental problems is a clear recognition that our objective is not pure air or water but rather\nA. some optimal state of pollution.\nB. an overall maximally clean environment.\nC. some maximal state of pollution.\nD. the preservation of all living species.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "62": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Ross's moral theory is a version of\nA. consequentialism.\nB. the ethics of prime facie duty.\nC. Kantian theory.\nD. virtue ethics.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "63": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following are forms of misogynist speech according to Richardson-Self?\nA. Interdivisional misogynist speech\nB. Intradivisional misogynist speech\nC. Interpersonal misogynist speech\nD. A and B only\nAnswer: ",
+        "prediction": "\nA and",
+        "gold": "D"
+    },
+    "64": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Leopold most likely describes the \"land pyramid\" to\nA. argue that nature is not inherently normative.\nB. provide a description of a mechanism that \"we can see, feel, understand, love, or otherwise have faith in.\"\nC. give a detailed description of how plants absorb energy from the sun.\nD. argue that even the noneconomic parts of the \"biotic clock\" have economic value.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "65": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Ecoholism is the view that\nA. only whole ecosystems (not any of the individuals that make up those ecosystems) have direct moral standing.\nB. ecosystems and some of the individuals that make them up have direct moral standing.\nC. ecosystems do not have direct moral standing but some of the individuals that make them up do.\nD. none of the above\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "66": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  The view according to which wars are always (or at least nearly always) morally wrong is known as\nA. just war theory.\nB. antiwar pacifism.\nC. moral nihilism.\nD. jus ad bellum.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "67": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Reiman, van den Haag's arguments in favor of the death penalty\nA. are incompatible with the right to retaliation.\nB. prove that torture is morally impermissible.\nC. should be accepted.\nD. follow common sense.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "68": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  What two problems does individualism lead us into, according to Hourdequin?\nA. It leads to failures of developing integration and integrality.\nB. They lead us into \"tragedy of the commons\" situations and they instill in us an atomistic view of persons.\nC. It leads to increased greenhouse gas emissions and increased consumption of non-recyclable goods.\nD. We both tend to think of our moral obligations as only personal obligations, and so think that we can only advocate for policy in \"tragedy of the commons\" situations.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "69": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  One message that Nathanson argues we can send by abolishing the death penalty is that\nA. we respect the dignity of human life.\nB. there are some penalties worse than death.\nC. there is no punishment that is proportional to murder.\nD. none of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "70": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Aristotle claims that a state of character arises from the repetition of similar\nA. beliefs.\nB. relationships.\nC. activities.\nD. opinions.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "71": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Corvino considers the following argument: Homosexuals are \"born that way\"; therefore, homosexual activity is good and natural. Corvino claims that this argument is unsound. Why?\nA. It ignores the possibility that homosexuality is a lifestyle choice.\nB. It assumes that all innate desires are good ones.\nC. It is equivalent to recognizing that homosexuality is unusual.\nD. None of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "72": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Hardin's approach to the moral issues of hunger and poverty is essentially\nA. a consequentialist approach.\nB. a virtue ethics approach.\nC. an ethics of prime facie duty approach.\nD. a Christian/Marxist approach.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "73": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following theories will approach the morality of abortion by considering how much overall intrinsic value is likely to be brought about by abortion?\nA. virtue ethics\nB. consequentialist theory\nC. Kantian ethics\nD. natural law theory\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "74": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In his definition of terrorism, Valls defines \"violence\" as\nA. including only bodily harm to persons.\nB. including bodily harm to persons and the destruction of property.\nC. including only the destruction of property.\nD. none of the above\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "75": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  What information is available to occupants within Rawls's original position?\nA. knowledge of how one is talented compared to others\nB. knowledge of one's social status\nC. knowledge of one's abilities, such as intelligence, strength, and so on\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "76": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Shapiro claims that surveys have been confirmed by longitudinal studies that indicate that\nA. excessive use of illegal drugs is the norm.\nB. moderate and/or controlled use of illegal drugs is the norm.\nC. an individual's illegal drug use inevitably diminishes over time.\nD. those who begin using illegal drugs typically do not stop until they become addicted.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "77": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  A truly environmental ethic must hold that which of the following has direct moral standing?\nA. at least some nonhuman beings\nB. at least some nonconscious beings\nC. both A and B\nD. neither A nor B; an environmental ethic may deny that there are any nonhuman and nonconscious beings with direct moral standing.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "78": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Ashford argues that worries about causing dependency on aid agencies among those in extreme poverty does not mean that we should\nA. abandon the world's poor to their unjust predicament.\nB. legally abolish aid agencies.\nC. adopt a social contract approach to the problem of global economic justice.\nD. accept the view that we have no negative duties to the poor.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "79": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Singer, the conclusions argued for in \"all animals are equal\" flow from which of the following principles alone?\nA. the principle of maximizing happiness\nB. the principal principle\nC. the principle of double effect\nD. the principle of minimizing suffering\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "80": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Mill thinks that if something is desirable, but not desirable as an end, then it must be\nA. desirable as a rule.\nB. desirable in theory.\nC. desirable as a means.\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "81": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  From the fact that emigration is often associated with significant costs, Fine concludes that\nA. those who are willing (or forced) to leave a state often have substantial interests in living in another state.\nB. preventing potential immigrants from settling in a different state can be detrimental to their well-being.\nC. closing borders can have significant costs to potential immigrants.\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "82": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Mill defends which of the following liberty-limiting principles?\nA. the harm principle\nB. the offense principle\nC. the principle of legal paternalism\nD. wthe principle of legal moralism\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "83": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  By definition, if a person or thing needs to be taken into account in moral decision-making (i.e., if it counts morally), then that person or thing has\nA. moral standing.\nB. moral permissibility.\nC. viability.\nD. all of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "84": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  What is an example of \"mutual coercion, mutually agreed upon\"?\nA. all countries cooperating to change the existing incentive structure by introducing a system of enforceable sanctions to curb climate change.\nB. the agreement of more powerful nations to require less powerful nations to curb greenhouse gas emissions for the benefit of all humanity.\nC. the agreement of less powerful nations to boycott trade with more powerful nations until the latter agree to curb their greenhouse gas emissions.\nD. the agreement of a large number of individual agents to restrict their own pollution.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "85": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is a problem for Kant's principle of equality and an \"eye for an eye\" according to Nathanson?\nA. It fails to tell us what the appropriate punishment would be for all cases of criminal action.\nB. It does not provide an adequate measure of moral desert.\nC. It requires that we punish criminals in ways that are morally unacceptable.\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "86": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  What is Pence's main objective in his article \"Will Cloning Harm People?\"\nA. to use consequentialist arguments to show that cloning is immoral\nB. to object to consequentialist arguments against cloning\nC. to use Kant's humanity formulation to show that cloning is immoral\nD. to use Kant's humanity formulation to show that cloning is morally acceptable\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "87": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Timmons suggests that many people believe in moral relativism because\nA. They believe in tolerating differences.\nB. They are sensitive to the descriptive fact of widespread moral disagreement.\nC. They realize that some ethical claims seem true in some contexts but not in others.\nD. All of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "88": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Sandel, eugenics and genetic enhancement can be seen to be wrong from a religious perspective because\nA. their use would lead to atheism or agnosticism.\nB. in using them, we would confuse our role in creation with God's role.\nC. the Bible explicitly opposes all forms of technological enhancement.\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "89": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is a method of torture that Dershowitz believes is appropriate in those cases where torture is permissible?\nA. having a sterilized needle shoved under the victim's fingernails\nB. electrocution at nonlethal levels\nC. submerging the victim in water so he or she feels as if he or she is drowning\nD. none of the above; Dershowitz thinks torture is wrong in all cases.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "90": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In Rachels's thought experiment with Smith and Jones, Jones's action (i.e., his watching the child, who slipped accidentally, drowned in the tub) is supposed to be an example of\nA. killing.\nB. letting die.\nC. assisted suicide.\nD. none of the above\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "91": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Gill, the moral value of autonomy mostly consists in\nA. the ability to act and choose while free from distress.\nB. the ability to choose to end one's own life.\nC. the ability to make important life decision on the basis of our deepest values.\nD. the duty to not interfere with the free choices of others.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "92": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Foot's Rescue I and Rescue II cases are intended to\nA. contrast evil intentions with good intentions.\nB. contrast originating a harmful sequence with allowing a harmful sequence to continue.\nC. show that evil intentions always involve the origination of harmful sequences.\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "93": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In contrast to Garrett Hardin's approach, the Confucian model rejects coercion because\nA. the costs of eliminating a collective action problem are not irrelevant to its solution\nB. it affirms the autonomy of individuals apart from others.\nC. it cannot lead to real social change, which involves changes of mind as well as action\nD. The Confucian model actually accepts coercion.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "94": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Velleman believes that the option of euthanasia may harm some patients. What does he think is the most significant way in which this might happen?\nA. by burdening a patient with having to justify his or her continued existence\nB. by eliminating the patient's capacity for self-determination\nC. by eliminating a patient's opportunities for self-determination\nD. by tempting a patient to undergo a painful procedure\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "95": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Velleman believes that euthanasia can be justified on the basis of\nA. Kantian considerations.\nB. consequentialist considerations.\nC. existentialist considerations.\nD. feminist considerations.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "96": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Carruthers argues that, on contractualist grounds, nonhuman animals may be accorded which of the following kinds of moral standing?\nA. direct\nB. indirect\nC. quasi-\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "97": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  One of the premises of the \"lack of imagination\" argument that Kamm discusses is that\nA. genetic enhancement is always morally permissible.\nB. nature ought to be honored over personal choice.\nC. most people's conception of the varieties of goods is limited.\nD. we ought to always leave the development of valuable traits up to chance.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "98": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In accordance with the theory of justice proposed by John Rawls, Stephen Macedo argues,\"We must consider the justifiability of policies from the standpoint of the _____ well-off among our fellow citizens.\"\nA. most\nB. least\nC. historically\nD. permanently\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "99": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is not a prima facie duty that Ross discusses?\nA. the duty to keep promises\nB. the duty not to harm others\nC. the duty to protect our natural environment\nD. the duty of nonmaleficence\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "100": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is an example of a vice of character?\nA. blindness\nB. physical weakness\nC. obesity\nD. cowardice\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "101": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Leopold claims that history has shown that \"the conqueror role is eventually self-defeating.\" It is self-defeating, in this view, because\nA. the conqueror doesn't understand what makes the conquered community tick.\nB. the conqueror doesn't know what and who within the community is valuable.\nC. the conqueror doesn't know what and who is worthless in community life.\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "102": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Sarah Fine's \"internal critique\" of Wellman's argument targets his claim that\nA. we have an absolute right to freedom of association (i.e., one that cannot be outweighed by anything else).\nB. freedom of association implies that a legitimate state has a presumptive right to exclude anyone from its territory.\nC. immigration is harmful to low-income Americans.\nD. egalitarianism is a Marxist doctrine.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "103": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Shapiro discusses experiments about the role of expectations in the experience of drug use to show that\nA. drug effects are inherently biological and are not influenced at all by expectations and other psychological factors.\nB. users who do not expect to get addicted to \"hard\" drugs almost always do.\nC. there is no such thing as drug addiction.\nD. sometimes a drug's effects are the direct result of what one expects from the drug.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "104": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  What kind of consequentialist theory does Dershowitz think can justify terrorism in certain extreme particular cases?\nA. act-based deontology\nB. rule-based hedonism\nC. rule utilitarianism\nD. act utilitarianism\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "105": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  On the proposal that we need to establish world food banks to help those who are in need, Hardin would say that\nA. if the proposal were to be realized, the operation must be conducted consistently.\nB. only the richer countries have some moral obligation to make deposits in the world food banks.\nC. it would be subject to the tragedy of the commons.\nD. we need to go with the idea because we ought not to punish poor people who are caught in an emergency.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "106": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  A utilitarian who recognizes rights will attempt to explain rights on the basis of utility by claiming that\nA. there are no moral rights; there is only utility.\nB. a moral right is a kind of claim that is justified by the fact that its recognition will not diminish overall welfare.\nC. a moral right is a kind of claim that is justified by the fact that its recognition will contribute to the maximization of overall welfare.\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "107": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  If a global ban would not be effective in prohibiting genetic engineering that goes beyond eliminating obvious defects, then Singer suggests which \"bolder\" strategy?\nA. creating a world military that would enforce the ban with greater strength\nB. requiring genetic engineering for every newborn child\nC. using a lottery system so everyone gets a fair chance at the benefits of genetic engineering\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "108": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is a kind of consequentialist theory that explains right action in terms of the net balance of pleasure (or lack of pain) produced by that action?\nA. hedonistic utilitarianism\nB. perfectionist consequentialism\nC. rule consequentialism\nD. By definition, consequentialist theories do not mention pain.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "109": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  The retributive theory of punishment does not claim that\nA. wrongdoers deserve to be punished.\nB. specific punishments are justified based on the overall intrinsic value that they produce\nC. the punishment should fit the crime.\nD. the death penalty might be morally justified in some cases of murder.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "110": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Mary's laptop deserves moral consideration only because she owns it and cares about it. Thus, Mary's laptop has\nA. direct moral standing.\nB. indirect moral standing.\nC. relative moral standing.\nD. inherent or intrinsic worth.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "111": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Collins suggests that the moral value of caring actions comes from\nA. the intrinsic value of caring attitudes which motivate caring actions.\nB. how well any caring actions fulfills the recipient's interests and the strength of one's intention to fulfill the recipient's interest.\nC. the degree to which those actions produces the greatest amount of happiness in the recipient of care.\nD. the non-instrumental value of caring actions as manifestations of intrinsic goods for person like love and forgiveness.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "112": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Kant's humanity formulation of the categorical imperative makes it impermissible for us to, he argues,\nA. sell one of our teeth.\nB. engage in prostitution.\nC. both A and B\nD. Neither A nor B\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "113": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Nathanson, criminals who commit murder forfeit their right to\nA. life.\nB. respect.\nC. privacy.\nD. humane treatment.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "114": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Reiman suggests that the refusal to execute criminals teaches\nA. the wrongfulness of murder.\nB. that the death penalty is a better deterrent than life imprisonment.\nC. that criminals already face the risk of death.\nD. that criminals are usually undeterred by the chance of receiving the death penalty.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "115": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Shapiro, the standard view has to explain the preeminence of controlled use by arguing that\nA. controlled use is preeminent.\nB. drug laws have no effect on access to illegal drugs.\nC. drug laws reduce access to illegal drugs.\nD. drug laws increase access to illegal drugs.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "116": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is a premise of Kass's despotism argument?\nA. Cloning is inherently morally wrong.\nB. In reproductive cloning, one seeks to impose one's will on a child's future.\nC. The permissibility of cloning depends on the parent's intent to raise the child.\nD. We have a good reason not to clone.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "117": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In Rachels's thought experiment with Smith and Jones, Smith's action (i.e., his holding the child underwater) is supposed to be an example of\nA. killing.\nB. letting die.\nC. assisted suicide.\nD. none of the above\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "118": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  All cases of euthanasia in which the patient has consented to the active bringing of his or her death are cases of\nA. voluntary euthanasia.\nB. involuntary euthanasia.\nC. nonvoluntary euthanasia.\nD. passive euthanasia.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "119": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Ross, when our duties conflict with each other we should\nA. not do anything because duties cannot actually conflict with each other.\nB. use moral judgment to determine which duty should be obeyed.\nC. consult authorities instead of relying on our own judgment.\nD. wait until the conflict ceases on its own.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "120": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Kamm claims that Sandel's moral distinction between treatment and enhancement assumes that\nA. nature in itself has no moral value.\nB. nature is sacred and should be honored.\nC. human beings want enhancement more than they want treatment.\nD. there is no moral difference between treatment and enhancement.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "121": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  West argues that feminist legal theory has inadvertently led to the under-acknowledgement of the harms of consensual sex because\nA. it posits that all sex is rape.\nB. by suggesting that the harm of rape is that it is nonconsensual, it implies that all consensual sex is good.\nC. by suggesting that the harm of rape has nothing to do with the victim's gender, it implies that women are not especially harmed by nonconsensual sex.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "122": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Sinnott-Armstrong is most interested in examining issues about the moral obligations of\nA. individuals.\nB. societies.\nC. governments.\nD. families.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "123": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  The decision to remove Terri Schiavo's feeding tube, thus allowing her to die of dehydration, is a case of:\nA. voluntary euthanasia.\nB. physician-assisted suicide.\nC. passive euthanasia.\nD. active euthanasia.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "124": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  De Marneffe explains that we might call someone a drug addict to show that\nA. it is a mistake to suppose that drug use is sometimes evidence of low self-control.\nB. drug addiction is a problem that drug legalization cannot address.\nC. it is a mistake to suppose that drug use, even heavy drug use, is not autonomous.\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "125": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Frances Kamm discusses the case of a scientist who works on finding a cure for congenital blindness and is motivated only by a bad desire for mastery to suggest that\nA. sometimes an action can be permissible even if it is motivated by a bad desire.\nB. all actions motived by bad desires are impermissible.\nC. the desire for mastery is not, as Sandel argues, a bad desire.\nD. sometimes the only way to cure a disease is through selfish desires.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "126": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  If Thomson's conclusion is correct, then\nA. the abortion issue cannot be settled just by determining at what stage (if any) the fetus is a person.\nB. abortion is always morally permissible.\nC. abortion is never morally permissible.\nD. the abortion issue can be settled just by determining at what stage (if any) the fetus is a person.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "127": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In satisfying Kant's Humanity formulation of the categorical imperative, we are obligated to adopt two very general goals: the goal of promoting the (morally permissible) ends of others and the goal of\nA. self-perfection.\nB. producing happiness.\nC. increasing welfare.\nD. self-sacrifice.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "128": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Ashford defines a structural human rights violation as\nA. violations of human rights that pertain to the structure of a person's practical, social, and political agency.\nB. ongoing patterns of behavior by a large number of agents which predictably result in many others coming to be deprived of the object of a fundamental human right: the means of subsistence.\nC. the violation of fundamental human rights brought about the political structures of a particular government.\nD. all of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "129": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is a possible source of obligations, according to Cohen?\nA. rights\nB. freely made commitments\nC. special relations\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "130": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Richardson-Self argues that sexist speech\nA. is always hate speech, because it involves violence.\nB. is not always hate speech, because it does not involve violence\nC. is always hate speech, because it does not involves violence.\nD. I s not always hate speech, because it always involves violence.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "131": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Norcross agrees that if a being is incapable of moral reasoning, at even the most basic level, then it cannot be\nA. a moral patient.\nB. a moral agent.\nC. an object of moral sympathy.\nD. a being of value.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "132": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Shapiro cites a study of Vietnam veterans, which showed a significant decrease in heroin use after the veterans returned home. Which factor does Shapiro cite as explaining this decrease?\nA. the type of drug used\nB. the duration over which the users used the drug\nC. the pharmacological effects of heroin\nD. the difference in social setting\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "133": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  One suggestion that Lukianoff and Haidt make to challenge vindictive protectiveness is\nA. have colleges and universities officially and strongly discourage trigger warnings.\nB. to defund the Department of Education.\nC. to promote greater understanding of historical and contemporary oppression.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "134": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Aristotle's moral theory is a version of\nA. virtue ethics.\nB. consequentialism.\nC. rights-based theory.\nD. utilitarianism.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "135": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Suppose Wellman argued that just as you have a right not to marry someone who would be harmed by your refusal, a state is free to exclude others even if it causes harm to them. Fine would respond by saying that\nA. the liberal state cannot claim to be primarily an intimate or expressive association.\nB. you do not have the right to refuse a legitimate marriage proposal.\nC. there is no difference between marital relationships and the relationship between a citizen and his state.\nD. refusing to marry someone cannot be a cause of harm.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "136": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is an example of a \"right of noninterference\" according to Arthur?\nA. the right to privacy\nB. the right to life\nC. the right to exercise religious freedom\nD. all of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "137": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Audi proposed that we expand Ross's list of prima facie duties to include\nA. veracity.\nB. enhancement and preservation of freedom.\nC. respectfulness.\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "138": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Singer, which of the following historical defenders of the principle of equal consideration of interests was one of the few to recognize that the principle applies to members of other species as well as to our own?\nA. Immanuel Kant\nB. Aristotle\nC. Jeremy Bentham\nD. John Stuart Mill\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "139": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  The only way to break out of the \"terrorist cycle,\" says Walzer, is to\nA. attack quickly, swiftly, and with full force.\nB. use the same tactics the terrorists use.\nC. avoid playing the terrorism game.\nD. use psychological rather than military tactics.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "140": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Norcross, which of the following arguments poses a formidable challenge to any proposed criterion of full moral standing that excludes animals?\nA. the ontological argument\nB. the argument from cosmology\nC. the argument from marginal cases\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "141": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Aquinas's moral theory, morality is ultimately grounded in\nA. agreements made between individuals.\nB. pleasure and the absence of pain.\nC. facts about human nature.\nD. virtue.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "142": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Kant's moral theory is a version of\nA. consequentialism.\nB. virtue ethics.\nC. utilitarianism.\nD. none of the above\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "143": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following statements best describes Gill's response to the argument that the Oregon physician-assisted law falsely assumes that doctors are qualified to judge whether a life is worth living?\nA. Doctors are as qualified as any other mature adult to decide whether a life is worth living.\nB. Doctors are normally required to make life-and-death decisions, and this is no exception.\nC. The argument is self-defeating because it was proposed by medical doctors.\nD. The law only requires doctors to make medical decisions about the patient's life expectancy and prognosis.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "144": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  The best explanation for drug addiction, according to Shapiro, appeals to\nA. one's individual mindset and social setting.\nB. the pharmacological effects of drug use (e.g., withdrawal).\nC. one's genetic profile, which explains why some people have \"addictive personalities.\"\nD. specific psychological disorders such as obsessive-compulsive disorder.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "145": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Wellman accepts that there are other values besides the freedom of association, such as\nA. egalitarian values concerning the elimination of inequalities that make people vulnerable to oppression.\nB. libertarian values concerning individuals' property rights and freedom of movement.\nC. both A and B\nD. nothing; there are no values besides freedom of association\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "146": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  What does Marquis think is the main reason why it is wrong to kill a fetus?\nA. The fetus can feel pain.\nB. Abortion will harm the woman.\nC. Killing the fetus would deprive it of a valuable future.\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "147": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Altman believes that there are significant difficulties associated with defending a pro-censorship position based solely on claims of which of the following kinds of harm?\nA. expressive harm\nB. causal harm\nC. physical harm\nD. intentional harm\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "148": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Hardin, the \"ratchet effect\" refers to the fact that\nA. overpopulation does not affect the number of people who are poor.\nB. overpopulation leads to creation of food banks that help curb poverty rates.\nC. world hunger and poverty leads to recognition of rights not to be hungry.\nD. the use of a world food bank to feed the hungry leads to an escalating series of emergency situations.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "149": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is the term used to refer to a stage in prenatal development which in humans begins at roughly the second week of pregnancy and lasts until roughly the eighth week?\nA. fertilization\nB. fetal stage\nC. embryonic stage\nD. viability\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "150": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following potentially morally relevant differences between Fred's behavior and the behavior of the consumers of factory-raised meat does Norcross not discuss?\nA. Fred's behavior involves the suffering of puppies, whereas the behavior of meat-eaters \"merely\" involves the suffering of chickens, pigs, cows, calves, sheep, and the like.\nB. The suffering of the puppies is necessary for gustatory pleasure, whereas the suffering of animals on factory farms is simply a by-product of the conditions dictated by economic considerations.\nC. Fred could prevent the suffering of the puppies, whereas meat-eaters can't prevent the suffering of the animals they consume.\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "151": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Singer, international corporations that deal with corrupt dictators are akin to\nA. murderers of those who witness crimes.\nB. prostitutes who knowingly spread disease.\nC. people who knowingly buy stolen goods.\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "152": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Since we who live in wealthy countries have directly caused harm, Pogge argues that we have very stringent\nA. libertarian duties towards the global poor\nB. positive duties towards the global poor\nC. negative dutiestowards the global poor\nD. egalitarian duties towards the global poor.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "153": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is not a requirement on the definition of \"legal punishment\"?\nA. It must be for an offense against legal rules.\nB. It must involve unpleasant consequences.\nC. It must not necessarily be of an actual or supposed offender.\nD. It must be intentionally administered by human beings other than the offender.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "154": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Mill, the only evidence it is possible to produce that anything is desirable is that\nA. God has deemed it desirable.\nB. experts on desirability have deemed it desirable.\nC. people do actually desire it.\nD. rational insight reveals it to be desirable.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "155": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Velleman worries that the word dignity is sometimes used (incorrectly) to glorify which of the following:\nA. a patient's capacity for self-determination\nB. a patient's worthiness of being protected or cared for\nC. Western culture's obsession with youth, strength, and independence\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "156": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is an example of a virtue of character?\nA. tallness\nB. honesty\nC. physical beauty\nD. simplicity\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "157": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  The most common form of cosmopolitanism is _____ cosmopolitanism, according to which those in a position to do so have an obligation to assist those in need because of poverty and to promote basic human rights.\nA. moral\nB. political\nC. cultural\nD. economic\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "158": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  What is wrong with a conservation system based wholly on economic motives according to Leopold?\nA. It assumes that the economic parts of the biotic system will function without the uneconomic parts.\nB. It assumes that economic motives are morally relevant.\nC. It implies that nonhuman creatures are necessarily without any moral standing.\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "159": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Singer argues that developing nations are harming poor nations by\nA. causing global warming.\nB. handing out too much foreign aid, which increases need.\nC. ignoring important aspects of their culture.\nD. indoctrinating them with Western values.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "160": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Sandel, eugenics and genetic enhancement can be seen to be wrong from a secular perspective because they would produce unwelcome changes in\nA. humility.\nB. responsibility.\nC. solidarity.\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "161": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to some defenders of meat-eating, the suffering of animals counts less than the suffering of humans (if at all) because\nA. animals are rational and humans are not.\nB. humans are rational and animals are not.\nC. animals lack the capacity for suffering, and humans do not.\nD. animals can tolerate more suffering than humans can.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "162": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  To say that an action is intrinsically permissible (a feature mentioned in the doctrine of double effect) is to say that\nA. the action, apart from its effects, is morally permissible.\nB. the action, only because of its effects, is morally permissible.\nC. no actual person would ever endorse that action.\nD. the action is valuable because of its relationship to things that are intrinsically valuable.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "163": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Locke can be thought of as accepting a\nA. natural law conception of morality.\nB. Kantian theory.\nC. version of utilitarianism.\nD. version of virtue ethics.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "164": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Metz argues that dignity is based in\nA. a capacity for communal or friendly relationships\nB. a capacity for moral thought\nC. a capacity for rational deliberation\nD. a capacity for certain kinds of feelings or sentiments\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "165": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Singer, which of the following is the single relevant factor in determining whether something has moral status?\nA. dignity\nB. belonging to a moral community\nC. sentience\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "166": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Nathanson proposes a form of retributivism that requires all of the following except\nA. a list of crimes ranked according to their seriousness.\nB. a scale of punishments that correspond to the seriousness of certain crimes.\nC. treating criminals humanely.\nD. the death penalty for the most serious crimes.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "167": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Kant, all imperatives are expressed by the word\nA. \"want.\"\nB. \"ought.\"\nC. \"will.\"\nD. \"may.\"\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "168": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  The goal of cognitive-behavioral therapy is to\nA. build grit.\nB. minimize distorted thinking.\nC. reward good behavior.\nD. achieve stoic wisdom.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "169": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Thomson's appeal to the vices of callousness and self-centeredness relates to what kind of approach to abortion?\nA. deontological approach\nB. Kantian approach\nC. virtue ethics approach\nD. consequentalist approach\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "170": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is evidence that de Marneffe cites in support of the claim that increased availability of a drug leads to increased use of that drug?\nA. Heroin use was much higher among military personnel in Vietnam than it was among veterans who returned to the United States.\nB. The percentage of physicians who use psychoactive drugs is much higher than the general population.\nC. Alcohol abuse declines when the law restricts the times it can be legally sold.\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "171": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Carens's main conclusion is that\nA. liberal egalitarianism should almost always press for more openness toward immigrants and refugees.\nB. liberal egalitarianism, contrary to appearances, entails that only closed border immigration policies are acceptable.\nC. egalitarianism is founded on sentiments of envy and is therefore unjustified.\nD. liberal egalitarian objections to anticosmopolitanism do not succeed.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "172": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Carens accepts that it is possible for the sudden opening of one country's borders to do more harm than good from a liberal egalitarian perspective. However, he argues that\nA. in practice, feasible policy options will not entail major costs to current citizens.\nB. liberal egalitarianism is false, and so this possibility is irrelevant.\nC. sometimes you have to do more harm than good in the short term to do more good in the long term.\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "173": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Callahan is against the legalization of euthanasia because he believes legalization would\nA. be contrary to the Constitution of the United States.\nB. teach society the wrong kind of lesson.\nC. violate our right to self-determination.\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "174": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Callahan discusses the Dutch Commission on Euthanasia in 1990 to show that\nA. laws permitting euthanasia can and have been abused.\nB. doctors who perform euthanasia may not report doing so.\nC. both A and B\nD. neither A nor B\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "175": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Lukianoff and Haidt, institutionalizing vindictive protectiveness will\nA. encourage students to think pathologically.\nB. ill-prepare them for the workforce.\nC. harm their ability to learn.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "176": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Baxter claims that his \"very general way\" of stating what we should strive for environmentally assumes that\nA. we have a god-like control over the environment.\nB. we can measure in some way the incremental units of human satisfaction.\nC. nonhuman animals have no value whatsoever.\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "177": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following objections to adopting speech codes does Altman discuss?\nA. Speech codes encourage bigotry.\nB. Speech codes treat hate speakers with less than equal consideration.\nC. Speech codes result in causal harms.\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "178": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In Singer's understanding, the principle of the equality of human beings is\nA. a description of an alleged actual equality among humans.\nB. a description of an alleged actual inequality among humans.\nC. a prescription of how we should treat nonhuman animals.\nD. a prescription of how we should treat humans.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "179": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Nathanson believes that killing another person in self-defense is compatible with\nA. respect for the dignity of persons.\nB. the principle of equality.\nC. a consequentialist theory of punishment..\nD. equality retributivism.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "180": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Sandel believes that the use of genetic enhancement is inherently wrong because\nA. its use would be unsafe.\nB. its use would be unfair.\nC. both of the above\nD. none of the above\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "181": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion: According to Michael Huemer, the harm of drug use to individual drug users\nA. justifies state prohibition of drug use.\nB. does not justify state prohibition of drug use.\nC. justifies a massive campaign of public health awareness.\nD. does not justify a massive campaign of public health awareness.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "182": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is a basic intrinsic good, according to Aquinas's version of natural law theory?\nA. human life\nB. human procreation\nC. human sociability\nD. all of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "183": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Mary is a person, and as such she plausibly deserves moral consideration because of features inherent to her (e.g., being self-aware). This suggests that she has\nA. direct moral standing.\nB. indirect moral standing.\nC. relative moral standing.\nD. none of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "184": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In his objection to \"the second prong of the libertarian case for open borders,\" Wellman responds to the objection that he is essentially denying that we have a right to freedom of movement. Which of the following is part of his response?\nA. He would say this begs the question because the immigration question is identical to the freedom-of-movement question.\nB. He would present an argument showing that there is actually no right to freedom of movement.\nC. He would argue that some rights are not absolute (e.g., the right to marriage doesn't allow you to marry an unwilling partner).\nD. He would use deontological premises to deductively conclude that unjust public policies are morally objectionable.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "185": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Richardson-Self discusses which of the following kinds of speech?\nA. hate speech\nB. misogynistic speech\nC. sexist speech\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "186": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Lex talionis is another name for\nA. proportional retributivism.\nB. the death penalty.\nC. an eye for an eye.\nD. the morality of restraint.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "187": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Huemer argues that there is no reason to think that the harms of drug use are in an important sense\nA. more harmful on average than legally permitted harmful activities.\nB. differing from the harms of other legally permitted harmful activities.\nC. more detrimental to a person's character than otherslegally permitted harmful activities.\nD. All of the above.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "188": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is a value that Arthur believes is more fundamental than rights and desert?\nA. justice\nB. fairness\nC. respect for other persons\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "189": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  One of the main factors that Hardin links to world hunger and poverty is\nA. reproduction rates.\nB. exploitation of other people.\nC. people having too many rights.\nD. none of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "190": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to the Humanity formulation of Kant's principle, we must treat persons\nA. never as a means.\nB. never as a mere means.\nC. in ways that produce the most good for everyone concerned.\nD. in ways that serve one's own best interests.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "191": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Since Nagel thinks there can be genuine moral dilemmas, he denies the moral principle that\nA. can implies should.\nB. can implies ought.\nC. ought implies can.\nD. ought implies should.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "192": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is not an example of vice?\nA. callousness\nB. obesity\nC. selfishness\nD. greediness\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "193": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  On Metz's view, what kind of punishment is justified for wrongdoers?\nA. Harmful punishment that is proportionate to the harm done by the wrongdoing.\nB. Unfriendly action that is proportionate to the unfriendly wrongdoing, aimed at correcting the wrongdoing.\nC. Degradation proportionate to the degrading impacts of the wrongdoing.\nD. All of the above.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "194": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to the principle of greatest equal liberty proposed by John Rawls, each person is to have an equal right to\nA. the highest level of happiness that is attainable by the least happy person in the society.\nB. the social and economic inequalities that are built into society.\nC. opportunities and resources that belong to that person but nobody else.\nD. the most extensive basic liberty compatible with a similarly liberty for others.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "195": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Wellman argues that insisting on unlimited property rights commits one to\nA. deontological theory.\nB. egalitarianism.\nC. consequentialism.\nD. anarchy.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "196": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Ross argues that the existing body of moral convictions of the best people is the cumulative product of\nA. the moral reflection of many generations.\nB. generations of bias and self-confirmation.\nC. ignorance.\nD. political discourse.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "197": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Kant argues that marriage allows spouses to treat each other not as mere means when engaging in sexual activity because\nA. God demands that all sexual activity occur in the context of marriage.\nB. this will ultimately produce the most happiness for the greatest number of persons.\nC. in marriage two persons equally and reciprocally transfer their whole person to the other.\nD. the universal law formulation of the categorical imperative requires that each of us be married.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "198": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  On Pogge's view, affluent citizens are harming the poor by\nA. imposing on them the lasting effects of historical crimes.\nB. keeping them below welfare in the state-of-nature.\nC. both A and B\nD. None of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "199": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Aquinas, the first precept of natural law is\nA. \"good is to be done, evil to be avoided.\"\nB. \"one ought to do what one will.\"\nC. \"one ought to do only what can be done without contradiction.\"\nD. \"pleasure is to be sought, pain to be avoided.\"\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "200": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Shapiro discusses Mediterranean cultures' use of alcohol to show that\nA. even cultures with very low levels of alcohol consumption can have comparatively high levels of alcoholism.\nB. the consumption of alcoholic beverages (e.g., wine) can have surprising health benefits.\nC. increased use of a drug does not always lead to increased addiction.\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "201": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Little argues that the norms governing the moral permission of abortion are\nA. impersonal and categorical.\nB. merely a matter of the mother's preferences.\nC. a complex matter of the mother's personal integrity and her ideals about motherhood and creation.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "202": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Hardin, the fundamental error of \"sharing ethics\" is that\nA. it is anti-Christian.\nB. it would require a stronger system of taxation for the affluent.\nC. it would lead to a \"tragedy of the commons.\"\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "203": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  The principle Arthur calls \"the greater moral evil rule\"says that\nA. people are entitled to keep their earnings only if there is no way for them to prevent a greater evil by giving them away.\nB. being rich is a great moral evil, and as such we should all strive to live on a moderate income.\nC. two moral evils do not make a moral good.\nD. morality itself is a great evil.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "204": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Ross claims that the essential defect of utilitarianism is that it ignores\nA. the value of pleasure.\nB. autonomy.\nC. epistemological responsibility.\nD. the personal character of duty.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "205": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  The second premise in Singer's main argument is: \"If it is in your power to prevent something bad from happening, without sacrificing anything nearly as important, it is wrong not to do so.\" Which phrase in this premise is deliberately left vague?\nA. \"something bad\"\nB. \"it is wrong\"\nC. \"nearly as important\"\nD. \"in your power\"\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "206": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Lukianoff and Haidt, the recent trend to uncover microaggressions encourages\nA. students to confabulate reasons.\nB. the pursuit of justice by marking out racism, sexism, and classism.\nC. labeling, by assigning global negative traits to persons.\nD. universities to bear overly burdensome legal obligations.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "207": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Marcia Baron argues that the artificiality of ticking bomb cases is problematic because\nA. the artificial assumptions are, in fact, empirical claims that are central to the debate.\nB. all artificial thought experiments are philosophically useless.\nC. it leads us to believe that torture is always permissible.\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "208": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Carens argues that a policy of exclusion does not always imply that the culture and people being protected are superior because\nA. such a policy actually implies that the protected culture is inferior.\nB. the exclusion may simply reflect an attachment to what is one's own (rather than a belief in superiority).\nC. superiority and inferiority are inherently subjective concepts.\nD. only superior cultures have freedom of movement.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "209": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In responding to terrorism, says Walzer, it is particularly important that\nA. we make an effort to convince the terrorists that they are acting wrongly.\nB. we avoid harming terrorists to the same extent that we would avoid harming innocent civilians.\nC. we attack the lower-ranking terrorists first.\nD. we do not repeat the wrongs of terrorism in the process.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "210": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In response to the argument that embryos are not persons because they do not exercise higher mental capacities, Lee and George argue that\nA. embryos actually do exercise higher mental capacities.\nB. it doesn't make sense to say that a person exercises higher mental capacities.\nC. the argument is sound, but its validity fails due to a common logical fallacy.\nD. to have killed a human embryos that developed into you would have been the same thing as killing you.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "211": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Mill considers which of the following cases?\nA. censoring an opinion that is true.\nB. censoring an opinion that is false.\nC. censoring an opinion that is partly true and partly false.\nD. All of the above.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "212": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Velleman, who, if anyone, should decide whether a patient receives euthanasia?\nA. the patient\nB. the patient's family\nC. the patient's caregiver\nD. legislators\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "213": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In response to the objection that it would be wrong to prohibit the manufacture and sale of fatty foods and tobacco products, de Marneffe argues that\nA. fatty foods and tobacco products are not actually harmful.\nB. there is nothing wrong with limiting people's access to products that are harmful to them.\nC. the benefits of prohibiting these products would not outweigh the costs.\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "214": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Kass, one problem with cloning is that\nA. cloned individuals are likely to experience psychological and social identity problems.\nB. cloned individuals cannot be created quickly enough.\nC. there are no problems with cloning.\nD. none of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "215": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In Carruther's view, the justification for moral criticism for things that we do (or don't to do) to an animal derives from\nA. the animal's direct moral standing.\nB. the animals capacity for suffering.\nC. the bad qualities of character that our actions evince.\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "216": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  One way to value a patient's autonomy is by aiming to maximize his or her effective options. When we value a patient's autonomy in this way, what, according to Velleman, do we value?\nA. the patient's opportunities for self-determination\nB. the patient's capacity for self-determination\nC. the ability to provide the patient with options\nD. the ability to share reasons with the patient\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "217": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  McGrecgor, following Hampton, argues that the harm of rape involves\nA. moral injury.\nB. moral morbidity.\nC. moral accident.\nD. moral delusion.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "218": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  On Mill's view, the collision with error makes\nA. the impression of truth all the clearer.\nB. the impression of error all the clearer.\nC. the impression of distinct ideas clear.\nD. the impression of the state's paternal authority clear.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "219": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Kass the fact that people (like him) feel repugnance at the thought of human reproductive cloning\nA. shows conclusively that reproductive cloning is always wrong.\nB. shows conclusively that reproductive cloning is sometimes wrong.\nC. has nothing to do with the morality of cloning.\nD. is a sign that something is wrong with reproductive cloning.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "220": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following capacities does Carruther's assume that animals lack?\nA. the capacity for suffering\nB. the capacity for practical reasoning\nC. the capacity for rational agency\nD. the capacity for conscious experience\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "221": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following best characterizes de Marneffe's view?\nA. The use, sale, and manufacturing of drugs should be legal.\nB. The use, sale, and manufacturing of drugs should be illegal.\nC. The use of drugs should be legal, but the sale and manufacturing of them should be illegal.\nD. The use of drugs should be illegal, but the sale and manufacturing of them should be legal.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "222": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Wellman's response to the \"egalitarian\" objection to the state's right to exclude is that states can fulfill their duties to outsiders without allowing them into their territory. Fine thinks Wellman's response is insufficient because\nA. egalitarians are committed to utilitarian principles.\nB. Wellman himself is an immigrant.\nC. excluding people who wish to pursue interests specific to that state is still potentially harmful.\nD. the concept of \"exporting justice\" is internally contradictory.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "223": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Huemer,\nA. it is just bad for the government to fail to recognize natural rights.\nB. it is sometimes alright for the government to disregard natural rights, when the harms are bad enough.\nC. it is sometimes alright for the government to disregard natural rights to as to protect someone from themselves.\nD. failures by the government to recognize natural rights count as injustices.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "224": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  One kind of externality imposed on the world's poor by the economic activity of wealthy nation is\nA. unequal social order.\nB. authoritarian regimes.\nC. crime.\nD. pollution.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "225": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In therapeutic cloning, the goal is to\nA. produce and raise a child.\nB. go down a slippery slope.\nC. treat disease.\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "226": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Collins, one key claim of care ethics is that\nA. Deliberation should include sympathy and direct attendance to concrete particulars.\nB. Deliberation should only include sympathy and direct attendance to concrete particulars.\nC. Deliberation should only include general principles and exclude considerations of sympathy.\nD. Deliberation should include sympathy but not consider concrete particulars.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "227": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Confucian the model of persons,\nA. we learn to be persons through familial relations and by learning from other's example.\nB. we are persons because we have immortal, individual souls.\nC. we learn to be persons by slowing developing rational capacities.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "228": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is an example of a virtue?\nA. honesty\nB. courage\nC. kindness\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "229": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Carens argues that, for example, liberal egalitarianism has nothing to say about the question of whether a black doctor has a moral obligation to practice in a black community. This is because the only limit that liberal egalitarianism places on individuals' moral obligations, according to Caren, is that they\nA. must not conflict with the rights and duties that liberal egalitarianism itself prescribes.\nB. must be in accord with utilitarian moral considerations.\nC. must not conflict with reasonable standards of prudence.\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "230": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Sandel's case against moral engineering can best be considered\nA. a Kantian approach.\nB. an application of the ethics of prima facie duty.\nC. a virtue ethics approach.\nD. a natural law theory approach.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "231": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  One problem with treating the ticking bomb case as involving only a single instance of torture, according to Baron, is that\nA. justifying one instance of torture requires justifying the practice of torture.\nB. it is virtually impossible for torture to be limited to just one instance.\nC. both A and B\nD. neither A nor B\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "232": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Cohen, animals are\nA. moral agents.\nB. amoral.\nC. abstract reasoners.\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "233": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  One objection to care ethics is thatit seems to imply that we areresponsible for our attitudes, even though they seem not to be under our voluntary control. Collins responds by arguing that\nA. caring attitudes are not moral attitudes at all.\nB. we can often bring ourselves to have attitudes of care indirectly\nC. when we fail to have attitudes of care this means that no caring attitudes were required of us towards some person\nD. Collins agrees with the objection.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "234": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Sinnott-Armstrong, if we cannot find any moral principle to back up our intuition that wasteful driving (of the sort mentioned in his article) is wrong, then\nA. we know that wasteful driving is morally permissible.\nB. we know that particularism is true.\nC. we do not know whether wasteful driving is wrong.\nD. we know that wasteful driving is not wrong.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "235": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  The idea of \"using someone as a mere means\" is centrally relevant to which of the following moral theories?\nA. consequentialism\nB. Kantianism\nC. utilitarianism\nD. natural law theory\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "236": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to consequentialist theories of punishment, a lawbreaker should be punished only if\nA. the punishment would likely produce as much overall intrinsic value as would any other alternative punishment.\nB. the punishment is consistent with treating the person as an end in him- or herself.\nC. the punishment is proportional to the wrongness of the crime.\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "237": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is not an example Aquinas gives of a self-evident proposition?\nA. \"Every whole is greater than its part.\"\nB. \"The light of Thy countenance, O Lord, is signed upon us.\"\nC. \"Things equal to one and the same are equal to one another.\"\nD. \"Man is a rational being.\"\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "238": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Marquis argues that abortion is morally wrong by\nA. showing that a fetus is a person with full moral rights, including the right to life.\nB. appealing to the fact that a fetus is biologically human and arguing that it is presumptively morally wrong to kill biologically human beings.\nC. showing that a fetus is sentient and that it is morally wrong to harm and kill sentient creatures.\nD. none of the above\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "239": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Of the following social problems that could result from a genetic supermarket, which does Singer think is the least serious?\nA. loss of human diversity\nB. the effects of engineering children to have positional goods\nC. loss of equality of opportunity\nD. increased disparity between the rich and the poor\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "240": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In response to Sandel's argument about the relationship between genetic enhancement and parent-child relationships, Kamm argues that\nA. genetic transformation will actually strengthen the bond between parent and child.\nB. children are too young to understand the implications of genetic enhancement.\nC. Sandel's reasoning does not rule out the use of moderate, worthwhile genetic transformation.\nD. the use of training and appliances as a way of transforming gifts is not, as Sandel argues, morally permissible.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "241": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Marquis, abortion is\nA. absolutely wrong.\nB. seriously presumptively wrong.\nC. generally permissible.\nD. always permissible.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "242": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Michael Gill begins by discussing arguments against autonomy-based justifications of euthanasia. According to these arguments, autonomy-based justifications are contradictory because\nA. the value of autonomy relates only to the making of big decisions.\nB. terminally ill patients are not capable of freely choosing to end their own lives.\nC. killing a person destroys his or her ability to make autonomous decisions.\nD. above of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "243": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  A war over ideological differences carried out by methods short of sustained overt military action and usually without breaking off diplomatic relations is known as\nA. a war simpliciter.\nB. a hot war.\nC. a cold war.\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "244": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Huemer worries that the employment of a \"war\" metaphor when describing government policies about drug use\nA. masks a bad argument by analogy.\nB. does not really describe the situation well at all, since it is more like a game than a war.\nC. is perfectly apt.\nD. makes it hard to think and discuss the rights of drug users.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "245": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is not one of the four main excuses for terrorism that Michael Walzer discusses?\nA. Terrorism is a form of freedom of speech.\nB. Terrorism is a last resort.\nC. Terrorism benefits oppressed groups.\nD. All political activity is terroristic.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "246": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Christopher Heath Wellman defends the position that\nA. anti-egalitarianism is compatible with liberal cosmopolitanism.\nB. closing borders to all potential immigrations is an inherently racist social policy.\nC. nation-states have an obligation to open their borders to the least well-off potential immigrants.\nD. nation-states have a presumptive right to close their borders to all potential immigrants.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "247": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Ross proposed that we have a duty of reparation-that is, the prima facie duty-to\nA. make amends to others for any past wrongs one has done to them.\nB. show gratitude toward one's benefactors.\nC. refrain from harming others.\nD. improve oneself with respect to one's own virtue and knowledge.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "248": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Joseph Carens argues that restrictions on free migration can be justified if\nA. such restrictions are decreed by a sovereign leader.\nB. the restrictions are necessary to preserve a distinct culture or way of life.\nC. both A and B are true\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "249": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  An unborn vertebrate animal that has developed to the point of having the basic structure that is characteristic of its kind is known as\nA. a zygote.\nB. a blastocyst.\nC. an embryo.\nD. a fetus.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "250": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Corresponding to the theoretical aim of moral theory is the principle of\nA. explanatory power.\nB. parsimony.\nC. practical guidance.\nD. none of the above\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "251": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Aquinas, every law is ordained to\nA. the truth.\nB. human perfection.\nC. the common good.\nD. individual happiness.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "252": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  The question of whether the killing/letting die distinction is morally relevant can be posed by asking whether we are equally to blame for allowing people in Third World countries to starve as we would be for\nA. killing them by sending poisoned food.\nB. refusing to give them the money they need to purchase food.\nC. withholding medicine that they need to survive.\nD. depriving them of knowledge they need to produce food.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "253": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Singer presents his three-premise argument in addition to appealing to the case of the drowning child because\nA. he believes that abstract arguments are more likely to convince one to act.\nB. he argues that our emotional reactions have no bearing on which moral claims are true.\nC. he believes arguments are a more efficient way to appeal to one's emotions.\nD. he wants to appeal to the reader's reason and not just pull at the reader's heartstrings.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "254": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Why can't animals be bearers of rights according to Cohen?\nA. because rights are essentially human\nB. because animals lack any kind of rationality\nC. because animals are not as powerful as humans\nD. none of the above; Cohen holds that animals can have rights\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "255": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  An oocyte is\nA. an unfertilized egg.\nB. the nucleus that is implanted into the ovum during SCNT.\nC. the nucleus that removed from the ovum during SCNT.\nD. an undifferentiated stem cell that can be used in treating various medical conditions.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "256": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Corvino, the \"unnaturalness\" charge can carry moral weight only if those who level it can do two things:\nA. (i) explain the harms of anal sex and (ii) establish that all homosexuals will inevitably suffer those harms.\nB. (i) specify exactly what they mean by \"unnaturalness\" and (ii) explain why unnaturalness (so defined) matters morally.\nC. (i) establish that one's sexual orientation is a matter of choice and (ii) that people who choose homosexuality have an intrinsic desire for self-harm.\nD. (i) explain the value of naturalness and (ii) why nothing \"unnatural\" can be of value.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "257": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Mill defends the harm principle on the basis of which moral theory?\nA. Kantian moral theory\nB. Utilitarianism\nC. The ethics of prima facie duty\nD. Social contract theory\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "258": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Carruthers, our duties to animals are\nA. direct and basic.\nB. indirect and derivative.\nC. nonexistent.\nD. perfect (rather than imperfect).\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "259": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Nagel clarifies that absolutism is the view that we should\nA. prevent murder at all costs\nB. avoid murder at all costs\nC. only sometimes prevent murder\nD. only sometimes avoid murder\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "260": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  An unjust society, according to John Rawls, can be roughly characterized as any society where\nA. some have more goods (e.g., happiness) than others.\nB. political power is mostly given to the wealthy and upper class.\nC. there are inequalities that are not to the benefit of all.\nD. liberty is restricted to those who have not earned it.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "261": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  With respect to the issue of world hunger and poverty, Arthur points out that Singer ignores\nA. the principles of equality and harm.\nB. the principles of the right and the good.\nC. the principles of rights and desert.\nD. the principles of ability to help and desires.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "262": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Altman, a viewpoint-biased speech restriction should be troubling to whom?\nA. those who value a strong right to privacy\nB. those who value strong protections for freedom of speech\nC. those who don't value strong protection for freedom of speech\nD. those who value equal educational opportunity\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "263": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to McGregor, the expressive harm of rape\nA. needs to be intentionally inflicted.\nB. does not need to be intentionally inflicted.\nC. Both A and B\nD. None of the above.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "264": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is not an objection Pence gives to the argument that SCNT is not best for the child?\nA. The argument assumes genetic determinism or genetic reductionism.\nB. The expectations people will place on SCNT individuals could be no worse than normal expectations of children created sexually.\nC. People's prejudicial attitudes are likely to change.\nD. If people's prejudicial attitudes do not change, then we should not allow SCNT.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "265": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to rule consequentialism, the rightness or wrongness of an action depends on\nA. that action's relationship to the operative rules of law.\nB. the logical consistency behind the motive of actions of the same type.\nC. whether a virtuous person would endorse a rule requiring, permitting, or prohibiting that action.\nD. whether that action is required, permitted, or prohibited by a rule the consequences of which are best.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "266": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Kant argues that because sexual attraction involves seeing another person as the object of one's appetites,\nA. moral relationship with that person becomes impaired.\nB. all sexual relations are thereby immoral.\nC. it is impossible to treat people in light of their humanity in all circumstances.\nD. there is a universal law of attraction.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "267": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  One common objection to utilitarianism is that the principle of utility is\nA. too complicated.\nB. too demanding.\nC. too easy to satisfy.\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "268": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Macedo, we have special obligations to our fellow citizens arising from\nA. our relationships to noncitizens.\nB. consequentialist duties to promote the greatest good for the greatest number.\nC. membership in a legitimate self-governing community.\nD. nothing; we do not have special obligations to fellow citizens.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "269": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to the basic principle of natural law theory, an action is right if and only if (and because)\nA. the action only indirectly violates some of the basic values.\nB. the action is of a type that the laws of natural selection have favored.\nC. in performing the action one does not directly violate any of the basic values.\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "270": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In reproductive cloning, the cloned individual will have nearly the same genetic makeup as\nA. the female who carries the zygote to term.\nB. the individual who donates the nucleus.\nC. the female who donates the egg.\nD. none of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "271": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  One of the messages Nathanson believes we can send by abolishing the death penalty is that\nA. criminals deserve inhumane treatment.\nB. killing in self-defense is never morally justified.\nC. we should have respect for the dignity of human beings.\nD. murderers should be killed by the state.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "272": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Rachels believes that active euthanasia is better than passive euthanasia in cases where\nA. the patient will suffer more if he or she is allowed to die, compared to how much he or she would suffer if the physician actively ended his or her life.\nB. the patient will suffer less if he or she is allowed to die, compared to how much he or she would suffer if the physician actively ended his or her life.\nC. the patient clearly states that he or she would prefer to live as long as possible.\nD. none of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "273": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Altman, expressive harm is\nA. a causal consequence of hate speech.\nB. a harm that derives from the kind of attitude expressed in the act of hate speech.\nC. both A and B\nD. neither A nor B\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "274": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Papadaki thinks that in cases where partners in a relationship mutually deny each other's humanity that\nA. sexual objectification occurs.\nB. sexual objectification does not occur.\nC. there is no straightforward answer to the question of whether or not sexual objectification occurs.\nD. the context of the relationship will determine whether or not sexual objectification occurred.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "275": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following statements would Macedo disagree with?\nA. States should give special weight to their own citizens.\nB. Immigration policies can have powerful economic effects.\nC. Self-governance is morally irrelevant to the immigration debate.\nD. There are reasons to think U.S. immigration policy has had detrimental effects on income distribution among citizens.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "276": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following best characterizes Rachels's argument?\nA. Both active and passive euthanasia involve the intentional termination of a human life with dignity; therefore, both are morally wrong.\nB. Neither active nor passive euthanasia involves the intentional termination of a human life with dignity; therefore, both are morally permissible.\nC. There is no inherent moral difference between killing and letting die; therefore, there is no inherent moral difference between active and passive euthanasia.\nD. There is no inherent moral difference between killing and letting die; therefore, both active and passive euthanasia are morally wrong.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "277": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Suppose two athletes, A and B, are equally skilled. Suppose also that A naturally inherited certain traits from her father that made playing the sport easier for her, and thus she didn't have to train as hard as B. According to the ethic of willfulness,\nA. A is a better athlete.\nB. B is a better athlete.\nC. B doesn't count as an athlete because training precludes athleticism.\nD. A and B are equally good athletes.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "278": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Altman, justifications of speech codes that take account of which of the following kinds of harm have the best prospects for success?\nA. causal harm\nB. expressive harm\nC. both causal and expressive harm\nD. auxiliary harm\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "279": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Kant's Universal Law formulation does not refer to an agent's wants; rather, it represents\nA. an ethical dilemma.\nB. a criterion for social acceptability.\nC. a way to measure the value of an action's consequences.\nD. a kind of consistency test.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "280": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Wellman cites a number of \"unpalatable implications that follow from denying a country's right to freedom of association,\" including\nA. the inability to explain why it would be wrong to force Canada to join NAFTA.\nB. the inability to explain why it would be wrong for the United States to forcefully annex Canada .\nC. both A and B\nD. neither A nor B\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "281": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to West, which of the following reasons for a women to engage in sex with her male partner may cause her harm?\nA. She or her children are economically dependent on her male partner, and so she reasons that she better have sex with him and keep him happy.\nB. Her refusal will result in her partner's being in a foul mood which is more burdensome than having undesired sex.\nC. Her refusal might result in a violent outburst.\nD. All of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "282": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Kant, an imperative that represents an action as a necessary means to something that is willed is what kind of imperative?\nA. categorical\nB. universalizable\nC. hypothetical\nD. noumenal\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "283": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  What does Pence think is an appropriate standard for the safety of SCNT before it should be allowed?\nA. There should be no standards for safety.\nB. SCNT should not be allowed unless a healthy baby could be guaranteed.\nC. SCNT should be allowed when it falls within the range of risks that is accepted by ordinary people in sexual reproduction.\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "284": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following claims would Leopold clearly accept?\nA. The problems associated with how we should use our natural environment ultimately concern how human beings should treat each other.\nB. We should think in terms of \"the balance of nature\" to properly appreciate the value of the natural environment.\nC. The problems associated with how we should use our natural environment are not merely economic problems.\nD. We should ignore all economic motives in deciding questions about land use.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "285": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Mill argues on that even a false opinion should not be censored because\nA. no one actually knows anything.\nB. you don't really know the true view unless you can explain why false views are false.\nC. you don't really know whether or not anything is false.\nD. All of the above.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "286": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Norcross claims that if morality demands that we not torture puppies merely to enhance our own eating pleasure, morality also demands that\nA. we try to reduce our carbon footprint.\nB. we donate money to Oxfam.\nC. we not support factory farming.\nD. we follow the Golden Rule.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "287": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is not one of the potentially negative consequences of imposing the death penalty?\nA. the prevention of future murders\nB. great financial cost\nC. the incitement effect\nD. the execution of innocent persons\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "288": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Sinnott-Armstrong, the fact your government morally ought to do something\nA. does not prove that government officials ought to promote it.\nB. does not prove that you ought to do it.\nC. proves that you ought not to do it.\nD. proves that you ought to do it, too.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "289": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Some forms of misogynist speech only target a subset of women. Richardson-Self argues that we should\nA. deny that subsets of women can be the targets of hate speech.\nB. say that this speech is merely sexist speech.\nC. consider such speech hate speech.\nD. understand misogynistic speech as akin to other forms of oppressive speech against racial minorities.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "290": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Instead of asking why the act of destroying the environment might be immoral, Hill wants to ask\nA. why the act of destroying nature might be immoral.\nB. why people who destroy the environment might be bad people.\nC. how the decision to preserve the environment benefits the environment.\nD. whether plants have interests.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "291": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Philippa Foot explains the moral relevance of the killing/letting die distinction by appealing to\nA. rights of noninterference.\nB. rights to goods and services.\nC. both A and B\nD. neither A nor B\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "292": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is an example of a duty-based moral theory?\nA. consequentialism\nB. natural law theory\nC. Kantian moral theories\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "293": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Lukianoff and Haidt argue that trigger warnings involve which kind of pathological thinking?\nA. fortune-telling\nB. blaming\nC. dichotomous thinking\nD. resentment\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "294": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Corresponding to the practical aim of moral theory is the principle of\nA. parsimony.\nB. practical guidance.\nC. explanatory power.\nD. none of the above\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "295": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  By recognizing that we have backup duties to donate to aid agencies, Ashford argues that we can\nA. acknowledge the force of the criticism that effective altruism is at best a band-aid approach while diffusing this same criticism.\nB. acknowledge that effective altruism fails to be the right response to global poverty.\nC. feel relieved about our duties to the global poor, since backup duties are not morally urgent.\nD. None of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "296": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is a view that Dershowitz argues for?\nA. Torture is permissible in the \"ticking bomb\" case.\nB. No democratic society should allow public officials to engage in illegal actions \"off the books.\"\nC. \"Torture warrants\" should be part of a legal system regulating the practice of torture.\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "297": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to de Marneffe, which of the following is a reason we might call someone a drug addict?\nA. They use a drug to relieve a craving.\nB. They use a drug even though they obviously shouldn't.\nC. Although they believe they should use the drug when they decide to use it, at other times they believe they should not use the drug anymore.\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "298": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  On McGregor's view, our rights carve out\nA. what we are free to do.\nB. the domain of our community.\nC. the domain of our personal identity.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "299": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is an example of a duty that corresponds to a right to goods and service?\nA. John's duty to return to Mary that car that he borrowed from her\nB. John's duty to allow Mary to pursue goals that she values\nC. John's duty to not harm Mary\nD. John's duty to not commit suicide\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "300": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In response to the worry that the freedom of association could justify immigration policies that exclude entry to members of a given race, Wellman claims that\nA. such a policy would wrongly disrespect existing citizens who belong to that race.\nB. this is an implication of the freedom of association that we must accept.\nC. this is an unavoidable implication of all philosophical positions on immigration policy.\nD. none of the above\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "301": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following conditions would make a slippery-slope argument fallacious?\nA. The envisioned results of the action or practice under consideration turn out not to be bad.\nB. The central idea of the argument-that the action or practice under consideration will lead us down a path to disaster-turns out not to be plausible.\nC. both A and B are correct; either condition would make the argument fallacious.\nD. neither A nor B is correct; neither condition would make the argument fallacious.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "302": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Carruthers, which of the following groups should not be accorded direct moral standing?\nA. human infants\nB. the senile\nC. the mentally disabled\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "303": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  If the killing/letting die distinction is morally relevant, then that would show that the following distinction is also morally relevant:\nA. killing/murder\nB. physician/patient\nC. active/passive euthanasia\nD. involuntary/nonvoluntary euthanasia\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "304": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Macedo describes his position on immigration as politically\nA. liberal.\nB. conservative.\nC. evangelical.\nD. neutral.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "305": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In the context of Gardiner's article, what is \"the dispersion of causes and effects\"?\nA. the dispersion of the impacts of emissions of greenhouse gases to other actors and regions of the Earth\nB. the dispersion of the causes of greenhouse gas emissions across the Earth\nC. the dispersion of carbon dioxide molecules in the atmosphere\nD. the dispersion of fault and blame for causing greenhouse gas emissions.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "306": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Kant refers to the special worth or value of persons as\nA. virtue.\nB. beauty.\nC. praiseworthiness.\nD. dignity.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "307": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Stephen Macedo approaches the ethical issue of immigration from the perspective of _____ justice.\nA. feminist\nB. global\nC. distributive\nD. international\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "308": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  On Kant's view, it is morally permissible to:\nA. masturbate.\nB. engage in prostitution.\nC. engage in consensual sexual activity outside of marriage.\nD. None of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "309": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  West posits that one reason that these harms go unnoticed in the U.S. is that people in the U.S.\nA. are less sensitive to threats from coercion.\nB. are in general more sexist than other places.\nC. tend to equate what is legal with what is good or harmless.\nD. West actually thinks that people in the U.S. disproportionately recognize these harms.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "310": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Cases in which a doctor is involved to some degree in assisting an individual to commit suicide are known as\nA. mercy killing.\nB. physician-assisted suicide.\nC. involuntary euthanasia.\nD. all of the above\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "311": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In contrast to other moral theories, care ethics emphasizes\nA. the importance of attitudes as well as actions.\nB. the concepts of care and compassion.\nC. relationships as fundamental to one's identity and as a source of moral obligation.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "312": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Why does Metz think that extant dignity-based arguments based on African values fail?\nA. It is unclear that they show that capital punishment is degrading, and so therefore wrong.\nB. They prove too much. They seem to entail that any instance of killing in self-defense is wrong.\nC. Both A and B\nD. None of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "313": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  John considers what Mary has done and thinks to himself, Mary did the right thing. This thought is primarily a judgment about\nA. Mary's upbringing.\nB. an action Mary performed.\nC. Mary's moral character.\nD. what John thinks he would have done.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "314": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  A central premise of Wellman's argument is that the state's right to freedom of association implies a right to _____ prospective members:\nA. exclude\nB. punish\nC. advocate\nD. none of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "315": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Papadaki argues that the narrow view of sexual objectification\nA. is correct.\nB. fails to account for cases where there can be unintentional disregard of a person's humanity.\nC. fails to account for cases of benign or positive objectification.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "316": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Baron cites a summary of Ali Soufan's Senate testimony to suggest that\nA. torture works in only limited situations.\nB. endorsing a single act of torture requires endorsing torture as a practice.\nC. successful interrogation may not require torture.\nD. torture is always wrong without exception.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "317": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  A war that involves actual fighting is known as\nA. a hot war.\nB. a cold war.\nC. a war simpliciter.\nD. none of the above\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "318": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Carens defends a form of\nA. Kantian distributionism.\nB. anticosmopolitanism.\nC. libertarian cosmopolitanism.\nD. egalitarian cosmopolitanism.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "319": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Callahan cites the Oregon Death with Dignity Legal Defense and the Education Center's finding that \"after four full years .. there have been no missteps, abuses or coercive tendencies\" regarding laws permitting euthanasia. In response he argues that\nA. they can't know this to be true without an anonymous survey.\nB. other studies have found contrary results.\nC. even if the finding is true, it is irrelevant to the moral status of euthanasia.\nD. the findings are suspect because the study was performed by advocates of euthanasia.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "320": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is not an example of a natural right that Locke uses?\nA. the right to life\nB. the right to liberty\nC. the right to citizenship\nD. the right to property\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "321": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Shapiro claims that humans are social or cultural animals, which is significant for his view because it implies that\nA. social norms or rules play a significant role in influencing behavior.\nB. we are just products of our biochemistry.\nC. past experience plays a significant role in influencing behavior.\nD. none of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "322": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Van den Haag thinks that we can't know whether a murderer who receives the death penalty\nA. is justly punished.\nB. suffers more than the victim.\nC. is morally degraded.\nD. is punished excessively.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "323": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Critics of speech codes adopted in the 1980s and early 1990s argued that these codes violated which of the following principles?\nA. freedom of speech\nB. freedom of the press\nC. right to bear arms\nD. right to privacy\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "324": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Aristotle, if something has a function, then its good depends on\nA. its function.\nB. its substance.\nC. our beliefs about it.\nD. cultural practices.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "325": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Suppose Nathan argues that while neither nonhuman nor nonsentient beings have direct moral standing, we still ought to have a certain noninstrumental regard for the environment because failing to do so involves a deficiency in one's moral character. Nathan is most likely applying what moral theory?\nA. virtue ethics\nB. consequentialism\nC. Kantian theory\nD. an ethics of prima facie duty\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "326": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  More than communicating to an individual, McGregor argues that rape\nA. reinforces a corrupt legal system.\nB. expresses contempt for the democratic system of government.\nC. expresses the inferiority of women as a group to the wider community.\nD. reinforces gender roles.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "327": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  What is the main difference between a cloned (SCNT) individual and an individual who is a product of normal sexual reproduction?\nA. The SCNT individual has genetic material primarily from one person instead of two.\nB. The SCNT individual has genetic material primarily from two people instead of one.\nC. The SCNT individual has no genetic material.\nD. There is no significant difference.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "328": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  According to Lee and George, ova/sperm are not human beings because\nA. they cannot reproduce.\nB. they do not have a human genetic profile.\nC. they are genetically and functionally identifiable as parts of the male or female potential parents.\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "329": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Little suggests that we should think about the abortion issue in terms of degrees and layers because\nA. the fetus gains a more certain claim to the right to life over time.\nB. the fetus gains more capacities over time.\nC. a gestating mother is somewhere in between a mere biological mother and a mother in a thick, normative sense.\nD. the gestating mother has different degrees and layers of preferences.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "330": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  West worries that liberal theory in academia has inadvertently led to the under-acknowledgement of the harms of consensual sex because\nA. it is implicitly sexist.\nB. it promotes individualism and valorizes individual choice.\nC. it is too left-wing to support a sound gender-based critique of our sex practices.\nD. it promotes communitarian thinking to the detriment of individualism.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "331": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Utilitarian arguments depend heavily on factual claims about\nA. what a virtuous person ought to do in a particular situation.\nB. what God has commanded or would prefer.\nC. what duties one has inherited through implicit social contracts.\nD. the overall comparative effects of contemplated courses of action.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "332": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In his discussion of discrimination in war, Valls suggests that\nA. there is no difference between combatants and noncombatants.\nB. the difference between combatants and noncombatants is a matter of degree.\nC. the difference between combatants and noncombatants is categorical and clear.\nD. \"terrorism\" should be defined as indiscriminate violence.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "333": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is not, according to Carens, a concern for all liberal egalitarians?\nA. the ability of people to pursue their own projects\nB. equal opportunity\nC. freedom of speech\nD. keeping actual inequalities as small as possible\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "334": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Lukianoff and Haidt argue that American colleges and universities now encourage\nA. emotional reasoning.\nB. critical reasoning.\nC. reflective reasoning.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "335": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Aristotle defines virtue as\nA. the ability to control one's anger.\nB. a disposition to avoid extremes in feeling and action.\nC. intellectual knowledge.\nD. the capacity to ascertain what God would desire.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "336": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Nagel thinks that the core of the absolutist position is that\nA. human persons have a right to life.\nB. it is permissible to harm as a foreseen but unintended consequence of action.\nC. the ends justify the means.\nD. the hostility should be directed at its true object.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "337": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is a \"positional good,\" according to Peter Singer's definition?\nA. being at least six feet tall (in a population where this is above average)\nB. having an IQ of at least 150 (in a population where this is the average)\nC. being at least six feet tall (in a population where this is the average)\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "338": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Aquinas's moral theory is a version of\nA. consequentialism.\nB. natural law theory.\nC. rights-based theory.\nD. virtue ethics.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "339": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Van den Haag responds to the \"miscarriages of justice\" objection by claiming that\nA. miscarriages of justice are offset by the moral benefits and usefulness of doing justice.\nB. there have been no miscarriages of justice, in the sense used in the objection.\nC. miscarriages of justice are inevitable and so irrelevant.\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "340": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following does Corvino take to be a problematic \"hidden assumption\" of harm arguments against homosexuality?\nA. If a practice is riskier than the alternatives, then that practice is moral, prudent, or otherwise to be pursued.\nB. If a practice is risker than the alternatives, then that practice is immoral, imprudent, or otherwise to be avoided.\nC. If a practice is safer than the alternatives, then that practice is immoral, imprudent, or otherwise to be avoided.\nD. none of the above\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "341": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Patrick Lee and Robert George argue that human embryos are complete human beings because\nA. they are complete organisms that are genetically human.\nB. unlike cells of the mother or father, their growth is directed toward survival and maturation.\nC. both A and B\nD. neither A nor B\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "342": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  Hate speech, according to Richardson-Self involves\nA. only violence\nB. violence and oppression in the form of subordination, exploitation, and cultural imperialism.\nC. only forms of oppression like subordination, exploitation, and cultural imperialism.\nD. none of the above\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "343": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  When we think about the norms of creation, Little argues that\nA. it can be a sign of respect to terminate a pregnancy when certain background conditions, like a loving family, are not met.\nB. it is never a sign of respect to terminate a pregnancy, because we should value and hold sacred the act of creation.\nC. we see the abortion issue as a matter of the personal preferences of the mother.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "344": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In Altman's characterization, racial epithets and similar terms of abuse are communicative tools for expressing an extreme form of which of the following?\nA. moral blame\nB. moral praise\nC. moral contempt\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "345": {
+        "origin_prompt": "There is a single choice question about moral disputes. Answer the question by replying A, B, C or D.\nQuestion:  In ethics, the terms \"right\" and \"wrong\" are used primarily to evaluate the morality of\nA. persons.\nB. actions.\nC. consequences.\nD. concrete objects.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    }
+}

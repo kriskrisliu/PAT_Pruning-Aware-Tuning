@@ -1,0 +1,522 @@
+{
+    "0": {
+        "origin_prompt": "Passage: Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, * anyone * who knew that he was 19 years old could take his claim away from # him # .\nQuestion: Does the pronoun # him # refer to * anyone *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "1": {
+        "origin_prompt": "Passage: * Mr. Moncrieff * visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires # his # financial support.\nQuestion: Does the pronoun # his # refer to * Mr. Moncrieff *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "2": {
+        "origin_prompt": "Passage: I tried to paint a picture of an orchard, with lemons in the * lemon trees * , but # they # came out looking more like light bulbs.\nQuestion: Does the pronoun # they # refer to * lemon trees *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "B"
+    },
+    "3": {
+        "origin_prompt": "Passage: Always before, * Larry * had helped Dad with his work. But he could not help him now, for Dad said that # his # boss at the railroad company would not want anyone but him to work in the office.\nQuestion: Does the pronoun # his # refer to * Larry *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "4": {
+        "origin_prompt": "Passage: Since * Chester * was dependent on Uncle Vernon , he couldn't very well marry without # his # approval\nQuestion: Does the pronoun # his # refer to * Chester *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "5": {
+        "origin_prompt": "Passage: The large ball crashed right through * The table * because # it # was made of styrofoam.\nQuestion: Does the pronoun # it # refer to * The table *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "A"
+    },
+    "6": {
+        "origin_prompt": "Passage: * The path * to the lake was blocked, so we couldn't use # it # .\nQuestion: Does the pronoun # it # refer to * The path *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "A"
+    },
+    "7": {
+        "origin_prompt": "Passage: While Nancy and * Ellen * counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at # her # stricken face told the girls that the precious map was gone.\nQuestion: Does the pronoun # her # refer to * Ellen *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "8": {
+        "origin_prompt": "Passage: Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and * their mothers * are very worried. Fortunately, in flying over the town, an old marabou bird has seen # them # and come back quickly to tell the news.\nQuestion: Does the pronoun # them # refer to * their mothers *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "9": {
+        "origin_prompt": "Passage: * The customer * walked into the bank and stabbed one of the tellers. # He # was immediately taken to the hospital.\nQuestion: Does the pronoun # He # refer to * The customer *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "B"
+    },
+    "10": {
+        "origin_prompt": "Passage: * Jane * gave Joan candy because # she # was hungry.\nQuestion: Does the pronoun # she # refer to * Jane *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "11": {
+        "origin_prompt": "Passage: I tried to paint a picture of an orchard, with * lemons * in the lemon trees , but # they # came out looking more like light bulbs.\nQuestion: Does the pronoun # they # refer to * lemons *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "A"
+    },
+    "12": {
+        "origin_prompt": "Passage: Alice was dusting the living room and trying to find the button that * Mama * had hidden. No time today to look at old pictures in # her # favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it.\nQuestion: Does the pronoun # her # refer to * Mama *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "B"
+    },
+    "13": {
+        "origin_prompt": "Passage: Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father , a gang leader, was shot to death; his father's disciple, * Antonio * , takes Larry under # his # wing, and quickly molds him into a drug runner.\nQuestion: Does the pronoun # his # refer to * Antonio *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "A"
+    },
+    "14": {
+        "origin_prompt": "Passage: Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a * chair * without even opening # it # .\nQuestion: Does the pronoun # it # refer to * chair *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "15": {
+        "origin_prompt": "Passage: * Larry * , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father , a gang leader, was shot to death; his father's disciple, Antonio , takes Larry under # his # wing, and quickly molds him into a drug runner.\nQuestion: Does the pronoun # his # refer to * Larry *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "B"
+    },
+    "16": {
+        "origin_prompt": "Passage: Alice was dusting the * living room * and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening # it # .\nQuestion: Does the pronoun # it # refer to * living room *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "17": {
+        "origin_prompt": "Passage: Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son * Edward * . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that # he # no longer requires his financial support.\nQuestion: Does the pronoun # he # refer to * Edward *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "18": {
+        "origin_prompt": "Passage: * Fred * watched TV while George went out to buy groceries. After an hour # he # got back.\nQuestion: Does the pronoun # he # refer to * Fred *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "B"
+    },
+    "19": {
+        "origin_prompt": "Passage: Meanwhile, in the forest, the elephants are calling and hunting high and low for * Arthur and Celeste * , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen # them # and come back quickly to tell the news.\nQuestion: Does the pronoun # them # refer to * Arthur and Celeste *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "20": {
+        "origin_prompt": "Passage: Since * Chester * was dependent on Uncle Vernon , # he # couldn't very well marry without his approval\nQuestion: Does the pronoun # he # refer to * Chester *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "21": {
+        "origin_prompt": "Passage: Jane gave * Joan * candy because # she # wasn't hungry.\nQuestion: Does the pronoun # she # refer to * Joan *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "B"
+    },
+    "22": {
+        "origin_prompt": "Passage: Always before, Larry had helped * Dad * with his work. But # he # could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.\nQuestion: Does the pronoun # he # refer to * Dad *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "23": {
+        "origin_prompt": "Passage: The large ball crashed right through * The table * because # it # was made of steel.\nQuestion: Does the pronoun # it # refer to * The table *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "B"
+    },
+    "24": {
+        "origin_prompt": "Passage: Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry * Larry's father * , a gang leader, was shot to death; his father's disciple, Antonio , takes Larry under # his # wing, and quickly molds him into a drug runner.\nQuestion: Does the pronoun # his # refer to * Larry's father *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "B"
+    },
+    "25": {
+        "origin_prompt": "Passage: Well satisfied with # his # purchases and feeling very elegant indeed, Babar goes to * the photographer * to have his picture taken.\nQuestion: Does the pronoun # his # refer to * the photographer *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "26": {
+        "origin_prompt": "Passage: Always before, Larry had helped * Dad * with his work. But he could not help # him # now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.\nQuestion: Does the pronoun # him # refer to * Dad *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "27": {
+        "origin_prompt": "Passage: Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son * Edward * . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires # his # financial support.\nQuestion: Does the pronoun # his # refer to * Edward *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "28": {
+        "origin_prompt": "Passage: The path to * The lake * was blocked, so we couldn't use # it # .\nQuestion: Does the pronoun # it # refer to * The lake *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "B"
+    },
+    "29": {
+        "origin_prompt": "Passage: Everyone really loved * The oatmeal cookies * ; only a few people liked the chocolate chip cookies . Next time, we should make more of # them # .\nQuestion: Does the pronoun # them # refer to * The oatmeal cookies *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "A"
+    },
+    "30": {
+        "origin_prompt": "Passage: The * stable * was very roomy, with four good stalls; a large swinging window opened into the yard , which made # it # pleasant and airy.\nQuestion: Does the pronoun # it # refer to * stable *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "A"
+    },
+    "31": {
+        "origin_prompt": "Passage: Papa looked down at the children 's * faces * , so puzzled and sad now. It was bad enough that # they # had to be denied so many things because he couldn't afford them.\nQuestion: Does the pronoun # they # refer to * faces *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "B"
+    },
+    "32": {
+        "origin_prompt": "Passage: * Joe * Joe's uncle can still beat him at tennis, even though # he # is 30 years older.\nQuestion: Does the pronoun # he # refer to * Joe *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "33": {
+        "origin_prompt": "Passage: Every day after dinner Mr. Schmidt took a long nap. * Mark * would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because # his # work was beautiful\nQuestion: Does the pronoun # his # refer to * Mark *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "B"
+    },
+    "34": {
+        "origin_prompt": "Passage: Papa looked down at the children 's * faces * , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford # them # .\nQuestion: Does the pronoun # them # refer to * faces *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "B"
+    },
+    "35": {
+        "origin_prompt": "Passage: Mr. Moncrieff visited * Chester * 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that # he # no longer requires his financial support.\nQuestion: Does the pronoun # he # refer to * Chester *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "36": {
+        "origin_prompt": "Passage: Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many * things * because he couldn't afford # them # .\nQuestion: Does the pronoun # them # refer to * things *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "A"
+    },
+    "37": {
+        "origin_prompt": "Passage: Sam and Amy are passionately in love, but * Amy's parents * are unhappy about it, because # they # are snobs.\nQuestion: Does the pronoun # they # refer to * Amy's parents *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "A"
+    },
+    "38": {
+        "origin_prompt": "Passage: * Men * had the right to keep their sons working for them until # they # were 21 years of age.\nQuestion: Does the pronoun # they # refer to * Men *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "39": {
+        "origin_prompt": "Passage: * The path * to the lake was blocked, so we couldn't reach # it # .\nQuestion: Does the pronoun # it # refer to * The path *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "B"
+    },
+    "40": {
+        "origin_prompt": "Passage: * Mr. Moncrieff * visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that # he # no longer requires his financial support.\nQuestion: Does the pronoun # he # refer to * Mr. Moncrieff *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "41": {
+        "origin_prompt": "Passage: * Fred * watched TV while George went out to buy groceries. After an hour # he # got up.\nQuestion: Does the pronoun # he # refer to * Fred *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "A"
+    },
+    "42": {
+        "origin_prompt": "Passage: When they had eventually calmed down a bit , and had gotten home, Mr. Farley put the magic pebble in an iron * safe * . Some day they might want to # it # it , but really for now, what more could they wish for?\nQuestion: Does the pronoun # it # refer to * safe *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "B"
+    },
+    "43": {
+        "origin_prompt": "Passage: Always before, * Larry * had helped Dad with his work. But # he # could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.\nQuestion: Does the pronoun # he # refer to * Larry *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "44": {
+        "origin_prompt": "Passage: Meanwhile, in the forest, * the elephants * are calling and hunting high and low for Arthur and Celeste , and # their # mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.\nQuestion: Does the pronoun # their # refer to * the elephants *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "45": {
+        "origin_prompt": "Passage: I tried to paint a picture of an orchard, with * lemons * in the lemon trees , but # they # came out looking more like light bulbs.\nQuestion: Does the pronoun # they # refer to * lemons *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "A"
+    },
+    "46": {
+        "origin_prompt": "Passage: Jane gave * Joan * candy because # she # was hungry.\nQuestion: Does the pronoun # she # refer to * Joan *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "A"
+    },
+    "47": {
+        "origin_prompt": "Passage: Since Chester was dependent on * Uncle Vernon * , he couldn't very well marry without # his # approval\nQuestion: Does the pronoun # his # refer to * Uncle Vernon *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "A"
+    },
+    "48": {
+        "origin_prompt": "Passage: * Bernard * , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that # he # had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.\nQuestion: Does the pronoun # he # refer to * Bernard *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "49": {
+        "origin_prompt": "Passage: Papa looked down at the * children * 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford # them # .\nQuestion: Does the pronoun # them # refer to * children *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "B"
+    },
+    "50": {
+        "origin_prompt": "Passage: Bill passed the half-empty plate to * John * because # he # was full.\nQuestion: Does the pronoun # he # refer to * John *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "51": {
+        "origin_prompt": "Passage: Patting # her # back, * The woman * smiled at the girl .\nQuestion: Does the pronoun # her # refer to * The woman *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "B"
+    },
+    "52": {
+        "origin_prompt": "Passage: Fred watched TV while * George * went out to buy groceries. After an hour # he # got up.\nQuestion: Does the pronoun # he # refer to * George *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "53": {
+        "origin_prompt": "Passage: One day * Dick * was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge # he # jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.\nQuestion: Does the pronoun # he # refer to * Dick *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "54": {
+        "origin_prompt": "Passage: * Jane * gave Joan candy because # she # wasn't hungry.\nQuestion: Does the pronoun # she # refer to * Jane *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "A"
+    },
+    "55": {
+        "origin_prompt": "Passage: Alice was dusting the living room and trying to find the * button * that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening # it # .\nQuestion: Does the pronoun # it # refer to * button *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "56": {
+        "origin_prompt": "Passage: Sam and Amy are passionately in love, but * Amy's parents * are unhappy about it, because # they # are fifteen.\nQuestion: Does the pronoun # they # refer to * Amy's parents *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "B"
+    },
+    "57": {
+        "origin_prompt": "Passage: The storekeepers stayed in town to run their * stores * and lived in the rooms behind # them # .\nQuestion: Does the pronoun # them # refer to * stores *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "A"
+    },
+    "58": {
+        "origin_prompt": "Passage: Bernard , who had not told * the government official * that # he # was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.\nQuestion: Does the pronoun # he # refer to * the government official *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "59": {
+        "origin_prompt": "Passage: * The large ball * crashed right through the table because # it # was made of styrofoam.\nQuestion: Does the pronoun # it # refer to * The large ball *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "60": {
+        "origin_prompt": "Passage: * Sam and Amy * are passionately in love, but Amy's parents are unhappy about it, because # they # are snobs.\nQuestion: Does the pronoun # they # refer to * Sam and Amy *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "B"
+    },
+    "61": {
+        "origin_prompt": "Passage: Then Dad figured out how much * the man * owed the store; to that he added the man 's board-bill at the cook-shanty. # He # subtracted that amount from the man 's wages, and made out his check\nQuestion: Does the pronoun # He # refer to * the man *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "62": {
+        "origin_prompt": "Passage: Mr. Moncrieff visited * Chester * 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires # his # financial support.\nQuestion: Does the pronoun # his # refer to * Chester *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "63": {
+        "origin_prompt": "Passage: Joe * Joe's uncle * can still beat him at tennis, even though # he # is 30 years older.\nQuestion: Does the pronoun # he # refer to * Joe's uncle *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "64": {
+        "origin_prompt": "Passage: One day Dick was teasing the colts, and did not know that * the master * was in the next field; but he was there, watching what was going on; over the hedge # he # jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.\nQuestion: Does the pronoun # he # refer to * the master *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "Yes\nEx",
+        "gold": "A"
+    },
+    "65": {
+        "origin_prompt": "Passage: Meanwhile, in the forest, * the elephants * are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen # them # and come back quickly to tell the news.\nQuestion: Does the pronoun # them # refer to * the elephants *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "66": {
+        "origin_prompt": "Passage: One day Dick was teasing the colts, and did not know that * the master * was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that # he # roared with the pain and surprise.\nQuestion: Does the pronoun # he # refer to * the master *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "67": {
+        "origin_prompt": "Passage: * Bernard * , who had not told the government official that # he # was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.\nQuestion: Does the pronoun # he # refer to * Bernard *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "68": {
+        "origin_prompt": "Passage: The stable was very roomy, with four good stalls; a large swinging window opened into the * yard * , which made # it # pleasant and airy.\nQuestion: Does the pronoun # it # refer to * yard *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "B"
+    },
+    "69": {
+        "origin_prompt": "Passage: Always before, * Larry * had helped Dad with his work. But he could not help # him # now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office.\nQuestion: Does the pronoun # him # refer to * Larry *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "70": {
+        "origin_prompt": "Passage: Joe * Joe's uncle * can still beat him at tennis, even though # he # is 30 years younger.\nQuestion: Does the pronoun # he # refer to * Joe's uncle *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "71": {
+        "origin_prompt": "Passage: The stable was very roomy, with four good stalls; a large swinging * window * opened into the yard , which made # it # pleasant and airy.\nQuestion: Does the pronoun # it # refer to * window *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "72": {
+        "origin_prompt": "Passage: * The large ball * crashed right through the table because # it # was made of steel.\nQuestion: Does the pronoun # it # refer to * The large ball *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "73": {
+        "origin_prompt": "Passage: One day Dick was teasing the colts, and did not know that * the master * was in the next field; but # he # was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.\nQuestion: Does the pronoun # he # refer to * the master *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "Yes\nEx",
+        "gold": "A"
+    },
+    "74": {
+        "origin_prompt": "Passage: Alice was dusting the living room and trying to find the button that * Mama * had hidden. No time today to look at old pictures in her favorite photo album. Today # she # had to hunt for a button, so she put the album on a chair without even opening it.\nQuestion: Does the pronoun # she # refer to * Mama *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "75": {
+        "origin_prompt": "Passage: One day * Dick * was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit # him # so hard that he roared with the pain and surprise.\nQuestion: Does the pronoun # him # refer to * Dick *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "76": {
+        "origin_prompt": "Passage: Fred watched TV while * George * went out to buy groceries. After an hour # he # got back.\nQuestion: Does the pronoun # he # refer to * George *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "77": {
+        "origin_prompt": "Passage: Papa looked down at the * children * 's faces , so puzzled and sad now. It was bad enough that # they # had to be denied so many things because he couldn't afford them.\nQuestion: Does the pronoun # they # refer to * children *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "A"
+    },
+    "78": {
+        "origin_prompt": "Passage: * Joe * Joe's uncle can still beat him at tennis, even though # he # is 30 years younger.\nQuestion: Does the pronoun # he # refer to * Joe *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "79": {
+        "origin_prompt": "Passage: One day Dick was teasing the colts, and did not know that * the master * was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit # him # so hard that he roared with the pain and surprise.\nQuestion: Does the pronoun # him # refer to * the master *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "80": {
+        "origin_prompt": "Passage: Since Chester was dependent on * Uncle Vernon * , # he # couldn't very well marry without his approval\nQuestion: Does the pronoun # he # refer to * Uncle Vernon *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "81": {
+        "origin_prompt": "Passage: Everyone really loved * The oatmeal cookies * ; only a few people liked the chocolate chip cookies . Next time, we should make fewer of # them # .\nQuestion: Does the pronoun # them # refer to * The oatmeal cookies *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "B"
+    },
+    "82": {
+        "origin_prompt": "Passage: While * Nancy * and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at # her # stricken face told the girls that the precious map was gone.\nQuestion: Does the pronoun # her # refer to * Nancy *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "83": {
+        "origin_prompt": "Passage: * Mr. Taylor * was a man of uncertain temper and his general tendency was to think that David was a poor chump and that whatever step he took in any direction on his own account was just another proof of # his # innate idiocy,\nQuestion: Does the pronoun # his # refer to * Mr. Taylor *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "84": {
+        "origin_prompt": "Passage: The storekeepers stayed in town to run their stores and lived in the * rooms * behind # them # .\nQuestion: Does the pronoun # them # refer to * rooms *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "B"
+    },
+    "85": {
+        "origin_prompt": "Passage: Bernard , who had not told * the government official * that he was less than 21 when he filed for a homestead claim, did not consider that # he # had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him.\nQuestion: Does the pronoun # he # refer to * the government official *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "86": {
+        "origin_prompt": "Passage: One day * Dick * was teasing the colts, and did not know that the master was in the next field; but # he # was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.\nQuestion: Does the pronoun # he # refer to * Dick *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "87": {
+        "origin_prompt": "Passage: The path to * The lake * was blocked, so we couldn't reach # it # .\nQuestion: Does the pronoun # it # refer to * The lake *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "A"
+    },
+    "88": {
+        "origin_prompt": "Passage: Bernard , who had not told * the government official * that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from # him # .\nQuestion: Does the pronoun # him # refer to * the government official *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "89": {
+        "origin_prompt": "Passage: Everyone really loved the oatmeal cookies ; only a few people liked * The chocolate chip cookies * . Next time, we should make more of # them # .\nQuestion: Does the pronoun # them # refer to * The chocolate chip cookies *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "B"
+    },
+    "90": {
+        "origin_prompt": "Passage: Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo * album * . Today she had to hunt for a button , so she put the album on a chair without even opening # it # .\nQuestion: Does the pronoun # it # refer to * album *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "A"
+    },
+    "91": {
+        "origin_prompt": "Passage: Well satisfied with his purchases and feeling very elegant indeed, Babar goes to * the photographer * to have # his # picture taken.\nQuestion: Does the pronoun # his # refer to * the photographer *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "92": {
+        "origin_prompt": "Passage: Every day after dinner Mr. Schmidt took a long nap. * Mark * would let him sleep for an hour, then wake him up, scold him, and get him to work. # He # needed to get him to finish his work, because his work was beautiful\nQuestion: Does the pronoun # He # refer to * Mark *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "A"
+    },
+    "93": {
+        "origin_prompt": "Passage: One day * Dick * was teasing the colts, and did not know that the master was in the next field; but # he # was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise.\nQuestion: Does the pronoun # he # refer to * Dick *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "94": {
+        "origin_prompt": "Passage: Every day after dinner * Mr. Schmidt * took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. # He # needed to get him to finish his work, because his work was beautiful\nQuestion: Does the pronoun # He # refer to * Mr. Schmidt *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "95": {
+        "origin_prompt": "Passage: Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and * their mothers * are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.\nQuestion: Does the pronoun # their # refer to * their mothers *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "96": {
+        "origin_prompt": "Passage: * The customer * walked into the bank and stabbed one of the tellers. # He # was immediately taken to the police station.\nQuestion: Does the pronoun # He # refer to * The customer *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "A"
+    },
+    "97": {
+        "origin_prompt": "Passage: I tried to paint a picture of an orchard, with lemons in the * lemon trees * , but # they # came out looking more like light bulbs.\nQuestion: Does the pronoun # they # refer to * lemon trees *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "B. No",
+        "gold": "B"
+    },
+    "98": {
+        "origin_prompt": "Passage: The * storekeepers * stayed in town to run their stores and lived in the rooms behind # them # .\nQuestion: Does the pronoun # them # refer to * storekeepers *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "B"
+    },
+    "99": {
+        "origin_prompt": "Passage: Every day after dinner * Mr. Schmidt * took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because # his # work was beautiful\nQuestion: Does the pronoun # his # refer to * Mr. Schmidt *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "100": {
+        "origin_prompt": "Passage: * Bill * passed the half-empty plate to John because # he # was hungry.\nQuestion: Does the pronoun # he # refer to * Bill *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "\nA.",
+        "gold": "B"
+    },
+    "101": {
+        "origin_prompt": "Passage: Meanwhile, in the forest, the elephants are calling and hunting high and low for * Arthur and Celeste * , and # their # mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.\nQuestion: Does the pronoun # their # refer to * Arthur and Celeste *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "102": {
+        "origin_prompt": "Passage: Always before, Larry had helped * Dad * with his work. But he could not help him now, for Dad said that # his # boss at the railroad company would not want anyone but him to work in the office.\nQuestion: Does the pronoun # his # refer to * Dad *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A\nEx",
+        "gold": "A"
+    },
+    "103": {
+        "origin_prompt": "Passage: * Sam and Amy * are passionately in love, but Amy's parents are unhappy about it, because # they # are fifteen.\nQuestion: Does the pronoun # they # refer to * Sam and Amy *?\nA. Yes\nB. No\nAnswer:",
+        "prediction": "A. Yes",
+        "gold": "A"
+    }
+}

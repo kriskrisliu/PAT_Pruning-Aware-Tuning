@@ -1,0 +1,832 @@
+{
+    "0": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: How many human polyomaviruses are known at present?\nA. 100\nB. 1\nC. 10\nD. unknown\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "1": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: AIDS activism in the U.S. resulted in:\nA. Food and Drug Administration reforms\nB. Easier access to investigational drugs\nC. Changes in the way medicine was practiced in the U.S.\nD. All of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "2": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Globally, the most deaths are caused by:\nA. Respiratory infections\nB. Diarrheal diseases\nC. Malaria\nD. Tuberculosis\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "3": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: What happens during the 'incubation period'?\nA. The virus is cleared from the body by the immune system\nB. Virus replication happens at an intracellular level\nC. This period commonly lasts for a few days\nD. This period commonly lasts for a few hours\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "4": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Newborn infants in countries with limited access to safe water and low levels of education should be:\nA. Exclusively formula fed for six months\nB. Exclusively breast fed for six months\nC. Should receive both breast milk and other foods as tolerated in the first 6\nD. months\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "5": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Achieving effective change in a community is usually dependent on which of the following segments of society?\nA. Innovators\nB. Early adapters\nC. Middle adapters\nD. Late adapters\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "6": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: \u201cContingency management\u201d is\u201d:\nA. A strategy of last resort for reducing high-risk behaviors\nB. Paying drug users for negative urine specimens\nC. Paying sex workers to use condoms\nD. Paying drug users to use condoms\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "7": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Typical clinical symptoms following infection with astroviruses include which of the following?\nA. Acute pneumonia\nB. Gastroenteritis in children\nC. Hepatitis\nD. rashes\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "8": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is the most special characteristic of the adaptive immune system?\nA. Antibodies\nB. T cells\nC. Memory T cells\nD. Clonal expansion of pre-existing antibodies and/or T cells\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "9": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Chemotherapy is now an option for clinical care of patients. Typical drug regimens now include which of the following?\nA. Interferon and ribavirin\nB. Lamivudine and ribavirin\nC. Combinations of adefovir and entecavir and/or tenofovir (DAA)\nD. Interferons alone\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "10": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: There were no new cases of Ebola virus in the United States from January 1, 1997 through January 1, 1998. Which of the following epidemiologic terms does this statement describe?\nA. Incidence\nB. Lifetime expectancy\nC. Lifetime prevalence\nD. Period prevalence\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "11": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: How were retroviruses discovered?\nA. In chickens as Rous sarcoma\nB. In humans as HTLV-1\nC. In mice causing leukaemia\nD. In cats causing leukaemia\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "12": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Most surveillance systems use which of the following study designs?\nA. Cohort\nB. Serial cross-sectional\nC. Mortality\nD. Syndromic\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "13": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Polio can be eradicated by which of the following?\nA. Attention to sewage control and hygiene\nB. Killed polio vaccine\nC. Live polio vaccine\nD. Combination of the killed and live vaccines.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "14": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Public health ethics is:\nA. Patient-centered\nB. Population-centered\nC. Subject-centered\nD. Must respect the rights of individuals\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "15": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: How many people globally are currently infected with hepatitis B?\nA. 350 million\nB. 2 billion\nC. 100,000\nD. 1 million\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "16": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: In a study, a group of people are exposed to an environmental toxin but are not treated observed over time on a standard set of measures to ascertain the potential effects of the toxin. This type of study design is called\nA. Clinical trial\nB. Double-blind\nC. Longitudinal\nD. Prospective cohort\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "17": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Which disease do polyomaviruses predominantly cause?\nA. Tumours\nB. Brain pathology\nC. No disease at all\nD. Kidney infections\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "18": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: How are antibody producing cells stimulated?\nA. Interacting with a virus short peptide\nB. Interacting with a T helper cell.\nC. Interacting with a plasma cell\nD. Interacting with a virus infected cell\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "19": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The single most important key to the success of the Multicenter AIDS Cohort (MACS) is:\nA. The brilliance of the principal investigator\nB. The commitment of the staff\nC. The commitment of the participants\nD. The quality of the laboratories\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "20": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Picornavirus replication as a positive strand RNA virus is particularly typified by which of the following?\nA. Virions carry RNA transcriptase enzyme into the cell\nB. The virion RNA is translated into a single large polyprotein\nC. The virion RNA acting as mRNA\nD. The virus exits by apoptosis of the cell\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "21": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Why are members of the astrovirus family only recently recognised as significant enteric viruses for humans?\nA. The genome has been identified by the new method of deep sequencing\nB. A new vector has been discovered\nC. They infect a wide range of domestic animals and so contaminate meat\nD. Knowledge of their replication as positive sense ssRNA viruses is now complete\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "22": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Which virus infection was not first identified by clinical observation?\nA. HIV\nB. Rubella teratogenicity\nC. Microcephaly and Zika\nD. Hepatitis C\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "23": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The particular quality of the U.S. health care system is its:\nA. Systematic, democratic approach\nB. Fragmented, uncoordinated approach\nC. The result of rationale decisions by informed legislators\nD. a. and c. above\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "24": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The three key intervention strategies according to Professor Shoptaw are:\nA. Behavioral intervention, treatment and structural interventions\nB. Condoms, drug therapy and regulation of commercial sex establishments\nC. Drug replacement therapy, community intervention and needle exchange\nD. HIV testing, drug therapy and condom use\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "25": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Measles has been controlled in many countries by which of the following?\nA. By hygiene\nB. By MMR vaccine\nC. By new molecular peptide vaccines\nD. By humanised monoclonal antibodies to F protein\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "26": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: How can the spread of filoviruses be restricted?\nA. New antivirals\nB. New humanised monoclonal antibodies\nC. Hygiene and social distancing\nD. New vaccines\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "27": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Most pandemics have arisen from influenza viruses from which of the following animals?\nA. Pigs\nB. Wild birds\nC. Bats\nD. Humans\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "28": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: PreP is an effective strategy for reducing the incidence of HIV in:\nA. Women\nB. Drug users\nC. Pregnant women\nD. a. and b. above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "29": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The replication of hepatitis B includes which of the following stages?\nA. Movement of intact virus to the cellular cytoplasm for replication\nB. Conversion of relaxed circular viral DNA in to covalently closed circular (CCC) DNA in the nucleus\nC. Virions produced in the cytoplasm by cellular DNA polymerase\nD. Oncogenic activity to transform liver cells.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "30": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: How does the papilloma family of viruses cause cancer?\nA. Replicate in dividing cells and encodes three oncogenic proteins E5, E6 and E7\nB. Integrates viral genome into cellular DNA\nC. Has an oncogene able to initiate cancer\nD. Acts as a co factor for a cellular oncogene\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "31": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The noroviruses typically cause which of the following?\nA. Diarrhoea\nB. Rash\nC. Projectile vomiting and diarrhoea\nD. Disease of the central nervous system\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "32": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Deep nucleotide sequencing (NGS) is now cheap enough for general application. What will the technique mainly be useful for?\nA. Speedy vaccine development\nB. Identifying genetic variation\nC. Giving details on virus excretion in symptomless carriers\nD. Quickly identifying new viruses\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "33": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Determinants of acquiring an HIV infection from an infected person per sexual act include:\nA. Viral RNA level\nB. Presence of other infections\nC. Condom use\nD. All of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "34": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: How is next generation sequencing (NGS) most often used?\nA. To identify a newly discovered virus\nB. To search for drug resistant mutants\nC. To identify quasi species viruses\nD. Cannot be used\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "35": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following HPV viruses are known to cause cervical cancer?\nA. Viruses of all 5 clades\nB. Types 14, 16, 18, 31, 45\nC. None are oncogenic per se\nD. Types 1-180\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "36": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Which member of the paramyxovirus family can cause very serious croup?\nA. Measles\nB. Meta pneumo virus\nC. Hendra\nD. Respiratory syncytial virus (RSV)\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "37": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is the cause of delay in HIV testing among the Latino population?\nA. Stigma attached to the disease\nB. Machismo\nC. Drug abuse\nD. All of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "38": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Describe the morphology of a togavirus.\nA. Enveloped spherical particles with an icosahedral structure\nB. Non-enveloped with an icosahedral structure\nC. Filamentous virus with protruding glycoproteins\nD. Small round viruses\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "39": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: A good surveillance system should provide information about:\nA. Who is being infected\nB. Where the infected individuals are\nC. How rapidly infection is spreading\nD. All of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "40": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: What has so far prevented polio being eradicated from the world?\nA. Inability to vaccinate in some countries\nB. Poor quality (unsafe) vaccines\nC. Genetic variation\nD. Expense\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "41": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The range of disease caused by the family is wide but identify the exception from the following:\nA. Aplastic crisis in anaemia patients\nB. Fifth disease at 'Slapped cheek' syndrome\nC. Foetal infection with teratogenicity\nD. Serious pneumonia\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "42": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following drugs inhibit herpes viruses?\nA. Amantadine\nB. Acyclovir\nC. Oseltamivir\nD. Azidothymidine\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "43": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The three countries with the most drug injectors are:\nA. Bolivia, Argentina, Thailand\nB. China, the U.S. and Russia\nC. Afghanistan, Iraq and Myanmar\nD. Lithuania, Estonia and Latvia\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "44": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Officials at a large community hospital report an increased incidence of acute lymphocytic leukemia (ALL) among children aged 5 \u2013 12. They point out that some households in the community are exposed to chemical waste from a nearby factory. They believe that chemical waste causes leukemia. If a study is designed to evaluate the hospital officials\u2019 claim, which of the following subjects are most likely to comprise the control group?\nA. Children exposed to the chemical waste who do not suffer from ALL\nB. Children not exposed to the chemical waste who do not suffer from ALL\nC. Children from the hospital\u2019s outpatient clinic who do not suffer from ALL\nD. Children not exposed to the chemical waste who suffer from ALL\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "45": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Lassa and Ebola are emergent viruses in W. Africa. What is their origin?\nA. Humans\nB. Primates\nC. Fruit bats\nD. Pigs\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "46": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Antivirals can be used prophylactically or therapeutically in persons in which of the following circumstances?\nA. If administered within 4 days of clinical signs\nB. If used within 48 hours of first clinical signs\nC. Used for the obese\nD. Used in children under the age of 2 years where high virus spread is noted\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "47": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Papillomaviruses cause warts and cancer but how do they most often infect humans?\nA. Are water borne\nB. Are airborne\nC. Via scratches and breaks in the skin\nD. Are nosocomial and spread in hospitals\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "48": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: There are 57 serotypes of adenovirus currently recognised. Which has the most important clinical impact?\nA. Diarrhoea\nB. Eye infections\nC. Respiratory tract infections\nD. Haemorrhagic cystitis\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "49": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: How are new polyomaviruses detailed\nA. Shot gun sequencing\nB. Cultivation in human neural cells\nC. Deep pyro sequencing (NGS)\nD. Monoclonal antibody techniques\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "50": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Describe the YF vaccine.\nA. Killed virus vaccine\nB. Live attenuated virus vaccine developed by Pasteurian passage\nC. Live attenuated vaccine produced by direct mutation of the virus genome\nD. Experimental vaccine only\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "51": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: What is the biggest risk factor for infection with Ebola?\nA. Working in a category IV laboratory\nB. Attending a funeral of a victim outside\nC. Nursing a patient at home\nD. Attending football matches or large gatherings\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "52": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The influenza virus is mainly controlled in special \"risk\" sectors by:\nA. Hygiene\nB. Vaccination\nC. Antiviral drugs\nD. Humanised monoclonal antibodies\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "53": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: A case-control study is conducted to assess the association between alcohol consumption and lung cancer patients with lung cancer and 100 controls are asked about their past alcohol consumption. According to the study results, alcohol consumption is strongly associated with lung cancer (OR = 2.5). The researchers then divide the study subjects into two groups: smokers and non-smokers. Subsequent statistical analysis does not reveal any association between alcohol consumption and lung cancer within either group. The scenario described is an example of which of the following?\nA. Observer bias\nB. Confounding\nC. Placebo effect\nD. Nonresponse bias\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "54": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: How are arenaviruses spread?\nA. Sexual contact\nB. Blood\nC. Aerosols of urine from infected small mammals\nD. Mosquito bites\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "55": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Which areas of the world are rabies free?\nA. USA\nB. Norway\nC. EU\nD. Island nations, UK, NZ and Australia\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "56": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The risk of perinatal transmission of HIV-1 infection during breast feeding is increased due to:\nA. Mixed feeding\nB. Very early introduction of solids\nC. Both a and b\nD. None of them\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "57": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: How is the parvovirus family targeted to reduce disease?\nA. Transfusion blood is screened\nB. Vaccine has been developed\nC. A range of new antivirals\nD. Social distancing\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "58": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Who discovered the first virus?\nA. The microscopist Antonie van Leeuwenhoek\nB. The bacteriologist Charles Chamberland\nC. The botanist Dmitri Iwanowsky\nD. The virologist Jonas Salk\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "59": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Structural interventions typically target:\nA. Policies\nB. The environment\nC. Availability\nD. All of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "60": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: What is the main clinical picture of hepatitis A?\nA. Rash\nB. Limb paralysis\nC. Jaundice and abdominal discomfort\nD. Upper respiratory tract infection\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "61": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: If the human norovirus cannot be cultured in cell cultures how can it best be studied?\nA. Animal models\nB. Volunteer studies\nC. In cells using replicon systems\nD. Deductions from the 3 human ORF's of the virus genome\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "62": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Any systematic error in the design, conduct, or analysis of a study that results in a mistaken estimate of an exposure\u2019s effect on the risk of disease is called:\nA. Confounding\nB. Bias\nC. Interaction\nD. Stratification\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "63": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Describe the coronavirus structure.\nA. Club shaped glycoprotein spikes protrude through a lipid bilayer\nB. An icosahedral structure with an envelope\nC. An icosahedral large pleomorphic virus\nD. Large regimented barrel shaped virus\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "64": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: SARS is described as a zoonotic virus - what does this mean?\nA. Such viruses are confined to animals\nB. They do not cause disease in humans\nC. They emerge from animals to cross the species barrier infrequently\nD. They cause pandemics\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "65": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following coronaviruses has caused thousands of deaths around the world as an 'emergent' virus?\nA. MERS\nB. SARS\nC. OC43\nD. HKU1\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "66": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Clinical infection by an arenavirus is characterised by which one of the following?\nA. Pantropic infection\nB. Signs of malaria\nC. Short (2-3 days) incubation\nD. Hepatitis\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "67": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: How does rubella cause foetal abnormalities?\nA. By crossing the placenta early in pregnancy and infecting the foetus\nB. By only infecting the placenta\nC. By inducing cytokines and chemokines in the mother\nD. By raising the temperature of the mother and inducing an abnormal immune reaction to the foetus\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "68": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is an unusual feature of the replication cycle in coronaviruses?\nA. The RNAs all terminate in a common 3\u00b4 and produce nested set transcripts\nB. They take advantage of recombination with the long RNA genome\nC. They are not highly mutable\nD. They use capped cellular mRNA's\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "69": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Which replication strategy is paralleled by some other viruses?\nA. Cytoplasmic replication and 'snatched caps' are used as primers for RNA transcription\nB. Replicates in cytoplasmic tubules\nC. Extracellular replication\nD. Replicates in the nucleus\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "70": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The characteristic of a generalized epidemic is:\nA. High rates in drug users\nB. High rates in MSM\nC. High rates in pregnant women\nD. High rate in STD clinic attendees\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "71": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: An updated version of classification shows the parvovirus family as having how many genera?\nA. Having 5 genera\nB. A very large number of virus types\nC. Only a single virus\nD. Only three viruses\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "72": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The largest Latino community in the U.S. is:\nA. Puerto Rican\nB. Mexican\nC. Cuban\nD. Brazilian\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "73": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: How can epidemics of astrovirus mainly be controlled?\nA. By vaccination\nB. Using passive antibody\nC. Basic knowledge of hand washing and food hygiene\nD. Quarantine\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "74": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: 500 women aged 40 \u2013 54 who present for routine check-ups are asked about their meat consumption the women turn out to be vegetarian. During the ensuing 5 years, 5 vegetarians and 43 non-vegetarians develop colorectal cancer. Which of the following best describes the study design?\nA. Case series report\nB. Cohort study\nC. Case-control study\nD. Cross-sectional study\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "75": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: In the absence of treatment the risk of HIV transmission from an infected mother to her fetus/infant was highest in which of the following areas?\nA. Africa\nB. North America\nC. Europe\nD. Japan\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "76": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Poliovirus can most easily become more virulent by which of the following processes?\nA. Mutation of the RNA genome at only a few positions\nB. Recombining with another enterovirus\nC. Altering its protein coat\nD. Multiple nucleotide deletions and substitutions\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "77": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: A virus such as influenza which emerges suddenly and spreads globally is called:\nA. Epidemic\nB. Endemic\nC. Pandemic\nD. Zoonotic\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "78": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Of the following factors, which are the most important factors for virus spread and infection?\nA. Age\nB. Sex\nC. Genetic factors\nD. Travel\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "79": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: How do viruses of the calcivirus family replicate?\nA. As negative strand RNA viruses\nB. As positive strand RNA viruses\nC. Retroviruses\nD. Using genetic reassortment\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "80": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The parvoviruses have a rather unique genome; what form does it take?\nA. Circular ds DNA\nB. Small linear ss DNA\nC. ds DNA genome\nD. RNA genome with RT\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "81": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: How can the morphology of filoviruses be described?\nA. Very large ball like structure\nB. Long filamentous threads\nC. Icosahedral virion\nD. Floppy membranes without defined morphology\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "82": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: What is the usual direction of 'knowledge' in a cell?\nA. From protein to DNA\nB. From DNA to DNA\nC. From DNA to RNA to protein\nD. Random\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "83": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Why are drug combinations essential for HIV?\nA. Single drugs are not completely inhibitory\nB. Mutations negate the effect of one drug\nC. Combinations of antibiotics are effective versus TB\nD. The virus cannot mutate vs a combination\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "84": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Many virus infections result in immune pathology, this is caused predominantly by which of the following?\nA. A cytokine storm\nB. Antibody mediated reactions\nC. A response of killer T cells (CD-8)\nD. A decline in function of the immune system\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "85": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: David Baltimore is a molecular biologist. What did he discover?\nA. The structure of DNA\nB. X-ray crystallographic techniques\nC. The enzyme reverse transcriptase\nD. The anti HIV drug zidovudine\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "86": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Identify the most commonly used diagnostic technique in the virus laboratory:\nA. Virus isolation in cell culture\nB. Deep sequencing (NGS)\nC. Reverse transcriptase (RT) PCR\nD. Immuno-serology\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "87": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The major risk group for HIV infection among Latinos is:\nA. Heterosexual males\nB. Homosexual males\nC. Females\nD. Injection drug users\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "88": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: In HIV-associated tuberculosis cases, treatment with antiretrovirals should begin:\nA. Before antiretroviral drugs are started\nB. After antiretroviral drugs are started\nC. Concurrently with antiretroviral drugs\nD. Doesn\u2019t make any difference\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "89": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: A \u201cbenefit\u201d of research may accrue:\nA. To the participant\nB. To his/her family\nC. To society\nD. All of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "90": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: What is the current best option for preventing future outbreaks of Ebola?\nA. Rebuild scientific, medical and nursing infrastructure and train staff\nB. Early and accurate diagnosis with molecular kits\nC. Develop effective vaccines\nD. Arrange rapid intervention into West Africa with EU and USA army teams\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "91": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Where are arenaviruses predominately located in the world?\nA. SE Asia\nB. Russia\nC. Africa and S. America\nD. N. America\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "92": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The most important element of ethical research on human subjects is:\nA. Beneficence\nB. Justice\nC. A methodologically sound study design\nD. Informed consent\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "93": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The characteristic of injecting drug users in Asia is/are:\nA. Strong family support\nB. Low failure rate for rehabilitation centers\nC. Remaining a member of the community\nD. Both a and c\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "94": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Viruses have encouraged us to change our world, as we have now:\nA. Eradicated smallpox\nB. Eradicated polio\nC. Increased hygiene\nD. A better understanding of how cellular genes aid virus replication and so become a target for new drugs\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "95": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: What is the most important factor for virus classification?\nA. The geometry of the virus\nB. How many proteins the virus has\nC. The disease a virus causes\nD. Chemistry of the DNA and RNA\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "96": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The major issue for HIV infection among the Latino population is:\nA. Late detection of HIV status\nB. Cultural beliefs\nC. Immigration\nD. All of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "97": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Disease can most often be prevented by which of the following:\nA. Vaccines\nB. Antivirals\nC. Hygiene\nD. mosquito nets\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "98": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Results of surveillance should be distributed to:\nA. Decision makers\nB. The public\nC. The data collectors\nD. All of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "99": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Which is a major characteristic of the bunyavirus family?\nA. Amplify by persistent infection of midgets, mosquitoes, sand flies, ticks\nB. Predominantly mosquito borne\nC. Genetic recombination or reassortment\nD. Spread to humans via bites of mice and rats\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "100": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The group that permits analysis of the entire natural history of HIV/AIDS is:\nA. Persistent seronegatives\nB. Long-term survivors\nC. Seroconverters\nD. Long-term survivors with low levels of CD4+ cells\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "101": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The chance of acquiring HIV infection from factor VIII in the United States in 2011 is 0% primarily because:\nA. All donors for factor VIII are screened\nB. Factor VIII is subject to detergent \u201cwashing\u201d prior to release\nC. Factor VIII is made synthetically\nD. Factor VIII is important from countries with no reported HIV\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "102": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The prevalence of HIV among Latino-Americans compared to other ethic groups in the U.S. is:\nA. Highest\nB. Higher than all other ethnic groups except African-Americans\nC. Higher than in all other ethnic groups except African-Americans and\nD. Native Americans\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "103": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: What is the rubella syndrome?\nA. A description of the 3 day rash of German measles\nB. The teratogenic lesions of cataracts, deafness, mental retardation and microcephaly in the foetus\nC. Combination of rash and post infection encephalitis\nD. Side effects of the MMR vaccine\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "104": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: What is the most common way for a virus to kill a cell?\nA. Dissolves the cellular membrane\nB. Induces apoptosis via caspases\nC. Fragments cellular DNA\nD. Totally blocks cellular transcription\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "105": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The influenza virus has complicated genetics mainly characterised by which of the following?\nA. Genetic reassortment amongst 8 genes\nB. High levels of recombination\nC. Rapid adsorption and fusion from without via a hydrophobic peptide\nD. High fidelity RNA replicase enzyme\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "106": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The highest risk of HIV infection among drug users in the U.S. is in:\nA. The east coast\nB. The central United States (Kansas, Missouri etc.)\nC. Southern California\nD. The Pacific Northwest (Washington, Oregon, Idaho)\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "107": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: A study is conducted to assess the relationship between race and end-stage renal disease pathologists independently study specimens from 1,000 kidney biopsies. The first group of pathologists is aware of the race of the patient from whom the biopsy came, while the second group is blinded as to the patient\u2019s race. The first group reports \u2018hypertensive nephropathy\u2019 much more frequently for black patients than the second group. Which of the following types of bias is most likely present in this study?\nA. Confounding\nB. Nonresponse bias\nC. Recall bias\nD. Referral bias\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "108": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: What is urban yellow fever (YF)?\nA. Part of a cycle of mosquitoes biting humans in cities\nB. Part of a cycle of mosquitoes biting humans and monkeys in forested areas\nC. A mutant of the YF virus\nD. A YF species that has adapted to new mosquitoes\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "109": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The current testing policy of the Centers for Disease Control and the World Health Organization is:\nA. \u201cOpt-in\u201d\nB. \u201cOpt-out\u201d\nC. Mandatory testing of prisoners\nD. Mandatory testing of high-risk groups\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "110": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Common cold viruses are ubiquitous and invade by which route?\nA. Faecal oral route\nB. Respiratory and surface route\nC. Cuts in the skin\nD. Sexual transmission\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "111": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Assembly is a vital late replication stage for a virus and is often accomplished by which of the following?\nA. Use of cellular scaffolding in the nucleus and cytoplasm\nB. Snatching cellular lipids and membranes\nC. Master plan embedded in the viral genome\nD. Random interactions between cellular and virus proteins\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "112": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The biggest single determinant of HIV transmission to the infant is:\nA. Mother\u2019age\nB. Mother\u2019s viral load\nC. Mother\u2019s immune status\nD. Father\u2019s viral load\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "113": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: What does the reproductive number of a virus tell us?\nA. How virulent the infection will be\nB. How many people will die\nC. How many contacts will be infected from one case\nD. How long the 'incubation period' will be\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "114": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: PreP is most effective for which group:\nA. Men with frequent unprotected sex\nB. Men with infrequent unprotected sex\nC. Women with frequent unprotected sex\nD. Women with infrequent unprotected sex\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "115": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: A special feature of adaptive immunity is:\nA. Speed of response to a foreign protein\nB. Ability to distinguish self and non self\nC. Ability to distinguish viruses and bacteria\nD. Short memory\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "116": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: As regards the range of diseases caused by viruses:\nA. Each member of the 'family' causes the same disease.\nB. Members of many families can cause the same sort of disease.\nC. Most virus disease are now controlled by vaccines.\nD. Most viruses can cross placenta and be teratogenic.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "117": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Which is the exception in the following range of disease symptoms caused by bunyaviruses?\nA. Pneumonias\nB. Haemorrhagic fever\nC. Hepatitis\nD. Impaired renal function\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "118": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: There is no vaccine against HIV because of which of the following?\nA. The virus is so antigenically variable\nB. Such a vaccine would be too expensive\nC. The virus can be controlled by a change in sexual habits\nD. Latency can abrogate any vaccine effect\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "119": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The requirements for an effective surveillance system include:\nA. A diagnostic algorithm\nB. Staff members\nC. A sampling frame\nD. All of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "120": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: MERS has four special characteristics and here we have one exception - which is it?\nA. Spread by faecal oral route\nB. Aerosol droplet transmission\nC. Reservoir in bats\nD. A conduit to humans via camels\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "121": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The major beneficiary of Medicaid in the U.S. is:\nA. Single men\nB. The elderly\nC. Women and children\nD. Undocumented residents\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "122": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is the most important for controlling disease caused by norovirus?\nA. A norovirus vaccine\nB. Attention to handwashing and hygiene\nC. Quarantine\nD. New antiviral drugs\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "123": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Why do vigorous CD8 cell responses in chronically infected HIV-positive individuals fail to eliminate the virus?\nA. CTL exhaustion\nB. Epitope escape\nC. Suboptimal CTL\nD. Absence of dendritic cells\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "124": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The most widespread and important retrovirus is HIV-1; which of the following is true?\nA. Infecting only gay people\nB. Infecting only males\nC. Infecting every country in the world\nD. Infecting only females\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "125": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The first acquired immune cell to respond defensively to HIV infection is:\nA. CD4+\nB. CD8+\nC. CD57\nD. NK cells\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "126": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is a special feature of the rabies vaccine?\nA. The vaccine has not changed since the time of L. Pasteur\nB. The original air dried spinal cord of infected rabbits was a killed vaccine\nC. The vaccine still needs 16 doses given into the peritoneal cavity\nD. The modern rabies vaccine is grown in human diploid cells from an aborted embryo\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "127": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Most viral vaccines are produced by which of the following techniques?\nA. Traditional cell culture\nB. Molecular biology\nC. Animal tissues in vitro\nD. VLPs (virus like particles)\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "128": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The treatment of hepatitis C has been revolutionised most recently by which of the following?\nA. The use of interferon\nB. A new vaccine\nC. Monoclonal antibodies\nD. Direct-acting Antivirals such as daclatasvir and sofosbuvir\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "129": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Chikungunya has spread widely from Asia and Africa into the Caribbean in recent years. This has been mainly facilitated by:\nA. Mutation in the virus allowing replication in the mosquito Aedes albopictus\nB. Air Travel\nC. Climate change\nD. Poor mosquito control and the absence of DTT\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "130": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The successful anti-cancer HPV vaccine consists of:\nA. Live virus attenuated by specific mutagenesis\nB. Whole virus chemically inactivated vaccine\nC. Self-assemble of virus L1 protein into VLP\nD. Sub unit chemically inactivated vaccine\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "131": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The rotavirus is an important cause of which of the following?\nA. Respiratory infection in adults\nB. Gastroenteritis in children\nC. Diarrhoea and vomiting in adults\nD. Cancer\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "132": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The surveillance testing strategy associated with the least selection bias is:\nA. Compulsory\nB. Unlinked anonymous\nC. Voluntary anonymous\nD. Voluntary confidential\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "133": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: In a medical class of 147 students, the distribution of scores on a biochemistry final examination has a mean equal to 67, a median equal to 76, a mode equal to 80, a standard deviation equal to 5.5, and a variance equal to 30.25. Three students were unable to take the test on the scheduled date and were given a different form of the exam 1 week later. Which parameter is most likely to be the least biased estimator of central tendency for this distribution of biochemistry test scores?\nA. Mean\nB. Median\nC. Mode\nD. Standard deviation\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "134": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: What disease do herpes viruses not cause?\nA. Infantile paralysis\nB. Encephalitis\nC. Sexually transmitted disease\nD. Cancer\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "135": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The purpose of a double-blind or double-masked study is to:\nA. Achieve comparability of treated and untreated subjects\nB. Reduce the effects of sampling variation\nC. Avoid observer and subject bias\nD. Avoid observer bias and sampling variation\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "136": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Nipah is a zoonotic paramyxovirus; where did it originate?\nA. Originating in pigs\nB. Originating in bats\nC. Coming from humans\nD. Coming from horses\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "137": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: What is the genome structure of the polyomavirus family?\nA. Circular ds DNA with T antigen coding regions\nB. Circular ssDNA\nC. RNA genome with RT\nD. Segmented RNA genome\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "138": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Interferons are very special defence mechanisms which operate by:\nA. Binding to viruses\nB. Binding to neighbouring cells\nC. Producing a long lasting state of resistance\nD. Inhibiting virus induced enzymes\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "139": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Genetic characteristics of the bunyavirus family include which one of the following?\nA. Three segmented negative stranded RNA viruses with anti-sense expression\nB. Highly mutable RNA viruses\nC. Emerging viruses via arthropod vector\nD. Use an RT enzyme\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "140": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The basic code of ethical research (respect for persons, beneficence, and justice) was first established by the:\nA. Nuremberg Code\nB. Declaration of Helsinki\nC. CIOMS\nD. Belmont Report\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "141": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The paramyxovirus family employ what strategy at virus entry?\nA. Initiate a fusion 'from without' using virus F protein\nB. Has fusion from within a cytoplasmic vacuole at low pH\nC. Viruses can puncture plasma membranes at entry\nD. A fusion mediated by M protein\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "142": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The risk of acquiring HIV from a unit of blood in the United States is now:\nA. 1/10,000 units\nB. 1/200,000 units\nC. 1/500,000 unit\nD. 1 per 2 million units\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "143": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: What is the essential pathology of astroviruses?\nA. Very restricted replication in the gut\nB. Can cause infection of the central nervous system\nC. Sequence diversity allows widespread replication\nD. Can cause infection in the upper respiratory tract\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "144": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following are goals of vaccination?\nA. Prevent infection\nB. Prevent disease\nC. Prevent transmission\nD. All of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "145": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Randomization of study subjects in a clinical trial is most helpful for controlling for which of the following?\nA. Placebo effect\nB. Recall bias\nC. Non-compliance\nD. Effect modification (interaction)\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "146": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: A quasi species virus such as influenza and HIV has which of the following characteristics?\nA. A fragmented or segmented genome\nB. Co-existence of innumerable genetic variants\nC. Possesses RNA and DNA\nD. A very large genome\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "147": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Positive stranded RNA viruses have which of the following characteristics?\nA. Their genome RNA can be translated directly as mRNA\nB. They have to transcribe their genome RNA to a mirror image copy as a mRNA\nC. This genome is circular\nD. Their RNA genome is segmented\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "148": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: What is the genetic structure of rotavirus?\nA. Circular DNA containing virus\nB. RNA virus with RT\nC. ds RNA virus\nD. ds RNA virus in segments\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "149": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Are/were viruses:\nA. The most abundant form of life on earth?\nB. Discovered before bacteria?\nC. Grown in animals in the laboratory?\nD. The cause of all human disease?\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "150": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: It is unlikely that a 'cure' of HIV is possible with current drugs because:\nA. Even in combination current drugs do not completely block viral replication\nB. They do not penetrate to cells\nC. They cannot block viral transcription from integrated viral DNA\nD. They cannot penetrate to the CNS\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "151": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Which viruses appear to be hypermutable?\nA. DNA viruses\nB. 'Emerging' viruses\nC. Influenza and HIV\nD. RNA viruses\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "152": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: How are herpes infections controlled?\nA. Chemotherapy\nB. Vaccines\nC. Hygiene and social distancing\nD. No method\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "153": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: A new drug with in vitro activity against HIV is tested on a population of patients with Western-blot confirmed HIV infections. Out of the 200 individuals in the patient population, 100 are chosen by lottery to receive the drug. The drug, which is tasteless, is administered in a cup of orange juice; the other patients receive pure orange juice. Neither the nurses, doctors, nor the patients know which patients receive the drug. At the end of the study period, the number of CD4+ T cells is determined for all of the subjects. This is an example of a\nA. Case-control study\nB. Case report\nC. Cohort study\nD. Cross-sectional study\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "154": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: What is the most successful and most widely used 'travel' vaccine for international visitors?\nA. Influenza\nB. MMR\nC. Yellow Fever\nD. Rabies\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "155": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: What is a virus pandemic?\nA. A sharp and rapid epidemic involving more than one country\nB. An outbreak which recurs again and again\nC. A rapid global outbreak starting from a single focus\nD. A characteristic of common cold virus and HIV\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "156": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Benefits of opioid replacement therapy as an approach for HIV prevention include:\nA. Reducing craving for and use of illicit opioids\nB. More sharing of injecting paraphernalia\nC. Reducing frequency of injection drug use\nD. Both a and c\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "157": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Papilloma viruses are characterised by what genetic feature?\nA. A genome of ds circular DNA encoding around 8 ORF\nB. A virus with RT able to integrate and cause cancer\nC. A variable ds RNA virus\nD. A large DNA containing virus\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "158": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: As part of the Women\u2019s Health Study, researchers investigated the role of systemic inflammation in predicting cardiovascular disease in women (N Engl J Med. 2002;347[20]:1557-1565). Researchers used a prospective study design with a large sample size. Blood levels of C-reactive protein (CRP) were measured at baseline and women were followed for an average of 8 years. The following table shows the relative risk estimates of cardiovascular event (heart attack or stroke) within 5 years by quintile of CRP level for the 30,000 women. The first quintile is used as the reference category.  1 0.49 mg/dL Relative Risk Number of women  1.0 6000  2 >0.49-1.08 mg/dL 1.8 6000  Quintile of CRP Level 3 >1.08-2.09 mg/dL 2.3 6000  4 >2.09-4.19 mg/dL 3.2 6000  5 >4.19 mg/dL 4.5 6000  Based on the relative risk data above, one can conclude:\nA. There is no risk of heart attack/stroke for women with CRP levels in the first quintile.\nB. Decreasing CRP level appears to increase the risk of heart attack/stroke.\nC. Increasing CRP level appears to increase the risk of heart attack/stroke.\nD. There appears to be no association between CRP levels and heart attack/stroke.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "159": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: What is the morphology of the Dane particle?\nA. Double shelled icosahedron\nB. Lipid membrane free icosahedron\nC. Flexuous and filamentous morphology\nD. Numerous small particles\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "160": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: The adenovirus virion has which unique structural feature?\nA. Icosahedron\nB. Icosahedron with slender fibres\nC. 'Complex' structure not yet fully explored\nD. Flexuous lipid containing structure\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "161": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: A city has a population of 250,000 cases and 400 deaths each year from this disease. There are 2,500 deaths per year from all causes. The prevalence of this disease is given by\nA. 400/250,000\nB. 600/250,000\nC. 1,000/250,000\nD. 2,500/250,000\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "162": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Which unique form does the rabies virus take?\nA. The virion has a dumbbell appearance\nB. It is shaped like a bullet from a gun\nC. The virus is star shaped\nD. The virion is very pleomorphic\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "163": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following diseases is not caused by togaviruses?\nA. Chikungunya\nB. Rubella (German measles)\nC. Western Equine encephalitis\nD. Yellow Fever\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "164": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Why are the viruses of this family called astroviruses?\nA. Because of the nucleotide sequence of their genomes\nB. The superficial appearance of a 'star' on negative straining electron microscopy\nC. Because of isolation in very large numbers of mammals including dromedaries, cats and cattle\nD. Because they are more common in developing countries with poor hygiene\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "165": {
+        "origin_prompt": "There is a single choice question about virology. Answer the question by replying A, B, C or D.\nQuestion: Why do emerging viruses like Zika and Ebola continue to plague us?\nA. These viruses mutate and hence emerge\nB. We disturb forests where they quietly exist as a zoonosis\nC. Mosquitoes are the main culprit to encourage virus spread\nD. The viruses can be halted by new vaccines\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    }
+}

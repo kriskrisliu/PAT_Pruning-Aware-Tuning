@@ -1,0 +1,657 @@
+{
+    "0": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which of the following methods of detecting breast cancer involves exposure to radiation?\nA. Needle aspiration\nB. Mammography\nC. Mastectomy\nD. Lumpectomy\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "1": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: The regions of the body that, when touched, are sexually exciting:\nA. vary from person to person\nB. vary for women depending on the phases of the menstrual cycle\nC. are mainly on the lower portion of the body\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "2": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is/are true of gonorrhea?\nA. can be treated with antibiotics\nB. has a high risk of infection with a single exposure\nC. is asymptomatic (without symptoms) in only a small percentage of those infected\nD. infections are limited to genital areas\nAnswer: ",
+        "prediction": "\nA,",
+        "gold": "A"
+    },
+    "3": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: You are a homosexual male: Last night, you were tempted by lusty, swarthy Jacques (the king of fraternity row) to join him at the local dairy bar for a tall cool glass of milk. You also briefly considered studying for this test, but Jacques won out. In Freudian terms, which of the following was dominant?\nA. the id\nB. the ego\nC. the superego\nD. the Oedipus complex\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "4": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Sociobiologists believe that there are more males than females with paraphilias because:\nA. paraphilias guarantee survival of the species\nB. evolutionary selection has favored the development of males who respond to novel sexual stimuli\nC. of left brain/right brain differences between the genders\nD. male brains are better developed than are female brains\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "5": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: According to a study by Sprecher, Barbee, and Schwartz (1995), women were more likely than men to have ________ following their first act of intercourse.\nA. felt glad\nB. felt fear\nC. experienced guilt\nD. experienced regret\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "6": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: What is cocaine abuse during pregnancy related to?\nA. an increased risk of low birth weight babies\nB. poorer growth and lower intelligence\nC. smaller head circumference\nD. all of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "7": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Joe wants desperately to get close to Helen. Helen appears to be put off by Joe's desperate advances. This is typical of Joe's relationships with women. According to attachment theory Joe would best be described as:\nA. a secure lover\nB. an avoidant lover\nC. an anxious-ambivalent lover\nD. a passionate lover\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "8": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Bruce is a homosexual man. His friend Chuck is a heterosexual man. If we could have observed Bruce and Chuck as children we might have expected which of the following?\nA. Bruce likely participated in more female-typical play than Chuck.\nB. Bruce likely participated in more male-typical play than Chuck.\nC. Bruce and Chuck likely participated in more male-typical play than female-typical play.\nD. Bruce's father was more likely to have homosexual tendencies than Chuck's father.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "9": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Judaism regards sexuality as\nA. inherently evil\nB. God's afterthought and has become an aberration\nC. a gift from God\nD. primarily a biological function\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "10": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Freud said that the penis first becomes the major focus of pleasure-seeking at:\nA. birth\nB. about age 1\nC. between the ages of 3 and 6\nD. puberty\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "11": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: What makes a relationships last, according to Sternberg?\nA. intimacy\nB. commitment\nC. decision\nD. passion\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "12": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: The position that abortion is murder is held by certain people in which religion?\nA. Orthodox Jews\nB. Fundamentalist Protestants\nC. Eastern Orthodox Christians\nD. all of the above\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "13": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Orders of monks and nuns found both in Eastern religions and in Christianity who affirm celibacy, virginity, and poverty follow the ethical system of:\nA. legalism\nB. asceticism\nC. situationism\nD. hedonism\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "14": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Ovaries and testes\nA. are homologous\nB. produce gametes\nC. produce sex hormones\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "15": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Simon LeVay studied the brains of heterosexuals and homosexuals. He found differences in:\nA. the cortical activity of these two groups\nB. the overall brain weights of these two groups\nC. the cell structure in the hypothalamus of these two groups\nD. blood volume and metabolism of sugars in the brains of these two groups\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "16": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which of the following theories uses terms such as \"modelling\" and \"imitation\" to explain the effects of exposure to erotica on a person's behaviour?\nA. sociobiology\nB. psychoanalytic theory\nC. script theory\nD. social learning theory\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "17": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: ________ men, on the average, begin engaging in sexual intercourse approximately two years later than ________ men do.\nA. Mexican Americans and whites; African Americans\nB. Mexican Americans; African Americans and whites\nC. African Americans; whites and Latinos\nD. Whites; African Americans and Latinos\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "18": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: In the scientific community, women's capacity for multiple orgasms was originally discovered by:\nA. Kinsey\nB. Freud\nC. Masters and Johnson\nD. Kaplan\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "19": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which of the following characteristics are generally consistent with date rape?\nA. use of excessive force\nB. premeditated\nC. sexually motivated\nD. involves use of a weapon\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "20": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: According to John Money, __________ refers to a person's private internal sense of maleness or femaleness.\nA. Gender identity\nB. Sexual nomenclature\nC. Gender schema\nD. Intrapsychic sexual orientation\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "21": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: The average male genital size is approximately\nA. 4 inches\nB. 5 inches\nC. 7 inches\nD. 1 foot\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "22": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: People who cannot reach orgasm without touching a woman's shoe would certainly be considered sexually abnormal or deviant by which of the following definitions?\nA. psychological\nB. sociological\nC. statistical\nD. b and c\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "23": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: If a woman or man repeatedly experiences pain during intercourse, she will probably want to have intercourse infrequently or not all. In this situation, __________ would likely classify the pain as a punishment.\nA. Sigmund Freud\nB. John Money\nC. B. F. Skinner\nD. Havelock Ellis\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "24": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: What seems to be the case when the folk saying \"opposites attract\" (i.e., dissimilar attitudes tend to cause liking) when it is considered in light of current research?\nA. It does not seem to be true.\nB. It seems to be true for heterosexuals but not for homosexuals.\nC. It seems to be true for homosexuals but not for heterosexuals.\nD. It seems to be true for women but not for men\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "25": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: The egg can be fertilized until about _______ after ovulation.\nA. 6 hours\nB. 24 hours\nC. 72 hours\nD. 1 week\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "26": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: After releasing an egg, the follicle, under stimulation of luteinizing hormone, turns into a a glandular mass of cells called the __________\nA. corpus cavernosum\nB. corpus luteum\nC. corpus callosum\nD. corpus glandula\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "27": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: How is endometriosis generally treated?\nA. antiprosaglandin drugs\nB. prostaglandin drugs\nC. hormones\nD. aspirin\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "28": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Before the Masters and Johnson research, it was thought that vaginal lubrication was due to secretions of\nA. Cowper's gland\nB. Prostate gland\nC. Bartholin glands\nD. Adrenal gland\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "29": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Buffy and Willow were discussing their sexual fantasies. Buffy revealed that she sometimes fantasizes about sex with other women even though she normally finds herself attracted to men. She also fantasizes about group sex. Which of the following statements can be inferred from Buffy's fantasies?\nA. Buffy's fantasies suggest that she must be a latent homosexual or bisexual.\nB. Buffy's fantasies are indicative of a paraphilia.\nC. Buffy's fantasies indicate that she is not getting enough sex to keep her satisfied.\nD. Buffy's fantasies are fairly typical and tell us little about her sexual tendencies.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "30": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: The environment for sperm passage is most hospitable just at\nA. preovulation\nB. proliferation\nC. ovulation\nD. menstruation\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "31": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Secretions of Cowper's gland fluid at the tip of the penis are first evident:\nA. following orgasm\nB. immediately before orgasm\nC. prior to vasocongestion\nD. during the plateau phase\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "32": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which of the following restrictions existed in at least one culture? No sex\nA. for a period of time following childbirth\nB. during menstruation\nC. between parents and children\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "33": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which of the following teenagers have the highest pregnancy rates?\nA. U.S.\nB. Canadian\nC. Swedish\nD. French\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "34": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: The onset (the very beginning) of labor is first triggered by\nA. hormones secreted by the Mother's ovaries\nB. hormones secreted by the Mother's hypothalamus\nC. hormones secreted by the fetus' adrenal gland\nD. the placenta and uterus secretion of prostaglandins\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "35": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: One of the first models of the physiology of the human sexual response was provided by\nA. Henry Havelock Ellis\nB. Sigmund Freud\nC. Linda George and Stephen Weiler\nD. William Masters and Virginia Johnson\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "36": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: An adult feels himself becoming aroused when looking at a child and realizes that the response is totally inappropriate, as a result he feels anxiety rather than arousal. This is an example of __________ according to Walen and Roth's cognitive model of the sexual response.\nA. negative perception\nB. negative evaluation\nC. negative arousal\nD. cognitive dissonance\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "37": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: We are attracted to a person who is similar to us in attitudes because:\nA. we get positive reinforcement from that person agreeing with us\nB. the other person's agreement bolsters our sense of rightness\nC. we anticipate positive interactions with that person\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "38": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: According to the Ethnocultural Communities Facing AIDS study, single _________ men are more likely than single _________ to report having had more than one sexual partner in the previous year.\nA. Chinese; North African Muslim\nB. South Asian; English-speaking Caribbean\nC. South Asian; Chinese\nD. North African Muslim; Latin American\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "39": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Penile or clitoral erection occurs because of activation of the _________ system.\nA. pathetic\nB. apathetic\nC. sympathetic\nD. parasympathetic\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "40": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is homologous to the glans of the penis?\nA. labia minora\nB. labia majora\nC. mons\nD. clitoris\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "41": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: What day of a typical 28-day menstrual cycle is a woman likely to ovulate?\nA. 4\nB. 10\nC. 14\nD. 22\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "42": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: The two principles that deal with questions of values are:\nA. religion and ethics\nB. faith and science\nC. legal and ethics\nD. legal and religion\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "43": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Studies conducted by Bailey and Pillard (1991) have shown that:\nA. the homosexuality concordance rate for identical twins is 100%\nB. the homosexuality concordance rate for identical twins and fraternal twins is approximately the same\nC. the homosexuality concordance rate for identical twins is higher than for fraternal twins\nD. the homosexuality concordance rate for adoptive brothers differs little from that of biological brothers\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "44": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: The capacity of a spinal-cord injured man to have erections depends on:\nA. the level of the spinal cord at which the injury occurred\nB. whether the spinal cord was partially or completely severed\nC. the man's age\nD. both a and b\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "45": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Research on the effects of sexually explicit material using material that the viewer finds acceptable has shown that:\nA. erotica has no effect on sexual behavior\nB. erotica may lead to increases in sexual arousal for men and women\nC. nonaggressive erotica leads to massive increases in aggressive behavior\nD. erotica decreases sexual arousal and sexual interest\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "46": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Fetishism typically develops at the age of:\nA. 30 through 50\nB. at birth\nC. 10 through 20\nD. 20 through 30\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "47": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Hillary just found out that she is pregnant but she suspects that her husband has been fooling around. It is important that she be tested for chlamydia because chlamydia can cause which of the following complications?\nA. tubal pregnancies\nB. premature delivery\nC. spontaneous abortion\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "48": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Roman Catholicism takes the position that it is sinful to\nA. engage in homosexual acts\nB. engage in heterosexual acts outside of marriage\nC. take the birth control pill\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "49": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is the most common method of birth control for married couples in the U.S..\nA. Sterilization\nB. The IUD\nC. The diaphragm\nD. The rhythm method\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "50": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: The theory of _______ is used by sociobiologists specifically to explain the evolution of gender differences.\nA. natural selection\nB. the new synthesis\nC. sexual selection\nD. the gender schema\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "51": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Experimental work on the introduction of the birth control pill was done with\nA. middle- and upper-class American women\nB. white American women\nC. poor Puerto Rican women\nD. Asian American women\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "52": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which of the following have menstrual cycles?\nA. some monkey species\nB. some ape species\nC. some breeds of dogs\nD. a and b only\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "53": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: What sexual act is prohibited in most societies?\nA. masturbation\nB. incest\nC. sex during menstruation\nD. sex with a non-spouse if the person is married.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "54": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is removed when a male is circumcised?\nA. sunna\nB. corpus spongiosum\nC. septum\nD. prepuce\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "55": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Staphylococcus aureus is...\nA. ...a hormone released during menstruation\nB. ...the term for the follicle after it has ruptured\nC. ...a bacterium associated with Toxic Shock Syndrome\nD. ...the term for the mass of cells in the corpus luteum\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "56": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Jeffrey Dahmer's behaviour might best fit into the category of:\nA. zoophilia\nB. necrophilia\nC. urophilia\nD. scoptophilia\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "57": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: An anatomical difference between males and females is:\nA. males have one exit structure for urine and reproductive fluids, whereas females have two\nB. males have an external sexual organ that gets engorged with blood, whereas females do not\nC. males have many times the number of nerve endings in the penis that females have in the clitoris.\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "58": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Kenny fell off a ladder while trying to change a lightbulb. He suffered an injury his upper back transecting his spinal cord and leaving him quadraplegic. Which of the following are probably impaired in Kenny?\nA. ejaculation\nB. erection\nC. genital sensation\nD. both A and C\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "59": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: The feedback loop in men which regulates the production of sex hormones includes all but which of the following?\nA. oxytocin\nB. gonadotropin-releasing hormone\nC. follicle-stimulating hormone\nD. pituitary gland\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "60": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: The Old Testament presents the view that sexuality is\nA. fundamentally positive\nB. to be considered in light of its social consequences\nC. comparable to other biological functions\nD. a and b\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "61": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Castration in adulthood\nA. will produce a high voice because of decreased testosterone production.\nB. will produce a high voice because of the pain that accompanies the procedure.\nC. will not produce a high voice because the larynx has already grown.\nD. will not produce a high voice because castration does not affect testosterone production.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "62": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Xena has been able to conceive but has repeatedly miscarried early in her pregnancies. Which of the following would be her best option for having a child?\nA. artificial insemination\nB. in vitro fertilization\nC. zygote intra-fallopian transfer\nD. embryo transfer\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "63": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is TRUE of the duration of the refractory period experienced by men?\nA. it is consistent across men and lasts 20 minutes\nB. it varies across men lasting from a few minutes to 24 hours\nC. it tends to be shorter with alcohol consumption\nD. it tends to be longer in younger men\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "64": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: At about _________ months after conception, the gender of the fetus is clear from the appearance of external genitals.\nA. 2\nB. 4\nC. 6\nD. 8\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "65": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: __________ is a shedding of the inner lining of the uterus.\nA. Menstruation\nB. Ovulation\nC. The luteal phase\nD. The follicular phase\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "66": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: When a woman thinks that she probably is a lesbian, she is at the:\nA. pride stage\nB. tolerance stage\nC. acceptance stage\nD. confusion stage\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "67": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which of the following STDs can be passed from mother to child through the placenta?\nA. gonorrhea\nB. syphilis\nC. genital herpes\nD. chlamydia\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "68": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Persons with liberal attitudes about premarital sex are likely to:\nA. have liberal attitudes about extramarital sex\nB. engage in accidental extramarital sexual activity\nC. engage in open swinging\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "69": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Menstrual cramps may be caused, in part, by:\nA. low levels of prostaglandin\nB. an increased oxygen supply to the uterus\nC. highly sensitive nerve endings\nD. frequent masturbation\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "70": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Avalon had a wild time during spring break. Unfortunately the guy she hooked up with in Palm Beach had genital herpes. Which of the following is true about genital herpes?\nA. Avalon could not contract genital herpes from performing fellatio (oral-genital sex) on the guy.\nB. If Avalon contracted genital herpes she can be cured with antibiotics if administered immediately after the first occurrence.\nC. If Avalon contracted genital herpes she will only be contagious when she has a break out.\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "71": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Stan is out having a few beers with some friends. Which of the following will be DECREASED if Stan only consumes 1 beer?\nA. arousal\nB. erection\nC. inhibition\nD. orgasm\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "72": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Vasocongestion is a process of :\nA. muscle contraction\nB. blood accumulation in the genitals\nC. muscle relaxation\nD. detumescence\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "73": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is/are secondary sex characteristics in males AND females?\nA. underarm hair\nB. sweat and oil glands\nC. deepening of the voice\nD. both A and B\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "74": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: It's 3:00 A.M. You are male. You awaken to urinate. Standing at the commode you are in extreme agony. Your penis feels as if it is on fire. You notice a yellowish discharge coming out of your penis after you finish urinating. Your moans have awakened your significant other. She comes running into the bathroom and asks you what is wrong. You tell her you probably have:\nA. genital herpes\nB. AIDS\nC. syphilis\nD. gonorrhea\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "75": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which of these statements is accurate concerning the norms of swinging?\nA. Male and female homosexual acts are common and widely accepted.\nB. It is expected that couples will engage in sex with the same partners on several occasions.\nC. The combination of two men with one woman is the typical introduction to swinging.\nD.  Most swingers also tend to have tolerant attitudes towards various forms of \"exotic\" sexuality.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "76": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Romulo is on a crowded bus and he sees a woman near the door. Feeling a little saucy Romulo proceeds to rub up against the woman and is immediately aroused. Romulo's inappropriate behavior would be characterized as:\nA. Frotteurism\nB. Exhibitionism\nC. Voyeurism\nD. Sadomasochism\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "77": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Mini-pills contain:\nA. estrogen only\nB. progestin only\nC. synthetic androgens and estrogen\nD. synthetic estrogen\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "78": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Heterosexual fantasies about sexual activity never involve someone _________, and gay and lesbian fantasies never involve persons of __________\nA. Both heterosexual and homosexual fantasies may involve persons of the same or other gender\nB. of the other gender; of the same gender\nC. of the same gender; of the same gender\nD. of the same gender; of the other gender\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "79": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is typically associated with having a vasectomy?\nA. decreased testosterone production\nB. reduced rigidity of erections\nC. decreased sperm production\nD. normal orgasm\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "80": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which of the following are reflexes?\nA. ejaculation\nB. erection\nC. orgasm\nD. both A and B\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "81": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which of the following sexual variations is probably the most dangerous?\nA. troilism\nB. asphyxiophilia\nC. zoophilia\nD. necrophilia\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "82": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: The follicular phase is to the __________ as the luteal phase is to the secretory phase.\nA. postovulatory\nB. menstrual\nC. proliferative\nD. myometrial\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "83": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: For purposes of conception, the best position for intercourse is:\nA. woman-on-top\nB. man-on-top\nC. rear entry\nD. side-to-side\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "84": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Danny and Sandy are coworkers. Sandy sees Danny in the break room and says \"Hey Stud! Nice buns! Wanna do it?\" This would be considered harrassment if:\nA. Sandy is Danny's supervisor\nB. Danny has previously told Sandy that he does not appreciate her advances\nC. Danny responds with \"Sure baby your office or mine?\"\nD. both A and B\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "85": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Erection in the male and vaginal lubrication in the female mark the __________ stage of sexual response.\nA. excitement\nB. resolution\nC. plateau\nD. orgasm\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "86": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: The placenta does all of the following except:\nA. supplies oxygen to the fetus\nB. supplies nutrients to the fetus\nC. supplies blood to the fetus\nD. secretes hormones\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "87": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is the MOST COMMON menstrual problem?\nA. painful menstruation\nB. absence of menstruation\nC. menstruation without ovulation\nD. ovulation without menstruation\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "88": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: In all of her relationships Helen is typically uncomfortable feeling close to another person or having that person feel close to her. According to attachment theory Helen would best be described as:\nA. a secure lover\nB. an avoidant lover\nC. an anxious-ambivalent lover\nD. a passionate lover\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "89": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Approximately how many sperm are in the typical ejaculate?\nA. 300,000\nB. 300 million\nC. 3 million\nD. 30 million\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "90": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Bill is a successful ad executive for a computer company. He is 32 married and the father of two children. When Bill's wife is not home he puts on her satin stockings garter belt bra skirt blouse and red stilettos. While dressing he becomes sexually excited and proceeds to masturbate. Which of the following descriptions best fits Bill?\nA. female impersonator\nB. drag queen\nC. transsexual\nD. transvestite\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "91": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Sociobiologists assume that the central function of sex is:\nA. pleasure\nB. reproduction\nC. to maintain the double standard\nD. to relieve tension\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "92": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which of the following approaches to psychotherapy focuses only the problem behaviour and how to modify it?\nA. Behaviour modification\nB. psychoanalytic\nC. sociological\nD. evolutionary\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "93": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: JD Unwin's book _Sex and Culture_ argues what two things are linked?\nA. homosexuality in sons with distant fathers\nB. sexual abuse and Christianity\nC. civilizational collapse and promiscuity\nD. anthropology and evolution\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "94": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: The official condemnation by the Catholic Church of artificial birth control is set forth in _______ encyclical called Humanae Vitae.\nA. Pope John II's\nB. Pope Paul VI's\nC. Pope John Paul I's\nD. Pope John Paul II's\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "95": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: According to Byrne's law of attraction and his formula, we are attracted to people who:\nA. provide a lot of reinforcement and a small amount of punishment\nB. provide more punishment than reinforcement\nC. provide an equal balance of punishment and reinforcement\nD. are extremely attractive and provide a lot of reinforcement\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "96": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Benny is the head of a successful corporation. After a hard day at work during which he is under incredible pressure to perform well, he goes home to his wife who proceeds to spank him, tie him to their four poster bed, and tease him until he begs for intercourse. According to psychological theory, what is the most likely reason Benny finds this alluring?\nA. As a child be became sexually aroused pretending to be a powerful executive, so he now becomes aroused at work and must discharge this when he gets home.\nB. He is overcome with feelings of self doubt and his sadomasochistic behaviour allows him a safe outlet for that self doubt.\nC. He is overwhelmed with pressures and responsibilities at work, and the masochistic behaviour allows him to escape from being an autonomous, separate individual.\nD. He is secretly fascinated by violence and engaging in sadomasochistic behaviour is a relatively safe outlet for it.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "97": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Darla and Janice are two moms raising a son Timmy. Which of the following most likely characterizes Timmy?\nA. He will probably grow up to be gay.\nB. He will not be popular with his peers.\nC. As long as Timmy has at least one supportive and accepting caregiver he will have a healthy development.\nD. His social skills will lag behind his peers who are raised in heterosexual families.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "98": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: What are the experiences when a sexual addict has completed the sexual act?\nA. (s)he experiences feelings of hopelessness and despair\nB. (s)he uses the fantasy of the behaviour just completed to become aroused again\nC. (s)he feels relaxed and emotionally relieved\nD. (s)he immediately becomes sexually aroused again and feels good about the behaviour\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "99": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is/are likely to cause coital pain for BOTH men and women?\nA. infections\nB. foreskin too tight\nC. vaginismus\nD. both A and C\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "100": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: The endometrium grows and thickens during:\nA. menstruation\nB. the follicular phase\nC. the luteal phase\nD. ovulation\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "101": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which of the following events INITIATES puberty?\nA. pituitary gland releases FSH\nB. pituitary gland releases growth hormone\nC. hypothalamus releases GNRS\nD. hypothalamus releases LH\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "102": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Alexander the Great was probably\nA. bisexual\nB. asexual\nC. heterosexual\nD. pedosexual\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "103": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Shaggy has a fantasy about digging up a recently buried woman and having sex with her. He told his friends this and they encouraged him to get therapy. As part of the treatment he masturbates to his fantasy and at the last moment before orgasm he switches to a fantasy about having sex with a living woman. This procedure is part of the process of:\nA. orgasmic reconditioning\nB. aversive conditioning\nC. covert sensitization\nD. desensitization therapy\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "104": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: How do girls most frequently learn about masturbation?\nA. through reading about it\nB. being told by peers\nC. self-discovery\nD. observing others doing it.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "105": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: How many centimetres must the cervix dilute to before a baby can be born?\nA. 5\nB. 10\nC. 15\nD. 20\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "106": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: From 1988 to 1990 among heterosexuals in the US, the number of unmarried adults aged 20 to 45 who report having multiple partners has:\nA. declined for both men and women\nB. declined for men, but not for women\nC. declined for women, but not for men\nD. declined for men, and remained the same for women\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "107": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which is true with regard to voyeurs?\nA. They are generally middle-aged.\nB. They are usually dangerous.\nC. They typically want to view friends' sexual behaviours.\nD. They typically want to observe strangers' activities.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "108": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: What are the three dimensions of intimacy in romantic relationships that outline closeness and sharing?\nA. affective, trusting, and friendship\nB. becoming emotional, caring, and physical\nC. affective, cognitive, and physical\nD. mutual self-disclosure, sexuality, and trusting\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "109": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Mike and Carol have been married for 5 years. Recently Mike has found that although he wants to have sex with Carol he has trouble getting aroused. However he does not have trouble getting aroused when he sees his secretary at work. Which of the following describe(s) Mike's dysfunction?\nA. Mike suffers from a global dysfunction.\nB. Mike suffers from erectile dysfunction.\nC. Mike suffers from lubrication inhibition.\nD. Mike must be having an affair with his secretary.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "110": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: __________ occurs when the fertilized egg implants somewhere other than the uterus.\nA. Pseudocystitis\nB. Ectopic pregnancy\nC. Pre-eclamptic pregnancy\nD. Eclamptic pregnancy\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "111": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: A pimp can be best described as \nA. ...a male companion-master of a prostitute\nB. ...a gigolo who works with a street walker\nC. ...an experienced male prostitute\nD. ...an escort to a female prostitute\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "112": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Menstruation is triggered by...\nA. ...a sharp increase in estrogen levels\nB. ...a sharp increase in progesterone levels\nC. ...a sharp decrease in estrogen and progesterone levels\nD. ...a sharp increase in estrogen and progesterone levels\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "113": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which of the following concerning self-disclosure in relationships is supported by research?\nA. when one partner in a relationship self-discloses, the other is unlikely to do so\nB. self-disclosure on the part of one partner often leads to self-disclosure on the part of the other\nC. there is a negative correlation between amount of self-disclosure and relationship satisfaction\nD. there is no relationship between amount of self-disclosure and relationship satisfaction\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "114": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Attachment to a care-giver begins:\nA. in the hours immediately following birth\nB. several weeks after birth\nC. several months after birth\nD. when the child learns to speak\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "115": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Female sterilization inhibits _________ production.\nA. egg\nB. estrogen\nC. progesterone\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "116": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Another term for sexual self-stimulation is:\nA. masturbation\nB. autoeroticism\nC. self-eroticism\nD. a and b\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "117": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: You have been asked to write a response paper to LeVay's research on brain differences between heterosexuals and homosexuals. Which are plausible criticisms of LeVay's work?\nA. Sample size was relatively small.\nB. Gay and straight groups were not equivalent in terms of the number of deaths due to AIDS.\nC. Lesbians were omitted from the study.\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "118": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: About ___ % of adolescent males have homosexual experiences during their teenage years.\nA. 5\nB. 10\nC. 20\nD. 30\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "119": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Hormones are secreted:\nA. directly into the bloodstream\nB. into the tissues surrounding the glands where they were manufactured\nC. into the stomach and then are digested and travel throughout the body\nD. into the ovaries and testes\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "120": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: By 28 days after conception, the embryo is about __________ centimetres long.\nA. 1\nB. 2\nC. 3\nD. 4\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "121": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: \"The state has no business in the bedrooms of the nation,\" is a famous quote by this former Canadian Prime Minister.\nA. Clark\nB. Mulroney\nC. King\nD. Trudeau\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "122": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Keith is really anxious about a big presentation he has to give at work tomorrow. As a result tonight he is having trouble getting an erection. Which of the following BEST explains why Keith might be having this problem?\nA. relaxation is necessary for vasocongestion\nB. anxiety inhibits the sympathetic system\nC. anxiety causes retrograde ejaculation which inhibits arousal\nD. anxiety decreases blood flow to the upper spinal cord inhibiting vasocongestion\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "123": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: A person with a rating of 4 on the Kinsey scale would be classified as:\nA. mostly heterosexual with incidental homosexual experience\nB. heterosexual with substantial homosexual experience\nC. homosexual with substantial heterosexual experience\nD. mostly homosexual with incidental heterosexual experience\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "124": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: The refractory period occurs in males during the ______ stage.\nA. resolution\nB. orgasm\nC. plateau\nD. excitement\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "125": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: The zona pellucida is...\nA. ...a protective layer surrounding the egg\nB. ...the fertilized egg\nC. ...an enzyme secreted by sperm to break down the protective coating on the egg.\nD. ...the area where sperm collect before attempting to fertilize the egg.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "126": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: In men gonorrhea and chlamydia most often infect the:\nA. penis\nB. scrotum\nC. urethra\nD. bladder\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "127": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which method of abortion is most costly and carries the greatest risk of complications?\nA. hysterotomy\nB. saline-induced abortion\nC. prostaglandin abortion\nD. dilation and curettage\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "128": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Miss Jones has been concerned about her health lately. She has noticed some itching and skin irritation around her genitals. Given her promiscuous sexual history she suspects that she has contracted:\nA. chlamydia\nB. genital warts\nC. gonorrhea\nD. pubic lice\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "129": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is NOT part of the internal structure of a female's breast?\nA. Breast lobule\nB. Lactiferous duct\nC. Lactiferous sinus\nD. Dartos Muscle\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "130": {
+        "origin_prompt": "There is a single choice question about human sexuality. Answer the question by replying A, B, C or D.\nQuestion: Over the past several decades, attitudes toward premarital sex have __________; attitudes toward extramarital sex have __________.\nA. remained constant; remained constant\nB. become less permissive; become more accepting\nC. remained constant; become less accepting\nD. become more more permissive; become less accepting\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    }
+}

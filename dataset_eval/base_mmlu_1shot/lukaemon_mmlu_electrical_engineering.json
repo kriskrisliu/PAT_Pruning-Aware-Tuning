@@ -1,0 +1,727 @@
+{
+    "0": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The Barkhausen criterion for an oscillator\nA. Loop gain should be unity\nB. Loop gain should be less than unity\nC. The phase of a feedback signal with respect to input should be 0\u00b0 or 360\u00b0\nD. Both A and C\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "1": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because\nA. It loads the circuit moderately.\nB. It loads the circuit to maximum extent.\nC. It uses centre zero galvanometer instead of voltmeter.\nD. It does not load the circuit at all.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "2": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Which of these sets of logic gates are designated as universal gates?\nA. NOR, NAND.\nB. XOR, NOR, NAND.\nC. OR, NOT, AND.\nD. NOR, NAND, XNOR.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "3": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: A single phase one pulse controlled circuit has a resistance R and counter emf E load 400 sin(314 t) as the source voltage. For a load counter emf of 200 V, the range of firing angle control is\nA. 30\u00b0 to 150\u00b0.\nB. 30\u00b0 to 180\u00b0.\nC. 60\u00b0 to 120\u00b0.\nD. 60\u00b0 to 180\u00b0.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "4": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: A box which tells the effect of inputs on control sub system is known as\nA. Data Box.\nB. Logical box.\nC. Decision box.\nD. State box.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "5": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Two infinite parallel metal plates are charged with equal surface charge density of the same polarity. The electric field in the gap between the plates is\nA. same as that produced by one plate.\nB. double the field produced by one plate.\nC. dependent on coordinates of field points.\nD. zero.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "6": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The resistance in the circuit of the moving coil of a dynamometer wattmeter should be\nA. Low.\nB. Very low.\nC. High.\nD. Almost zero.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "7": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The following are the necessary requirements of an oscillator\nA. Amplitude stability\nB. Frequency stability\nC. Power stability\nD. Both A and B\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "8": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The normal voltage used in directional heating is\nA. 1.5 KV.\nB. 15 KV.\nC. 33 KV.\nD. 66 KV.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "9": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: LC oscillators are used for produce a waveform with frequency ranging from\nA. 1MHz to 500 MHz\nB. 100 KHz to 500 MHz\nC. 1 KHz to 1 MHz\nD. 1MHz to 100 GHz\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "10": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: A working diode must have\nA. High resistance when forward or reverse biased\nB. Low resistance when forward biased, while high resistance when reverse bias\nC. High resistance when forward biased, while low resistance when reverse bias\nD. Low resistance when forward or reverse biased\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "11": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: What is the name of the fluorescent material that gives red colour fluorescence?\nA. Zinc silicate.\nB. Calcium silicate.\nC. Zinc sulphide.\nD. Magnesium silicate.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "12": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: How many bits are required to store one BCD digit ?\nA. 1\nB. 2\nC. 3\nD. 4\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "13": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Commutator in DC generator is used for\nA. collecting of current\nB. reduce losses\nC. increase efficiency\nD. convert AC armature current in to DC\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "14": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: 1 F is theoretically equal to\nA. 1 ohm of resistance\nB. ratio of 1 V to 1 C\nC. ratio of 1 C to 1 V\nD. none of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "15": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: How many entries will be in the truth table of a 3 input NAND gate ?\nA. 3\nB. 6\nC. 8\nD. 9\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "16": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: In decimal number system what is MSD\nA. First digit from left to right\nB. First digit from right to left\nC. Middle digit\nD. Mean of all digits\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "17": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: In Digital Logic Designs, GAL is abbreviated as\nA. General Advance Logic\nB. General Array Logic\nC. Generic Advance Logic\nD. Generic Array Logic\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "18": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Inintel 8085A microprocessor ALE signal is made high to\nA. Enable the data bus to be used as low order address bus\nB. To latch data D0-D7 from data bus\nC. To disable data bus\nD. To achieve all the functions listed above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "19": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: For an SCR gate cathode characteristic is a straight line of 130. For triggered source volume of 15 V and allowable gate power dissipation of 0.5 W compute the gate source resistance?\nA. 111.9 ohm\nB. 11.19 ohm\nC. 108 ohm\nD. 115 ohm\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "20": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The concept of V/f control of inverters driving induction motors resuls in\nA. constant torque operation\nB. speed reversal\nC. reduced magnetic loss\nD. hormonic elimination\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "21": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The energy stored in the magnetic field in a solenoid 30 cm long and 3 cm diameter wound with 1000 turns of wire carrying a current at 10 amp, is\nA. 0.015 joule.\nB. 0.15 joule.\nC. 0.015 joule.\nD. 1.15 joule.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "22": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: While operating on variable frequency supplies, the AC motor requires variable voltage in order to\nA. protect the insulation.\nB. avoid effect of saturation.\nC. improve the capabilities of the inverter.\nD. protect thyristor from dV / dt.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "23": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Which of the following windings are necessary in case of all dc machines?\nA. closed winding\nB. lap winding\nC. wave winding\nD. open type winding\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "24": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Relaxation Voltage controlled oscillators are used to generate\nA. Sinusoidal wave\nB. Triangular wave\nC. Sawtooth wave\nD. Both B and C\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "25": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The supply frequency usually employed for high frequency eddy current heating is\nA. 1 KHz.\nB. 5 KHz.\nC. 10 MHz.\nD. 10 KHz to 400 KHz.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "26": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: In the toggle mode a JK flip-flop has\nA. J = 0, K = 0.\nB. J = 1, K = 1.\nC. J = 0, K = 1.\nD. J = 1, K = 0.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "27": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Electric drive is becoming more and more popular because\nA. all of below.\nB. it provide smooth and easy control.\nC. it is cheaper in cost.\nD. it is simple and reliable.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "28": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: A step up chopper has input voltage 110 V and output voltage 150 V. The value of duty cycle is\nA. 0.32.\nB. 0.67.\nC. 0.45.\nD. 0.27.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "29": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: A Binary number system has how many digits.\nA. 0\nB. 1\nC. 2\nD. 10\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "30": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Lowest critical frequency is due to pole and it may be present at the origin or nearer to the origin, then the type of network is\nA. LC.\nB. RL.\nC. RC.\nD. Any of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "31": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Advantages of open loop control system is/are\nA. simple and economical.\nB. accurate.\nC. reliable.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "32": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The voltage induced in an inductor is represented as,\nA. product of its inductance and current through it.\nB. ratio of its inductance to current through it.\nC. ratio of current through it to its inductance.\nD. product of its inductance and rate of change of current through it.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "33": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: If a Hexadecimal number needs to convert to binary. For each hexadecimal digit, there will be how many bits\nA. 1\nB. 2\nC. 4\nD. 8\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "34": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Induction heating takes place in\nA. conducting but non-magnetic materials.\nB. conducting materials which may be either magnetic or non-magentic materials.\nC. insulating materials.\nD. conducting and magnetic materials.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "35": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: In a lap winding dc machine number of conductors are 100 and number of parallel paths are 10. Find the average pitch\nA. 10\nB. 100\nC. 50\nD. 1\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "36": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Magnetic flux has the unit of\nA. Newton\nB. Ampere turn\nC. Weber\nD. Tesla\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "37": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: In balanced bridge, if the positions of detector and source are interchanged, the bridge will still remain balanced. This can be explained from which theorem\nA. Reciprocity theorem\nB. Thevinin's theorem\nC. Norton's theorem\nD. Compensation theorem\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "38": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: A D-flip-flop is said to be transparent when\nA. the output is LOW\nB. the output is HIGH\nC. the output follows clock\nD. the output follow input\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "39": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: A Lissajous pattern on an oscilloscope has 5 horinzontal tangencies and 2 vertical tangencies. The frequency of horizontal input is 100 Hz. The frequency of the vertical will be\nA. 500 Hz.\nB. 250 Hz.\nC. 400 Hz.\nD. 625 Hz.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "40": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Speed control by variation of field flux results in\nA. constant power drive.\nB. constant torque drive.\nC. variable power drive.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "41": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Which of the following memories uses one transistor and one capacitor as basic memory unit\nA. SRAM\nB. DRAM\nC. Both SRAM and DRAM\nD. None\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "42": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: What will be the number of lamps, each having 300 lumens, required to obtain an average illuminance of 50 lux on a 4m * 3m rectangular room?\nA. 2\nB. 4\nC. 5\nD. 6\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "43": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The output of the system has an effect upon the input quantity, then the system is a\nA. open loop control system.\nB. closed loop control system.\nC. either A or B.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "44": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: A sinusoidal signal is analog signal, because\nA. it can have a number of values between the negative and positive peaks\nB. it is negative for one half cycle\nC. it is positive for one half cycle\nD. it has positive as well as negative values\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "45": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: FM stands for\nA. frequent modulation.\nB. frequency modulation.\nC. frequency moderator.\nD. frequent moderator.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "46": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Stack is also known as\nA. FIFO memory\nB. Flash memory\nC. LIFO memory\nD. LILO memory\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "47": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: In Ward-Leonard system, the lower limit of the speed imposed by\nA. Field resistance.\nB. Armature resistance.\nC. Residual magnetism of the generator.\nD. None of above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "48": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Colpitts oscillator is also called as\nA. Tank circuit oscillator\nB. LC oscillator\nC. Resonant circuit oscillator\nD. All of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "49": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: An SCR has half cycle surge current rating of 3000 A for 50 Hz supply. One cycle surge current will be\nA. 1500 A.\nB. 6000 A.\nC. 2121.32 A.\nD. 4242.64 A.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "50": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Both the ALU and control section of CPU employ which special purpose storage location?\nA. Buffers\nB. Decoders\nC. Accumulators\nD. Registers\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "51": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Systematic errors are\nA. environmental errors.\nB. observational errors.\nC. instrument errors.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "52": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is/are the disadvantages of an open loop control system?\nA. Inaccurate.\nB. Unreliable.\nC. both A and B.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "53": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: A diode (p-n junction) when reverse biased act as\nA. On Switch\nB. Zener diode\nC. Capacitor\nD. Off Switch\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "54": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Piezoelectric effect is carried out in\nA. composite filter.\nB. crystal filter.\nC. m derived.\nD. constant k prototype.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "55": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The resistivity of the conductor depends on\nA. area of the conductor.\nB. length of the conductor.\nC. type of material.\nD. none of these.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "56": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The smallest change in measured variable to which instrument will respond is\nA. resolution.\nB. accuracy.\nC. precision.\nD. sensitivity.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "57": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: In electronic communications, \"AM\" stands for\nA. Amp Modification\nB. Amplitude Method\nC. Amplitude Modulation\nD. Ampere Method\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "58": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Which system is also known as automatic control system?\nA. Open loop control system\nB. Closed loop control system\nC. Either A or B\nD. Nether A nor B\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "59": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: A combinational PLD with a fixed AND array and a programmable OR array is called a\nA. PLD\nB. PROM\nC. PAL\nD. PLA\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "60": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: A null type instrument as compared to a deflected type instrument has\nA. a lower sensitivity.\nB. a faster response.\nC. a higher accuracy.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "61": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Length of the cable is doubled, its capacitance C will be\nA. one-fourth.\nB. one-half.\nC. doubled.\nD. unchanged.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "62": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Electrons in p-type material of a semi-conductor are called as\nA. either minority carriers or majority carriers\nB. minority carriers\nC. majority carriers\nD. valance carriers\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "63": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: ________ is the most detrimental impurity in the magnetic materials\nA. Carbon.\nB. Sulphur.\nC. Oxygen.\nD. Nitrogen.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "64": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Voltage controlled oscillators are used commonly in\nA. Pulse Modulators Frequency Modulators Phase Clocked loops\nB. Frequency Modulators\nC. Phase Clocked loops\nD. All the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "65": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Low frequency supply is necessary for direct core type induction furnaces because\nA. With normal frequeny supply the electromagnetic forces causes severe stirring action in the molten metal.\nB. Magnetic coupling between the primary and secondary circuit is poor.\nC. Both A and B.\nD. None of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "66": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The moving coil-meters, damping is provided by\nA. the aluminium frame of the coil.\nB. the coil spring attached to the moving.\nC. eddy current disk.\nD. damping vane in the airtight chamber.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "67": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is the analogous quantity for mass element in force-voltage analogy?\nA. Resistance.\nB. Inductance.\nC. Capacitance.\nD. All of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "68": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: A latch is ________ sensitive\nA. both level and edge\nB. edge\nC. level\nD. None\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "69": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: What is used to protect the SCR from over current ?\nA. CB and fuse.\nB. Heat sink.\nC. Snubber circuit.\nD. Voltage clamping device.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "70": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The errors mainly caused by human mistakes are\nA. gross error.\nB. instrumental error.\nC. observational error.\nD. systematic error.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "71": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Electrical analogous quantity for dash-pot in force-current analogy is\nA. resistance.\nB. conductance.\nC. inductance.\nD. capacitance.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "72": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Which lamp has the best Colour Rendering Index (CRI)?\nA. LED\nB. Fluorescent\nC. Incandescent\nD. High pressure sodium vapour\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "73": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Power dissipation in ideal inductor is\nA. Maximum\nB. Minimum\nC. Zero\nD. A finite value\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "74": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: For intermittent work which of the following furnace is suitable?\nA. Core less furnace.\nB. Indirect arc furnace.\nC. Either of above.\nD. Nither of above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "75": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: In electrical resistance welding material of electrode should have\nA. higher electrical conductivities.\nB. higher thermal conductivities.\nC. sufficient strength to sustain high pressure at elevated temperatures.\nD. all of above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "76": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Which of the following are the passive elements?\nA. Resistor\nB. Bulb\nC. Both\nD. None of these.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "77": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The main advantage of dielectric heating is that\nA. heating occurs in the material itself.\nB. heating occurs due to high frequency.\nC. it can be used for drying the explosives.\nD. None of the above.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "78": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Materials used in heat sink should have\nA. high thermal conductivity.\nB. large surface area.\nC. high melting point.\nD. All of these.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "79": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Conductor is static and the field is varying then emf will be induced. This principle is called\nA. virtually induced emf.\nB. dynamically induced emf.\nC. static induced emf.\nD. none of these\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "80": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Four identical alternators each are rated for 20 MVA, 11 KV having a subtransient reactance of 16% are working in parallel. The short circuit level at the busbar is\nA. 500 MVA\nB. 400 MVA\nC. 125 MVA\nD. 100 MVA\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "81": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: According to the Bohr model, an electron gains or losses energy only by\nA. moving faster or slower in an allowed orbit.\nB. jumping from one allowed orbit to another.\nC. being completely removed from an atom.\nD. jumping from one atom to another atom.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "82": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: A three-state buffer has the following output states\nA. 1, 0, float\nB. High, Low, Float\nC. Both A and B\nD. Set, Reset, Halt\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "83": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: By using which of the following elements, mechanical translational systems are obtained?\nA. mass element\nB. spring element\nC. dash-pot\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "84": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Four capacitors each of 40 \u00b5F are connected in parallel, the equivalent capacitance of the system will be\nA. 160 \u00b5F\nB. 10 \u00b5F\nC. 40 \u00b5F\nD. 5 \u00b5F\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "85": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The resistance of a conductor of diameter d and length l is R \u03a9. If the diameter of the conductor is halved and its length is doubled, the resistance will be\nA. R \u03a9\nB. 2R \u03a9\nC. 4R \u03a9\nD. 8R \u03a9\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "86": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: A single phase full bridge inverter can operated in load commutation mode in case load consist of\nA. RL.\nB. RLC underdamped.\nC. RLC overdamped.\nD. RLC critically damped.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "87": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: A microprocessor is ALU\nA. and control unit on a single chip.\nB. and memory on a single chip.\nC. register unit and I/O device on a single chip.\nD. register unit and control unit on a single chip.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "88": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: To obtain a high value of capacitance, the permittivity of dielectric medium should be\nA. low\nB. zero\nC. high\nD. unity\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "89": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Deflection method direct measurements are most widely used as these are\nA. least time consuming.\nB. most simple.\nC. most simple and least time consuming.\nD. most accurate.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "90": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Purely mechanical instrument cannot be used for dynamic measurements because they have\nA. high inertia.\nB. higher response time.\nC. large time constant.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "91": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Advantages of higher transmission voltage is/are\nA. Power transfer capability of the transmission line is increased\nB. Transmission line losses are reduced\nC. Area of cross section and volume of the conductor is reduced\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "92": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Under over voltage condition impedance offered by the voltage clamping device is\nA. high.\nB. low.\nC. moderate.\nD. infinity.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "93": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: A long wire composed of a smooth round conductor runs above and parallel to the ground (assumed to be a large conducting plane). A high voltage exists between the conductor and the ground. The maximum electric stress occurs at\nA. lower surface of the conductor.\nB. upper surface of the conductor.\nC. the ground surface.\nD. midway between the conductor and ground.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "94": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: In a dc machine 6 pole wave winding is used. The number of parallel paths are?\nA. 6\nB. 4\nC. 2\nD. 1\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "95": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is a digital device\nA. Regulator of a fan\nB. Microphone\nC. Resistance of a material\nD. Light switch\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "96": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Instantaneous power in inductor is proportional to the\nA. product of the instantaneous current and rate of change of current.\nB. square of instantaneous current.\nC. square of the rate of change of current.\nD. temperature of the inductor.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "97": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is a variable displacement transducer?\nA. tachometer\nB. potentiometer\nC. synchros\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "98": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Five capacitors each of 5 \u00b5F are connected in series, the equivalent capacitance of the system will be\nA. 5 \u00b5F\nB. 25 \u00b5F\nC. 10 \u00b5F\nD. 1 \u00b5F\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "99": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Susceptibility is negative for\nA. non magnetic substances.\nB. diamagnetic substances.\nC. ferromagnetic substances.\nD. none of above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "100": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: One of the following is the primary function of an oscillator\nA. produces sinusoidal oscillations\nB. generates non sinusoidal waveforms\nC. generates sustained oscillations at a constant amplitude and specific frequency\nD. none of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "101": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The metal surfaces for electrical resistance welding must be\nA. rough.\nB. clean.\nC. moistened\nD. coloured\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "102": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The latching current of SCR is 20 mA. Its holding current will be\nA. 23 mA.\nB. 40 mA.\nC. 10 mA.\nD. 60 mA.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "103": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: In force-current analogy, electrical analogous quantity for displacement (x) is\nA. voltage.\nB. inductance.\nC. capacitance.\nD. flux.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "104": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Feedback circuit in an oscillator can be accomplished by\nA. Resistive coupling between input and output\nB. Capacitive coupling between input and output\nC. Inductive coupling between input and output\nD. Any one or combinations of the above methods\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "105": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Lowest critical frequency is due to zero and it may be present at the origin or nearer to the origin, then the type of network is\nA. LC circuit.\nB. RC circuit.\nC. RLC circuit.\nD. RL Circuit.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "106": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: What is the value of dielectric constant of air?\nA. Less than 1\nB. 0.\nC. 1.\nD. none of these.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "107": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Temperature variation is a/an\nA. Digital quantity\nB. Analog quantity\nC. Either Digital or Analog quantity\nD. None\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "108": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The illumination at a point 5 meters below a lamp in 6 lux. The candle power of the lamp is\nA. 30\nB. 140.\nC. 150.\nD. 200.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "109": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: For a dc machine shunt resistance and armature resistance values are\nA. high and high\nB. high and low\nC. low and low\nD. low and high\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "110": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The change of cross sectional area of conductor in magnetic field will affect\nA. reluctance of conductor.\nB. resistance of conductor.\nC. (A) and (B) both in the same way.\nD. none of above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "111": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is used in SCR to protect from high dV / dt?\nA. Snubber circuit.\nB. Fuse.\nC. Equalizing circuit.\nD. Circuit breaker.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "112": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: What are the sets of commands in a program which are not translated into machine instructions during assembly process, called?\nA. Mnemonics\nB. Directives\nC. Identifiers\nD. Operands\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "113": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Speed of data transmission in 4-G network of telecom is\nA. 386 kbps - 2 mbps.\nB. 2 mbps.\nC. 2 mbps \u2013 1 gbps.\nD. 100 mbps - 1 gbps.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "114": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Which of the followings is/are active element?\nA. Voltage source\nB. Current source\nC. Both\nD. None of these.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "115": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Electrical analogous quantity for spring element (K) in force-voltage analogy is\nA. L\nB. R\nC. 1/C\nD. C\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "116": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: A quartz crystal oscillator consists of\nA. only series resonant frequency.\nB. only parallel resonant frequency.\nC. both series and parallel frequencies.\nD. neither series nor parallel frequency.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "117": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Which of the following oscillators are used for low frequency (LF) applications\nA. LC oscillators\nB. RC oscillators\nC. Both LC and RC Oscillators\nD. None\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "118": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The solid angle subtended by an area of 2400 cm^2 on the surface of a sphere of diameter 1.2 m is\nA. 3 / 2.\nB. 1 / 3.\nC. 2 / 3.\nD. 2 / 5.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "119": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Relative error is same as\nA. ratio of absolute error and true value.\nB. absolute error.\nC. true error.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "120": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: If holding current of a thyristor is 2 mA then latching current should be\nA. 0.01 A.\nB. 0.002 A.\nC. 0.009 A.\nD. 0.004 A.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "121": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: In an intel 8085A, which is the first machine cycle of an instruction?\nA. An op-code fetch cycle\nB. A memory read cycle\nC. A memory write cycle\nD. An I/O read cycle\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "122": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Which of the following are the disadvantages of a closed loop control system?\nA. Reduces the overall gain.\nB. Complex and costly.\nC. Oscillatory response.\nD. All of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "123": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Poles and zeros are arranged alternatively on negative real axis, then type of network is/are\nA. LC network.\nB. RC network.\nC. RL network.\nD. Both 2 and 3.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "124": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The magnetisation and applied field in ferromagnetic materials are related\nA. sinusoidally.\nB. non linearly.\nC. linearly.\nD. parabolically.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "125": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Thin laminations are used in a machine in order to reduce\nA. Eddy current losses\nB. Hysteresis losses\nC. Both A and B\nD. Copper losses\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "126": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: A metal surface with 1 meter radius and surface charge density of 20 coulombs / m2 is enclosed in a 10 m side cube. The total outward electric displacement normal to the surface of the cube is\nA. 40\u03c0 coulombs.\nB. 80\u03c0 coulombs.\nC. 10\u03c0 coulombs.\nD. none of these.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "127": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: In binary number system the first digit (bit) from right to left is called as\nA. LSB, Least Significant Bit\nB. MSB, Most Significant Bit\nC. First Bit\nD. Last Bit\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "128": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: In two wattmeter method of power measurement if the total power is measured by one wattmeter only then power factor of the system is\nA. 0.\nB. 0.5.\nC. 1.\nD. none of above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "129": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: A 0 - 100 V voltmeter has a guaranteed accuracy of 2 % of full scale reading. The voltage measured by the voltmeter is 75 V. The limiting error is in percentage\nA. 3.33 %.\nB. 2.66 %.\nC. 2 %.\nD. 1 %.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "130": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Which of the following methods is/are used for reactive or voltage compensation\nA. shunt capacitor\nB. series capacitor\nC. generation excitation control\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "131": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The ROM programmed during manufacturing process itself is called\nA. MROM\nB. PROM\nC. EPROM\nD. EEPROM\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "132": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: In 8085 name/names of the 16 bit registers is/are\nA. stack pointer.\nB. program counter.\nC. both A and B.\nD. none of these.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "133": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Stability of a transmission line can be increased by\nA. shunt capacitor\nB. series capacitor\nC. shunt reactor\nD. both A and B\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "134": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Snubber circuit is used with SCR\nA. in series.\nB. in parallel.\nC. either series or parallel.\nD. anti parallel.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "135": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The number of rings in the Bohr model of any element is determined by what?\nA. Column number on periodic table.\nB. Atomic mass.\nC. Row number on periodic table.\nD. Atomic number.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "136": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Silicon and Germanium are ________ elements.\nA. trivalant\nB. pentavalant\nC. hexavalant\nD. tetravalant\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "137": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The number of output pins in 8085 microprocessors are\nA. 27.\nB. 40.\nC. 21.\nD. 19.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "138": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: If P is the power of a star connected system then what will be power of an equivalent delta connected system?\nA. P\nB. 3P\nC. P/3\nD. None of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "139": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Which oscillators are easy to fabricate in a monolithic IC?\nA. Crystal oscillator.\nB. Hartley oscillator.\nC. Wien bridge oscillator.\nD. Relaxation oscillator.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "140": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: If all the elements in a particular network are linear, then the superposition theorem would hold, when the excitation is\nA. DC only\nB. AC only\nC. Either AC or DC\nD. An Impulse\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "141": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The feedback factor of a Wien bridge oscillator using Op-Amp is\nA. 1/3\nB. 1/4\nC. 1/2\nD. 1\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "142": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: The length of bus cycle in 8086/8088 is four clock cycles, T1, T2, T3, T4 and an indeterminate number of wait state clock cycles denoted by Tw. The wait states are always inserted between\nA. T1 & T2\nB. T2 & T3\nC. T3 & T4\nD. T4 & T1\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "143": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not a sinusoidal oscillator?\nA. LC oscillator\nB. RC phase shift oscillator\nC. Relaxation oscillator\nD. Crystal oscillator\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "144": {
+        "origin_prompt": "There is a single choice question about electrical engineering. Answer the question by replying A, B, C or D.\nQuestion: A wire carrying current is bent in the form of a circular loop. Then the magnetic field around each portion of the wire will be\nA. parallel to the plane of the wire.\nB. perpendicular to the circumference of the wire.\nC. parallel to half portion and perpendicular for the other half.\nD. none of above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    }
+}

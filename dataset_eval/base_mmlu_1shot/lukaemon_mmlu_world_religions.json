@@ -1,0 +1,857 @@
+{
+    "0": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  What can murtis be translated as?\nA. Offerings\nB. Prayers\nC. Apparitions\nD. Idols\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "1": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Naturalists who concentrated on natural elements and processes are associated with which of the following?\nA. Daoism\nB. Yin-Yang School\nC. Mengzi\nD. Humanistic Buddhism\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "2": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  When was the first Buddhist temple constructed in Japan?\nA. 325 CE\nB. 119 CE\nC. 451 CE\nD. 596 CE\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "3": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  What is the name of the ten day New Year festival that celebrated Babylon's culture?\nA. Akitu\nB. Wag and Thoth\nC. Bast\nD. Nehebkau\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "4": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Which of the following terms denote the Japanese art of flower arranging?\nA. Zazen\nB. Tariki\nC. Kami\nD. Ikebana\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "5": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Guru Nanak and his successors instructed the use of particular Sikh Ragas in order to promote which of the following?\nA. Harmony and balance\nB. Devotion and piety\nC. Love and passion\nD. Goodwill and love\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "6": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Guru Nanak used what term to denote the \"divine word\" as part of divine revelation?\nA. Shabad\nB. Khalse\nC. Nam\nD. Guru\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "7": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: What is the mi'raj?\nA. Muhammad's miraculous ascent to heaven\nB. Muhammad's migration to Mecca\nC. Muhammad's first community in Mecca\nD. Muhammad's revelations of the Qur'an\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "8": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: What is the name of the most famous dharmashastras, which probably dates from around the first century?\nA. Laws of Dharma\nB. Laws of Karma\nC. Laws of Vishnu\nD. Laws of Manu\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "9": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: What does the term \"Qur'an\" literally mean?\nA. The Holy Book\nB. The Narrative\nC. The Recitation\nD. The Pillars\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "10": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Mani referred to God by which of the following names?\nA. Mother of Light\nB. Father of Goodness\nC. Ineffable Lover\nD. Eternal Spirit\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "11": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Which tradition is known to promote \"gradual enlightenment\"?\nA. Bushido\nB. Shinto\nC. Nichiren\nD. Soto Zen\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "12": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: What is the communal meal offered at the place of worship called in Sikhism?\nA. Sangat\nB. Langar\nC. Gurdwara\nD. Panth\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "13": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: To which tradition do the anti-Han rebel group known as the Celestial Masters belong?\nA. Buddhism\nB. Daoism\nC. Confucianism\nD. Shamanism\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "14": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: What does the word \"Islam\" mean in Arabic?\nA. Worship\nB. Submission\nC. Obedience\nD. Faith\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "15": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: What does the term anatman mean?\nA. Suffering\nB. Soul\nC. Impermanence\nD. No-self\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "16": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  What genre of Sikh literature is denoted by the term janam-sakhis?\nA. Spiritual narratives\nB. Redemption narratives\nC. Birth narratives\nD. Theological narratives\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "17": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Pure Land Buddhism belongs to which school?\nA. Vajrayana\nB. Theravada\nC. Mahayana\nD. Mahavira\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "18": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Which Jaina group only allows women to lead a life of semi-renunciation?\nA. Svetambara\nB. Jina\nC. Agama\nD. Digambara\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "19": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: What is the most important prayer in Judaism?\nA. The Shema\nB. The Sefirot\nC. Deuteronomy\nD. The Decalogue\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "20": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  The socio-political alliance between the kshatriyas and the shramanas was rooted in their shared opposition to which of the following?\nA. Brahminic orthodoxy\nB. Legalistic asceticism\nC. Bhakti devotionals\nD. Unorthodox practices\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "21": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Which early battle led to the conversion of Mecca?\nA. The Battle of Uhud\nB. The Battle of Camel\nC. The Battle of the Trench\nD. The Battle of Badr\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "22": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  What interior discipline must be adopted to achieve spiritual liberation within Sikhism?\nA. Remembering the Divine Name\nB. Meditating on the sacred hymns\nC. Remembering that death is inevitable\nD. Meditating on the goodness of the created world\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "23": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  During Japan's occupation of Korea (1910-1945), which of the following was imposed upon the Koreans?\nA. Confucianism\nB. Buddhism\nC. Christianity\nD. Daoism\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "24": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: What is the meaning of the Punjabi word \"Sikh\"?\nA. Disciple\nB. Faithful\nC. Devotee\nD. Enlightened\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "25": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following shuns politics?\nA. The sages of the Zhuangzi\nB. The Songs of the South\nC. The Duke of Zhou\nD. The Confucian \"sage kings\"\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "26": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: What does the Hebrew word mashiach mean?\nA. Anointed one\nB. God\nC. Prophet\nD. The line of David\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "27": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: According to Jaina traditions, what does the term ajiva mean?\nA. Soul\nB. Sound\nC. Non-matter\nD. Non-soul\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "28": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  In the Japanese Zen tradition, what is zazen?\nA. A collection of statues\nB. Veneration of ancestors\nC. Seated meditation\nD. Funeral rituals\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "29": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  What is a central component of tantric Buddhism?\nA. Asceticism\nB. Bodily pleasure\nC. Music\nD. Sexual union\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "30": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  How does the Egyptian composition Ludul Bel Nemequi (\"I will praise the Lord of wisdom) portray Marduk?\nA. Loving and forgiving\nB. Wrathful and merciful\nC. Judging and vengeful\nD. Transcendent and immanent\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "31": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  After the Bar Kochba revolt, where were the two main centres for Jewish development?\nA. Palestine and Babylonia\nB. Babylonia and Europe\nC. Palestine and Spain\nD. Spain and France\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "32": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  In addition to Jainism, which other tradition began as a world-renouncing movement?\nA. Buddhism\nB. Hinduism\nC. Judaism\nD. Islam\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "33": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: According to Hindu tradition, which age are we in currently?\nA. Kali yuga\nB. Maha yuga\nC. Krita yuga\nD. Satya yuga\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "34": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  In the Zoroastrian tradition, the term Gathas refers to which of the following?\nA. Hymns\nB. Laws\nC. Ethics\nD. Myths\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "35": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Which form of Buddhism taught the only hope for salvation was in the saving grace of Amida?\nA. Pure Land\nB. Tendai\nC. Shingon\nD. Soto Zen\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "36": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  According to Hindu tradition, who is considered to be the ideal wife?\nA. Sita\nB. Rama\nC. Kali\nD. Durga\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "37": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Who is the woman mystic who exemplified the all-consuming love of the divine?\nA. Rumi\nB. Rabi'a\nC. Fatimah\nD. Khadija\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "38": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Who is the eighth-century CE female poet worshipped throughout many South Indian temples dedicated to Vishnu?\nA. Andal\nB. Devi\nC. Ganga\nD. Kali\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "39": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Who is associated with the stigmata and preaching to birds?\nA. Paul of Tarsus\nB. Clare of Assisi\nC. Francis of Assisi\nD. John of the Cross\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "40": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  In his final work, Laws, Plato shifted from cosmology to which of the following issues?\nA. Epistemology\nB. Morality\nC. Religion\nD. Aesthetics\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "41": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Which Christian denomination promotes a stripped-down Christianity?\nA. Greek Orthodox\nB. Roman Catholic\nC. Puritans\nD. Quakers\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "42": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Rome claimed that their bishop (pope) was the director successor of which leader?\nA. Peter\nB. Paul\nC. Jesus\nD. Matthew\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "43": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: When was the current Dalai Lama born?\nA. 1935\nB. 2000\nC. 1965\nD. 1975\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "44": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  According to Jaina traditions, who were the caityavasis?\nA. Householders who supported renouncers\nB. Orthodox interpreters of the scriptures\nC. Women ascetics who lived in communities\nD. Temple-dwelling renouncers\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "45": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Zhuangzi describes a state as ziran, which means which of the following?\nA. Thoughtfulness\nB. Non-action\nC. Spontaneity\nD. Meditation\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "46": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  The mudras, which are an important feature of Buddhist art, are also known as what?\nA. hand gestures\nB. saints\nC. religious clothing\nD. temples\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "47": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  The Maccabean Revolt is associated with which ruler?\nA. Julius Caesar\nB. Alexander the Great\nC. Cyrus of Persia\nD. Antiochus IV Epiphanes\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "48": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  How old was Guru Nanak when he started to preach the message of the divine Name?\nA. 30\nB. 40\nC. 33\nD. 52\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "49": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: The widely adored Egyptian goddess Hathor was depicted as which of the following?\nA. Serpent\nB. Eagle\nC. Cheetah\nD. Cow\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "50": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: What does the phrase Guru-Panth mean within the Sikh traditions?\nA. Community\nB. Scripture\nC. Worship\nD. Apprenticeship\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "51": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  After what event did the Rabbinical period begin within Judaism?\nA. Construction of the Second Temple\nB. Destruction of the Second Temple\nC. The Christianization of the Roman Empire\nD. The emergence of Islam\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "52": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Which monk developed Pure Land Buddhism as we know it today?\nA. Genshin\nB. Dogen\nC. Honen\nD. Shinran\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "53": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Which is the largest Muslim country in the world with more than 200 million adherents?\nA. Pakistan\nB. Iraq\nC. Indonesia\nD. Turkey\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "54": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Which pope promoted the cults of St. Peter and St. Paul to bolster authority in Rome?\nA. Gregory\nB. Augustine\nC. Athanasius\nD. Francis\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "55": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Which of the following does the term \"Arhats\" refer to?\nA. Enlightened being\nB. Worthy ones\nC. Saintly ones\nD. Sages\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "56": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Which Guru was martyred when he refused to embrace Islam?\nA. Guru Ram Das\nB. Guru Tegh Bahadur\nC. Guru Gobind Singh\nD. Guru Har Rai\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "57": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Which Guru donned the two swords symbolling temporal and spiritual authority?\nA. Guru Nanak\nB. Guru Arjan\nC. Guru Hargobind\nD. Guru Ram Das\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "58": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Where is the key to liberation found within Sikhism?\nA. In the community\nB. In faith in God\nC. In ascetic renunciation\nD. In the life of the householder\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "59": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Which is one of the most fundamental themes of Japanese culture and civilization?\nA. God is eternal and merciful to those who offer worship\nB. Humans can align themselves with life energy through worship of kami\nC. Justice will be the final outcome in the next world\nD. Power and force are the most divine attributes\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "60": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Which goddess is worshipped during the festival of Divali?\nA. Durga\nB. Sri Lakshmi\nC. Kali\nD. Mahavira\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "61": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Where did people believe in the goddess known as Holy Mother of Mount Fairy Peach?\nA. China\nB. Silla\nC. Goguryeo\nD. Joseon\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "62": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  To whom is the Yoga Sutras attributed?\nA. Madhva\nB. Patanjali\nC. Ramanuja\nD. Aryabhatta\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "63": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following does NOT describe the Ka'ba?\nA. It was visited by Moses.\nB. It is a haram.\nC. It was built by Abraham.\nD. It is a square building.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "64": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Which elephant-headed Hindu deity is often described as the most beloved?\nA. Parvati\nB. Ganesha\nC. Vishnu\nD. Sita\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "65": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Sacred literature originated with which of the following jina?\nA. Sri Lakshmi\nB. Mahavira\nC. Rsabha\nD. Nanak\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "66": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Who is the author of Admonitions for Women?\nA. Ban Zhao\nB. Laozi\nC. Menicus\nD. Liu Xiang\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "67": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: How many female renouncers were under the tutelage of Chandanbala?\nA. 36,000\nB. 12,000\nC. 24,000\nD. 7,000\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "68": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: According to the Sikh tradition, the Mul Mantar illuminates the nature of what?\nA. Ultimate Reality\nB. The gurus\nC. The community\nD. Sikh worship\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "69": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  What term refers the divine order as an ell-embracing higher principle in Sikhism?\nA. Sansar\nB. Hukam\nC. Mantar\nD. Karam\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "70": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  How many books are in the New Testament?\nA. 30\nB. 29\nC. 27\nD. 47\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "71": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Which form of Buddhism focuses on social engagement that attracts lay participation?\nA. Zen Buddhism\nB. Chan Buddhism\nC. Humanistic Buddhism\nD. Pure Land Buddhism\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "72": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  What was one of the distinctive beliefs or practices of the southerners (Digambara)?\nA. They worshipped exclusively outside of the temple\nB. They believed that nakedness was an elemental expression of non-attachment\nC. They included women within the ranks of the leadership\nD. They believed that the omniscient Jina must eat and sleep\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "73": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: The central prayer in Jainism is known by which of the following names?\nA. Namokar Mantra\nB. The Liberation Mantra\nC. Ahimsa\nD. Archaryas\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "74": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: When did the first Jaina temples appear?\nA. Second century CE\nB. Fifth century CE\nC. Fifth century BCE\nD. Eighteenth century CE\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "75": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: How many Jinas have appeared during our age?\nA. 7\nB. 42\nC. 24\nD. 13\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "76": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: The title Dalai Lama means which of the following?\nA. Ocean of Love\nB. Lover of Wisdom\nC. Ocean of Wisdom\nD. Stillness of Love\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "77": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Who accompanies Vishnu in many of his incarnations as his consort, and is known as the goddess of good fortune?\nA. Parvati\nB. Sita\nC. Sri (Lakshmi)\nD. Sarasvati\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "78": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: What is bhakti often translated as?\nA. Gods\nB. Yoga\nC. Devotion\nD. Religion\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "79": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Which Hindu god or goddess is speech incarnate, the power of the word, and the mother of the Vedas?\nA. Vishnu\nB. Ganesha\nC. Sarasvati\nD. Indra\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "80": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  What is the name of the Jewish prayer used for mourning since the Middle Ages?\nA. The Shema\nB. The Kaddish\nC. The K'nesset\nD. The Kippah\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "81": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Krishna and Rama are incarnations of which Hindu god?\nA. Shiva\nB. Vishnu\nC. Brahma\nD. Ganesha\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "82": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  The kshatriyas is the caste name assigned to which group?\nA. Priests\nB. Servants\nC. Rulers, warriors\nD. Merchants\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "83": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: When was the Old Babylonian version of Gilgamesh modified into the standard version?\nA. Toward the end of the first millennium BCE\nB. Towards the middle of the first millennium BCE\nC. Toward the end of the second millennium BCE\nD. Toward the middle of the second millennium BCE\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "84": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  What is the meaning ofsamyak jnanawithin the Jaina traditions?\nA. Correct knowledge\nB. Correct practice\nC. Correct intiution\nD. Correct belief\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "85": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  What type of Buddhist organization is the Bodu Bala Sena?\nA. Activist and militant organization in Sri Lanka\nB. Ecumenical organization in India\nC. Modern organization in the United States\nD. Peacekeeping organization in Japan\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "86": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Which mystic believed that evil was a distortion that reveals divine love more clearly?\nA. Julian of Norwich\nB. Catherine of Siena\nC. Teresa of Avila\nD. John of the Cross\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "87": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: In the Jaina traditions \"bad karma\" is known by which of the following terms?\nA. Paap\nB. Punya\nC. Pudgala\nD. Akash\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "88": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  During what Japanese festival do the spirits of deceased family members return to receive ritual offerings of food made by their loved ones?\nA. Obon\nB. Mikoshi\nC. Omizutori\nD. Tanabata\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "89": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: What does \"Mahavira\" mean?\nA. \"Great Hero\"\nB. \"Master\"\nC. \"The Lesser One\"\nD. \"Mendicant\"\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "90": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  What does the Tripitaka mean?\nA. Three gems\nB. Three baskets\nC. Three bodhisattvas\nD. Three buddhas\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "91": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Where is the largest network of Confucian shrines in the world?\nA. Indonesia\nB. China\nC. Korea\nD. Singapore\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "92": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Ghosa, Apala and Lopamurda, all named in the early Vedas, are which of the following?\nA. Female princesses\nB. Female warriors\nC. Female goddesses\nD. Female poets\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "93": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  What is the title for the religious and administrative leaders who succeeded the Prophet?\nA. Rasul\nB. Nabi\nC. Caliph\nD. Mahdi\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "94": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is NOT included in the Islamic understanding of jurisprudence?\nA. Consensus\nB. Personal reasoning\nC. Interpretation\nD. Divine inspiration\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "95": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Why is Mahavira a significant person in the Jaina traditions?\nA. He is the last of the ascetic prophets.\nB. He is the first of the ascetic prophets\nC. He is the most learned of the ascetic prophets\nD. He is the most holy of the ascetic prophets\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "96": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  The Tibetan Book of the Dead is also known as which of the following?\nA. Bardo Thodol\nB. Bardo Ngawang\nC. Bardo Gyaltsen\nD. Bardo Chogye\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "97": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Which Hindu festival involves decorating the house with lights, setting off firecrackers and wearing new clothes?\nA. Deepavali\nB. Holi\nC. Diwali\nD. Navaratri\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "98": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: What hours are set aside as the ambrosial hours for the Sikhs?\nA. 5\u20137 a.m.\nB. 9\u201311 p.m.\nC. 3\u20136 p.m.\nD. 3\u20136 a.m.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "99": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Self-sacrifice is an important theme for which Buddhist thinker?\nA. Thich Nhat Hanh\nB. The Dalai Lama\nC. Daisetsu T. Suzuki\nD. Shaku Soyen\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "100": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  How many times a day is the Fatihah recited?\nA. Exactly 17\nB. At least 17\nC. At least 13\nD. Exactly 24\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "101": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Which branch of Judaism founded by Zacharias Frankel is known for its \"Positive-Historical Judaism\"?\nA. Conservative\nB. Reformed\nC. Reconstructionism\nD. Orthodox\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "102": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  What is the term used to describe the \"pure\" as an order of loyal Sikhs bound together?\nA. Khalsa\nB. Rahit\nC. Panj Kakke\nD. Shabad\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "103": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Who is the founder of Sikhism?\nA. Guru Gobind Singh\nB. Guru Nanak\nC. Guru Kabir\nD. Guru Hargobind\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "104": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Which term is usually associated with women in Hindu traditions?\nA. Polluted\nB. Ideal\nC. Auspiciousness\nD. Kind\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "105": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: What is another name for Enuma Elish?\nA. Epic of Creation\nB. Epic of Destruction\nC. Epic of Egypt\nD. Epic of Origins\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "106": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  What was the most important female-centered festival in cities throughout Greece?\nA. Thesmophoria\nB. Oracle Days\nC. Isthmian Games\nD. Feast of Athrodite\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "107": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Speaking in tongues is a feature of which Christian denomination?\nA. Evangelicalism\nB. Pietism\nC. Pentecostalism\nD. Fundamentalism\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "108": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Charism can be defined as which of the following?\nA. An oil\nB. Prophecy\nC. A spiritual gift\nD. Authority\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "109": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  In Islam, what is the qiblah?\nA. Almsgiving\nB. Pilgrimage\nC. Direction of prayer\nD. Revelation\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "110": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: In Tendai Buddhism, what does the term honji mean?\nA. Trace\nB. Original ground\nC. Manifestation\nD. True sign\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "111": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  What is the name of a recent revivalist movement in Turkey led by Fetullah G\u00fclen?\nA. Hizmet\nB. Nation of Islam\nC. Muslim Brotherhood\nD. Sufism\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "112": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: For whom are the Hindu Vedas most significant?\nA. Brahmins\nB. Kshatriyas\nC. Shiva\nD. Yogis\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "113": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  According to the Korean foundation myth, who transformed into a human in order to father Dangun?\nA. Hwanin\nB. Hwanung\nC. Joseon\nD. Yi\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "114": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  In Buddhism, what are ordained women known as?\nA. Bhikshus\nB. Bhikshunis\nC. The Sangha\nD. Arhats\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "115": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  What is the name of the most authoritative Kabbalah text?\nA. Gemarah\nB. Midrash\nC. Zohar\nD. Septuagint\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "116": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Which Confucian philosopher is described as a mystic due to his focus on qi (or ch'i)?\nA. Dao\nB. Xunzi\nC. Mencius\nD. Confucius\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "117": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following does the Qur'an permit?\nA. Honor Killing\nB. Stoning\nC. Adultery\nD. Polygyny\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "118": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Which is the main form of Buddhism in Sri Lanka?\nA. Theravada\nB. Mahayana\nC. Pure Land\nD. Zen\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "119": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Which leader is known for spreading the dharma of non-violence?\nA. Ngo Dinh Diem\nB. The Dalai Lama\nC. Siddhartha\nD. Ashoka\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "120": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: What are the two sacraments that all Christians celebrate?\nA. Baptism and Eucharist\nB. Baptism and Ordination\nC. Eucharist and Marriage\nD. Eucharist and Confession\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "121": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: What is the most important festival for Sikhs?\nA. Holi\nB. Divali\nC. Baisakhi Day\nD. Hola Mahalla\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "122": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Who declared Muhammad a prophet?\nA. Khadijah\nB. Gabriel\nC. Waraqah\nD. Abu Bakr\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "123": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: The Jataka tales are a collection of which genre of stories?\nA. Life stories\nB. Warrior stories\nC. Birth stories\nD. Hero stories\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "124": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is the timespan for Japan's closure to Christianity and Europe?\nA. 1749-1945\nB. 1052-1616\nC. 1641-1853\nD. 1517-1870\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "125": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  In Yiddish, what is the word for covenant?\nA. Haggadah\nB. Halakhah\nC. Brit\nD. Bris\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "126": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: According to the Sumerian King List, where does kingship come from?\nA. Through initiation into the mystery cults\nB. By military victories\nC. Direct lineage of ancestors\nD. Descends from heaven\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "127": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: What is the name of the Hindu community associated with environmental activism?\nA. Puranas\nB. Bishnoi\nC. Rajasthan\nD. Jambho\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "128": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Which bodhisattva is known for conducting the souls of dead children to salvation?\nA. Guan-yin\nB. Kannon\nC. Ojizo-sama\nD. Amitabha\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "129": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  The Gospel of John is associated with which theological concept?\nA. Incarnation\nB. Logos of God\nC. Jesus as messiah and saviour\nD. All of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "130": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Which god supplanted the earlier Mesopotamian supreme god Enil?\nA. Horus\nB. Inanna\nC. Marduk\nD. Isis\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "131": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Which of the following movements was founded by Mordechai Kaplan?\nA. Liberal Judaism\nB. Reform Judaism\nC. Conservative Judaism\nD. Reconstructionist Judaism\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "132": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: When was the State of Israel established?\nA. 1947\nB. 1948\nC. 1945\nD. 1949\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "133": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Icons are a main feature of which church?\nA. Anglican\nB. Catholic\nC. Orthodox\nD. Lutheran\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "134": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: The first of the Four Noble Truths teaches which of the following cannot be escaped?\nA. Pride\nB. Hatred\nC. Suffering\nD. Fate\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "135": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  The Continental Reformation started in what year?\nA. 1545\nB. 1517\nC. 1492\nD. 1705\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "136": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: The minimalism of Haiku is said to be derived from which tradition?\nA. Zen Buddhism\nB. Shinto\nC. Pure Land Buddhism\nD. Confucianism\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "137": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Which deity is the Roman counterpart to the Greek god Zeus?\nA. Jupiter\nB. Juno\nC. Dionysius\nD. Neptune\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "138": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: The philosopher Laozi is associated with which tradition?\nA. Jainism\nB. Buddhism\nC. Confucianism\nD. Daoism\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "139": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Which Egyptian gods did Akhenaten make a determined effort to eliminate?\nA. Shu and Set\nB. Horus and Isis\nC. Amun and Mut\nD. Khonsu and Nekhbet\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "140": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: The term xin refers to which of the following?\nA. Piety\nB. Non-action\nC. Heart-mind\nD. World\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "141": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Which term in the dharma texts of the classical period denotes the four stages of life?\nA. Kama\nB. Samnyasin\nC. Ashramas\nD. Arthas\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "142": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: What is the term for commentary on the Qur'an, which means \"unveiling\"?\nA. fiqh\nB. dhikr\nC. ijtihad\nD. tafsir\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "143": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  With which branch of Islam are the Isma'ilis are associated?\nA. The Sunni\nB. The Shi'a\nC. The Sufi\nD. The Ahmadiyya\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "144": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  The term mappo is associated with which of the following?\nA. The dharma\nB. An age of decline\nC. The golden age\nD. Samurai\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "145": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  What is the name of the bodhisattva in Japan known for a commitment to alleviating suffering?\nA. Amaterasu\nB. Izanami\nC. Kannon\nD. Guanyin\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "146": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Who was the first significant anchorite hermit?\nA. Pachomius\nB. Athanasius\nC. Anthony\nD. Basil\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "147": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: Which are the synoptic Gospels?\nA. Peter, John, Mark\nB. Matthew, Mark, John\nC. Matthew, Mark, Luke\nD. John, Luke, Mark\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "148": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: What is the English title for the divination text also known as the Yijing?\nA. The Classic of Documents\nB. The Lotus Sutra\nC. The Flower Garland Sutra\nD. The Classic of Changes\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "149": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Where was the most famous site of the mystery cults in Greece?\nA. Ephesus\nB. Corinth\nC. Athens\nD. Eleusis\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "150": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: When did the Babylonian captivity of \"Exile\" begin?\nA. 515 BCE\nB. 535 BCE\nC. 586 BCE\nD. 70 CE\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "151": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  The term vajrya means diamond and which of the following?\nA. Emerald\nB. Brilliance\nC. Thunderbolt\nD. Lightning\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "152": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  In Jainism, what is the cycle that one must liberate oneself from?\nA. Punya\nB. Samsara\nC. Samayika\nD. Jiva\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "153": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  The classic text Daodejing is known by what title in English?\nA. Classic of Changes\nB. Classic of the Way and Power\nC. Classic of Women\nD. Classic of Philosophy\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "154": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  The Communidades de Base is associated with which of the following?\nA. Bishop Oscar Romero\nB. Resistance and renewal\nC. Dignity of all human beings\nD. All of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "155": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: What does the term matsuri mean?\nA. Amulets\nB. Meditation\nC. Rituals\nD. Grand festivals\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "156": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  Which Roman statesman encouraged civic religion in his work The Laws?\nA. Varro\nB. Plato\nC. Cicero\nD. Augustus\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "157": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  What does \"Svetambara\" mean?\nA. \"Sky-clad\"\nB. \"Naked\"\nC. \"White-clad\"\nD. \"Clothed\"\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "158": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: What is seen by Europeans, and many Muslims, as the symbol of Islam?\nA. The Hijab\nB. The Crescent\nC. The Minaret\nD. The Qur'an\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "159": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  What is the purpose for hearing the Guru's Vak in the morning?\nA. Prayers on behalf of people outside of the Sikh community\nB. Communal confession to cleanse the community\nC. Inspiration for personal meditation throughout the day\nD. Doctrinal instruction for discussion in the community\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "160": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  What are the rabbinical commentaries produced after the Mishnah called?\nA. Septuagint\nB. Talmud\nC. Yeshiva\nD. Gemarah\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "161": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: What is a mohel?\nA. A ritual circumciser\nB. A type of oil lame\nC. A teacher\nD. A covenant\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "162": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: The \"Flower Sermon\" is associated with which form of Buddhism?\nA. Theravada\nB. Chan-Zen\nC. Pure Land\nD. Yogicara\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "163": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  When was the major shift by Greek philosophers who rejected the anthropomorphic view of the divine?\nA. Early Third Century BCE\nB. Second and First Century BCE\nC. Late Sixth Century BCE\nD. Fourth and Third Century BCE\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "164": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  What is the foremost reason for wearing the hijab in the present day?\nA. Islamic identity\nB. Islamic modesty\nC. Islamic obedience\nD. Islamic seclusion\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "165": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: The Oral Torah, in its written form, is known as what?\nA. Mishnah\nB. Midrash\nC. Tanakh\nD. Pentateuch\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "166": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: What has been a central focus of religious traditions in China and Korea?\nA. Peace and harmony\nB. Power and influence\nC. Truth and love\nD. Wisdom and ethics\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "167": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  To whom did ordinary folk appeal during a drought in the time of the Han Dynasty?\nA. The Buddha\nB. Laozi\nC. The Queen Mother of the West\nD. Confucius\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "168": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  The theological term homoousios means which of the following?\nA. of a similar substance\nB. of the same substance\nC. of like substance\nD. of human substance\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "169": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion: According to the Japanese origin myth, who gives birth to Amaterasu from his left eye?\nA. Es\nB. Izanagi\nC. Izanami\nD. Kami\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "170": {
+        "origin_prompt": "There is a single choice question about world religions. Answer the question by replying A, B, C or D.\nQuestion:  The numen of Augustus referred to which of the following characteristics?\nA. Divine power\nB. Sexual virility\nC. Military acumen\nD. Philosophical intellect\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    }
+}

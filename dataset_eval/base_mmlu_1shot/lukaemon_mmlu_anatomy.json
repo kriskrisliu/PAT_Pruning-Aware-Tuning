@@ -1,0 +1,677 @@
+{
+    "0": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: A lesion causing compression of the facial nerve at the stylomastoid foramen will cause ipsilateral\nA. paralysis of the facial muscles.\nB. paralysis of the facial muscles and loss of taste.\nC. paralysis of the facial muscles, loss of taste and lacrimation.\nD. paralysis of the facial muscles, loss of taste, lacrimation and decreased salivation.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "1": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: A \"dished face\" profile is often associated with\nA. a protruding mandible due to reactivation of the condylar cartilage by acromegaly.\nB. a recessive maxilla due to failure of elongation of the cranial base.\nC. an enlarged frontal bone due to hydrocephaly.\nD. defective development of the maxillary air sinus.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "2": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following best describes the structure that collects urine in the body?\nA. Bladder\nB. Kidney\nC. Ureter\nD. Urethra\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "3": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following structures is derived from ectomesenchyme?\nA. Motor neurons\nB. Skeletal muscles\nC. Melanocytes\nD. Sweat glands\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "4": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following describes the cluster of blood capillaries found in each nephron in the kidney?\nA. Afferent arteriole\nB. Glomerulus\nC. Loop of Henle\nD. Renal pelvis\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "5": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: A patient suffers a broken neck with damage to the spinal cord at the level of the sixth cervical vertebra.\nA. They will be unable to breathe without life support.\nB. They will only be able to breathe quietly.\nC. It is impossible to predict an effect on breathing.\nD. Breathing will be unaffected.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "6": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following anatomical regions of abdomen lies just distal to the sternum?\nA. Epigastric\nB. Hypochondriac\nC. Hypogastric\nD. Lumbar\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "7": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following best describes the human body's defense mechanism against environmental bacteria?\nA. Hair in the nose\nB. Mucous membranes\nC. Osteoblasts\nD. Saliva\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "8": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The palatine processes begin to fuse at\nA. six weeks post-fertilization.\nB. eight weeks post-fertilization.\nC. ten weeks post-fertilization.\nD. twelve weeks post-fertilization.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "9": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Primary motor cortex activity results in\nA. bilateral contraction of antigravity limb muscles.\nB. bilateral contraction of limb musculature.\nC. contraction of ipsilateral limb musculature.\nD. contraction of contralateral limb musculature.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "10": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: You notice that your patient's submandibular lymph nodes are enlarged. You would look for potential infection sites in the\nA. hard palate.\nB. hard palate and upper lip.\nC. hard palate, upper lip and upper central incisor.\nD. hard palate, upper lip, upper central incisor and lower first molar.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "11": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: A patient suffers damage to the orbit in a road traffic incident resulting in damage to the third cranial nerve. Which of the following signs will be present?\nA. Pupillary constriction and a medial strabismus\nB. Pupillary dilatation and a medial strabismus\nC. Pupillary constriction and a lateral strabismus\nD. Pupillary dilatation and a lateral strabismus\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "12": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following statements is true of the temporomandibular joint?\nA. It has an articular disc of hyaline cartilage\nB. Its articular surfaces are covered by hyaline cartilage\nC. Proprioceptive information is carried by the chorda tympani and deep temporal nerves\nD. Proprioceptive information is carried by the masseteric and auriculotemporal nerves.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "13": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Laryngoscopic examination of the vocal folds after suspected recurrent laryngeal nerve damage usually shows that the vocal fold on the injured side is tensed and in an intermediate position between adduction and abduction. This is because\nA. cricothyroid muscle is still functional but the interarytenoid muscles are fully active.\nB. cricothyroid muscle is still functional but the interarytenoids are weak.\nC. cricothyroid muscle is paralyzed but the interarytenoids are fully active.\nD. cricothyroid muscle is paralyzed but the interarytenoids are weak.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "14": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which one of the following statements about the growth of the mandible is correct?\nA. The mental symphysis closes at about 1 year postnatally\nB. The condylar growth cartilage ceases activity at puberty\nC. The ossification centre appears about 8 weeks I.U.L medial to Meckel's cartilage\nD. The functional matrix acting on the angle of the mandible is the lateral pterygoid muscle\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "15": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following statements is true of the pupillary light reflex?\nA. Its efferent limb is carried in the optic nerve\nB. It is mediated by the inferior colliculi in the midbrain\nC. It is a consensual reflex\nD. Its afferent limb is carried in the oculomotor nerve\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "16": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which muscles are normally active during quiet inspiration?\nA. External and internal intercostal muscles\nB. External intercostal muscles and diaphragm\nC. Internal intercostal muscles and diaphragm\nD. External and internal intercostal muscles and diaphragm\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "17": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Male hormones are produced by which of the following?\nA. Glans penis\nB. Prepuce\nC. Prostate\nD. Testes\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "18": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Oxygenated blood is carried to the heart by which of the following structures?\nA. Aorta\nB. Carotid arteries\nC. Inferior vena cava\nD. Pulmonary veins\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "19": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following allows air to pass into the lungs?\nA. Aorta\nB. Esophagus\nC. Trachea\nD. Pancreas\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "20": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Where is the sinoatrial node located?\nA. Between the left atrium and the left ventricle\nB. Between the right atrium and the right ventricle\nC. In the upper wall of the right atrium\nD. In the upper wall of the left ventricle\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "21": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: In relation to the rib, the corresponding intercostal nerve lies\nA. deep to its superior border.\nB. superficial to its superior border.\nC. deep to its inferior border.\nD. superficial to its inferior border.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "22": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The regional lymphatic drainage of the left side of the tip of the tongue is to the\nA. left submental lymph node.\nB. left and right submental lymph nodes.\nC. left submandibular lymph node.\nD. left and right submandibular lymph nodes.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "23": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Gastrulation is the process of\nA. mesoderm formation and occurs after neurulation.\nB. ectomesenchyme formation and occurs before neurulation.\nC. mesoderm formation and occurs before neurulation.\nD. ectomesenchyme formation and occurs after neurulation.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "24": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The spheno-occipital synchondrosis\nA. is a secondary growth cartilage.\nB. influences the position of the viscerocranium.\nC. ceases activity at 7 years of age.\nD. can be reactivated in patients affected by acromegaly.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "25": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following substances is found in greater quantity in exhaled air?\nA. Carbon dioxide\nB. Carbon monoxide\nC. Nitrogen\nD. Oxygen\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "26": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following conditions is characterized by the presence of kidney stones (renal calculi)?\nA. Glomerulonephritis\nB. Interstitial nephritis\nC. Nephrolithiasis\nD. Polycystic kidney\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "27": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: A pulse may be felt on a patient's face where the\nA. facial artery crosses the mandible.\nB. facial artery crosses the maxilla.\nC. superficial temporal artery crosses the maxilla.\nD. superficial temporal artery crosses the orbital rim.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "28": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: A patient sustains severe blunt trauma to the left upper abdomen and requires surgery. Which one of the following organs is most likely to be involved?\nA. Appendix\nB. Gallbladder\nC. Spleen\nD. Urinary bladder\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "29": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which statement concerning the atrioventricular bundle is correct?\nA. It is formed of autonomic nerve processes and is the only electrical connection between the atria and the ventricles.\nB. It is formed of Purkinje fibres and is the only electrical connection between the atria and the ventricles\nC. It is formed of autonomic nerve processes and forms one of several electrical connections between the atria and ventricles.\nD. It is formed of Purkinje fibres and forms one of several electrical connections between the atria and ventricles.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "30": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following terms describes the motion of bending the forearm toward the body?\nA. Abduction\nB. Eversion\nC. Flexion\nD. Pronation\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "31": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Food is prevented from entering the larynx during the pharyngeal phase of swallowing by\nA. constriction of the laryngeal entrance.\nB. upward movement of the epiglottis.\nC. downward movement of the larynx.\nD. increase in respiratory rate.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "32": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: At which of the following locations does bile enter the digestive tract?\nA. Gastroesophageal sphincter\nB. Duodenum\nC. Ileocecum\nD. Jejunum\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "33": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: In which of the following positions does a patient lie face down?\nA. Dorsal\nB. Erect\nC. Lateral\nD. Prone\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "34": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Complete bilateral cleft palate is due to failure of fusion of the\nA. palatine processes.\nB. palatine and frontonasal processes.\nC. palatine, frontonasal and secondary nasal processes.\nD. palatine, frontonasal, secondary nasal processes and mandibular processes.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "35": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The auditory tube\nA. connects the inner ear and nasopharynx.\nB. is derived from the second pharyngeal pouch.\nC. is opened by the action of levator veli palatini.\nD. is closed by the action of tensor veli palatini.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "36": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is the lymphoid organ that is a reservoir for red blood cells and filters organisms from the blood?\nA. Appendix\nB. Gallbladder\nC. Pancreas\nD. Spleen\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "37": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following cavities are separated by the diaphragm?\nA. Abdominal and pelvic\nB. Cranial and spinal\nC. Thoracic and abdominal\nD. Pericardial and pleural\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "38": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The walls of bronchioles contain\nA. cartilage, smooth muscle and respiratory epithelium.\nB. cartilage and smooth muscle.\nC. cartilage and respiratory epithelium.\nD. smooth muscle and respiratory epithelium.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "39": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following organs removes bilirubin from the blood, manufactures plasma proteins, and is involved with the production of prothrombin and fibrinogen?\nA. Gallbladder\nB. Kidney\nC. Liver\nD. Spleen\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "40": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following conditions is characterized by incompetence of the esophageal sphincter?\nA. Crohn's disease\nB. Esophageal varices\nC. Gastroesophageal reflux disease\nD. Pyloric stenosis\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "41": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The muscles of the soft palate are innervated by branches of the\nA. trigeminal and glossopharyngeal nerves.\nB. facial and glossopharyngeal nerves.\nC. trigeminal and vagus nerves.\nD. facial and vagus nerves.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "42": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is the large bone found superior to the patella and inferior to the ischium?\nA. Calcaneus\nB. Femur\nC. Symphysis pubis\nD. Tibia\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "43": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: A successful inferior alveolar nerve block will produce anaesthesia of the\nA. lower lip.\nB. lower lip and mandibular teeth.\nC. lower lip, mandibular teeth and labial gingivae of the anterior mandibular teeth.\nD. lower lip, mandibular teeth and labial gingivae of the anterior and buccal gingivae of the posterior mandibular teeth.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "44": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The mucosa of the upper larynx is innervated by the\nA. internal laryngeal nerve which is the afferent limb of the cough reflex.\nB. external laryngeal nerve which is the afferent limb of the gag reflex.\nC. internal laryngeal nerve which is the afferent limb of the gag reflex.\nD. external laryngeal nerve which is the afferent limb of the cough reflex.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "45": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The bones of the viscerocranium develop initially by\nA. endochondral ossification and follow the somatic growth pattern.\nB. endochondral ossification and follow the neural growth pattern.\nC. intramembranous ossification and follow the somatic growth pattern.\nD. intramembranous ossification and follow the neural growth pattern.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "46": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The physician directs the medical assistant to complete a request form for an X-ray study of the fibula. The procedure will be performed on which of the following structures?\nA. Heel\nB. Lower leg\nC. Toes\nD. Thigh\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "47": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which cells in the blood do not have a nucleus?\nA. Lymphocyte\nB. Monocyte\nC. Erythrocyte\nD. Basophil\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "48": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The coronal suture joins the\nA. frontal and parietal bones.\nB. left and right parietal bones.\nC. parietal and occipital bones.\nD. parietal, squamous temporal and greater wing of the sphenoid.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "49": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: If you run your finger down the anterior midline of a patient's extended neck from chin to sternal notch, you should be able to palpate, in order, the\nA. hyoid bone, cricoid cartilage, thyroid cartilage.\nB. thyroid cartilage, cricoid cartilage, hyoid bone.\nC. hyoid bone, thyroid cartilage, cricoid cartilage.\nD. thyroid cartilage, hyoid bone, cricoids cartilage.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "50": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following bony structures may be palpated in a live patient?\nA. The supraorbital foramen\nB. The infraorbital foramen\nC. The mental foramen\nD. All of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "51": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following structures accompany the oesophagus through the diaphragm?\nA. The phrenic nerves\nB. The splanchnic nerves\nC. The sympathetic trunks\nD. The vagus nerves\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "52": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which sequence describes the systemic circulation?\nA. Left ventricle \u2192 aorta \u2192 arteries \u2192 veins \u2192 capillaries\nB. Left ventricle \u2192 aorta \u2192 arteries \u2192capillaries \u2192 veins\nC. Right ventricle \u2192 pulmonary trunk \u2192 arteries \u2192 capillaries \u2192veins\nD. Right ventricle \u2192 pulmonary trunk \u2192 arteries \u2192 veins \u2192 capillaries\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "53": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The anatomic location of the spinal canal is\nA. caudal\nB. dorsal\nC. frontal\nD. transverse\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "54": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The parotid duct runs\nA. deep to masseter and enters the mouth opposite the upper second molar.\nB. superficial to masseter and enters the mouth opposite the upper second molar.\nC. deep to masseter and enters the mouth opposite the upper second premolar.\nD. superficial to masseter and enters the mouth opposite the upper second premolar.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "55": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: If the foot is abducted, it is moved in which direction?\nA. Inward\nB. Outward\nC. Upward\nD. Downward\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "56": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The infraorbital nerve\nA. is a terminal branch of the maxillary division of the trigeminal nerve.\nB. is a terminal branch of the maxillary branch of the facial nerve.\nC. carries parasympathetic secretomotor neurons to the lacrimal gland.\nD. innervates the inferior part of the orbicularis oculi muscle.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "57": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following best describes the process whereby the stomach muscles contract to propel food through the digestive tract?\nA. Absorption\nB. Emulsion\nC. Peristalsis\nD. Regurgitation\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "58": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is the point at which an impulse is transmitted from one neuron to another neuron?\nA. Dendrite\nB. Glial cell\nC. Nerve center\nD. Synapse\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "59": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following muscles initiates elevation of the mandible?\nA. Masseter\nB. Temporalis\nC. Lateral pterygoid\nD. Medial pterygoid.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "60": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is an accessory organ of the gastrointestinal system that is responsible for secreting insulin?\nA. Adrenal gland\nB. Gallbladder\nC. Liver\nD. Pancreas\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "61": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: A malignant tumour is damaging the patient's glossopharyngeal nerve. They will experience\nA. loss of taste over the anterior two-thirds of the tongue.\nB. loss of somaesthetic sensation over the anterior two thirds of the tongue.\nC. loss of taste and somaesthetic sensation over the posterior third of the tongue.\nD. paralysis of the muscles of the tongue.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "62": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: A possible effect of damage to the third cranial nerve by trauma to the orbit is\nA. a convergent strabismus.\nB. ptosis.\nC. pupillary contriction.\nD. bitemporal hemianopia.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "63": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Blood flows from the right ventricle of the heart into which of the following structures?\nA. Inferior vena cava\nB. Left ventricle\nC. Pulmonary arteries\nD. Pulmonary veins\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "64": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: A patient is stabbed in the neck. You suspect damage to the accessory nerve in the posterior triangle. You would test nerve function by asking the patient to\nA. extend their neck against resistance.\nB. extend their neck without impairment.\nC. lift their shoulders against resistance.\nD. lift their shoulders without impairment.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "65": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following muscles are derived from the first brachial arch?\nA. The muscles of mastication\nB. The muscles of mastication and anterior belly of digastric\nC. The muscles of mastication and anterior and posterior bellies of digastric\nD. The muscles of mastication, anterior and posterior bellies of digastric and geniohyoid\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "66": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following best describes the location where the carotid pulse can be found?\nA. In front of the ears and just above eye level\nB. In the antecubital space\nC. In the middle of the groin\nD. On the anterior side of the neck\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "67": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: In the brain stem, pathways for:\nA. nociception decussate in the medial lemniscus\nB. skilled movements decussate in the medial lemniscus\nC. skilled motor movements decussate in the pyramids.\nD. discriminative touch decussate in the pyramids.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "68": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The respiratory tract is crossed by the isthmus of the thyroid gland at the level of the\nA. thyroid cartilage.\nB. cricothyroid membrane.\nC. cricoid cartilage.\nD. tracheal rings.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "69": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: You notice a lesion on the labial alveolar mucosa of the lower right lateral incisor tooth of one of your patients and decide to take a biopsy to send for oral pathology report Which nerve would require local anaesthesia in order to carry out a pain-free biopsy?\nA. The incisive nerve\nB. The mental nerve\nC. The buccal nerve\nD. The lingual nerve\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "70": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The major concentrations of proprioceptive receptors providing information about position of the TMJ are located in\nA. the capsule and ligaments of the TMJ and the medial pterygoid muscle.\nB. the capsule and ligaments of the TMJ and the lateral pterygoid muscle.\nC. the articular disc of the TMJ and the medial pterygoid muscle.\nD. the articular disc of the TMJ and the lateral pterygoid muscle.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "71": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is a substance that aids the transmission of nerve impulses to the muscles?\nA. Acetylcholine\nB. Cholecystokinin\nC. Deoxyribose\nD. Oxytocin\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "72": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: In the spinal cord, motor neuron cell bodies are located in\nA. Lamina I.\nB. Lamina II.\nC. Lamina V.\nD. Lamina IX\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "73": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: When you examine a patient who has suffered an unfavourable fracture of the body of the mandible, you would expect the\nA. anterior fragment to be displaced downwards by the action of the digastric muscle.\nB. posterior fragment to be displaced anteriorly by the action of the lateral pterygoid muscle.\nC. anterior fragment to be displaced backwards by action of the temporalis muscle.\nD. posterior fragment to be displaced medially by action of the medial pterygoid muscle.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "74": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Examination of a patient indicates that they have a medially directed strabismus (squint). This could be due to damage to the\nA. oculomotor nerve.\nB. trochlear nerve.\nC. ophthalmic trigeminal nerve.\nD. abducens nerve.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "75": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: A patient cuts a peripheral motor nerve in their wrist when they fall through a plate glass window. If the nerve does not regenerate, after about 6 months the muscles it normally innervates will show signs of which of the four options below?\nA. spastic paralysis\nB. flaccid paralysis\nC. atrophy\nD. contracture\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "76": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: A patient suffers a CVA in the area of the left internal capsule conveying motor neurons to the right leg. The patient's leg will exhibit\nA. spastic paralysis.\nB. flaccid paralysis.\nC. tremor.\nD. hyporeflexia.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "77": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The crown of a very carious tooth suddenly fractures while the patient is standing eating at a take-away food outlet and a fragment is inhaled. It is more likely to enter the\nA. right lung because the right main bronchus is wider and more vertical than the left.\nB. left lung because the left main bronchus is wider and more vertical than the right.\nC. right lung or left lung because the two main bronchi are of equal size and at the same angulation.\nD. right or left lung because there are no factors predisposing to the fragment going in one particular direction.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "78": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Calcium, potassium, and sodium are classified as which of the following?\nA. Androgens\nB. Catecholamines\nC. Electrolytes\nD. Estrogens\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "79": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Noradrenaline is the neurotransmitter between which of the two structures below?\nA. parasympathetic pre- and post-ganglionic neurons\nB. sympathetic pre- and post-ganglionic neurons\nC. parasympathetic post-ganglionic neurons and target organs\nD. sympathetic post-ganglionic neurons and target organs\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "80": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following are mucus-producing glands located on each side of the vaginal opening?\nA. Adrenal\nB. Bartholin's\nC. Bulbourethral\nD. Corpus luteum\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "81": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: When an emergency opening into the airway is required, the cricothyroid membrane should be pierced immediately\nA. superior to the thyroid cartilage.\nB. inferior to the thyroid cartilage.\nC. inferior to the cricoid cartilage.\nD. superior to the thyroid isthmus.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "82": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Cerebrospinal fluid circulates around the brain between the\nA. skull and dura mater.\nB. dura mater and arachnoid mater.\nC. arachnoid and pia maters.\nD. pia mater and brain surface.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "83": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following closes and seals off the lower airway during swallowing?\nA. Alveoli\nB. Epiglottis\nC. Larynx\nD. Uvula\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "84": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which orbital wall is most likely to collapse in a 'blow out' fracture?\nA. The roof\nB. The floor\nC. The lateral wall\nD. The medial wall\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "85": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The walls of the maxillary sinus are sinus is related to\nA. the floor of the orbit.\nB. the floor of the orbit and the upper posterior teeth.\nC. the floor of the orbit, the upper posterior teeth and the infratemporal fossa.\nD. the floor of the orbit, the upper posterior teeth, the infratemporal fossa and the hard palate.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "86": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of one of the following statements about the postnatal growth of the maxilla is correct?\nA. Pneumatisation by enlargement of the developing maxillary sinus ceases at puberty\nB. Space is created for the eruption of the permanent molars by resorption of the maxillary tuberosity\nC. The zygomaticomaxillary sutures contribute to increase in height and length of the maxilla\nD. The intermaxillary suture closes about eight years postnatally\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "87": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The seventh cranial nerve supplies\nA. taste buds on the posterior third of the tongue.\nB. muscles of the soft palate.\nC. muscles of the lower lip.\nD. the parotid salivary gland.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "88": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following paranasal sinuses open into the middle meatus?\nA. The anterior ethmoidal sinuses\nB. The anterior ethmoidal and frontal sinuses\nC. The anterior ethmoidal, frontal and maxillary sinuses\nD. The anterior ethmoidal, frontal, maxillary and sphenoidal sinuses\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "89": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is a structural, fibrous protein found in the dermis?\nA. Collagen\nB. Heparin\nC. Lipocyte\nD. Melanin\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "90": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Palatine shelf elevation is due to the effect of\nA. descent of the tongue.\nB. changes in flexure of the developing brain.\nC. hydrophilic molecules increasing turgor pressure in the palatine shelves.\nD. a combination of these three processes.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "91": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: On which surfaces of the teeth is dental plaque most likely to accumulate in the mouth of a patient with poor oral hygiene?\nA. The palatal surfaces of the upper molars and lingual surfaces of the lower incisors.\nB. The buccal surfaces of the upper molars and lingual surfaces of the lower incisors.\nC. The palatal surfaces of the upper molars and labial surfaces of the lower incisors.\nD. The buccal surfaces of the upper molars and labial surfaces of the lower incisors.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "92": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Laryngeal oedema is usually confined to the larynx above the vocal folds because\nA. there are numerous mucous glands in the vestibular folds.\nB. the mucosa covering the vocal folds is tightly attached to underlying tissues.\nC. fluid will drain rapidly into the thorax below the vocal folds.\nD. the mucosa above the vocal folds is more vascular than that below the vocal folds.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "93": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The coronary arteries\nA. arise from the arch of the aorta and fill during diastole.\nB. arise from the ascending aorta and fill during systole.\nC. arise from the arch of the aorta and fill during systole.\nD. arise from the ascending aorta and fill during diastole.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "94": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which muscle is the most active during a right lateral excursion of the mandible?\nA. Left lateral pterygoid muscle\nB. Right lateral pterygoid muscle\nC. Left medial pterygoid muscle\nD. Right medial pterygoid muscle\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "95": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The phrenic nerves innervate the\nA. diaphragm.\nB. diaphragm and parietal pleura.\nC. diaphragm, parietal pleura and pericardium.\nD. diaphragm, parietal pleura, pericardium and intercostals muscles.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "96": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Parasympathetic preganglionic nerves leave the central nervous system with the\nA. third cranial nerves.\nB. fourth cranial nerves.\nC. fifth cranial nerves.\nD. sixth cranial nerves.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "97": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: In a patient with a normal healthy mouth, you would expect the mucosa covering the alveolar process supporting the mandibular teeth to be\nA. light pink in colour on both sides of the mucogingigival junction.\nB. light pink below the mucogingival junction and red above it.\nC. red below the mucogingival junction and light pink above it.\nD. red on both sides of the mucogingival junction.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "98": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Macrostomia results from failure of fusion of\nA. maxillary and mandibular processes.\nB. left and right mandibular processes.\nC. maxillary and frontonasal processes.\nD. mandibular and hyoid arches.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "99": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: You suspect that your patient has an enlarged submandibular salivary gland. You expect the enlarged gland\nA. to be palpable intraorally..\nB. to be palpable extraorally.\nC. to be palpable both intra- and extraorally.\nD. only to be detectable by radiographical examination.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "100": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Osteoclasts\nA. deposit bone and differentiate from periosteal mesenchymal cells.\nB. resorb bone and differentiate from periosteal mesenchymal cells.\nC. deposit bone and differentiate from monocytes.\nD. resorb bone and differentiate from monocytes.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "101": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The lateral pterygoid muscle\nA. is attached to the coronoid process and elevates the mandible.\nB. is attached to the condylar process and elevates the mandible.\nC. is attached to the coronoid process and protrudes the mandible.\nD. is attached to the condylar process and protrudes the mandible.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "102": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: In the fetus, the ductus arteriosus passes blood from the\nA. pulmonary vein to the aorta.\nB. aorta to pulmonary vein.\nC. pulmonary artery to the aorta.\nD. aorta to the pulmonary artery.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "103": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following bones develop by endochondral ossification?\nA. The ribs\nB. The ribs and sternum\nC. The ribs, sternum and clavicle\nD. The ribs, sternum, clavicle and vertebrae\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "104": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The mucosa of the hard palate is\nA. keratinised and has submucosa and minor salivary glands posterolaterally.\nB. non-keratinised and has submucosa and minor salivary glands posteromedially.\nC. keratinised and lacks submucosa and minor salivary glands.\nD. non-keratinised and lacks submucosa and minor salivary glands.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "105": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The head of the sixth rib articulates with\nA. The inferior articular facet of T5 and superior articular facet of T6.\nB. The inferior articular demifacet of T5 and superior articular facet of T6.\nC. The inferior articular demifacet of T5 and the superior articular demifacet of T6.\nD. The superior and inferior demifacets of T6.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "106": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is located beneath the diaphragm in the left upper quadrant of the abdominal cavity?\nA. Appendix\nB. Duodenum\nC. Spleen\nD. Pancreas\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "107": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Proprioceptive nerve endings in synovial joints are located in\nA. articular cartilage and synovial membrane.\nB. synovial membrane and capsule.\nC. capsule and ligaments.\nD. ligaments and articular discs.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "108": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The thoracic cage is a structural unit important for which of the following functions?\nA. Alimentation\nB. Menstruation\nC. Mentation\nD. Respiration\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "109": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: A patient is admitted after a head injury and sinks rapidly into a coma. An MRI scan indicates an extradural haemorrhage because extravasated blood can be detected between the\nA. skull bones and dura mater.\nB. dura mater and arachnoid.\nC. arachnoid and pia mater.\nD. pia mater and brain surface.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "110": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: A successful infraorbital nerve block will produce anaesthesia of the\nA. maxillary anterior teeth.\nB. maxillary anterior teeth and their labial gingivae.\nC. maxillary anterior teeth, their labial gingivae and the upper lip.\nD. maxillary anterior teeth, their labial gingivae, the upper lip and anterior hard palate.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "111": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following foramina pierce the sphenoid bone?\nA. The foramen ovale\nB. The foramen ovale and rotundum\nC. The foramen ovale, rotundum and spinosum\nD. The foramen ovale, rotundum and spinosum and foramen lacerum\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "112": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is a disorder characterized by uncontrollable episodes of falling asleep during the day?\nA. Dyslexia\nB. Epilepsy\nC. Hydrocephalus\nD. Narcolepsy\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "113": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following allows gas exchange in the lungs?\nA. Alveoli\nB. Bronchi\nC. Bronchioles\nD. Capillaries\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "114": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: A patient has a fracture in which the radius is bent but not displaced, and the skin is intact. This type of fracture is known as which of the following?\nA. Closed, greenstick\nB. Complex, comminuted\nC. Compound, transverse\nD. Open, spiral\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "115": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Fertilization of an ovum by a spermatozoon occurs in which of the following structures?\nA. Cervix\nB. Fallopian tube\nC. Ovary\nD. Uterus\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "116": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Ectoderm gives rise to\nA. the neural tube.\nB. ectomesenchymal cells.\nC. dental enamel.\nD. all three structures.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "117": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: In men, which of the following structures is located at the neck of the bladder and surrounds the urethra?\nA. Epididymis\nB. Prostate\nC. Scrotum\nD. Seminal vesicle\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "118": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following options completes the following statement? \"The right atrioventricular valve\u2026\"\nA. is a semilunar valve\nB. is prevented from everting by papillary muscles.\nC. is open during systole.\nD. prevents blood returning from the pulmonary trunk as the heart relaxes.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "119": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which one of the following brain areas is supplied by branches of the subclavian arteries?\nA. The frontal lobe\nB. The parietal lobe\nC. The hypothalamus\nD. The cerebellum\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "120": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following structures is part of the small intestine?\nA. Ascending colon\nB. Cecum\nC. Ileum\nD. Sigmoid colon\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "121": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: During an inferior alveolar nerve block the needle ideally passes\nA. posterior and medial to medial pterygoid.\nB. anterior and lateral to medial pterygoid.\nC. through medial pterygoid.\nD. inferior to medial pterygoid.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "122": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Patients with which of the following diseases are treated with injections of vitamin B-12?\nA. Bell's palsy\nB. Crohn's disease\nC. Pernicious anemia\nD. Graves' disease\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "123": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following bones has a process that joins with the zygomatic bone to form the zygomatic arch?\nA. The maxillary bone\nB. The temporal bone\nC. The sphenoid bone\nD. The frontal bone\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "124": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Parasympathetic preganglionic axons leave the CNS with the\nA. cervical spinal nerves.\nB. thoracic spinal nerves.\nC. lumbar spinal nerves.\nD. sacral spinal nerves.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "125": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: A patient with damage to their cervical sympathetic chain will show the following signs and symptoms.\nA. Pupillary constriction\nB. Pupillary constriction and vasodilation of facial vessels\nC. Pupillary constriction, vasodilation of facial vessels and increased facial sweating\nD. Pupillary constriction, vasodilation of facial vessels, increased facial sweating and decreased lacrimation\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "126": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following cranial nerves is related to the sense of smell?\nA. Abducens\nB. Hypoglossal\nC. Olfactory\nD. Trochlear\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "127": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Where are the vital centres located in the brainstem?\nA. midbrain\nB. pons\nC. medulla oblongata\nD. cerebellum\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "128": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Saliva contains an enzyme that acts upon which of the following nutrients?\nA. Starches\nB. Proteins\nC. Fats\nD. Minerals\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "129": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: During swallowing the\nA. auditory tube opens.\nB. cricopharyngeus muscle contracts.\nC. rima glottis opens.\nD. gag reflex is suspended.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "130": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: The dorsal roots of all spinal nerves contain\nA. sensory neuronal processes.\nB. sensory and autonomic neuronal processes.\nC. motor neuronal processes.\nD. motor and autonomic neuronal processes.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "131": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is the master gland of the endocrine system?\nA. Adrenal\nB. Pancreas\nC. Pineal\nD. Pituitary\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "132": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Loss of somatic sensation over the anterior two-thirds of the tongue indicates damage to the\nA. lingual branch of the mandibular trigeminal nerve.\nB. chorda tympani branch of the facial nerve.\nC. lingual branch of the glossopharyngeal nerve.\nD. hypoglossal nerve.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "133": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: In men, specimens for gonococcal cultures are most commonly obtained from which of the following structures?\nA. Anus\nB. Bladder\nC. Urethra\nD. Testicle\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "134": {
+        "origin_prompt": "There is a single choice question about anatomy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following structures should be visible on a dental panoramic radiograph?\nA. The mandibular canal\nB. The mandibular canal and maxillary sinus\nC. The mandibular canal, maxillary sinus and hard palate\nD. The mandibular canal, maxillary sinus, hard palate and zygomatic arch\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    }
+}

@@ -1,0 +1,1117 @@
+{
+    "0": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The study of older adults and aging is referred to as\nA. Gerontology\nB. Geropsychiatry\nC. Geriatrics\nD. Gero-education\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "1": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following factors is associated with a decreased risk of Alzheimer's?\nA. Being African or Hispanic American\nB. Eating fish\nC. A lower level of education\nD. Being married\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "2": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The docility hypothesis is that\nA. Those with low capabilities are more vulnerable to environmental demands\nB. Those who experience high environmental demands become more docile\nC. Those who experience high environmental demands become less docile\nD. Those with less capability are less vulnerable to environmental demands\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "3": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Normal memory seems to be improved by\nA. Aerobic exercise\nB. Taking acetylcholine\nC. Taking gingko\nD. Increasing social contacts\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "4": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The perspective that development is embedded in history means that\nA. Change can always occur regardless of age\nB. Sociocultural conditions must always be considered\nC. Development in any particular areas (e.g., social) is tied to development in other areas (e.g., cognitive)\nD. Some characteristics change with age while others do not\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "5": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The answer \"both play an important role\" is clearly applicable to the question of\nA. Nature vs. nurture\nB. Mechanistic vs organismic\nC. Continuity vs. discontinuity\nD. All of these questions\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "6": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following does NOT usually occur to the lens of the eye as one grows older?\nA. It becomes thicker\nB. It yellows\nC. It becomes clouded\nD. It fills with fluid\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "7": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The houses of the future may allow you to operate virtually everything in the house from a central terminal; such a house is already in production and is referred to as\nA. Technohouse\nB. Compuhouse\nC. Futurehouse\nD. Smarthouse\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "8": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The reaction time difference between younger and older adults is reduced when older adults\nA. Practice regular aerobic exercise\nB. Lift weights on a regular schedule\nC. Consume large quantities of vitamins\nD. Practice Tai chi\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "9": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: A major difference between programmed and unprogrammed theories of senescence is that programmed theories\nA. Attribute senescence only to environmental factors\nB. Are far too difficulty to test\nC. Claim that senescence follows a predetermined plan\nD. Rely too heavily on computer models\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "10": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: One reason that older adults show high levels of optimism is that\nA. Many pessimists die at a younger age\nB. They do not really know what is going on\nC. This may be a warning sign for dementia\nD. Our measures have low validity\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "11": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Bu is often late for appointments but says it's because she had more important things on her mind. This is an example of which coping strategy?\nA. Immunization\nB. Accommodation\nC. Avoidance\nD. Assimilation\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "12": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is most strongly associated with loss of bone density?\nA. Genetic factors\nB. Lifestyle factors like not exercising\nC. Hormonal factors such as loss of estrogen\nD. Cohort factors\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "13": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: That super sweet iced tea that your grandmother gives you might be that way because she\nA. Has lost a lot of sweet taste buds and cannot taste sweetness as well anymore\nB. Is a member of that cohort that really enjoys sweets\nC. Is trying to get you to be a little sweeter than you have been in the past\nD. Has experienced damage in her parietal lobe where sweet sensations are directed\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "14": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: A shortage of these two vitamins can produce symptoms that mimic dementia:\nA. A and C\nB. B6 and B12\nC. B6 and D\nD. B12 and E\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "15": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is one of McAdam's levels of personality?\nA. Control\nB. Identity\nC. Generativity\nD. Assimilation\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "16": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: In this chapter's Senior View, Dr. Donham told us that mental stimulation, exercise, diet, and what other factor is important for long life?\nA. Moderate amounts of alcohol\nB. Social support\nC. Good genes\nD. Avoiding stress\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "17": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Surveys of older adults who are living together show that they tend to view cohabitation as\nA. A first step toward eventual marriage\nB. An alternative to marriage\nC. A way to save on expenses\nD. Their swan song\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "18": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Older adults may be more attached to a place than younger adults because\nA. That place holds many memories\nB. It's much harder to move when you're older\nC. Young adults pay less attention to place then do older adults\nD. That place represents transcendence\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "19": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The Hayflick number for human cells is\nA. Unknown\nB. Between 45 and 55\nC. Less than 30\nD. More than 60\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "20": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: High levels of self-care behaviors have been associated with high levels of\nA. Neuroticism\nB. Extraversion\nC. Agreeableness\nD. Secondary control\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "21": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Research has offered some longitudinal as well as cross sectional support for the theory put forth by\nA. Peck\nB. Foos\nC. Levenson\nD. Erikson\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "22": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is more likely to be a cohort, rather than an age, difference?\nA. A higher proportion of older women have completed menopause\nB. A smaller proportion of older women report dreams about sex\nC. A higher proportion of older men are bald\nD. A higher proportion of older men and women are victims of cancer\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "23": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Fear of aging has been associated with high levels of\nA. Introversion\nB. Neuroticism\nC. Rigidity\nD. Mid-life crisis\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "24": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: In which dementia are cognitive symptoms less likely?\nA. Parkinson's\nB. Pick's\nC. Huntington's\nD. NeuroAIDS\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "25": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: In this chapter's Senior View, Dr. Shealy advises you to\nA. Stay in school\nB. Eat the right foods\nC. Get plenty of exercise\nD. Find a high paying job\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "26": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: When your sister Patricia was feeling depressed, you comforted her and reminisced about happier times. You provided which type of social support?\nA. Emotional\nB. Instrumental\nC. Informational\nD. Friendly\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "27": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Hearing loss occurs more frequently for\nA. Men than women\nB. Women than men\nC. People who already have some loss of vision\nD. People who are obese\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "28": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Continued stress is damaging to health and longevity because it leads to\nA. Over exercising which causes physical damage\nB. Suppression of the immune system\nC. Less eating and, in many cases, severe eating disorders\nD. Risky behaviors such as speeding and not using a seat belt\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "29": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: One difference that seems to be mostly cohort rather than age is the difference in ____ for different age groups\nA. Coping strategies\nB. Work productivity\nC. Rates of dementia\nD. Personality traits\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "30": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: According to Tat Kleckley of this chapter's Senior View, the most important part of the healing process for those who are bereaved is to\nA. Stay away from other people for a while\nB. Get out and be active\nC. Talk about your loss\nD. Make new friends who don't know about your loss\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "31": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Social support is most likely to have a positive influence on health and well being when it is\nA. Very emotional\nB. Perceived as support\nC. Unexpected\nD. External rather than internal\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "32": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Free radicals are produced by\nA. Normal metabolism\nB. Excess consumption of Vitamins A and C\nC. Lack of sunlight\nD. A weakened immune system\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "33": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Prejudice or bias against older adults is referred to as\nA. Ageism\nB. Oldism\nC. Age bigotry\nD. Senilism\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "34": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The program that takes over care for those with 6 or fewer months to live, attempts to keep them at home, provides pain relief, and ends all life-prolonging technologies is called\nA. Euthanasia\nB. Cryonics\nC. Medicare\nD. Hospice\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "35": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Loss of smell for adults 80 and older is\nA. Very infrequent (less than 15%)\nB. Very frequent (more than 75%)\nC. Infrequent (less than 40%)\nD. Frequent (close to 50%)\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "36": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Activation of a class of genes called sirtuins may help to\nA. Prevent some diseases\nB. Ward off dementias\nC. Increase memory and intelligence\nD. Produce emotional stability\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "37": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Elder abuse most frequently comes from the older adult's\nA. Spouse\nB. Children\nC. Grandchildren\nD. Neighbors\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "38": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Projective tests generally ___ than objective tests of personality.\nA. Have higher reliability\nB. Are more visual\nC. Are more valid\nD. Provide more information\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "39": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Cells in the eye that respond to low levels of illumination are called\nA. Rods\nB. Cones\nC. Retinal cells\nD. Nocturnal detectors\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "40": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Some work on age stereotypes suggests that\nA. Positive ones are stronger\nB. Negative ones are stronger\nC. They never last very long\nD. They are very rare\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "41": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following could very well be a cohort difference rather than a change that occurs with age?\nA. Differences in weight\nB. Shrinkage of the thymus gland\nC. Enlargement of the heart\nD. Increasing size of nose and ears\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "42": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The major question concerning aging and personality is:\nA. Do older adults still have personalities?\nB. Does personality change with age?\nC. Does personality decline as we grow older?\nD. Does personality increase of decrease with age?\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "43": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: A researcher who wants to examine both age and cohort differences is advised to use a _____ design.\nA. Cross-sectional\nB. Cross-sequential\nC. Correlational\nD. Quasi-experimental\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "44": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is NOT one of the most rewarding aspects of being a grandparent as reported by grandparents?\nA. Feelings of immortality\nB. Spoiling the grandchildren\nC. Having others to wait on you\nD. Remembering when they were grandchildren\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "45": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Of the following animals, which has the longest life span by current measures?\nA. Gorilla\nB. Blue whale\nC. Dog\nD. Queen honey bee\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "46": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: One advantage of an expected death over an unexpected death is that\nA. One can use up some grief before the actual loss\nB. One can make funeral and estate plans with the loved one\nC. One can find ways to avoid having the same death for themselves\nD. One can assist the terminally ill person in speeding their death\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "47": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Changes in the reproductive system are more _____ for men but not for women\nA. Mechanistic\nB. Continuous\nC. Organismic\nD. Nurturant\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "48": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following hormones has not yet been claimed to ward off senescence?\nA. DHEA\nB. Human growth hormone\nC. Melatonin\nD. Viasterol\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "49": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The majority of older widows live\nA. Alone\nB. With children\nC. With a friend\nD. In an institution\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "50": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Centenarians are people who\nA. Were born before the centennial\nB. Study old age and older adults\nC. Are 100 or more years old\nD. Have not yet reached old age\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "51": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Quantitative analyses of TV shows have shown that\nA. Older adults are almost always portrayed in a negative way\nB. The more positive portrayals occur during commercials\nC. The proportion of older men is particularly low\nD. The proportion of older women is particularly low\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "52": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following groups of Americans have the lowest rate of alcohol abuse?\nA. African-American\nB. White\nC. Native-American\nD. Asian-American\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "53": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: If you believe that changes occur slowly and steadily throughout life, you would be holding the _____ side of this view of development.\nA. Mechanistic\nB. Organismic\nC. Continuity\nD. Stability\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "54": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: All other things being equal, which of the following persons is likely to live the longest?\nA. A black man\nB. A white man\nC. A black woman\nD. A white woman\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "55": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following age differences could be, in part, a cohort effect? Differences in\nA. Depression\nB. Alcoholism\nC. Dementia\nD. Suicide\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "56": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Clifford and Lucia Pauling, in Senior View, told us that physical changes\nA. Are rapid and frightening\nB. Can be offset by meditation\nC. Take a long time\nD. Should not be discussed in public\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "57": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The biggest and most dangerous changes in the cardiovascular system take place in the\nA. Heart\nB. Blood vessels\nC. Red blood cells\nD. Plasma\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "58": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Older adults generally perform very well when their _____ memory is tested.\nA. Episodic\nB. Working\nC. Retrospective\nD. Semantic\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "59": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: With respect to marital satisfaction, most long lasting marriages\nA. Show high satisfaction through all the years of marriage\nB. Show high satisfaction that steadily declines as the years pass\nC. Show lower levels during the years when children are present\nD. Show ups and downs throughout the marriage\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "60": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Theories\nA. Are not very important in aging research\nB. Attempt to explain findings and guide future research\nC. Have never been adequately tested\nD. Have been around for a long time but have only recently been tested\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "61": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The least favored theory of senescence among researchers is the _____ theory\nA. Free radical\nB. Biological clock\nC. Wear and tear\nD. Garbage accumulation\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "62": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: A researcher finds that age is negatively correlated with cigarette smoking; this means that\nA. Older adults experience more negative effects from smoking that do younger adults\nB. Older adults smoke more than younger adults\nC. Older adults smoke less than younger adults\nD. Older and younger adults smoke about the same number of cigarettes and both experience negative effects\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "63": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: When a researcher takes part in the situation he or she is observing, he or she is said to be a(n)\nA. Active observer\nB. Participant observer\nC. Indiscreet observer\nD. Meddling observer\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "64": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The term \"work-family conflict\" for middle-aged adults can occur when they must\nA. Care for an ailing parent while continuing to work\nB. Work a high stress job while their children are at home\nC. Pay for nursing home care by sacrificing their own care\nD. Serving as an executor of their parent's estate while still working full time\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "65": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Do traits change with age?\nA. No\nB. They change a little\nC. Only for women\nD. They change quite a lot\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "66": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The cause of Alzheimer's appears to be\nA. Mostly environmental\nB. Aluminum\nC. Mostly genetic\nD. Apo-E 4\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "67": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Older married men have been found to have\nA. Higher levels of positive emotions\nB. Lower levels of positive emotions\nC. Higher levels of negative emotions\nD. Lower levels of negative emotions\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "68": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Within the United States, which location has the longest life expectancy?\nA. California\nB. Florida\nC. Alaska\nD. Hawaii\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "69": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The largest proportion of older adults living alone reside in\nA. Hawaii\nB. Washington, DC\nC. Florida\nD. California\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "70": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which level of personality description appears to show the most change with age?\nA. Traits\nB. Personal concerns\nC. Coping strategies\nD. Identity\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "71": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The positive relationship between religion and physical health is NOT thought to be due to\nA. Social support derived from a religious community\nB. The rules of some religions which forbid unhealthy behaviors\nC. The stress reducing effects of prayerful meditation\nD. The benefits of knowing that others are praying for you\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "72": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Human factors examines the performance of different tasks by examining\nA. The factors that influence performance\nB. The interaction between human and environment\nC. The human side of the equation\nD. The effects of environmental changes on humans\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "73": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Prospective memory refers to memory\nA. For some recent event\nB. For something that happened a long time ago\nC. To do something in the future\nD. For the context and source of remembered information\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "74": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The total number of people who have some disorder divided by the total number of people gives you the ____ rate.\nA. Prevalence\nB. Incidence\nC. Incipient\nD. Diseased\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "75": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Remarriages are\nA. More frequent for woman than men\nB. Typically more successful\nC. Typically less successful\nD. Most common among those who have never been married before\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "76": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: With respect to job training, younger workers\nA. Receive more opportunities than older workers\nB. Perform better on the job than trained older workers\nC. Always learn faster than older workers\nD. Prefer to have classes by themselves\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "77": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: About how many grieving individuals seem to require some professional help?\nA. Less than 10%\nB. About 25%\nC. Nearly half\nD. More than 50%\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "78": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: People with which of the following forms of control are least likely to have accessibility problems where they live?\nA. External\nB. Internal\nC. Primary\nD. Total\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "79": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following has been found to improve balance for older adults?\nA. Tai chi\nB. Aerobic exercise\nC. Weight lifting\nD. Walking briskly\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "80": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The most frequent chronic condition for older adults is\nA. Hypertension\nB. Arthritis\nC. Diabetes\nD. Cataracts\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "81": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Hypokinesia refers to\nA. Severe obesity\nB. Loss of muscle strength and bone density\nC. Increased sensitivity to stress\nD. Social isolation and lack of support\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "82": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: What percentage of older adults report feeling very or often lonely?\nA. 10%\nB. 25%\nC. 50%\nD. 75%\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "83": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: An example of a discontinuous change over the adult years is the change in\nA. Personality\nB. Working memory\nC. Female hormone levels\nD. Male sexuality\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "84": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which leg of the three-legged stool do most retirees have\nA. Pension\nB. Social security\nC. Savings\nD. Assets\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "85": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: One of the most important points made in this chapter is that physical changes\nA. Occur for everyone\nB. Occur more for some and less for others and, within the same person, more for some systems and less for others\nC. Usually occur for very old people but not for very young people\nD. Can be totally avoided if one learns enough about gerontology\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "86": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following forms of dementia has the highest prevalence rate?\nA. Alzheimer's\nB. Vascular\nC. Parkinson's\nD. Fronto-temporal lobe\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "87": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: High levels of social support are strongly associated with\nA. Longevity\nB. Internal control\nC. Culture\nD. Education\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "88": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The term \"cohort\" refers to\nA. An individual's chronological age\nB. A generation of people who lived through major events\nC. A person's gender\nD. A group of people living in the same culture\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "89": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Middle-aged adults appear to be more ____ than older or younger adults\nA. Generative\nB. Neurotic\nC. Agreeable\nD. Certain\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "90": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following improves attitudes toward aging and older adults?\nA. Staying away from older adults\nB. Education about older adults\nC. Travelling to older communities\nD. Watching the portrayals of older adults in movies and on TV\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "91": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: A problem for immune system theories of senescence is\nA. Determining what first causes the senescence in the immune system\nB. Auto-immune disorders are far too rare\nC. That the immune system does not decline with age\nD. The lack of information about senescence in general\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "92": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Those more likely to experience depression after a loss are those who\nA. Are young survivors\nB. Have not previously experienced depression\nC. Have been married more than 40 years\nD. Are in poor health themselves\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "93": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following appears to lower bad cholesterol?\nA. Vitamin D\nB. Niacin\nC. Thiamine\nD. Riboflavin\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "94": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Most people who have used physician assisted suicide have had\nA. Alzheimer's\nB. Health insurance\nC. No family\nD. Clinical depression\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "95": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: A researcher who is interested in the differences between two or more groups of people is most likely to use which of the following approaches?\nA. Quasi-experimental\nB. Longitudinal\nC. Correlational\nD. Cross-sequential\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "96": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Being in bright light during the later parts of the day seems to\nA. Restore normal circadian rhythm\nB. Increase insomnia\nC. Restore deep sleep\nD. Have no real influence on sleep or dreams\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "97": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: A major reason for studying human aging is that\nA. We are all growing older\nB. The number and proportion of older adults is increasing\nC. More job opportunities are available for those with some knowledge of aging\nD. All of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "98": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The model of social support that says that those who are close to you now are likely to be close for the rest of your days is called the ____ model\nA. Consistency\nB. Convoy\nC. Attachment\nD. Train\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "99": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: When older and younger workers have lost their jobs, older workers typically\nA. Find a job quicker because of their greater experience\nB. Take longer to find a new job\nC. Retire rather than search for a new job\nD. Sue the company using the ADEA\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "100": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Our social network refers to\nA. Everyone we know\nB. Those who are closest to us\nC. Those who we have not yet met\nD. Family members\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "101": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Those who survive the loss of another are called the\nA. Survivors\nB. Grieving\nC. Bereaved\nD. Family and friends\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "102": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Financial adjustment to retirement has been most difficult for\nA. Married couples\nB. Single men\nC. Single women\nD. Older adults\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "103": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Socioemotional selectivity theory says that older adults have smaller social networks because they\nA. Are more concerned with those closest to them\nB. Select new network members based on emotional factors\nC. Can no longer get out to select new network members\nD. Are too emotionally involved to spend time with others\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "104": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The gender gap is likely to be associated with male/female differences in\nA. Hormones\nB. Risky behaviors and occupations\nC. Proportion who smoke\nD. All of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "105": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Those cells that build bone are called\nA. Osteoblasts\nB. Osteoclasts\nC. Osteostructs\nD. Osteopori\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "106": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: An increase in neuroticism later in life is a strong predictor of\nA. Mortality\nB. Loss of social support\nC. Cognitive decline\nD. Independence\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "107": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following countries has the longest life expectancy?\nA. U. S. A.\nB. Sweden\nC. Japan\nD. Saudi Arabia\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "108": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which type of reaction time results in the biggest age differences?\nA. Simple\nB. Choice\nC. Complex\nD. Elaborate\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "109": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Gary says he won $1000 in the lottery because he really knows how to pick those numbers. Gary would be said to have a strong ____ locus of control\nA. External, powerful others\nB. Internal\nC. External, chance\nD. Secondary\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "110": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The advanced directive where one specifies the types of medical intervention that are and are not desired is called a\nA. Living will\nB. DNH\nC. DNR\nD. Durable power of attorney\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "111": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: If links between various diseases are found, then future older adults will probably\nA. Take fewer medications\nB. Be able to avoid certain diseases\nC. Pay far less for pharmaceuticals\nD. Pick and choose the disease(s) they want\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "112": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: With respect to hair loss\nA. Men lose but women do not\nB. Men are more systematic than women\nC. Women lose hair less frequently but more rapidly than men\nD. Environmental factors are the main causes\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "113": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: In this chapter's\u00a0Senior View, Pat Shelley told us that you shouldn't retire if\nA. You can't do it right\nB. You're younger than 60\nC. Your family wants you to keep working\nD. You have no hobbies\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "114": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: A person who is not very well organized, rarely sets goals, and frequently puts things off until the last minute would be said to be low on which trait?\nA. Agreeableness\nB. Conscientiousness\nC. Openness\nD. Neuroticism\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "115": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: As working people get closer to retirement they are more likely to\nA. Be absent from work\nB. Invest in craft and hobby books\nC. Do some informal planning\nD. Become irritated and anxious\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "116": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Older adults may show less major depression than younger adults because they\nA. Have learned to cope with loss\nB. See major depression as a stigma\nC. Have very different brain biochemistry\nD. Are no longer concerned with emotional matters\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "117": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The different components of memory should be thought of as\nA. Being very independent\nB. Working one at a time\nC. Working as a system\nD. Taking turns\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "118": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Very rapid disposal of the body, before sundown on the day of the death, is typical of which religion?\nA. Islam\nB. Hindu\nC. Jewish\nD. Tao\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "119": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: An example of an objective test of personality is the\nA. TAT\nB. MMPI\nC. Rorschach ink blot test\nD. McAdams test of levels\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "120": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: When a measure actually quantifies what it claims to measure, we say that it has good\nA. Accuracy\nB. Validity\nC. Reliability\nD. Associative value\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "121": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: In which country do most individuals choose to be cremated?\nA. Japan\nB. U. S. A.\nC. Kenya\nD. Mexico\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "122": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: A possible positive effect of moderate alcohol consumption is that it may\nA. Inhibit the growth of cancers\nB. Promote healing from injuries and illnesses\nC. Keep blood vessels from stiffening\nD. Result in relaxation and lower blood pressure\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "123": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The environmental design that brings pets and plants to nursing homes and young people and children as regular visitors is referred to as\nA. Instrumental Living Design\nB. The Humanistic Choice\nC. Human-Environment Congruence\nD. The Eden Alternative\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "124": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Excess disability refers to symptoms that are\nA. Not due to the disease but due instead to malignant social psychology\nB. In excess of the average for that particular disorder\nC. Found only in the last stage of Alzheimer's\nD. Those that can be successfully treated by medicine if they are caught early enough\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "125": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Well being for younger adults is positively related to which form of control?\nA. Positive reappraisal\nB. Lowering of aspirations\nC. Primary\nD. Internal\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "126": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is NOT one of the major reasons for the increase in numbers of older adults?\nA. The Baby Boom generation\nB. The steadily increasing birth rate\nC. Increases in life expectancy at birth\nD. Increases in life expectancy at a specified age\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "127": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Before we can collect data from other human beings we must make sure that they\nA. Have information that will be worth our effort to collect\nB. Are going to be honest and forthright\nC. Are informed about our study and give their consent to participate\nD. Have been granted permission to participate by the IRB\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "128": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: In this chapter's\u00a0Senior View, May Lee told us that we should all respect our elders because\nA. They are much older than we are\nB. They raised us\nC. They lived through difficult times\nD. They ask nothing in return\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "129": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: One line of evidence against antagonistic pleiotropy is that\nA. Women who have more children tend to live longer\nB. Some animals show little or no senescence\nC. Even tissue cells with longer telomere strands can show senescence\nD. Exercise increases rather than decreases longevity\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "130": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Loss of muscle fiber may be due to loss of neurons which may be due to\nA. Clogged blood vessels\nB. Loss of bone density\nC. Changes in hormone levels\nD. Loss of collagen\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "131": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: After losing a spouse, the surviving spouse often dies within the first year because of\nA. Stress and loss of social support\nB. Having the same disorder as the deceased\nC. The inability to remarry quickly\nD. They have the same defective genes\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "132": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following factors has NOT received as much support as the others in research investigating why social support is related to better health?\nA. Social\nB. Behavioral\nC. Psychological\nD. Gerontological\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "133": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Older adults' coping strategies are generally\nA. Ineffective at solving problems\nB. Variable as they have more strategies\nC. Persistent as they use the same strategy over and over\nD. Narrow as they ignore many aspects of the problem\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "134": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Men are more likely than women to die from\nA. Septicemia\nB. Stroke\nC. Suicide\nD. Influenza\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "135": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The slowing that occurs with advanced age appears to be centered in\nA. The sense organs themselves\nB. The brain\nC. The muscle fibers\nD. The peripheral nervous system\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "136": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: One possible reason that time seems to pass more rapidly for older adults is that\nA. Their memories are poor so they forget to check the time\nB. They have fewer novel experiences\nC. They pay less attention to important events in life\nD. Their lives are full of events which they don't recall at a later time\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "137": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: If we found that adult age was significantly and positively correlated with consumption of herbal teas, we could conclude that\nA. Drinking herbal teas makes one grow older more slowly\nB. Becoming older causes one to begin or increase consumption of herbal teas\nC. Older adults drink less herbal tea than do younger adults\nD. Older adults drink more herbal tea than do younger adults\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "138": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The initials ADL stand for\nA. Activities of Daily Living\nB. American Disease Legion\nC. Always Delay Learning\nD. Ancient Dependent Ladies\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "139": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The dementia that results from a long-term deficiency of thiamine is one type of ____ dementia\nA. Alzheimer's\nB. Korsakoff's\nC. Creutzfeldt-Jakob\nD. Lewy body\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "140": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The initial length of telomere stand for members of a species is\nA. Always the same\nB. Determined genetically\nC. Dependent upon climate and time of year at birth\nD. Determined by parent diet and exercise\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "141": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The current record for longest lived human being is held by\nA. Jeanne Calment\nB. Maggie Kuhn\nC. Maria Esther de Capovilla\nD. M. Cherie Clark\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "142": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Glaucoma refers to the condition in which\nA. Fluid pressure in the eye is above normal\nB. Inner and outer layers of the retina separate\nC. The lens becomes cloudy and opaque\nD. The central part of the retina no longer functions\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "143": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Workers in which of the following jobs still have mandatory retirements once they reach a certain age?\nA. Cab drivers\nB. Fire fighters\nC. Insurance regulators\nD. Computer programmers\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "144": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Validation therapy refers to treatments in which the person with dementia\nA. Is carefully monitored day and night\nB. Is treated like a fellow human being\nC. Is left alone to die peacefully\nD. Is given double or triple doses of medication\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "145": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Surveys of bereaved individuals have found that one of the things that is reported as being most helpful is when others\nA. Avoid any discussion of the deceased\nB. Remain in close contact\nC. Stay away and let the person grieve\nD. Change the home environment for the bereaved\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "146": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: An example of a gain, rather than a loss, that occurs as we grow older is our gain in\nA. Perspective\nB. Quickness\nC. Size of our social networks\nD. Certainty\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "147": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following appears to remain relatively stable over the adult years?\nA. Sensory memories\nB. Personal concerns\nC. Marital strain\nD. Job satisfaction\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "148": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is always the longest?\nA. Life expectancy at birth (LEAB)\nB. Life span\nC. Life expectancy at a specified age (LEASA)\nD. There is no way of knowing\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "149": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Of the following, which is the more frequent stereotype of older adults?\nA. Full of wisdom and knowledge\nB. Healthy and independent\nC. Confused and disoriented\nD. Sleepy and lazy\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "150": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: One reason that older adults may have difficulty in retrieving memories is that\nA. Long-term memory often discards older and unused memories\nB. There are many more memories to search through to find the one that is sought\nC. Older adults quit searching because they have more important things to do\nD. Memory is less well organized as we grow older and finding a memory can be quite difficult\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "151": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Even a small amount of sleep deprivation seems to\nA. Increase weight\nB. Improve sleep quality\nC. Disrupt attention the next day\nD. Increase irritability\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "152": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: NEAT may be one way in which some people are able to maintain a healthy BMI; NEAT refers to\nA. Eating the right kinds of low calorie foods\nB. Daily activities like walking, gesturing, and even fidgeting\nC. Intense aerobic exercise practiced at least 3 times a week\nD. Surgical removal of fatty tissue\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "153": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Over the last decade or two, which of the following causes of death has shown a huge increase?\nA. Alzheimer's\nB. Cancer\nC. Cardiovascular diseases\nD. Homicide\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "154": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following statements is TRUE concerning older workers' job performance?\nA. Older workers always perform better because of their vast experience\nB. Older workers never perform better than younger workers because with age, a worker's skills decline.\nC. Job performance for older workers depends both upon the decline of skills and the benefits of experience\nD. Most jobs are performed better by younger adults but a few are performed better by older adults\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "155": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Older adults' negative beliefs about their own memories seem to be more influenced by _____ than by their actual performance on memory tests\nA. Negative stereotypes about older memory\nB. Time of day and weather conditions\nC. Who they are speaking with\nD. Their slower processing speed\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "156": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is NOT one of the more frequently named activities by those who are retired?\nA. Volunteering\nB. Travel\nC. Redoing the home\nD. Household chores\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "157": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The retirement phase that occurs least frequently is the ____ phase\nA. Disenchantment\nB. Honeymoon\nC. Retirement routine\nD. Preretirement\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "158": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is the most important variable for gerontological researchers?\nA. Age\nB. Gender\nC. Cohort\nD. Time of measurement\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "159": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following does NOT increase the risk of falling?\nA. Taking many prescription medications\nB. Visual impairment\nC. Having no emotional support\nD. A change in walking style or gait\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "160": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The main reason given by men and women for their long lasting marriage is that\nA. They are best friends\nB. They must fulfill their vows\nC. They agree on almost everything\nD. They owe it to their children\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "161": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: An older adult who has received a message (e.g., it's going to rain tomorrow) would be most likely to remember what when telling another person?\nA. The person who told them it would rain\nB. Where they were when they received the message\nC. The contents of the message\nD. The time of day that the message was received\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "162": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The lifespan perspective says that development is composed of gains and losses; this means that\nA. We gain while we are younger but lose when we are older\nB. We gain some things and lose others at every age\nC. For every aspect of development there is no overall change since each gain is offset by loss\nD. Gains are far more important than losses but losses occur too\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "163": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Identity refers to one's\nA. Use of a particular coping strategy\nB. Control over one's own life story\nC. Physical appearance and overall personality\nD. Coherent sense of self\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "164": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Current estimates of how many people exercise on a regular basis suggest that _____ do\nA. Less than 50%\nB. More than 75%\nC. Less than 25%\nD. More than 50%\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "165": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: An increased frequency of urination in older adults is most likely caused by\nA. Prostate cancer\nB. Smaller bladder\nC. Kidney problems\nD. Gall stone(s)\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "166": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Some research has found that later cognitive decline is predicted by earlier\nA. Cardiovascular problems\nB. Loss of muscle strength\nC. Immune system decline\nD. Graying of hair\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "167": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The law that requires all healthcare institutions that receive Medicaid funds to inform patients about advance directives is called the\nA. Patient Self-Determination Act\nB. Informed Consent Act\nC. Advance Directive\nD. Medicaid Directive Information Act\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "168": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is NOT among the top 10 causes of death in the U. S.?\nA. Kidney diseases\nB. AIDS\nC. Septicemia\nD. Accidents\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "169": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Presbyopia refers to\nA. The point of clearest vision moving closer to the eye\nB. The decline in vision with advanced age\nC. The loss of hearing for higher pitch as one grows older\nD. The point of clearest vision moving farther from the eye\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "170": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The design of products and environments to fit the capabilities of people who use them or live there is called _____ design\nA. Environmental\nB. Ecological\nC. Ergonomic\nD. Eclectic\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "171": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The insurance program for poor people of all ages is called\nA. Hospice\nB. Medicaid\nC. Medicare\nD. Respite\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "172": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: When damage to the brain is irreversible and increasing we refer to the disorder as\nA. Delirium\nB. MCI\nC. Dementia\nD. Pick's\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "173": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Grandparents with grandchildren in college report feeling especially loved when such grandchildren\nA. Ask about their satisfaction with life and offer to help\nB. Visit during the holidays and bring gifts\nC. Pay a surprise visit and ask for advice\nD. Invite the grandparents over to their place and cook a good meal\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "174": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The influence of genetics on longevity is estimated to be about\nA. 20%\nB. 33%\nC. 50%\nD. 75%\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "175": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Older adults are most likely to be involved in a traffic accident when they are\nA. On foot\nB. Driving in a new location\nC. A passenger in a younger person's car\nD. Alone\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "176": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Life stories are more likely for people who have a sense of\nA. Well being\nB. Personal control\nC. Generativity\nD. Humor\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "177": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The idea that the ability to complete a task depends on the fit between the environment and the person undertaking the task is a basic tenet of which of the following theories of aging?\nA. Environmental\nB. Ecological\nC. Fitness\nD. Congruence\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "178": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Neuroticism has been found to be correlated with which of the following?\nA. Anger and guilt\nB. Apathy and indifference\nC. Deceit and cunning\nD. Mania and hypertension\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "179": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The Apo-E 2 protein is very prevalent in people who\nA. Die young\nB. Live to be 100 or older\nC. Have healthy immune systems\nD. Also have high levels of Apo-E 4\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "180": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Information coming into our cognitive system is thought to first enter a\nA. Sensory memory\nB. Perceptual processor\nC. Working memory\nD. Meta-memory\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "181": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Omega 3 appears to reduce the risk of\nA. Some cancers\nB. Cardiovascular disease\nC. Arthritis\nD. Insomnia\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "182": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The term \"senescence\" refers to\nA. An increased vulnerability\nB. The process of becoming older\nC. The loss of mental abilities\nD. Biological aging\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "183": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is caused by a prion?\nA. Vascular dementia\nB. Alzheimer's\nC. Creutzfeldt-Jakob\nD. Huntington's\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "184": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: A difference between the social networks of older and younger adults is that older adults have\nA. Larger inner circles\nB. Larger outer circles\nC. Smaller inner circles\nD. Smaller outer circles\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "185": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The first person to measure and compare the response times of young and old was\nA. Francis Galton\nB. William James\nC. Michelle Meer\nD. Tom Penge\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "186": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: About what percentage of people who have had bridge jobs say it was better than their career job?\nA. Less than 25%\nB. Less than 50%\nC. More than 50%\nD. More than 75%\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "187": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: We want our measures to be as reliable as possible; reliability refers to\nA. Whether our measure really measure anything at all\nB. Whether our measure is really measuring what it claims to measure\nC. Whether our measure is consistent in the information it provides\nD. Whether our measure has or has not been used before\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "188": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: A problem in comparing older adults' memory for recent events and events that happened a long time ago is that recent events\nA. May be very well rehearsed\nB. Are far more meaningful\nC. Have no denominator to help in computing an average\nD. Can be verified while older events often cannot\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "189": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Of the following types of memory, which shows the biggest deficit with advanced age?\nA. Sensory memory\nB. Episodic memory\nC. Semantic memory\nD. Procedural memory\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "190": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The loss of a ____ is regarded in the U. S. as the most severe loss and frequently produces guilt in addition to other emotions.\nA. Spouse\nB. Parent\nC. Child\nD. Sibling\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "191": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: DNA damage/repair theory claims that senescence is due to cells getting incorrect instructions from DNA damaged by sources such as\nA. Radiation from anti-oxidants\nB. Metabolic processes\nC. Free radicals and sunlight\nD. Telomerase\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "192": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Comorbidity is a problem for older adults because it\nA. Makes correct diagnoses difficult\nB. Increases funeral costs\nC. Is very contagious\nD. Cannot, at present, be cured\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "193": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: With respect to theories of senescence, it's probably safe to say that\nA. Programmed theories are the best we have at present\nB. Many theories will have to be combined to explain senescence\nC. The evidence for these theories is direct and quickly accumulating\nD. All of these theories are merely speculation at this point\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "194": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Current life expectancy in the United States is about\nA. 78\nB. 82\nC. 68\nD. 75\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "195": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: A burial site where the body is allowed to decompose naturally without a casket is called a _____ cemetery\nA. Naturalistic\nB. Green\nC. Rapid decay\nD. Sunshine\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "196": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Older adults with higher education and self-esteem are more likely to be\nA. Sexually active\nB. Socially isolated\nC. Lonely as they grow older\nD. Married for a long time\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "197": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: BMI is regarded as a better measure of health than weight by itself because BMI is based on weight and\nA. Height\nB. Bone structure\nC. Immune Function\nD. Diet and exercise\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "198": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Morbidity refers to\nA. Death\nB. Social and emotional isolation\nC. Increased disability and declining health\nD. A period of intense personal loss\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "199": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Older adults are able to improve their memories and reduce their anxiety about declining memory when\nA. They learn about memory and aging and learn some techniques\nB. They simply learn a number of memory improvement techniques\nC. They learn that many aspects of memory do not decline and some even get better\nD. Older adults cannot do either of these\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "200": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Hearing loss for higher pitch is referred to as\nA. Presbyopia\nB. Presbycusis\nC. Pitch deafness\nD. Conductive loss\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "201": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: In this chapter's Senior View, Tolly Kleckley told us that personality\nA. Changes a lot past age 50\nB. Doesn't change past age 50\nC. Pretty much stays the same\nD. Changes more for women than for men\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "202": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The Kingbergs give us several keys to successful aging; which of the following is one that they did not name?\nA. Eat the correct food but not too much.\nB. Respect each other\nC. Party at least once a month\nD. Make long-range plans\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "203": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Those who have lost a close family member to suicide most often experience\nA. A lack of support from others\nB. A desire to kill themselves\nC. Feelings of relief and release\nD. Severe but temporary cognitive impairment\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "204": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Our bodies have a natural, built in defense against free radicals that is referred to as\nA. AFR\nB. SOD\nC. Vitamin C\nD. Telomerase\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "205": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Open-ended questions on a survey often make it difficult to\nA. Get people to fill the survey out\nB. Interpret the answers you get from people\nC. Collect data in a timely manner\nD. Get anyone to believe your results\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "206": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following groups is likely to have the more positive view of aging and older adults?\nA. Other older adults\nB. Children younger than 10\nC. Young adults\nD. Adolescents\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "207": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The paradox of well-being refers to the finding of high levels of happiness among\nA. Unhappy people\nB. Older adults\nC. People with very low SES\nD. Terminally ill people\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "208": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The Supreme Court has now ruled that older workers need no longer prove _____________ to win a job discrimination suit.\nA. Discrimination\nB. Age bias\nC. Negative impact\nD. Intention\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "209": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The decline in working memory with advanced age seems to be due to\nA. A loss of resources and slower processing speed\nB. An increase in the inhibition of relevant information\nC. A general decline in the ability to process information\nD. A severe loss of neural connections and decreased blood flow\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "210": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: A disadvantage of institutional care is that the staff frequently teach older residents to be\nA. Rude\nB. Dependent\nC. Independent\nD. Selfish\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "211": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: If you believe that we are mostly in control of our own development and that our behaviors, good or bad, determine how successful our aging with be, you would be said to have which of the following perspectives?\nA. Organismic\nB. Nurture\nC. Continuity\nD. Mechanistic\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "212": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The age at which one can receive full benefits from social security\nA. Is 62\nB. Is 65\nC. Has been increasing\nD. Will never change\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "213": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Loss of stomach lining can lead to symptoms that resemble\nA. Anorexia\nB. Dementia\nC. Senescence\nD. Hepatitis\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "214": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Which of the following has NOT been shown to be an effective treatment for depression in older adults?\nA. Rigorous exercise\nB. Life review\nC. Mental stimulation\nD. Anti-depressant drugs\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "215": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The term Baby Boom Generation refers to people who\nA. Were born before WW II\nB. Have had an extraordinary number of offspring\nC. Were born right after WW II\nD. Have raised their children in small villages\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "216": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Older workers are more likely to\nA. Be absent from work\nB. Be dissatisfied with their jobs\nC. Be less productive\nD. Be laid off\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "217": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Mabel Davis, in this chapter's Senior View, would agree with which of the following?\nA. Time seems to speed up when you grow older\nB. Exercise keeps your mind sharp\nC. Women are tougher than men\nD. Glasses and hearing aids should be avoided\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "218": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The information stored in memory, according to research and our Senior View interviewees, is\nA. True to life\nB. Our own interpretation\nC. Always exaggerated\nD. Never accurate\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "219": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: When speaking with an older adults with some hearing loss, you should\nA. Speak a little slower than normal\nB. Speak loudly into their best ear\nC. Face them so they can watch your lips\nD. Ask another person to translate\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "220": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: Longevity is strongly associated with higher levels of\nA. Social support\nB. BMI\nC. Alcohol use\nD. Supplement use\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "221": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The hypothesis that says adults will remain healthy until very old age and then quickly become ill and die is the ____ hypothesis\nA. Terminal drop\nB. Compression of morbidity\nC. Klagmore-Rensfeldt\nD. Decline avoidance\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "222": {
+        "origin_prompt": "There is a single choice question about human aging. Answer the question by replying A, B, C or D.\nQuestion: The woman who conducted a longitudinal study on herself and found increased retrieval difficulty as she got older was named\nA. Clark\nB. Smith\nC. Whitebear\nD. Ebbinghaus\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    }
+}

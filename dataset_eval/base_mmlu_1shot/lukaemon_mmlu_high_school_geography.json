@@ -1,0 +1,992 @@
+{
+    "0": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The main factor preventing subsistence economies from advancing economically is the lack of\nA. a currency.\nB. a well-connected transportation infrastructure.\nC. government activity.\nD. a banking service.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "1": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The tendency for a population to continue to grow long after replacement fertility has been achieved is called\nA. zero population growth.\nB. rapid growth rate.\nC. homeostatic plateau.\nD. demographic momentum.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "2": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The tendency for migration to decrease with distance is called\nA. push factors.\nB. pull factors.\nC. distance decay.\nD. migration selectivity.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "3": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which zone contains low-income slums, ethnic ghettos, and general deterioration in Burgess's concentric zone model of urban form?\nA. First\nB. Second\nC. Third\nD. Fourth\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "4": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following statements is TRUE concerning women in the labor force?\nA. Most women work in agriculture\nB. The percentage of women economically active in the labor force declined worldwide\nC. The percentage of women in the total labor force declined\nD. Women spend more hours per day working than men in all regions except Anglo America and Australia\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "5": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: All the following factors can be considered pull factors of migration EXCEPT\nA. safety.\nB. better climate.\nC. better schools.\nD. overcrowding.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "6": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following countries does NOT have a well-known example of a relict boundary?\nA. Vietnam\nB. United Kingdom\nC. Germany\nD. Bolivia\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "7": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which form of migration below are farm workers from another country most likely to be practicing during the year?\nA. Chain migration\nB. Cluster migration\nC. Circular migration\nD. International migration\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "8": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is a centrifugal force in a country?\nA. Religious differences\nB. A national holiday\nC. An attack by another country\nD. A charismatic national leader\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "9": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Early settlements and high population density along coastlines and rivers are best attributed to which of the following?\nA. Mediterranean climate\nB. Limited forest cover\nC. Growth of manufacturing\nD. Access to trade routes\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "10": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The first stage of the demographic transition exhibits\nA. high birth rates with high but fluctuating death rates.\nB. declining birth rates with continuing high death rates.\nC. low birth rates with continuing high death rates.\nD. high birth rates with declining death rates.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "11": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: What is the population statistic that tells us the level of fertility at which a population will have just enough births to replace parents and compensate for early deaths?\nA. Crude birth rate\nB. Replacement level\nC. Mortality rate\nD. Total fertility rate\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "12": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: What is the most rapidly growing religion in the United States today?\nA. Islam\nB. Christianity\nC. Hinduism\nD. Buddhism\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "13": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The outlying area serviced by a urban center is referred to as a\nA. redline area.\nB. threshold.\nC. range.\nD. hinterland.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "14": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The best definition of an urban area is\nA. the central city and its developed areas.\nB. the central city and its surrounding suburbs.\nC. the central city and its hinterlands.\nD. the central city and the adjacent counties.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "15": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following religions developed first?\nA. Buddhism\nB. Christianity\nC. Islam\nD. Hinduism\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "16": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which one of the following is NOT a characteristic of world cities?\nA. World cities contain the headquarters of many transnational corporations.\nB. World cities are well connected to secondary-level world cities.\nC. World cities contain many offices of multinational organizations.\nD. World cities are found only in the northern and western hemispheres.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "17": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which type of transportation system created the star-shaped city pattern?\nA. Highways to airports that link cities\nB. Interstate highways that link cities\nC. Beltways around cities\nD. Streetcar and trolley lines extending from the CBD\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "18": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: In which urban US setting below would you expect to find planned communities?\nA. Ghettos\nB. Suburbs\nC. CBDs\nD. Transition zones\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "19": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The latitude and longitude coordinates of a place are an example of\nA. a formal region.\nB. a functional region.\nC. an absolute location.\nD. a relative location.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "20": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The voluntary association of three or more countries willing to give up some measure of sovereignty is called\nA. nationalism.\nB. devolution.\nC. supranationalism.\nD. complementarity.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "21": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The key factor Thomas Malthus failed to recognize in his population theory was\nA. population is limited by their means of subsistence.\nB. all populations have the potential to increase more than the actual rate of increase.\nC. wars and famine inhibit population's reproductive capacity.\nD. technology's ability to raise the Earth's carrying capacity.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "22": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which pair of religions are both universalizing religions?\nA. Islam and Judaism\nB. Judaism and Buddhism\nC. Hinduism and Buddhism\nD. Christianity and Buddhism\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "23": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which urban model theorizes that high-rent residential areas grow outward from the center of the city along major highways with lower-rent inhabitants taking over sequentially?\nA. Concentric zone model\nB. Central place model\nC. Urban realms model\nD. Sector model\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "24": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: When a country combines its religion with its government, it is called a\nA. dictatorship.\nB. theocracy.\nC. democracy.\nD. autocracy.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "25": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: What is the chief religion practiced in Europe?\nA. Christianity\nB. Islam\nC. Hinduism\nD. Animism\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "26": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which group enacted the first effective settlement in the eastern United States?\nA. French\nB. British (English, Scotch-Irish, Welsh, Scottish)\nC. Russian\nD. Chinese\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "27": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: A population pyramid, or age-sex structure, displays all the following information about a country's population EXCEPT\nA. future social spending needs of the population.\nB. the impact of \"baby booms\" on the population.\nC. the impact of wars on the population.\nD. a quick visual depiction of the country's demographics.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "28": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The Rhine River is an example of which type of boundary?\nA. Geometric\nB. Artificial\nC. Natural\nD. Relict\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "29": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which type of economic activity is most closely tied to the physical environment?\nA. Primary\nB. Secondary\nC. Tertiary\nD. Quaternary\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "30": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The majority of workers in periphery countries are probably employed in which type of activities?\nA. Primary\nB. Secondary\nC. Tertiary\nD. Quaternary\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "31": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: All of the following are non-basic jobs in the city EXCEPT\nA. city firefighter.\nB. social worker.\nC. dry cleaner.\nD. garment factory worker.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "32": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Transnational corporations distribute their operations\nA. manufacturing goods where production costs are the highest.\nB. conducting accounting and research services where economical.\nC. based on comparative advantage.\nD. with headquarters located in LDCs.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "33": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is LEAST associated with the development of alluvial landscapes?\nA. A deep cover of loose materials\nB. A predominance of gentle slopes\nC. Frequent flooding\nD. Deep dissection and erosion\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "34": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is LEAST self-sufficient in the natural resources needed for modern industry?\nA. United States\nB. Japan\nC. France\nD. United Kingdom\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "35": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: One of the effects of the east\u2013west orientation of the Alpine mountain system and the northern plains of western and central Europe is that it\nA. limits the marine climate of Europe to coastal areas\nB. provides a corridor for communication between southern and northern Europe\nC. enables marine-like climatic conditions to extend eastward into Germany and Poland\nD. effectively prevents population movement between parts of the Mediterranean region\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "36": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The largest Hindu temple complex ever constructed is found in\nA. Calcutta.\nB. Bombay.\nC. Cambodia.\nD. Bali.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "37": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which term describes the forces that unify and strengthen a country?\nA. Diffusion\nB. Centrifugal\nC. Centripetal\nD. Ethnocentric\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "38": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which one of the following statements best describes an application of the S-curve?\nA. Graph of the Bantu migration\nB. Graph of the growth of human populations since their first appearance on Earth\nC. The chart showing how cities associate with one another based on their population sizes\nD. A model showing the decrease in population growth for several countries after they industrialize\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "39": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following items is NOT a challenge to the state?\nA. Transnational corporations\nB. EU\nC. World Trade Organization\nD. Good transportation network\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "40": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: National sports teams, flags, national anthems, and national holidays all promote\nA. nationalism.\nB. sectarianism.\nC. political unrest.\nD. functional disputes.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "41": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The process whereby immigrants learn the values, language, and customs of their new country is called\nA. assimilation.\nB. acculturation.\nC. adaptation.\nD. amalgamation.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "42": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: On which of the following can one most accurately depict true geographical distance, true direction, true size, and true shape?\nA. A Mercator projection\nB. A globe\nC. A conic projection\nD. A gnomonic projection\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "43": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following could be considered a higher-order central place function?\nA. Winn-Dixie grocery store\nB. Mercedes-Benz dealership\nC. Shoe store\nD. Family doctor\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "44": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which geographer viewed the US urban community of the 1920s as a set of concentric rings radiating outward from a central core?\nA. Rostow\nB. Ravenstein\nC. Von Th\u00fcnen\nD. Burgess\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "45": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: To get to school in the morning, we ALL use this as our guide:\nA. Rand-McNally Road Atlas.\nB. world globe.\nC. road map.\nD. mental map.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "46": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Of these, the map using the smallest map scale would be the map of\nA. the world.\nB. Atlanta, Georgia.\nC. Main Street, Small Town, Ohio.\nD. Pennsylvania.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "47": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: An earlier boundary formed before meticulous geographic knowledge and mapping was available is known as\nA. an antecedent boundary.\nB. a geometric boundary.\nC. a relict boundary.\nD. a subsequent boundary.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "48": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following jobs is in the non-basic employment sector?\nA. Software engineer\nB. F-10 pickup truck assembly-line worker\nC. Oil refinery worker\nD. Parking lot attendant\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "49": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: In which of the following regions is subsistence agriculture being replaced by large-scale commercial development?\nA. The Swiss Alps\nB. The Amazon Basin\nC. North Africa\nD. The Alaskan tundra\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "50": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: A strong movement away from all religions is called\nA. secularism.\nB. heathenism.\nC. sacrilege.\nD. nationalism.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "51": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Regions share all of these characteristics EXCEPT\nA. boundaries.\nB. common features.\nC. relative location.\nD. easily defined.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "52": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following U.S. main immigration flow associations is NOT correct?\nA. Pioneer settlement to 1870\u2014Germans, British, Scotch-Irish, Africans\nB. 1870\u20131914\u2014Asians\nC. 1870\u20131914\u2014Eastern and southern Europeans\nD. 1965\u2013present\u2014Hispanics\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "53": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which one of the statements below is characteristic of most African cities?\nA. They have thriving, clean residential areas.\nB. There are jobs for most rural-to-urban migrants.\nC. They have three separate business districts.\nD. They have a well-developed infrastructure.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "54": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which country faces a serious trade disadvantage due to its location?\nA. Singapore\nB. Italy\nC. Spain\nD. Mongolia\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "55": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: In which zone of Burgess's concentric zone model would one find better houses, single-family homes, and higher-rent apartments?\nA. First\nB. Second\nC. Third\nD. Fourth\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "56": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The theory that every society develops economically according to a five-stage pattern of growth is attributed to\nA. Rostow.\nB. Ravenstein.\nC. von Th\u00fcnen.\nD. Burgess.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "57": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following would NOT be considered a barrier to diffusion of a cultural trait?\nA. Language\nB. Religion\nC. Oceans\nD. Tolerant complaisant citizens\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "58": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The process of invasion and succession is a process involving migration and is best described as when\nA. new residents tear down and rebuild housing units.\nB. new residents live peacefully with old residents.\nC. new residents assimilate with old residents completely.\nD. new residents move into areas occupied by older resident groups.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "59": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following best illustrates the definition of a functional region?\nA. A map showing Atlanta as a hub for Delta Airlines\nB. An article describing the region referred to as the South\nC. A map showing North Carolina's one hundred counties\nD. An essay explaining the region known as the Bible Belt\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "60": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: New stores opening around a large shopping mall reflect which concept?\nA. Gravity concept\nB. Distance decay\nC. Complementarity\nD. Movement bias\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "61": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The birth of an urban industrial workforce in Europe contributed to the start of the\nA. First Agricultural Revolution.\nB. Second Agricultural Revolution.\nC. Third Agricultural Revolution.\nD. Fourth Agricultural Revolution.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "62": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following statements about East Asia's industrial regions is true?\nA. Japan has a rich natural resource base.\nB. China lacks natural resources but has a massive labor force.\nC. China is industrializing rapidly.\nD. Taiwan lacks industrial enterprise and an educated workforce.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "63": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following statements best describes the United Nations?\nA. The UN operates a worldwide police force.\nB. Member states surrender sovereignty to the UN.\nC. World laws are enforced by the UN.\nD. The UN often practices interventionism in world conflicts.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "64": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is a formal region?\nA. Dixie\nB. Pennsylvania\nC. The market area of Winn-Dixie\nD. The Pacific Northwest\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "65": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The concentration of production activities and people spatially to benefit everyone is called\nA. the substitution principle.\nB. deglomeration.\nC. agglomeration.\nD. infrastructure.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "66": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which language family contains Italian, Spanish, Portuguese, and Romanian?\nA. European\nB. Slavic\nC. Germanic\nD. Romance\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "67": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Ankara, Turkey and Islamabad, Pakistan are both examples of\nA. desert cities.\nB. forward-thrust capitals.\nC. old colonial capitals.\nD. rival cities.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "68": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is NOT an example of syncretism?\nA. Halloween\nB. Foreign cuisine changed to suit American tastes\nC. Hasidic Judaism\nD. Catholicism in Louisiana\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "69": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The theory that whoever controlled the landmass of Europe would rule the world is called the\nA. devolution theory.\nB. domino theory.\nC. heartland theory.\nD. rimland theory.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "70": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which group represents the Persian (Iranian) variation of Islam and believes in the infallibility and divine right to authority of the Imams descended from Ali?\nA. Sunni\nB. Shiite\nC. Imam\nD. Untouchables\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "71": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The multiplier effect is\nA. the addition of non-basic workers to an urban economy that has added more basic workers.\nB. a ratio of urban to rural workers in an economy.\nC. the ratio of city workers to farm workers in an economy.\nD. the addition of rural jobs created by the urban economy.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "72": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The sacred book of the Hindu is called the\nA. Talmud.\nB. Bible.\nC. Torah.\nD. Veda.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "73": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is a distinct characteristic of an East European city?\nA. A central park\nB. Prominent religious buildings\nC. A large central square surrounded by government and administrative buildings\nD. Luxury apartment buildings\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "74": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following countries is actively trying to preserve the purity of their native language from contamination by English or other languages?\nA. Italy\nB. Russia\nC. Japan\nD. Brazil\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "75": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is an example of a bulk-gaining industry?\nA. Steel\nB. Bottled orange juice\nC. Paper\nD. Copper\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "76": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is NOT a feature of an export processing zone (EPZ)?\nA. Tariff reductions on exports\nB. Raw materials imported duty-free\nC. Exemption from customs duties\nD. Strict pollution regulations\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "77": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following characteristics is NOT true of a state?\nA. Independent territory\nB. Internationally recognized\nC. Boundaries\nD. A national language\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "78": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: You are planning to move from your hometown to Pittsburgh. Along the way, you stop in Columbus, Ohio to visit a relative and fall in love with the city! You decide to stay and make Columbus your new home. This is an example of\nA. intervening opportunity.\nB. distance decay.\nC. involuntary migration.\nD. push-pull factors.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "79": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: A large node of office and commercial land use outside the central city with more jobs than residents is a(n)\nA. suburb.\nB. primate city.\nC. town.\nD. edge city.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "80": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which crop began the Third Agricultural Revolution?\nA. Rice\nB. Wheat\nC. Barley\nD. Millet\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "81": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which factor in the last quarter century greatly destabilized Eastern Europe and led to ethnic conflict?\nA. The introduction of new languages\nB. The end of the Cold War\nC. The invasion by the Soviets\nD. The acceptance of many Eastern European countries into the EU\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "82": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: If I wanted to ship a small piece of very valuable jewelry to my aunt who lives in Poughkeepsie, which mode of transportation makes the most sense?\nA. Truck\nB. Air\nC. Ship\nD. Railroad\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "83": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is a functional region?\nA. Dixie\nB. Pennsylvania\nC. The market area of Winn-Dixie\nD. The Pacific Northwest\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "84": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which type of city model contains a distinct residential spine proceeding outward from center city along the main boulevard?\nA. European\nB. Muslim\nC. Sub-Saharan African\nD. Latin American\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "85": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: What family do most European languages belong to?\nA. Ural-Altaic\nB. Basque\nC. Indo-European\nD. Phoenician\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "86": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: What do the terms apartheid, ethnic cleansing, and integration all have in common?\nA. They all occurred in Nazi Germany during World War I.\nB. They are all forms of residential segregation.\nC. They are all ways to integrate different ethnic populations in neighborhoods.\nD. They are different expressions for the same concept.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "87": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which one of the statements below correctly describes immigrants living in Europe?\nA. Most find citizenship easy to get in host countries.\nB. Muslims immigrants from North Africa are well integrated in France.\nC. Immigrants to European cities rarely bring their families.\nD. They are usually restricted to certain neighborhoods.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "88": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following activities are NOT secondary economic activities?\nA. Assembling automotive parts\nB. Sewing shirts\nC. Mining copper\nD. Binding books\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "89": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Johnny and Susie are moving to Scotland to renovate and live in the family castle. What makes their move a migration?\nA. They are crossing another country's borders.\nB. They are not taking anything with them.\nC. They are moving permanently.\nD. They will be gone more than one year.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "90": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following entities is a state?\nA. Antarctica\nB. American Samoa\nC. Egypt\nD. Marshall Islands\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "91": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: What is the most abundant fossil fuel?\nA. Phosphate\nB. Oil\nC. Petroleum\nD. Coal\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "92": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: A rejection of or indifference to religion in a country is called\nA. polytheism.\nB. animism.\nC. secularism.\nD. monotheism.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "93": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: In a postindustrial economy, which of the following resources is considered most important to increase productivity?\nA. Energy\nB. Labor\nC. Information\nD. Specialization\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "94": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: A city that is more than twice as large as the next largest city in a country is called a\nA. global city.\nB. world leader city.\nC. megalopolis.\nD. primate city.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "95": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Every country with a seacoast has an exclusive economic zone (EEZ) under the UN Convention on the Law of the Sea. Which one of the following statements regarding the Law of the Sea and the EEZ is NOT correct?\nA. The EEZ extends up to 200 nautical miles (370 km) from the coastline.\nB. Countries have the right to exploit natural resources in their EEZ.\nC. Countries can exploit resources on the continental shelf extending up to 350 nautical miles (560 km) beyond their EEZ.\nD. A country does not have the right to exploit living resources in its EEZ.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "96": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is MOST likely to experience population pressure?\nA. An industrial society with abundant natural resources and large imports of food\nB. A society with a highly mechanized agricultural sector\nC. A non-ecumene\nD. A slash-and-burn agricultural society\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "97": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Part of the boundary between the United States and Mexico is the Rio Grande, an example of\nA. a water divider.\nB. a watercourse.\nC. an artificial boundary.\nD. a natural boundary.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "98": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: When we talk about diffusion of a cultural trait, what do we mean by \"hearth\"?\nA. Destination\nB. Origin point\nC. All locations along the diffusion path\nD. Axis point\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "99": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The distance north and south of the equator is the\nA. global grid system.\nB. Prime Meridian\nC. latitude.\nD. longitude.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "100": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Why are perceptual or vernacular regions so difficult to identify?\nA. Boundaries are constantly being redrawn.\nB. Physical features, such as rivers, are constantly shifting.\nC. Defining criteria are subjective and differ among researchers.\nD. Antecedent boundaries were drawn before humans were located in the regions.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "101": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which structure(s) traditionally occupies the center of a historic Asian city?\nA. A central market\nB. High-density housing\nC. A religious building\nD. Government office buildings\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "102": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which description best describes the urban hierarchy model in which the population of a city is inversely proportional to its rank in the hierarchy?\nA. Multiplier effect\nB. Rank-size rule\nC. Central place theory\nD. Burgess's sector model\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "103": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is a major concern in countries with a large and rapidly aging population?\nA. Immunization\nB. Adequate schools\nC. Daycare facilities\nD. Health care\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "104": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following capital cities is located OUTSIDE the central core area of the country?\nA. Abuja, Nigeria\nB. Paris, France\nC. London, United Kingdom\nD. Cairo, Egypt\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "105": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Spanish colonial architecture, uneven economic development, and rural-to-urban migration flows are most commonly found in which of the following?\nA. Southeast Asia\nB. Sub-Saharan Africa\nC. North America\nD. Latin America\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "106": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The purpose for the creation of NATO was to\nA. defend North America and Western Europe against the threat of communism.\nB. form an economic alliance for trade between Europe and North America.\nC. defend Europe against a second Nazi invasion.\nD. defend northern Europe against Chinese missiles.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "107": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is NOT a key milestone reached by the EU?\nA. The introduction of a common currency used by many EU countries\nB. A customs union\nC. A single market\nD. A common European language\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "108": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The use and spread of English in nineteenth-century India is an example of what type of diffusion?\nA. Stimulus\nB. Contagious\nC. Hierarchal\nD. Relocation\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "109": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The theory that most migration occurs over a short distance and in steps is attributed to\nA. Rostow.\nB. Ravenstein.\nC. von Th\u00fcnen.\nD. Burgess.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "110": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The way of life based on breeding and herding of animals that are used as a source of food, shelter, and clothing is called\nA. swidden.\nB. subsistence farming.\nC. pastorialism.\nD. hunting and gathering.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "111": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The European Union (EU) replaced which of the following organizations?\nA. NATO\nB. EEC\nC. UN\nD. ASEAN\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "112": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The attempt by core countries to stimulate increased agricultural production in the periphery through use of technology, hybrid seed, and fertilizers is called the\nA. First Agricultural Revolution.\nB. Second Agricultural Revolution.\nC. Third Agricultural Revolution.\nD. Green Revolution.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "113": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Shifting cultivation is most often practiced in\nA. alpine tundra.\nB. tropical forests.\nC. flood plains.\nD. deserts.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "114": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The migration streams into the United States between 1980 and the present have been primarily composed of emigrants from which of the following regions?\nA. Europe and North Africa\nB. Asia and Latin America\nC. Sub-Saharan Africa and Oceania\nD. Central Europe and Australia\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "115": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which one of the following North American associations is NOT correct?\nA. Southeast\u2014African Americans\nB. Oklahoma and the Southwest\u2014Native Americans\nC. Quebec and northern Maine\u2014French Americans and French Canadians\nD. Southern prairie provinces\u2014African Americans\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "116": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following countries is NOT a federal state?\nA. Canada\nB. United States\nC. France\nD. People's Republic of China\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "117": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following world regions is NOT considered one of the world's most densely populated regions?\nA. South Asia\nB. Europe\nC. South America\nD. Northeast United States\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "118": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Olives, grapes, and chickpeas are staple crops of which type of farming?\nA. Pastoral nomadism\nB. Subsistence\nC. Plantation\nD. Mediterranean\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "119": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: A person who practices the Hindu religion would be most likely to\nA. visit a shrine built on the shore of a lake.\nB. pray five times a day.\nC. bathe in the Ganges River.\nD. make a pilgrimage to Jerusalem.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "120": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The language with the largest number of \"speakers\" is\nA. English.\nB. Russian.\nC. Spanish.\nD. Mandarin Chinese.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "121": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which one of the following statements does NOT correctly describe the Green Revolution?\nA. It changed centuries-old methods of farming.\nB. It was an attempt to feed a growing world population.\nC. It centered on increased rice, wheat, and maize yields.\nD. It greatly improved crop yields in sub-Saharan Africa.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "122": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Historically, the world's major languages have spread by all of the following methods EXCEPT\nA. Sanskrit records.\nB. migration.\nC. trade.\nD. conquest.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "123": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: A primate city is\nA. a large city located on the periphery of the country.\nB. the most important city in a country.\nC. when the largest city in a country is more than twice the size of the next largest city.\nD. the largest city in a country.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "124": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following factors would be considered a \"pull\" factor for Riva when considering a move from India to the United States?\nA. Abject poverty\nB. Better job and higher wages\nC. India's caste system\nD. Violence in her neighborhood\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "125": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: All of the following are reasons major cities attract young people in Latin America EXCEPT\nA. the availability of jobs.\nB. the potential for decent housing.\nC. educational opportunities.\nD. their families live there already.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "126": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which language family is most widely spoken in North America and Europe and includes Baltic, Celtic, Germanic, and Greek?\nA. Dravidian\nB. Uralic-Altaic\nC. Sino-Tibetan\nD. Indo-European\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "127": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which theorist(s) tried to explain the prices of farm products as they relate to patterns of land use?\nA. Rostow\nB. Ravenstein\nC. Von Th\u00fcnen\nD. Burgess\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "128": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is NOT a spread effect in the core-periphery model of development?\nA. Congestion in the core\nB. High cost of labor in the core\nC. High density in the core\nD. More infrastructure in the core\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "129": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is NOT an important environmental factor influencing a country's agriculture?\nA. Number of frost-free days per year\nB. Availability of sufficient rainfall\nC. Reliability of sufficient rainfall\nD. Amount of fertilizer produced in the country\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "130": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following countries is situated in the region of tectonic activity known as the Pacific Ring of Fire?\nA. Brazil\nB. Australia\nC. Chile\nD. India\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "131": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which one of the following statements is NOT true of the \"core\" countries?\nA. They are technologically advanced.\nB. They are wealthy.\nC. They are powerful.\nD. They are less developed.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "132": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: If you wanted to find the global distribution of coal, you would use a\nA. reference map.\nB. topographic map.\nC. thematic map.\nD. location map.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "133": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which one of the following is NOT a centripetal force in a state?\nA. A high level of confidence in central government\nB. The existence of strong separatist groups\nC. The existence of national transportation networks\nD. The national anthem\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "134": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The cities of Varanasi (Benares) in India and Mecca in Saudi Arabia are alike because both are\nA. capitals of countries formerly colonized by the English\nB. destinations for vast numbers of pilgrims\nC. financial centers for a large fraction of the world's economy\nD. examples of modern urban planning\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "135": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: China and Vietnam's dispute over the Spratley Islands is\nA. a positional dispute.\nB. a territorial dispute.\nC. a resource dispute.\nD. a functional dispute.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "136": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is NOT used by geographers to determine absolute location?\nA. Longitude\nB. Latitude\nC. Equator\nD. Distance to the nearest city\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "137": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is a characteristic of a developed country?\nA. Over 50% of workforce engaged in agriculture\nB. Women held in inferior place in society\nC. Main disease related to age and lifestyle\nD. High birth and death rates\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "138": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Mary lives in a neighborhood with stores, offices, and restaurants so close that she does not need to own a car; however, she feels she has very little privacy. This is an example of a(n)\nA. win-win.\nB. trade-off.\nC. infill.\nD. leapfrog development.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "139": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following items below is an absolute location?\nA. 10 miles east of Pittsburgh\nB. Washington\nC. 3 degrees south\nD. 479 Elm Street, Muncie, Indiana\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "140": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which one of the following groups is excluded from the caste system of Hinduism?\nA. Scholar-priests\nB. Warrior-landowners\nC. Businessmen and farmers\nD. Untouchables\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "141": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is a push factor?\nA. Dissatisfaction with current jobs\nB. Higher-paying jobs elsewhere\nC. An attractive retirement community elsewhere\nD. A pleasant climate\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "142": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The Basques, Bretons, Kashmiris, and Tamils are all examples of\nA. regionalist groups.\nB. separatist groups.\nC. terrorist groups.\nD. interventionist groups.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "143": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following factors does NOT play a role in gender relationships in a culture or society?\nA. Biology\nB. Advancements in technological development\nC. Religion\nD. Custom\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "144": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The intensive agricultural practice of planting and harvesting the same crop more than once a year is called\nA. swidden.\nB. double cropping.\nC. pastorialism.\nD. intertillage.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "145": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: When a new fashion design is introduced globally, the information initially travels through a process known as\nA. contagious diffusion\nB. relocation diffusion\nC. innovative diffusion\nD. hierarchical diffusion\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "146": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Opponents of genetically modified organisms (GMOs) in food are afraid that the GMOs\nA. will hinder global trade.\nB. make plants more resistant to disease.\nC. may cause irreversible changes in humans.\nD. make plants more resistant to drought.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "147": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which one of the following is NOT an advantage of urban agriculture?\nA. Helping to solve the problem of solid waste disposal\nB. Fresh produce for sale to others\nC. Beautification of a dingy urban area\nD. Renewed or purified water supplies\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "148": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is NOT a problem Europe currently faces today?\nA. Rising immigration\nB. Lack of population growth\nC. Environmental apathy\nD. Urban ethnic ghettos on the rise\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "149": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The world systems theory divides the world into\nA. core, periphery, and semi-periphery.\nB. rich and poor.\nC. developed and undeveloped.\nD. haves and have-nots.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "150": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The majority of Kurds are found in which country?\nA. Iran\nB. Iraq\nC. Turkey\nD. Egypt\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "151": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: In what country are the most Basque speakers found?\nA. Denmark\nB. Finland\nC. Luxembourg\nD. Spain\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "152": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The most rapidly urbanizing area of the world is:\nA. Europe\nB. East Asia\nC. Sub-Saharan Africa\nD. South Asia\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "153": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The influence of neo-Malthusianism can be seen in\nA. government programs for birth control and planning.\nB. famine relief.\nC. increased spending in social welfare programs.\nD. increased total fertility rates.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "154": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The process of devolution involves\nA. the change of government from a democracy to a communist dictatorship.\nB. the movement of power from the central government to regional governments in the country.\nC. the movement of power from a monarchy to a military dictatorship.\nD. the movement of power from regional governments to central governments.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "155": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The theory that cities grow outward from a core utilizing several nodes of growth was proposed by\nA. Rostow.\nB. Ravenstein.\nC. von Th\u00fcnen.\nD. Harris and Ullmann.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "156": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The theory that the main purpose of a settlement or market town is to furnish goods and services to the surrounding market area is called the\nA. urban hierarchy theory.\nB. central place theory.\nC. concentric zone model.\nD. multiplier effect.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "157": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which one of the following statements does NOT correctly describe transnational companies (TNCs)?\nA. Many TNCs operate in areas of electronics, chemicals, pharmaceuticals and petroleum.\nB. Most TNCs produce and sell manufactured goods.\nC. Most TNCs are headquartered in the United States, Japan, and the European Union.\nD. TNCs are generally controlled by foreign governments.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "158": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The \"melting pot\" theory of combining several immigrant groups into one mainstream culture is called\nA. amalgamation theory.\nB. acculturation.\nC. ethnic islands.\nD. ethnic clustering.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "159": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which theory below was used as justification for US involvement in Vietnam in the 1960s and 1970s?\nA. Devolution\nB. Colonialism\nC. Heartland theory\nD. Containment theory\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "160": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Urban agriculture can benefit urban society in all of the following ways EXCEPT\nA. create sustainable food systems in urban areas.\nB. provide jobs for women and children.\nC. turn urban waste into a resource when utilized in safe manner.\nD. replace agribusiness as the main focus of global food production.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "161": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which one of the following organizations is NOT a supranational organization?\nA. UN\nB. NATO\nC. ASEAN\nD. PLO\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "162": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which one of the following demographic factors characterizes stages 4 and 5 in the demographic transition model?\nA. Zero population growth\nB. High mortality rates\nC. High birth rates\nD. High sex ratios\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "163": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following statements does NOT describe a factor that contributed to suburbanization in the United States?\nA. A shorter workweek made time for a commute possible.\nB. Changes in the housing mortgage regulations made home ownership easier.\nC. Fixed-route public transit routes increased in importance.\nD. Improved automobiles made transportation easier and less limited.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "164": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: An isobar map shows lines connecting all points of equal\nA. atmospheric pressure\nB. surface temperature\nC. elevation\nD. precipitation\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "165": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Ralph purchases garden fertilizer at the nearby garden shop rather than drive 50 miles to the neighboring town for the same product. This reflects which type of spatial interaction?\nA. Transferability\nB. Complementarity\nC. Intervening opportunity\nD. Territoriality\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "166": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: What type of countries generally possesses a greater variety of climates and resources than other countries?\nA. Perforated states\nB. Fragmented states\nC. Elongated states\nD. Prorupt states\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "167": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following factors has little or no impact on mortality rates in the developing countries?\nA. New medicines\nB. Improved birth control methods\nC. Pesticides\nD. Famine relief\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "168": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The idea that you identify with, and give allegiance, to a nation-state is\nA. regionalism.\nB. diffusion.\nC. iconography.\nD. nationalism.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "169": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: What condition occurs when the people of one state want to annex a territory whose population is ethnically related to that state's population but now under the rule of another state?\nA. Nationalism\nB. Resource dispute\nC. Irredentism\nD. Positional dispute\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "170": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Variations in vocabulary, pronunciation, and rhythm in a spoken language are called\nA. syntax.\nB. isoglosses.\nC. lingua francas.\nD. dialects.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "171": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Boundary problems along the United States\u2013Mexico border are caused by which type of issue below?\nA. Ownership of fertile ground\nB. Land use\nC. Irredentism\nD. Immigration\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "172": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: In which country does language pose a centrifugal force?\nA. Canada\nB. United States\nC. Brazil\nD. Norway\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "173": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Quebec is a strong example of which of the following situations?\nA. Irredentism\nB. Secession\nC. Ethnonationalism\nD. A colony\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "174": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following items below is NOT considered a barrier to the diffusion of an innovation?\nA. Internet\nB. Distance\nC. Cultural obstacles\nD. Government interference\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "175": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Change in any culture is introduced through all the following processes EXCEPT\nA. innovation.\nB. diffusion.\nC. acculturation.\nD. gravity.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "176": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following statements regarding historical North American migration streams is NOT correct?\nA. Canada's first major migration came from France.\nB. Canada's second major migration stream originated in the British Isles.\nC. Canada's third major migration stream came from Latin America.\nD. The first major migration wave to the United States originated in Europe.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "177": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: A chief factor that contributed to the Second Agricultural Revolution was\nA. the Industrial Revolution.\nB. World War I.\nC. World War II.\nD. the discovery of the plow.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "178": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Zero population growth (ZPG) is achieved when\nA. CBR \u2013 CDR 5 2.\nB. Births 1 immigration 5 deaths 1 emigration.\nC. Total fertility 5 3.\nD. Replacement fertility is achieved.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "179": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: In which of the following Asian countries would one find special economic zones (SEZs)?\nA. Japan\nB. South Korea\nC. China\nD. Vietnam\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "180": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following industries does NOT need to be close to its markets?\nA. Dairy foods\nB. Bulk-gaining products\nC. Single-market products\nD. Bulk-reducing products\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "181": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is NOT a characteristic of a city in the developing world?\nA. Contains modern centers of commerce\nB. Has a well-developed infrastructure\nC. Experiences large in-migrations of rural people into the city\nD. Produces a large share of its country's GDI\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "182": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: A map that presents a single class of statistics is called a\nA. general purpose map.\nB. thematic map.\nC. reference map.\nD. mental map.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "183": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The construction of freeways leads to all but which of the following results?\nA. Urban sprawl\nB. Traffic increase\nC. Traffic congestion\nD. Decreased dependency on cars\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "184": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which continent has the highest total fertility rates?\nA. Africa\nB. Asia\nC. South America\nD. Europe\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "185": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: What monotheistic religion is based on the life and teachings of Jesus Christ of Nazareth?\nA. Islam\nB. Christianity\nC. Hinduism\nD. Buddhism\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "186": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following statements is true concerning folklore?\nA. It is the written tradition of a group.\nB. It encourages changing the old values and customs.\nC. It serves to blend all cultures into one.\nD. It expresses in words the shared values of a group by expressing their ideals.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "187": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The irregularity of the wet monsoon in South Asia in recent years may have a significant negative effect on which of the following?\nA. Food production\nB. Population patterns\nC. Wildlife conservation efforts\nD. Tourism\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "188": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: According to Alfred Weber's least-cost theory, which one of the following costs of production is the most important factor in locating an industry?\nA. Labor\nB. Transport\nC. Raw materials\nD. Agglomeration costs\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "189": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The climate of Great Britain is milder than most other places along the same latitude for which of the following reasons?\nA. The Gulf Stream brings warm waters to Great Britain, raising the temperature of winds that blow onto the island.\nB. Hot springs throughout the country raise the temperature of the surrounding land and air.\nC. Mountain ranges in the north of Great Britain act as a barrier to cold winds blowing from the Arctic.\nD. Small landmasses generate their own local climate and are largely unaffected by latitude.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "190": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following supranational organizations is not an economic union?\nA. EU\nB. CARICOM\nC. NAFTA\nD. NATO\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "191": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The global lingua franca is\nA. Chinese.\nB. English.\nC. French.\nD. Arabic.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "192": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: What are the two major branches of Islam?\nA. Sunni and Shinto\nB. Shinto and Shiite\nC. Sunni and Shiite\nD. Shamanism and Shiite\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "193": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: What was the primary reason the Green Revolution did NOT help Africa much?\nA. It targeted crops Africans don't grow and eat.\nB. It required sophisticated machinery.\nC. Population growth has fallen so drastically that Africans don't need the increased food production.\nD. African agricultural production went up without its help.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "194": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The largest exporter of agricultural goods in the world is\nA. China.\nB. Mexico.\nC. Chile.\nD. the United States.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "195": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which of the following statements is NOT part of Gunnar Myrdal's theory of cumulative causation?\nA. Developing and developed regions share similarly in wealth through trade.\nB. The core will always dominate the periphery.\nC. Growth and prosperity of the core exists at the expense of the periphery.\nD. Regions with initial advantage keep and expand it as they attract labor, capital, and trade.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "196": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: Which pair of religions below share a long-held tradition of cremating their dead?\nA. Hindu and Buddhist\nB. Hindu and Muslim\nC. Muslim and Jewish\nD. Christian and Buddhist\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "197": {
+        "origin_prompt": "There is a single choice question about high school geography. Answer the question by replying A, B, C or D.\nQuestion: The official languages of Guyana, Suriname, and French Guiana are English, Dutch, and French, respectively. On what continent are those countries located?\nA. North America\nB. South America\nC. Africa\nD. Asia\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    }
+}

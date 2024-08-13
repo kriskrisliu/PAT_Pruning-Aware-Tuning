@@ -1,0 +1,1172 @@
+{
+    "0": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: This is a hierarchy of effects or sequential model used to explain how advertising works:\nA. ADD.\nB. AIDA.\nC. PESTLE.\nD. SWOT.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "1": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  _____________is an important element in the communication process. It recognizes that successful communications are more likely to be achieved if the source and the receiver understand each other.\nA. The realm of understanding.\nB. Personal selling.\nC. Noise.\nD. Feedback.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "2": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: In the history of marketing, when did the production period end?\nA. In the late 1800s.\nB. In the early 1900s.\nC. In the 1920s.\nD. After the end of the Second World War.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "3": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: The extent to which a service envelops a product varies according to a number of factors. Which of the following is NOT one of the factors?\nA. The level of tangibility associated with the type of product.\nB. Performance-value.\nC. Variations in supply and demand.\nD. The way in which the service is delivered.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "4": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: The owners of independent gasoline stations in a community meet secretly and agree to keep their prices high to protect their profitability. If their plan is discovered and they are charged with a crime, they could be\nA. found guilty under the Sherman Antitrust Act and face prison time\nB. found guilty under the Magnuson-Moss Warranty Act and face large fines\nC. found guilty under the Adamson Act and face prison time and fines\nD. found not guilty because retailers are allowed to set their own price levels\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "5": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  The term 'marketing mix' describes:\nA. A composite analysis of all environmental factors inside and outside the firm.\nB. A series of business decisions that aid in selling a product.\nC. The relationship between a firm's marketing strengths and its business weaknesses.\nD. A blending of four strategic elements to satisfy specific target markets.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "6": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: __________ have the potential to control the type and flow of information to the organization and the members of the DMU.\nA. Gatekeepers.\nB. Buyers.\nC. Users.\nD. Initiators.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "7": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  An imbalance between a consumer's actual and desired state in which recognition that a gap or problem needs resolving is called:\nA. Motive development.\nB. An attitude.\nC. A self-concept.\nD. Product evaluation.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "8": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is not an element of the marketing mix?\nA. Promotion.\nB. Product.\nC. Target market.\nD. Pricing.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "9": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Providing free samples of perfumes (scent) in magazines is an example of which of the following?\nA. Classical conditioning.\nB. Operant conditioning.\nC. Social learning.\nD. Behavioural learning.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "10": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Why is market segmentation carried out?\nA. To break down large markets into smaller markets.\nB. To provide an opportunity to surpass competitors.\nC. By grouping together customers with similar needs, it provides a commercially viable method of serving these customers.\nD. To allow the achievement of greater market share.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "11": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  There are three main types of buying situations in an organization, referred to by Robinson, Faris, and Wind (1967) as _____________.\nA. Repeat purchases.\nB. Buyphases.\nC. Buyclasses.\nD. Tenders.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "12": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Where the winning bidder obtains an unprofitable contract that he/she is duty bound to deliver because their bid price was set so low, this is known as:\nA. Winner's curse.\nB. Winner's price.\nC. Winner's reward.\nD. Loss-leader pricing.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "13": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: This allows us to determine how the quantity of an offering relates to the price at which it is offered:\nA. Price bundling.\nB. Price elasticity.\nC. Price inelasticity.\nD. Price inflation.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "14": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  ________________ occur(s) where there is no prior history of exchange and no future exchanges are expected between a buyer and seller.\nA. Relationship marketing.\nB. Service mix.\nC. Market exchanges.\nD. Service failure.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "15": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: A method of marketing by electronic mail wherein the recipient of the message has consented to receive it is called:\nA. Search marketing.\nB. Internet advertising.\nC. Permission-based email marketing.\nD. Social web marketing.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "16": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Collectively organizations that combine to enable offerings to reach end users quickly and efficiently constitute a marketing channel, are sometimes referred to as a:\nA. Vehicle.\nB. Courier.\nC. Transportation.\nD. Distribution channel.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "17": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following are the three broad groups of organizational characteristics segmentation criteria?\nA. Organizational size, industry type, and gender.\nB. Psychographics, purchaser, and behavioural criteria.\nC. Organizational size, industry type, and geographical location.\nD. None of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "18": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is the name for a coupon that is included in a package for later purchase?\nA. a free-standing coupon\nB. an instant-redemption coupon\nC. a bounce-back coupon\nD. a rebate coupon\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "19": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Advertising is employed as a defence, to retain customers, and to increase brand usage. Advertising is used to reinforce existing attitudes, not necessarily to drastically change them. This idea is based on:\nA. Strong theory.\nB. Weak theory.\nC. ATR framework.\nD. DRIP model.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "20": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: _____________ is an assessment of a company's mix of products, services, investments, and other assets in order to optimize the use of resources and to assess its suitability, level of risk, and expected financial return.\nA. SWOT analysis.\nB. Political analysis.\nC. Portfolio analysis.\nD. Competitive analysis.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "21": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  These goods are low-priced products that are bought frequently, are used just once, and incur low levels of purchase risk:\nA. Non-durable.\nB. Durable.\nC. Generic.\nD. Luxury.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "22": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Which of the following processes is not fundamental in explaining how consumers think and learn about products and brands?\nA. Cognition.\nB. Perception.\nC. Learning.\nD. Personality.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "23": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  ________________is used to influence the way an organization is perceived by various groups of stakeholders.\nA. Direct marketing.\nB. Public relations.\nC. Sale promotion.\nD. Advertising\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "24": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Marketing that moves away from a transaction-based effort to a conversation (i.e. two-way dialogue) and can be described as a situation or mechanism through which marketers and a customer (e.g. stakeholders) interact usually in real-time is known as:\nA. Digital marketing.\nB. Interactive marketing.\nC. Direct marketing.\nD. Electronic marketing.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "25": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  The differentiation of a firm's products or services to promote environmental responsibility is referred to as:\nA. Social branding.\nB. Eco-branding.\nC. Me-too branding.\nD. Brand personality.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "26": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is the rate at which a market adopts an innovation?\nA. Process of diffusion.\nB. Process of differentiation.\nC. Adoption process.\nD. Adoption lifecycle.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "27": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Micromarketing is directed at potential buyers who\nA. have excess disposable income\nB. are between the ages of 8 and 14\nC. share similar attitudes and behaviors\nD. have opted out of customized marketing\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "28": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  This is a group of people in the process of diffusion who enjoy being at the leading edge of innovation and buy into new products at an early stage:\nA. Late majority.\nB. Early adopter.\nC. Early majority.\nD. Laggards.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "29": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  What channel structure is it where the product goes directly from the producer to the final customer?\nA. Direct.\nB. Indirect.\nC. Hybrid.\nD. None of the above.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "30": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Joint creation of value, in which customers take part in an active dialogue and co-construct personalized experiences, is referred to as:\nA. Interactive marketing.\nB. Co-creation experience.\nC. Relationship marketing.\nD. Organization marketing.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "31": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: This form of marketing communications tool is referred to as 'a paid, mediated form of communication from an identifiable source, designed to persuade the receiver to take some action, now or in the future'. This is referred to as:\nA. Advertising.\nB. Personal selling.\nC. Public relations.\nD. Publicity.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "32": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  The ____________ delivers to us a wide array of offerings, either directly or indirectly, through business markets, to serve our wants and needs.\nA. Aggregate marketing system.\nB. Planning excellence.\nC. A quality rift.\nD. A value line.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "33": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  ____________ describes the extrinsic properties of the product (the colour, the packaging, the product consistency, associations) and level to which these satisfy customers' psychological or social needs.\nA. Brand repositioning.\nB. Brand stretching.\nC. Brand equity.\nD. Brand imagery.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "34": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: AIDA stands for awareness, ________, desire and _________.\nA. Interest; action.\nB. Intensity; appeal.\nC. Involvement; action.\nD. Involvement; appeal.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "35": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  This is where intermediaries are given exclusive rights to market the good or service within a defined 'territory', thus using a very limited number of intermediaries:\nA. Exclusive.\nB. Intensive.\nC. Selective.\nD. Direct.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "36": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Once the agency has discussed the brief with the client, the agency provides a detailed outline of how they intend to investigate the problem. This document is called the ____________:\nA. Research brief.\nB. Research proposal.\nC. Research question.\nD. Research programme.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "37": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Organizational characteristics, such as organizational size and location, are sometimes referred to as___________.\nA. DMU.\nB. Firmographics.\nC. ACORN\nD. Product usage.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "38": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: The role of marketing communications is to engage audiences and there are four main tasks that it can be used to complete. Which of the following is not part of the four main tasks?\nA. Differentiate.\nB. Participate.\nC. Reinforce.\nD. Inform.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "39": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: The process of making large numbers of unsolicited sales calls to potential customers whom the salesperson does not know is referred to as\nA. multilevel marketing\nB. cold canvassing\nC. the center-of-influence method\nD. the sales-associate method\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "40": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  The process by which individuals accept and use new propositions is referred to as:\nA. Decision.\nB. Adoption.\nC. Acquisition.\nD. Awareness.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "41": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following occurs when competitors' pricing policies are almost exclusively focused on competitors rather than customers?\nA. Price differentiation.\nB. Price fixing.\nC. Price wars.\nD. Price guarantees.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "42": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: A commonly used basis for segmenting consumer markets is:\nA. Organizational size.\nB. Demographics.\nC. Product type.\nD. Price.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "43": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  In B2B contexts, prices are set according to specific agreements between a company and its clients or customers (e.g. professional services such as architectural or structural engineering).This pricing approach is known as:\nA. Negotiated price\nB. Internal pricing.\nC. Listed pricing.\nD. Cost pricing.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "44": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Once referred to as a multibrand policy, this branding strategy requires that each product offered by an organization is branded independently of all the others. This is known as:\nA. Individual branding.\nB. Corporate brands.\nC. Family branding.\nD. Co-branding.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "45": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  This is the use of inter-personal communications with the aim of developing positive feelings and stimulating behaviour.\nA. Direct marketing.\nB. Personal selling.\nC. Sale promotions.\nD. Advertising.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "46": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  An approach that encompasses a wide range of relationships, not just with customers, but also those that organizations develop with suppliers, regulators, government, competitors, employees, and others, is referred to as:\nA. Market exchanges.\nB. Service failure.\nC. Relationship marketing.\nD. Shared responsibility.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "47": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: In marketing terms, ___________ refers to what we get for what we pay:\nA. Revenue.\nB. Cost.\nC. Value.\nD. Product.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "48": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  _______________ is concerned with the development of knowledge that is specific to the parties involved and is referred to as 'learning together'.\nA. Dialogue.\nB. Personal influencer.\nC. Feedback.\nD. Message.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "49": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  The process that creates changes in behaviour is called:\nA. Selective adaptation.\nB. Learning.\nC. Involvement manipulation.\nD. Attitude adjustment.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "50": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is the most appropriate pricing strategy to use when introducing a new and unique product to the market?\nA. Price skimming\nB. Promotional pricing\nC. Psychological pricing\nD. Penetration pricing\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "51": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Which type of shop offers a range of grocery and household items that cater for last-minute purchase needs of consumers?\nA. Supermarkets.\nB. Convenience stores.\nC. Category-killer stores.\nD. Limited line retailers.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "52": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Post-purchase re-evaluation of the consumer proposition acquisition process attempts to measure the degree of:\nA. Selling success experienced by the vendor.\nB. Consumer satisfaction with the purchase.\nC. Follow-up effectiveness of the firm.\nD. Advertising influence on the purchase.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "53": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Many brands are deliberately imbued with human characteristics, to the point that they are identified as having particular personalities. This is referred to as:\nA. Branding pyramid.\nB. Brand value.\nC. Brand names.\nD. Brand personalities.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "54": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Marketing research:\nA. Is work undertaken to understand how to make specific marketing strategy decisions.\nB. Is the collection and analysis of data from a sample or census of individuals or organizations.\nC. Includes all forms of market, opinion, and social research such as consumer and industrial surveys.\nD. Is work undertaken to determine either structural characteristics of the industry of concern.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "55": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: ____________ is very effective at delivering messages to target audiences as it allows for explanation in a way that most other media cannot.\nA. Digital.\nB. Print.\nC. Broadcast.\nD. Outdoor.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "56": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  This is a marketing communications activity concerned with providing support for the sales force and merchandising personnel:\nA. Store marketing.\nB. Field marketing.\nC. Sales promotions.\nD. Personal selling.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "57": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Services are consumed at the point they are produced. In other words, service delivery cannot be separated or split out of service provision or service consumption. Which characteristic of service is this referred to?\nA. Intangibility.\nB. Variability.\nC. Inseparability.\nD. Perishability.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "58": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: These are costs which do not vary according to the number of units of product made or service sold:\nA. Fixed costs.\nB. Moving assets.\nC. Working capital.\nD. Fixed capital.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "59": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: SWOT is an acronym for:\nA. Strengths, weaknesses, opportunities, threats.\nB. Strategy, work, openness, toughness.\nC. Strategy, weakness, opinions, tactics.\nD. Strategy, working, opinion, tactical.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "60": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: The three stages of attitude formation are that we learn something, we feel something, and we act on our attitudes. The stage that we learn something is referred to as:\nA. Behaviour.\nB. Conative.\nC. Cognitive.\nD. Emotional.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "61": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Market testing studies use __________ to carry out controlled experiments in specific country regions, where specific adverts can be shown, before exposing the 'new feature' (offering, campaign, distribution, etc.) to a full national or even international launch.\nA. Test markets.\nB. Data mining.\nC. Analytical information.\nD. Storyboards.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "62": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  When there is little or no personal contact between customer and service provider, this is classified as:\nA. Low-contact service.\nB. Medium-contact service.\nC. High-contact service.\nD. Intense-contact service.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "63": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not an example of a behavioural variable?\nA. Product usage.\nB. Media usage.\nC. Purchase occasion.\nD. Personality.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "64": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  __________ is the collection and interpretation of information about forces, events, and relationships that may affect the organization.\nA. Environmental scanning\nB. Stakeholder analysis\nC. Market sampling\nD. Opportunity analysis\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "65": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: ACORN, a segmentation analysis technique, stands for which of the following?\nA. A corresponding official residential notation.\nB. A classification of reported nationals.\nC. A classification of residential neighbourhoods.\nD. A countrywide official resources navigation.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "66": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  A probability sample constructed so that randomly selected sub-samples of different groups are represented in the total sample is called a:\nA. Stratified sample.\nB. Convenience sample.\nC. Quota sample.\nD. Cluster sample.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "67": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Which of the following terms refers to the paid mention of a company, a product, or a service by a form of media?\nA. Advertising\nB. Public relations\nC. Third-party endorsement\nD. Puffing\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "68": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Marketing period, 1950s-1980s - characterized by a more advanced focus on the ___________.\nA. Society and ethics.\nB. Personal selling.\nC. Physical production.\nD. Customer's needs.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "69": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Which of the following statements is correct?\nA. Marketing is the term used to refer only to the sales function within a firm.\nB. Marketing managers don't usually get involved in production or distribution decisions.\nC. Marketing is an activity that considers only the needs of the organization; not the needs of society as a whole.\nD. Marketing is the activity, set of institutions, and processes for creating, communicating, delivering, and exchanging offerings that have value for customers, clients, partners, and society at large.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "70": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is a stage in the new product development process, undertaken when a new product is tested with a sample of customers, or is launched in a specified geographical area, to judge customers' reactions prior to a national launch?\nA. Test marketing.\nB. Focused marketing.\nC. Live marketing.\nD. Generic marketing.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "71": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: The term marketing refers to:\nA. new product concepts and improvements.\nB. advertising and promotion activities.\nC. a philosophy that stresses customer value and satisfaction.\nD. planning sales campaigns.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "72": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  ____________ is the set of practices that enables organizations to communicate and engage interactively with their audiences through any mobile device or network.\nA. Mobile marketing\nB. Social web marketing.\nC. Internet marketing\nD. Social media marketing\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "73": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  According to the British Government, which of the following is not a marketing function?\nA. Promote marketing intelligence.\nB. Develop sales tactics.\nC. Develop the customer proposition.\nD. Work with other business functions and third parties.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "74": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: The use of entertainment material delivered through paid or owned media and which features a single company or brand is referred to as:\nA. Sponsorships.\nB. Exhibitions.\nC. Branded content.\nD. Advertisement.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "75": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Second-hand data, collected for someone else's purposes, is known as____________:\nA. Primary research.\nB. Descriptive research.\nC. Causal research.\nD. Secondary research.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "76": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following refers to unsolicited electronic messages?\nA. Opt-in email.\nB. Consent marketing.\nC. Spam.\nD. Opt-out email.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "77": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  The purpose of evaluating the attractiveness of the differing market segments identified in the second stage of the market segmentation process is to:\nA. Identify the specific members of each segment to be able to contact each of them directly.\nB. Determine the level of resources that must be committed to each segment.\nC. Evaluate the market potential within each segment.\nD. Design marketing strategy and tactics to reinforce the firm's image.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "78": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Which of the following types of advertising is being used when a retail store agrees to share advertising costs for a consumer product with the national distributor of the product?\nA. Trade advertising\nB. Industrial advertising\nC. National advertising\nD. Cooperative advertising\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "79": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  This pricing approach is used when the firm sets prices according to how much customers are prepared to pay:\nA. Cost-oriented approach.\nB. Value-oriented approach.\nC. Competitor-oriented approach.\nD. Demand-oriented approach.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "80": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: These goods are bought infrequently, used repeatedly, and involve a reasonably high level of consumer risk:\nA. Impulse goods.\nB. Luxury goods.\nC. Non-durable goods.\nD. Durable goods.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "81": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: _____________ helps in 'problematizing hitherto uncontentious marketing areas to reveal underlying institutional and theoretical dysfunctionalities' (Saren, 2011:95).\nA. Production marketing\nB. Sustainable marketing\nC. Relationship marketing\nD. Critical marketing analysis\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "82": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: An important characteristic of services is that they are produced and consumed by people, simultaneously, as a single event. One of the outcomes of this unique process is that it is exceedingly difficult to standardize the delivery of services around the blueprint model. Which characteristic of service is this referred to?\nA. Intangibility.\nB. Inseparability.\nC. Variability.\nD. Perishability.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "83": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Which type of retailer involves comparatively low prices as a major selling point combined with the reduced costs of doing business?\nA. Discount retailers.\nB. Convenience stores.\nC. Category killer stores.\nD. Limited line retailers.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "84": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: A marketing philosophy summarized by the phrase 'a stronger focus on social and ethical concerns in marketing' is characteristic of the _________ period.\nA. Production.\nB. Sales.\nC. Marketing.\nD. societal marketing.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "85": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: The development of social media has enabled individuals to communicate with organizations, communities, friends, and family. The content of the message can be about brands, experiences, or events, and is developed and shared by individuals. This is referred to as:\nA. Broadcast.\nB. User-generated content.\nC. Viral marketing.\nD. Telemarketing.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "86": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  To highlight the variation in approaches to purchasing behaviour, Svahn and Westerlund (2009) identify six principal purchasing strategies used by organizations. The __________ strategy refers to a buyer's efficiency orientation where the main purchasing goal is to seek the lowest price for the offering. To help achieve this, the buyer actively promotes competition among several potential suppliers.\nA. 'Bargainer' purchasing.\nB. The 'adaptator' purchasing.\nC. Price minimizer' purchasing.\nD. The 'projector' purchasing.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "87": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  In conducting international market research, there are three types of equivalence. Which of the following is NOT one of the equivalences?\nA. Conceptual equivalence.\nB. Market equivalence.\nC. Functional equivalence.\nD. Translation equivalence.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "88": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Which of the following gives the owner exclusive rights by law to use a brand?\nA. Brand loyalty\nB. Brand mark\nC. Trade name\nD. Trademark\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "89": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is not a useful base for segmenting organizational characteristics?\nA. By turnover.\nB. By geographical location.\nC. By organizational size.\nD. By industry type.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "90": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: ________ is the process of marketing accomplished or facilitated via the use of Internet technologies (e.g. web, email, intranet, extranets, etc.).\nA. Internet marketing.\nB. Search marketing.\nC. E-marketing.\nD. Mobile marketing.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "91": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Firms that view themselves as market leaders in product quality frequently adopt a\nA. market share strategy\nB. penetration pricing strategy\nC. strategy that focuses on non-price benefits\nD. strategy to expand the overall market\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "92": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Our perception of risk is greater if we are continually reminded of it than if we consider it only at the point of purchase. This is referred to as:\nA. Purchase context.\nB. Price bonding.\nC. Odd number pricing.\nD. Mark-up price.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "93": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Fees paid by advertisers to online companies that refer qualified potential customers or provide consumer information where the consumer opts in to being contacted by a marketer. This is referred to as:\nA. Lead generation.\nB. Search.\nC. Rich media.\nD. Social media marketing.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "94": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Which element of the promotional mix handles unfavorable stories and events and promotes a good corporate image?\nA. Personal selling\nB. Sales promotion\nC. Direct marketing\nD. Public relations\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "95": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  This operates algorithmically or using a mixture of algorithmic and human input to collect, index, store, and retrieve information on the web (e.g. web pages, images, information, and other types of files). It makes the information available to users in a manageable and meaningful way in response to a search query. This is referred to as:\nA. Banner ads.\nB. Pop-up ads.\nC. A search engine.\nD. Apps.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "96": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Four competing philosophies strongly influence the role of marketing and marketing activities within an organization. Which if the following is not a component of market orientation?\nA. Customer orientation.\nB. Profitability orientation.\nC. Interfunctional coordination.\nD. Competitor orientation.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "97": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  To evaluate an organization's Strategic Business Units (SBU), the Boston Consulting Group developed a portfolio performance framework that characterizes some of the SBUs as:\nA. Question marks.\nB. Quick winners.\nC. Charging bulls.\nD. Cash outs.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "98": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Tobacco advertising is now banned in virtually all marketing communication forms in many countries around the world. This can be explained as an influence of:\nA. Technological environment.\nB. Legal environment.\nC. Economic environment.\nD. Ecological environment.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "99": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Pine and Gilmore (1999) derive four distinct realms of experience, based on two dimensions. What are these dimensions?\nA. Customer participation and environmental relationship.\nB. Customer acquisition and environmental relationship.\nC. Customer participation and customer relationship.\nD. Customer retention and customer relationship.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "100": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: An advertising model in which advertisers bid on keywords or phrases relevant to their target market, with sponsored/paid search engine listings to drive traffic to a website is called:\nA. Search engine optimization (SEO).\nB. Contextual advertising.\nC. Digital asset optimization (DAO).\nD. Pay per click (PPC).\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "101": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: These are chains of organizations that are concerned with the management of the processes and activities involved in creating and moving products from producers and manufacturers to end-user customers. The organizations involved with any one journey, are collectively termed as a:\nA. Distribution.\nB. Vendor.\nC. Communication.\nD. Selling.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "102": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  _______________ are used in the positioning process to illustrate differing attributes of a selection of brands.\nA. Product features.\nB. SIC code.\nC. Perceptual maps.\nD. Organizational characteristics.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "103": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: On August 4, a store purchased five sofas invoiced at $7,000, terms 2/10 , n/30 . The invoice was paid August 13. The store paid\nA. $7,140 \nB. $7,000 \nC. $6,860 \nD. $6,300 \nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "104": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following are aimed at providing customers with the peace of mind of knowing that the company they are purchasing from is competitive in price?\nA. Price competitiveness.\nB. Price assurance.\nC. Reference prices.\nD. Price guarantee schemes.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "105": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: According to Leone and Shultz (1980), the law-like generalization 1 explains that ___________ has a direct and positive influence on total industry (market) sales.\nA. Increased consumer demand.\nB. Advertising.\nC. increase in urbanization.\nD. Elasticity.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "106": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  This is part of the communication process where receivers unpack the various components of the message, and begin to make sense and give the message meaning:\nA. Encoding.\nB. Decoding.\nC. Transfer.\nD. Noise.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "107": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: An example of a segmented market would be:\nA. Phillips marketing its product to all residents of the European Union with one marketing mix based on the concept 'Sense and Sensibility'.\nB. High-income and low-income consumers being treated the same at Marks and Spencer (M&S).\nC. A garden nursery seeing residents of urban areas and rural areas as one market needing trees.\nD. Honda separating its potential customers into economy car buyers and luxury car buyers.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "108": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Psychographic segmentation is based on:\nA. The quantitative side of consumer demographic analysis.\nB. The quantitative side of consumer geographic analysis.\nC. Individuals' residential patterns and life-cycle preferences.\nD. Grouping people according to their psychological characteristics, values, and lifestyles.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "109": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: A framework categorizes different services, which, in turn, influence the degree to which market offerings can be evaluated, and three main properties are identified:\nA. Search, experiment, and credence properties.\nB. Search, experience, and credence properties.\nC. Sell, trust, and credence properties.\nD. Search, belief, and confidence properties.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "110": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  ____________ distribute the product. They offer value through services associated with selling inventory, credit, and aftersales service.\nA. Distributors.\nB. Agents.\nC. Merchants.\nD. Franchises.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "111": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: This is the process in which offerings move through a sequential, pre-determined pattern of development similar to the biological path that lifeforms follow:\nA. Diffusion process.\nB. Product lifecycle.\nC. Adoption process.\nD. Service development.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "112": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  A 10% increase (decrease) in price produces a 10% decrease (increase) in quantity demanded. This is referred to as:\nA. Zero price elasticity of demand.\nB. Infinite price elasticity of demand.\nC. Unit price elasticity of demand.\nD. Indefinite price elasticity of demand.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "113": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Which type of research methods are designed to elicit responses to predetermined, standardized questions from many respondents?\nA. Quantitative.\nB. Qualitative.\nC. Non-probability.\nD. Probability.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "114": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  In the _________ stage in the adoption process, consumers become aware of the new proposition. They have little information and have yet to develop any particular attitudes towards the product. Indeed, at this stage consumers are not interested in finding out any more information.\nA. Persuasion\nB. Confirmation\nC. Knowledge\nD. Implementation\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "115": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is a type of consumer product bought relatively infrequently and which requires consumers to update their knowledge prior to purchase?\nA. Luxury product.\nB. Shopping product.\nC. Generic products.\nD. Branded products.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "116": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: This is where the perception on the part of a channel member is that its goal attainment is being impeded by another, with stress or tension the result:\nA. Channel communication.\nB. Channel conflict.\nC. Channel relationships.\nD. Customer conflict.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "117": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: These are events when groups of sellers meet collectively with the key purpose of attracting buyers:\nA. Exhibitions.\nB. Sales promotions.\nC. Mass media advertising.\nD. Press conference.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "118": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  These objectives are often the most suitable when firms operate in a market dominated by a major competitor and where their financial resources are limited.\nA. Divest objectives.\nB. Harvest objectives.\nC. Hold objectives.\nD. Niche objectives\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "119": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  The process of outsourcing a task or group of tasks to a generally large group of people is known as:\nA. Social media marketing.\nB. Internet advertising.\nC. Crowdsourcing.\nD. E-marketing.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "120": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not one of the categories of research design?\nA. Exploratory research.\nB. Descriptive research.\nC. Causal research.\nD. Desk research.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "121": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  This marketing and communication tool offers a direct inducement or an incentive to encourage customers to buy a product/service:\nA. Advertising.\nB. Public relations.\nC. Sales promotion.\nD. Direct marketing.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "122": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  These objectives are often employed in mature markets as firms/products enter a decline phase. The goal is to maximize short-term profits and stimulate a positive cash flow.\nA. Divest objectives.\nB. Hold objectives.\nC. Growth objectives.\nD. Harvesting objectives.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "123": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is the interpersonal communication about products or services where a receiver regards the communicator as impartial and is not attempting to sell products or services?\nA. Word of Mouth (WOM).\nB. Personal Selling (PS).\nC. Direct Marketing (DM).\nD. Customer Service (CS).\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "124": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  McDonald's and KFC are good examples of:\nA. Distributors.\nB. Franchising.\nC. Merchant.\nD. Retailers.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "125": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  The way in which the product is delivered to meet the customers' needs refers to:\nA. New product concepts and improvements.\nB. Selling.\nC. Advertising and promotion activities.\nD. Place or distribution activities.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "126": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is the investigation of the hedonic consumption of products?\nA. Social interaction perspective.\nB. Functional utilization perspective.\nC. Experiential consumption.\nD. Brand management perspective.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "127": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: These are stores designed to kill off the competition and are characterized by narrow but very deep product assortment, low prices, and few to moderate customer services:\nA. Speciality stores.\nB. Limited line retailers.\nC. Category-killer stores.\nD. Superstores.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "128": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is the communication model that depicts information flowing via various media channels, to particular types of people, to whom other members of the audience refer for information and guidance?\nA. Two-step.\nB. Three-step.\nC. Multi-step.\nD. One-step.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "129": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  If an advertisement shows the interior of a train with comfortable seats and plenty of space yet a customer boards a train only to find a lack of space and hard seating. This is an example of:\nA. GAP 4-the gap between service delivery and external communications.\nB. GAP 2-the gap between management perception and service-quality specification\nC. GAP1-the gap between the customer's expectations and management perception.\nD. GAP 3-the gap between service-quality specifications and service delivery.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "130": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  To make sense of the external environment, the well-known acronym, PESTLE is used. PESTLE stands for _____________\nA. The political, economics, substitute, technological, legal, and ecological environments.\nB. The political, economic, social, technological, legal, and ecological environments.\nC. The political, economic, social, treat, legal, and ecological environments.\nD. The purchasing, economics, social, technological, legal, and ecological environments.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "131": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: To be effective, the process of market segmentation must meet which of the following basic requirements?\nA. The firm must avoid focusing on non-variables such as profitability and volume.\nB. The market segment must have measurable purchasing power and size.\nC. The company must expand beyond its marketing capabilities to capture growing markets.\nD. The market segment must reflect the population's changing attitudes and lifestyles.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "132": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Newsletters, catalogues, and invitations to organization-sponsored events are most closely associated with the marketing mix activity of:\nA. Pricing.\nB. Distribution.\nC. Product development.\nD. Promotion.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "133": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Marketers usually decide whether to conduct marketing research study internally or through an outside organization based on certain criteria. Which of the following criterion is not used?\nA. Whether the study offers value for money.\nB. The agency's reputation.\nC. The likelihood that the research design will provide insights into the management problem.\nD. The size of the agency.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "134": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following elements is not part of Porter's Five Forces model for industry competitiveness?\nA. Threat of substitutes.\nB. Threat of suppliers.\nC. Power of buyers.\nD. Threat from government.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "135": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  These sell directly to end consumers and may purchase directly from manufacturers and/or deal with wholesalers:\nA. Distributors.\nB. Franchising.\nC. Merchant.\nD. Retailers.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "136": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Before beginning the market segmentation process, a firm should:\nA. Identify bases for segmenting markets.\nB. Forecast total market potential.\nC. Forecast market share.\nD. Select target market segments.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "137": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: The primary objective of team-based selling is to\nA. match various functional areas of the company with customer needs\nB. distribute the work involved in managing an account\nC. equitably manage the sales bonus pool\nD. create multiple points of contact between the customer and the company\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "138": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: This level of branding can be seen when a customer attaches a name, term, or other feature that enables them to identify one seller's good or service as distinct from those of other sellers. This branding is known as:\nA. Corporate brand.\nB. Family branding.\nC. Customer branding.\nD. International brand.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "139": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  This is a form of targeted advertising, on websites, with advertisements selected and served by automated systems based on the content displayed to the user.\nA. Contextual advertising.\nB. Interactive marketing.\nC. Internet advertising.\nD. Direct marketing.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "140": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Primary data are:\nA. Data collected for the first time specifically for a marketing research study.\nB. Less time-consuming to acquire and less costly than secondary data.\nC. Newly-published results of government investigations.\nD. Part of a strategic planning activity to ensure proper resource allocation.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "141": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Salespeople who view a situation as a customer sees it are exhibiting\nA. cooperation\nB. empathy\nC. responsibility\nD. tolerance\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "142": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  This is a part of the communication process where the sender selects a combination of appropriate words, pictures, symbols, and music to represent a message to be transmitted:\nA. Encoding.\nB. Decoding.\nC. Transfer.\nD. Feedback.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "143": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Toyota's Prius and Honda's hybrid Civic are examples of technological products inspired by:\nA. Style considerations in the Japanese automobile industry.\nB. Social pressure to develop more fuel-efficient vehicles with fewer dangerous emissions.\nC. The desire of many engineers to simply make interesting products.\nD. The realization that Japanese people didn't need large, high-speed cars.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "144": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  This approach has been used to convey particular information and help educate large target audiences through television and radio programmes. This approach is referred to as:\nA. Opinion followers.\nB. Opinion formers.\nC. Public relations.\nD. Opinion leaders.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "145": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: When an individual passively appreciates an event or environment but leaves without affecting or altering the nature of the environment is called:\nA. Entertainment realm.\nB. Educational realm.\nC. Aesthetic realm.\nD. Escapist realm\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "146": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is best understood as a period of time during which a customer interacts directly with a service?\nA. Good usage.\nB. Servicescape.\nC. Service mix.\nD. Service encounters.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "147": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Intermediaries assist end-users by bringing a product produced a long way away to a more convenient location for purchase and consumption. This is referred to as:\nA. Time utility.\nB. Place utility.\nC. Ownership utility.\nD. Information utility.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "148": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  The pricing approach where prices are set based on what competitors are charging is called the:\nA. Cost-oriented approach.\nB. Demand-oriented approach.\nC. Competitor-oriented approach.\nD. Value-oriented approach.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "149": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Which of the following types of tests is designed primarily to help predict how successful a person is likely to be in learning new skills?\nA. Achievement\nB. Aptitude\nC. Interest\nD. Personality\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "150": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  ____________ occurs when a search engine company charges fees related to inclusion of websites in their search index.\nA. Contextual search.\nB. Site optimization.\nC. Paid inclusion.\nD. Paid listing\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "151": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  This is where the manufacturing, purchasing, and consumption can occur at differing points in time.\nA. Time utility.\nB. Ownership utility.\nC. Accessibility.\nD. Information utility.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "152": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  According to Maslow's Hierarchy of Needs theory, the need for fulfilment, for realizing one's own potential, and for fully using one's talents and capabilities are examples of __________ needs.\nA. Self-actualization.\nB. Physiological.\nC. Social.\nD. Esteem.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "153": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not part of the consumer proposition acquisition process?\nA. Motive development.\nB. Information gathering.\nC. Proposition evaluation.\nD. Perception.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "154": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  When analysing consumer lifecycles, marketers look at consumers in differing stages of their life. Many models upon which these are based were developed in the 1960s. Since then a lot has changed in 'consumer lifecycles'. Which emerging trends should marketers take into consideration?\nA. Fewer people are getting married.\nB. People getting married at a later age.\nC. More couples co-habiting.\nD. All of the above.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "155": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  The pricing approach where prices are set based on what customers believe to offer value is called the:\nA. Cost-oriented approach.\nB. Demand-oriented approach.\nC. Competitor-oriented approach.\nD. Value-oriented approach.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "156": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: The Internet has led to the development of an information intermediary. Here the key role is to manage information to improve the efficiency and effectiveness of the distribution channel. This is referred to as:\nA. Time utility.\nB. Information utility.\nC. Ownership utility.\nD. Place utility.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "157": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is the best example of a trade discount?\nA. A lumberyard offers a discount to a homeowner for buying lumber.\nB. A retailer offers a discount to a consumer for buying out of-season merchandise.\nC. A producer offers a discount to retailers for promoting its product during the month of June.\nD. A car dealer offers a discount to a customer in exchange for a used car.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "158": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: The rise of ___________ has led marketing to evolve away from a hierarchical one-sided mass communication model towards more participatory technologies (e.g. social channels and online communities).\nA. Website.\nB. Social media.\nC. Web 1.0.\nD. Web platform.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "159": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Nysveen and Pedersen (2014) added in key dimensions of customer experience. The ______________ refers to how strongly a brand engages consumers in physical activities.\nA. Affective dimension.\nB. Intellectual dimension.\nC. Behavioural dimension.\nD. Sensory dimension.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "160": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: New technology results in new goods and services, and it can also:\nA. Lower the quality of existing products.\nB. Lower the available level of customer service.\nC. Reduce prices through new production and distribution methods.\nD. Bring back products that were considered obsolete.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "161": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: These are non-durable goods or services, often bought with little pre-purchase thought or consideration:\nA. Impulse products.\nB. Manufacturer products.\nC. Convenience products.\nD. Luxury products.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "162": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: In marketing, the term proposition:\nA. Refers only to tangible items that can be seen, tasted, or touched.\nB. Is a broad concept that encompasses the satisfaction of consumer needs.\nC. Is limited in meaning to goods, services, and ideas only.\nD. Never refers to such things as package design, brand name, or warranty.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "163": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  When the analyst reads the data from a critical perspective to determine whether or not this fits with their expectations, this constitutes what is termed a:\nA. Face validity.\nB. Reliability.\nC. Control group.\nD. Focus group.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "164": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  What is the term used to describe how consistent or stable the ratings generated by a scale are?\nA. Replication.\nB. Pre-code.\nC. Reliability.\nD. Convenience.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "165": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: _________ enable different types of uncertainty to be lowered in several ways (Fill and McKee, 2012). These include reducing the complexity, increasing value and competitive advantage, routinization, and providing specialization.\nA. Warehouse.\nB. Distribution.\nC. Supply chain.\nD. Marketing channels.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "166": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: When little is known about the problem, research seeking to discover the cause of a problem by discussing the problem with informed sources and examining pre-existing data is undertaken. This type of research is:\nA. Situation analysis.\nB. Information investigation.\nC. Exploratory research.\nD. Bottom-line analysis.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "167": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  A means of orchestrating the tools of the marketing communications mix, so that audiences perceive a single, consistent, unified message whenever they have contact with a brand, is referred to as:\nA. Integrated marketing communications (IMC).\nB. Personal selling (PS).\nC. Direct marketing (DM).\nD. Customer service (CS).\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "168": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following consumer buying behaviours requires the least effort?\nA. High involvement buying situation.\nB. New buying situation.\nC. Routine buying.\nD. Impulsive buying.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "169": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  ________________ is a process that leads to specific decisions on how to compete in the marketplace and how the company should best serve its customers.\nA. Portfolio analysis.\nB. Environmental scanning.\nC. Strategic marketing.\nD. Marketing research.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "170": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  What type of media has the primary objective to get the attention of shoppers and to stimulate them to make a purchase? (Examples include point-of-purchase displays and packaging.)\nA. Broadcast media.\nB. Interactive media.\nC. In-store media.\nD. Support media.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "171": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: A commercial activity, whereby one party permits another an opportunity to exploit an association with a target audience in return for funds, services, or resources is referred to as:\nA. Advertising.\nB. Exchange.\nC. Sponsorship.\nD. Public relations.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "172": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Types of non-random samples include:\nA. Convenience and quota samples.\nB. Cluster and convenience samples.\nC. Stratified and convenience samples.\nD. Random and cluster samples.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "173": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  These store goods for moderate to long periods:\nA. Storage warehouses.\nB. Distribution centres.\nC. Haulage transport.\nD. Electronic data interchange.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "174": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Robert is a marketer for a global consumer products company. He is working on the promotional campaign designed to reach a target audience in a new international market. Robert is working hard to make sure that the promotional campaign is clearly understood by the nation's consumers and doesn't offend anyone. By which of the factors in the external environment is he being influenced\nA. Socio-cultural environment.\nB. Competitive environment.\nC. Economic environment.\nD. Legal environment.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "175": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: ____________________ are those who address the same target market but provide a different offering to satisfy the market need, for example Spotify, Sony, and Apple's iPod.\nA. Direct competitions.\nB. Direct suppliers.\nC. Indirect distributors.\nD. Indirect competitions.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "176": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  A key benefit of the STP process is:\nA. More effective and efficient matching of company resources to targeted market segments promising the greatest ROMI.\nB. Enhancing a company's competitive position by providing direction and focus for marketing strategies.\nC. Examining and identifying growth opportunities in the market through the identification of new customers, growth segments, or new product uses.\nD. All of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "177": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  ____________ is also a form of sponsorship and represents a relationship between film/TV producers and managers of brands. Through this arrangement, brand managers are able, for a fee, to present their brands 'naturally' within a film or entertainment event. Such placement is designed to increase brand awareness, develop positive brand attitudes, and possibly lead to purchase activity.\nA. Brand placement.\nB. Field marketing.\nC. Exhibition.\nD. Viral marketing.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "178": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: The management and execution of marketing using digital electronic technologies and channels (e.g. web, email, digital TV, wireless media) and digital data about user/customer characteristics and behaviour is referred to as:\nA. E-marketing.\nB. Social marketing.\nC. Digital marketing\nD. Internet marketing.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "179": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  ___________ occurs when a website's structure and content is improved to maximize its listing in organic search engine results pages using relevant keywords or search phrases.\nA. Paid inclusion.\nB. Search engine optimization.\nC. Contextual search.\nD. Pay per click.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "180": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: A form of marketing communications that uses the Internet for the purpose of advertising, aiming to increase website traffic and/or encourage product trial, purchase, and repeat purchase activity is called:\nA. Search marketing.\nB. E-mail marketing.\nC. Internet advertising.\nD. Social web marketing.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "181": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: This branding policy requires that all the products use the organization's name, either entirely or in part, e.g. Microsoft, Heinz, and Kellogg's\nA. Individual branding.\nB. Family branding.\nC. Corporate brands.\nD. Manufacturer brand.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "182": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  The action of presenting persuasive communication and the action of audiences in interpreting that communication to assimilate it into their existing understanding is referred to as:\nA. Needs identifying.\nB. Innovating.\nC. Advertising.\nD. Framing.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "183": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  An organization can offer standard products at acceptable levels of quality, yet still generate above-average profit margin by adopting _____________\nA. Cost leadership.\nB. Differentiation.\nC. Focus strategy.\nD. Market follower strategy.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "184": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is not an issue that marketers need to consider when using digital resources for marketing activities?\nA. Jurisdiction.\nB. Disclosure.\nC. Ownership.\nD. Permissions.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "185": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  What type of media helps advertisers demonstrate the benefits of using a particular product and can bring life and energy to an advertiser's message?\nA. Broadcast media.\nB. Interactive media.\nC. Print media.\nD. Support media.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "186": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: The process of keeping a running account of merchandise on hand is referred to as\nA. perpetual inventory\nB. economic order quantity\nC. book inventory\nD. physical inventory\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "187": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: This is the sharing of meaning created through the transmission of information:\nA. Communication.\nB. Noise.\nC. Transfer.\nD. Understanding.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "188": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: In relationship marketing firms focus on __________ relationships with __________.\nA. Short-term; customers and stakeholders.\nB. Long-term; customers and stakeholders.\nC. Short-term; customers.\nD. Long-term; customers.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "189": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following means placing your product or service in as many outlets or locations as possible, in order to maximize the opportunity for customers to find the good or service?\nA. Exclusive distribution.\nB. Intensive distribution.\nC. Selective distribution.\nD. Direct distribution.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "190": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  ______________ is used to determine whether one variable causes an effect in another variable. In order to determine causality experimental or longitudinal studies are needed.\nA. Ethnographic study.\nB. Consumer juries.\nC. Causal research.\nD. Focus-groups.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "191": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  A database of information that is maintained by human editors and lists websites by category and subcategory with categorization is known as:\nA. A search directory.\nB. Automated voice response (AVR).\nC. Apps.\nD. SEO.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "192": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Services are characterized by five distinct characteristics. These are:\nA. Intangibility, value, variability, inseparability, and a lack of ownership.\nB. Intangibility, value, variability, inseparability, and profitability.\nC. Intangibility, perishability, variability, inseparability, and a lack of ownership.\nD. Intangibility, value, variability, inseparability, and relationship.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "193": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: A company sells its product at two different prices in two different locations. Which of the following types of research will be most effective in identifying the optimal price for the product if all other marketing factors are held constant?\nA. Descriptive\nB. Exploratory\nC. Ethnographic\nD. Causal\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "194": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Where the price is set low relative to the competition to gain market share, this strategy is known as:\nA. Premium pricing.\nB. Price skimming.\nC. Economy pricing.\nD. Penetration pricing.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "195": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Which of the following is not the rationale for developing CSR initiatives?\nA. Corporations have responsibilities going beyond the production of their offerings at a profit.\nB. Corporations have a broader constituency of stakeholders than shareholders alone.\nC. The impacts of corporations limit to only simple marketplace transactions.\nD. Corporations serve a wider range of human values, not captured solely by a focus on economic values.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "196": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: This business-to-business pricing approach seeks to understand customers' needs before pricing the offering according to those needs in order to generate a long-term relationship. This is referred to as:\nA. Geographical pricing.\nB. Discount pricing.\nC. Relationship pricing.\nD. Value-in-use pricing.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "197": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: This form of advert delivered on social platforms and social gaming websites and apps, across all device types is known as:\nA. Mobile marketing.\nB. Social media advertising.\nC. Internet advertising.\nD. E-marketing.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "198": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Secondary data has two important advantages over primary data. It is:\nA. Capable of compensating for rapid environmental changes and technical improvements.\nB. Always available and complete.\nC. Seldom obsolete and usually fits the dimensions of your problem.\nD. Generally cheaper to gather than primary data and takes less time to find.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "199": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Internet-based organizations designed to provide information to channel members, including end-users are referred to as:\nA. Infomediaries.\nB. Retailers.\nC. Department stores.\nD. Wholesalers.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "200": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: In B2B contexts, ___________ occurs in large organizations where considerable internal dealing between different company divisions occurs, often across national boundaries.\nA. Price gouging.\nB. Transfer pricing.\nC. Pay what you want pricing.\nD. EVC pricing.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "201": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: This is when a product or service is offered together with another typically complementary product or service:\nA. Product pricing.\nB. Price differentiation.\nC. Pure price bundling.\nD. Odd-Number pricing.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "202": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  This is something that at some time in the future may destabilize and/or reduce the potential performance of the organization.\nA. Strength.\nB. Weakness.\nC. Threat.\nD. Opportunities.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "203": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: When there are high levels of business failures and unemployment, the business cycle is said to be in which of the following phases?\nA. Expansion\nB. Peak\nC. Recovery\nD. Trough\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "204": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Many retail brands adopt a single umbrella brand, based on the name of the organization. This is referred to as:\nA. Family branding.\nB. Corporate brands.\nC. Individual branding.\nD. Manufacturer brand.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "205": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  The importance and significance of customer experience to both individuals and society is referred to as:\nA. Knowledge economy.\nB. Service economy.\nC. Experience economy.\nD. Customer economy.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "206": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: ________________reflect a purchaser's high level of involvement in the purchase decision. There is high perceived risk in these decisions so consumers spend a great deal of time, care, and energy searching, formulating, and making the final decision.\nA. Durable goods.\nB. Non-durable goods.\nC. Convenience products.\nD. Services.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "207": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: ____________ is a form of digital marketing that describes the use of the social web and social media (e.g. social networks, online communities, blogs or wikis) or any online collaborative technology for marketing activities, be it sales, public relations, research, distribution, or customer service.\nA. Pay per click (PPC)\nB. Digital asset optimization (DAO)\nC. Social media marketing (SMM)\nD. Search engine optimization (SEO)\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "208": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Inelastic demand occurs when the\nA. quantity demanded changes a great deal as prices fluctuate\nB. quantity demanded barely changes with a change in price\nC. change in quantity demanded is in the same proportion as the change in price\nD. demand curve and the supply curve intersect at a given price point\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "209": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  A person who is in the position of attempting to satisfy their needs at the most basic level is operating at the level of Maslow's needs hierarchy called the need for:\nA. Self-actualization.\nB. Esteem.\nC. Physiological needs.\nD. Belongingness.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "210": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  During the __________ stage of the adoption process, the innovation is tried for the first time. Sales promotions are often used as samples to allow individuals to test the product without any undue risk. Individuals accept or reject an innovation on the basis of their experience of the trial.\nA. Knowledge.\nB. Implementation.\nC. Persuasion.\nD. Decision.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "211": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Which technique is used to collect data that has been previously collected for a purpose other than the current research situation?\nA. Primary research.\nB. Secondary research.\nC. Primary and secondary.\nD. Primary and desk research.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "212": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Current changes in behaviors clearly show that ______ is taking over more and more of consumer online searches.\nA. Social media.\nB. Mobile.\nC. Internet.\nD. Blog.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "213": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Once a train pulls out of a station, or an aeroplane takes off or a film starts, those seats are lost and can never be sold. This is referred to as:\nA. Inseparability.\nB. Variability.\nC. Intangibility.\nD. Perishability.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "214": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  The train operator understands customer desire for a comfortable seat but fails to specify how many should be provided relative to the anticipated number of travellers on each route. This is an example of:\nA. GAP 2-the gap between management perception and service-quality specification.\nB. GAP1-the gap between the customer's expectations and management perception.\nC. GAP 3-the gap between service-quality specifications and service delivery.\nD. GAP 4-the gap between service delivery and external communications.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "215": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  This is part of the communication process and refers to the responses offered by receivers:\nA. Encoding.\nB. Decoding.\nC. Transfer.\nD. Feedback.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "216": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Economic\u2014marketing should encourage long-term economic development as opposed to short-term economic development.\nA. Ecological, evolutionary, and economic\nB. Ecological, equitable, and economic\nC. Evolutionary, equitable, and economic.\nD. Ecological, equitable, and emerging.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "217": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Individuals become completely immersed in their environment and actively participate so that they affect actual performances or occurrences in the environment. This is referred to as:\nA. Educational realm.\nB. Escapist realm.\nC. Aesthetic realm.\nD. Entertainment realm.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "218": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: This is a marketing communication tool that uses non-personal media to create and sustain a personal and intermediary free communication with customers, potential customers, and other significant stakeholders:\nA. Direct marketing.\nB. Advertising.\nC. Public relations.\nD. Sales promotion.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "219": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  It has been claimed that the three major outcomes from the development of relationship trust are satisfaction, ___________, and continuity (Pavlou, 2002).\nA. Reduced perceived risk.\nB. Service recovery.\nC. Service processes.\nD. Efficiency.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "220": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: The family life cycle:\nA. Is a way to apply psychographic segmentation.\nB. Refers to the process of family formation and dissolution.\nC. Provides insights into the relationships among age, occupation, income, and housing.\nD. Is composed of the 11 stages of personal growth from infancy to retirement.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "221": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: A marketing research firm contracts with clients to conduct a complete marketing research project from data collection, analysis, and reporting. It is a__________ firm.\nA. Consultant.\nB. Field agency.\nC. Full-service agency.\nD. Tabulation agency.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "222": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: A company builds its sales message, advertising message, and promotion theme to influence how a particular market sector perceives a good or service in comparison with the competition. The company is primarily engaged in\nA. segmentation\nB. mass customization\nC. concentrated targeting\nD. positioning\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "223": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  With this pricing approach, the pricing process begins with the customer; not the cost of the product offering:\nA. Value-based pricing.\nB. Cost-based pricing.\nC. Customer-led pricing.\nD. Sales pricing.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "224": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: ___________ is based on the idea that customer expectations of the service they will receive shape their perception of the actual service encounter.\nA. Service quality.\nB. Service action.\nC. Service recovery.\nD. Service satisfaction.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "225": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  Information collected for the first time specifically for a marketing research study is called:\nA. Secondary research.\nB. Primary research.\nC. Soft research.\nD. Experimental research.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "226": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: This includes advertisements that contain 'call-to-response' mechanisms such as telephone numbers, website addresses, email and postal addresses:\nA. Direct response advertising.\nB. Sales promotions.\nC. Mass media advertising.\nD. Public relations.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "227": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not part of the external marketing environment?\nA. Political.\nB. Legal.\nC. Product.\nD. Socio-cultural.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "228": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion:  In order for exchange to occur:\nA. A complex societal system must be involved.\nB. Organized marketing activities must also occur.\nC. A profit-oriented organization must be involved.\nD. Each party must have something of value to the other party.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "229": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Conflict between sequential members in a distribution network, such as producers, distributor, and retailers, over such matters as carrying a particular range or price increases is referred to as:\nA. Channel conflict.\nB. Horizontal conflict.\nC. Vertical conflict.\nD. Supply chain conflict.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "230": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is an example of costbased pricing?\nA. Basing the price on what the customer is willing to pay\nB. Basing the price on the psychological expectations of the customer\nC. Basing the price on the features and benefits of the product\nD. Basing the price on the full cost of production plus the required profit\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "231": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is typically not a result of recognizing the importance of ethnic groups by marketers?\nA. Use of an undifferentiated one-size-fits-all marketing strategy.\nB. Adaptation of the advertising, particularly the use of foreign languages, to the target ethnic market.\nC. Variations in product offerings to suit the wants of a particular group.\nD. Study of ethnic buying habits to isolate market segments.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "232": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: _______________can be defined as the aspect of our psyche that determines the way in which we respond to our environment in a relatively stable way over time.\nA. Perception.\nB. Personality.\nC. Learning.\nD. Memory.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "233": {
+        "origin_prompt": "There is a single choice question about marketing. Answer the question by replying A, B, C or D.\nQuestion: The six dimensions usually considered to constitute the external marketing environment include all of the following except:\nA. Political considerations.\nB. Global factors.\nC. Socio-cultural aspects.\nD. Economics issues.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    }
+}

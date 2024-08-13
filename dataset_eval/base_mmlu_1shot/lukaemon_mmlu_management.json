@@ -1,0 +1,517 @@
+{
+    "0": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is the term for a sub-optimal but acceptable outcome of negotiations between parties?\nA. Bargaining\nB. Satisficing\nC. Accepting\nD. Compromising\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "1": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is the term for the 'rule of thumb' type of bias in decision making?\nA. Framing bias\nB. Hindsight bias\nC. Over-confidence bias\nD. Heuristics\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "2": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is a normative perspective?\nA. The way things are.\nB. The way things are going to be.\nC. The way things should be.\nD. The way things were.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "3": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: In the 'five forces model', what is the type of competitive activity that exists between organisations?\nA. The potential for entry into the industry\nB. The threat of substitute products\nC. The power of customers\nD. The level of rivalry\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "4": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Which one of the following political leaders could not be termed a 'transformational' leader?\nA. Margaret Thatcher\nB. Mikhail Gorbachov\nC. Nelson Mandela\nD. Bill Clinton\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "5": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is a Gantt chart a type of?\nA. Work flow design\nB. Work schedule design\nC. Work rate design\nD. Work output design\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "6": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Which one of the following is a feature of McGregor's Theory X?\nA. Workers enjoy responsibility.\nB. Workers view physical and mental effort as a natural part of work.\nC. Workers like to show initiative.\nD. Workers like to be directed.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "7": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is the term for power derived from status or position in an organisation?\nA. Referent\nB. Expert\nC. Reward\nD. Legitimate\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "8": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Which writer is most associated with bureaucratic structures?\nA. Henry Fayol\nB. Max Weber\nC. Adam Smith\nD. Mary Parker Follett\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "9": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Who of the following is the industrial philanthropist?\nA. Frederick Taylor\nB. Seebohm Rowntree\nC. Henry Ford\nD. Max Weber\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "10": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Individualism as a guiding moral philosophy was advocated by which economist?\nA. John Kenneth Galbraith\nB. John Maynard Keynes\nC. Milton Friedman\nD. Alfred Marshall\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "11": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: The Hawthorn Studies are most associated with which writer?\nA. Mary Parker Follett\nB. Elton Mayo\nC. Lillian Gilbreth\nD. Frederick Taylor\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "12": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: How can you describe the thinking and outlook of transformational leaders?\nA. Strategic\nB. Operational\nC. Functional\nD. Developmental\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "13": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What are the key characteristics of transactional leaders?\nA. Guiding, mentoring and motivating\nB. Guiding, commanding and motivating\nC. Guiding, demonstrating and motivating\nD. Guiding, mentoring and demonstrating\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "14": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is not an assumption underpinning the rational decision making model?\nA. Incomplete information\nB. An agreed goal\nC. A structured problem\nD. High level of certainty regarding the environment\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "15": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Which one of the following is not one of Drucker's five guiding principles of management?\nA. Making people's strengths effective and their weaknesses irrelevant.\nB. Enhancing the ability of people to contribute.\nC. To operate the organisation's status system.\nD. Integrating people in a common venture by thinking through, setting and exemplifying the organisational objectives, values and goals.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "16": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is a paradigm?\nA. A theoretical assumption\nB. An illustration\nC. A theoretical model\nD. An example serving as a model\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "17": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What one of the following is not a key management skill in planning?\nA. Conceptual skills\nB. Analytical skills\nC. IT and computing skills\nD. Communication skills\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "18": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: According to Belbin (1981) an extroverted and enthusiastic person fits with what role?\nA. Co-ordinator\nB. Shaper\nC. Resource investigator\nD. Implementer\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "19": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Which is not a recognised form of business continuity planning?\nA. Contingency planning\nB. Scenario planning\nC. Financial planning\nD. Building planning\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "20": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is the term for an organisation that adapts to changes in the environment by quickly responding to shifts in supply and demand conditions?\nA. Opportunistic organisation\nB. Enterprising organisation\nC. International organisation\nD. Agile organisation\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "21": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Which of these is not part of the recognised challenges for modern managers?\nA. Micro-managing the workforce\nB. Managing communications\nC. Managing change\nD. Managing the learning organisation\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "22": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: To what does emotional intelligence refer?\nA. How people view and understand the world.\nB. How people view and understand themselves.\nC. How people view and understand others.\nD. How people view and understand themselves and others.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "23": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Of what is individual freedom to schedule work an example?\nA. Job design\nB. Job enrichment\nC. Job rate\nD. Job planning\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "24": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What are workers primarily motivated by according to the instrumental approach?\nA. Peer recognition\nB. Promotion\nC. Greater freedom\nD. Economic reward\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "25": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Which is not a characteristic of corporate social responsibility?\nA. Product safety\nB. Consumer rights\nC. Environmental policies\nD. Price-fixing\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "26": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Who was a major protagonist of utilitarianism?\nA. John Stuart Mill\nB. Thomas Hobbes\nC. Karl Marx\nD. Adam Smith\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "27": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: As what is ensuring that one individual does not carry the burden of a whole work task referred to?\nA. Work specialisation\nB. Work design\nC. Work schedule\nD. Work shift\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "28": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: How do you describe a work group that comprises workers with demarcated tasks and distant line managers?\nA. Dependent\nB. Independent\nC. Interdependent\nD. Collaborative\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "29": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Specialisation is a feature of which organisational structure?\nA. Matrix\nB. Divisional\nC. Multi-divisional\nD. Functional\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "30": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Which one is not an element in the primary activities of a value chain?\nA. Procurement\nB. Inbound logistics\nC. Outbound logistics\nD. Service\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "31": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is the term for the act of getting individuals to behave in ways that are acceptable to a group?\nA. Indoctrination\nB. Brainwashing\nC. Propaganda\nD. Socialisation\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "32": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: When does an acquisition take place?\nA. Two equal partners decide to work together.\nB. Two equal partners share resources.\nC. Two unequal partners join together.\nD. Two unequal partners become one after a buyout.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "33": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Who of these is the entrepreneur?\nA. Barack Obama\nB. James Dyson\nC. Damien Hirst\nD. Mo Farah\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "34": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Which of these is not an advantage of a virtual team?\nA. Team members can be recruited for their specific skills or experience.\nB. No overhead costs associated with physical buildings.\nC. Conflict can be resolved easily using face-to-face meetings.\nD. Low transport or commuting costs.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "35": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is the richest form of information?\nA. Telephone\nB. Face-to-face\nC. E-mail\nD. Video conference\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "36": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is the purpose of a 'quality circle'?\nA. Bring together managers and workers to find improvements.\nB. Bring together managers and workers to discuss output.\nC. Bring together managers and workers to review quality of work.\nD. Bring together managers and workers to review targets.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "37": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is the guiding principle behind New Public Management?\nA. Profit maximisation\nB. Introducing private sector business principles into the public sector\nC. Replacing public management with private sector management\nD. Restructuring public organisations\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "38": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Profitability stemming from how well a firm positions itself in the market is a key feature of which writer's view on strategy?\nA. Peter Drucker\nB. Jay Barney\nC. Michael Porter\nD. Henry Mintzberg\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "39": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Functional structures help to create\u0085...\nA. teamwork\nB. specialisation\nC. project work groups\nD. multi-skilled employees\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "40": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is a succession plan?\nA. Dismissing an employee for a more favourable employee\nB. A formal process of planning to fill a role that will become vacant\nC. A vote of no confidence in a board member\nD. The formal process of acquiring a new staff member\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "41": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is the definition of a scenario in scenario planning?\nA. An imagined sequence of future events\nB. An unpredictable event\nC. A planned for event\nD. An unplanned for event\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "42": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What assumption is the garbage can model of decision making based on?\nA. Limited knowledge and great insight\nB. Limited knowledge but high level of experience\nC. Limited knowledge and uncertainty\nD. Limited knowledge and high risk\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "43": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: By which principle is utilitarianism defined?\nA. Equality for everyone\nB. Maximisation of outcomes for individuals\nC. The best outcome for the majority of people\nD. The least worst outcome for everybody\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "44": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is the term for the set of behaviours and tasks that a member of the group is expected to perform because he or she is a member of the group?\nA. Group roles\nB. Virtual teamwork\nC. Synergy\nD. Role making\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "45": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is the term for a process that enables an organisation to assess and demonstrate its social, economic, and environmental benefits and limitation?\nA. Social plan\nB. Social strategy\nC. Social audit\nD. Social account\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "46": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What type of organisational culture is most likely to deliver stability and efficiency?\nA. Task culture\nB. Role culture\nC. Power culture\nD. People culture\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "47": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Who of the following is a leading writer on contingency theory of leadership?\nA. Rosabeth Kanter\nB. Joan Woodward\nC. Rensis Likert\nD. Fred Fiedler\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "48": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What are characteristics of a programmed decision?\nA. Complex and risky\nB. Uncertain and non-routine\nC. Low risk and certain\nD. Routine and non-complex\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "49": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is not an advantage of a hierarchical structure?\nA. Clear chain of command\nB. Quick response to change\nC. Discipline and stability\nD. Small span of control\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "50": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is a strategic alliance?\nA. Any form of partnership between one firm and another\nB. Formal agreement committing two or more firms to exchange resources to produce products or services\nC. Formal agreement to share profits from a shared investment\nD. Formal agreement to share knowledge\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "51": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What are group norms?\nA. Modes of behaviour that are acceptable to and shared by group members\nB. Modes of behaviour that are shared by some members of the group\nC. Modes of behaviour that challenge group values and beliefs\nD. Modes of behaviour that are different of those of the other group members\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "52": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not a recognised type of plan?\nA. Business\nB. Succession\nC. Ad hoc\nD. Financial\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "53": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is the term for the extent to which competition in one country is influenced by competition in other countries?\nA. International trade\nB. Global economics\nC. Global competition\nD. Globalisation\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "54": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: As what are key factors that reflect the situation of an organisation referred to?\nA. Administrations\nB. Processes\nC. Activities\nD. Contingencies\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "55": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Which of these does not form part of the key streams identified by March (1988) in decision making in highly ambiguous environments?\nA. Expectations\nB. Choice opportunities\nC. Problems\nD. Solutions\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "56": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What does PEST stand for?\nA. Political, environmental, strategic, testing\nB. Political, environmental, strategic, technological\nC. Political, economic, strategic, technological\nD. Political, economic, social, technological\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "57": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What does the acronym SMART stand for?\nA. Suitable, measurable, actionable, rewarded and timely\nB. Specific, measurable, actionable, resourced and timely\nC. Standardised, measurable, achievable, rewarded, and timely\nD. Specific, measurable, achievable, rewarded and timely\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "58": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Which writer was concerned with the reaction of workers to key characteristics of bureaucracies?\nA. Merton\nB. Weber\nC. Gouldner\nD. Mayo\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "59": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is the optimal span of control?\nA. 2\nB. 5\nC. 7\nD. None of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "60": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What one of these is not a recognised type of authority?\nA. Executive\nB. Functional\nC. Line management\nD. Supplier\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "61": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Which one of the following is not a characteristic of a team?\nA. Minimal and formal knowledge sharing\nB. Collective output\nC. Individual and collective responsibility\nD. Fluid dimension to roles and tasks\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "62": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Which of these factors is not one of the competing responsibilities that influence corporate social responsibility?\nA. Ethical\nB. Economic\nC. Discretionary\nD. Technical\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "63": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is the term used in Ansoff's matrix for increasing market share with existing products in existing markets?\nA. Product development\nB. Market penetration\nC. Diversification\nD. Market development\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "64": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is characteristic for the location of a virtual team?\nA. In the same building\nB. In the same industry\nC. In the same country\nD. remotely\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "65": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: According to the Five Factor model, 'extraversion' as a personality type is characterised by what type of people?\nA. Good natured\nB. Calm and self-confident\nC. Sensitive and curious\nD. Assertive and sociable\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "66": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is the overriding philosophy underpinning the strategic direction of an organisation?\nA. Vision statement\nB. Mission statement\nC. Strategy statement\nD. Business statement\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "67": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is the term for the action in which managers at an organisation analyse the current situation of their organisation and then develop plans to accomplish its mission and achieve its goals?\nA. Synergy planning\nB. Strategy formulation\nC. Functional planning\nD. SWOT analysis\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "68": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is Frank Gilbreth`s work most noted for?\nA. Working conditions\nB. Time and motion studies\nC. Work psychology\nD. Work as a social setting\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "69": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is another name for contingency planning?\nA. Synergy planning\nB. Ad hoc planning\nC. Business level planning\nD. Scenario planning\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "70": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Which feature does not form one of Fayol's 14 principles of management?\nA. Esprit de corps\nB. Initiative\nC. Order\nD. Individualism\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "71": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What one of the following is not a characteristic of the job characteristics model?\nA. Task identity\nB. Autonomy\nC. Reward\nD. Feedback\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "72": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Workers' acceptance of change is characteristic of what type of culture?\nA. Team culture\nB. Collaborative culture\nC. Group culture\nD. Collective culture\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "73": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is a virtual organisation?\nA. An organisation that uses information and communications technologies (ICT's) to coordinate activities without physical boundaries between different functions\nB. An organisation that uses internet technologies to sell products to customers\nC. An organisation that manages the supply chain using digital technologies\nD. An organisation that coordinates the workforce via video conferencing\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "74": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: From what does a chain of command extend?\nA. Bottom to top\nB. Top to bottom\nC. Diagonally\nD. Laterally\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "75": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What do you call a style of leadership that takes account of others' views, opinions and ideas?\nA. Laissez-faire\nB. People-oriented\nC. Democratic\nD. Autocratic\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "76": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is the guiding principle of scientific management?\nA. Experimentation\nB. Fluid working relationships\nC. Freedom of association\nD. One best way to do a job\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "77": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is the term Tuckman uses for reaching consensus as a group?\nA. Storming\nB. Performing\nC. Forming\nD. Norming\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "78": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What theory is built around the principle that 'people make choices regarding how to behave based on values and beliefs'?\nA. Expectancy\nB. Instrumental\nC. Classical\nD. Contingency\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "79": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is the term for decisions limited by human capacity to absorb and analyse information?\nA. Cognitive rationality\nB. Conscious rationality\nC. Bounded rationality\nD. Restricted rationality\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "80": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is a definition of an objective?\nA. A defined specified outcome to be achieved in the long-term\nB. A clear set of goals to be attained given a set number of resources\nC. A clearly defined and measurable outcome to be achieved over a specified timeframe\nD. A set standard of performance agreed by workers and managers\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "81": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is not a purpose of an organisational structure?\nA. To coordinate people and resources\nB. To organise lines of communication\nC. To formalise authority\nD. To limit workers' rights\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "82": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: To what time-frame do strategic plans relate?\nA. Long-term\nB. Medium-term\nC. Short-term\nD. Unspecified time it takes to achieve an aim\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "83": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is the term for organisational development through a formally designed organisational structure?\nA. Organic\nB. Mechanistic\nC. Formal\nD. Structured\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "84": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: 'There is no discernible link between planning and performance'. Who is this position held by?\nA. Michael Porter\nB. Milton Friedman\nC. Gary Hamel\nD. Henry Mintzberg\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "85": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What does situational theory of leadership emphasise?\nA. Personality traits\nB. Events\nC. Environment\nD. Political situation\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "86": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is intuitive decision making based on?\nA. Guesswork\nB. Gambling\nC. Instinct\nD. Rationality\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "87": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Enhancement of job satisfaction and productivity are key characteristics of which theoretical perspective of work design?\nA. Process improvement\nB. Techno-structural change model\nC. Job characteristics model\nD. Socio-technical systems\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "88": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Which 18th century writer produced a famous book called 'The Wealth of Nations'?\nA. Frederick Taylor\nB. Henry Mintzberg\nC. Adam Smith\nD. Dr Samuel Johnson\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "89": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Which one of these characteristics is most commonly associated with the 'rational goal' model of management?\nA. Worker welfare\nB. Health and safety\nC. Interpersonal relationships\nD. Productivity\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "90": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: In what order do managers typically perform the managerial functions?\nA. organising, planning, controlling, leading\nB. organising, leading, planning, controlling\nC. planning, organising, leading, controlling\nD. planning, organising, controlling, leading\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "91": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: How does lateral communication in an organisation occur?\nA. Information passes upwards.\nB. Information passes downwards.\nC. Information is a two-way process.\nD. Information passes between different departments and functions.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "92": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Of what is advertising a form?\nA. Focusing strategy\nB. Differentiation\nC. Cost leadership\nD. Growth\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "93": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is not a component of an agile organisation?\nA. Market focus and position\nB. Human resources: multi-skilling\nC. Organisational structure\nD. Project-based culture\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "94": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Of what is worker autonomy in decision making an example?\nA. Worker freedom\nB. Greater worker negotiation\nC. Worker empowerment\nD. Increased worker power\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "95": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Vertical integration forwards is when a firm mergers or acquires another\nA. Towards the source of supply\nB. Towards the consumer\nC. At the same stage of the supply chain\nD. In another industry\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "96": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is the term for an autonomous business entity within an overall corporate enterprise which is set apart from other areas of the business?\nA. Subsidiary\nB. Strategic partnership\nC. Strategic alliance\nD. Strategic business unit\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "97": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is not a characteristic of a corporate social responsibility framework?\nA. Retaining the status quo\nB. Understanding society\nC. Harnessing diversity\nD. Building capacity\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "98": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is a whistleblower?\nA. Someone who reports illegal or unethical acts\nB. Someone who commits illegal or unethical acts\nC. Someone who benefits from illegal or unethical acts\nD. Someone who devises illegal or unethical acts\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "99": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is T-group training?\nA. A group whose aim is transformational change\nB. A group brought together to deliver training programmes\nC. Team training for the purposes of advancing technology\nD. Team building activities involving learning\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "100": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is a social enterprise concerned with?\nA. Profit maximisation\nB. Maximising market share\nC. Providing public service\nD. Running a business to create social benefits\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "101": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not part of Schein's model of the formation of culture?\nA. Shared values\nB. Pre-conceptions\nC. Shared beliefs\nD. Norms\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "102": {
+        "origin_prompt": "There is a single choice question about management. Answer the question by replying A, B, C or D.\nQuestion: What is not one of the layers of cultural influence?\nA. Social\nB. Business\nC. Organisational\nD. Company\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    }
+}

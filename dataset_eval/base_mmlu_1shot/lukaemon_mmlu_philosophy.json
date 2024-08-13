@@ -1,0 +1,1557 @@
+{
+    "0": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Aesthetics deals with objects that are_____.\nA. essential to our existence\nB. unimportant to most people\nC. not essential to our existence\nD. rarely viewed\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "1": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: For Socrates, an unexamined life is a tragedy because it results in grievous harm to _____.\nA. the state\nB. the justice system\nC. the body\nD. the soul\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "2": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Kant, nothing can be called \u201cgood\u201d without qualification except _____.\nA. right action\nB. good consequences\nC. happiness\nD. a good will\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "3": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Plato's view is that true beauty is _____.\nA. found in everyday objects\nB. nonexistent\nC. everywhere in the natural world\nD. not of this world\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "4": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: In Aristotle\u2019s terminology, incontinence is when:\nA. one does not know that one\u2019s actions are wrong.\nB. one knows that one\u2019s actions are wrong, but does them anyway.\nC. one knows that one\u2019s feelings are inappropriate, and does not act on them.\nD. one does the right action, but for the wrong reason.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "5": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Nagel claims that most skeptical arguments:\nA. are the result of applying arbitrarily stringent standards.\nB. are based on linguistic confusions.\nC. are logically self-refuting.\nD. grow from the consistent application of ordinary standards.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "6": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Rawls conceives of the original contract as one to:\nA. enter a particular society.\nB. set up a particular form of government.\nC. establish the principles of justice for the basic structure of society.\nD. establish the content of morality.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "7": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Singer, compliance with his principle requires:\nA. modest changes to our personal habits, but not to our society as a whole.\nB. modest changes to our personal habits, as well as to society.\nC. drastic changes to our personal habits, but not to our society.\nD. drastic changes to both our personal habits and to our society.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "8": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: For Socrates, the soul is harmed by lack of _____.\nA. knowledge\nB. wealth\nC. community\nD. courage\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "9": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Kant, morality requires us to:\nA. perform the action that leads to the greatest total happiness.\nB. act only on maxims that we can will to become universal laws.\nC. behave only in such a way as a perfectly virtuous person would behave.\nD. place the interests of others above the interests of ourselves.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "10": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Gauthier, the basis of morality is:\nA. maximizing the utility of all sentient beings.\nB. God\u2019s commands.\nC. the agreement of rational persons choosing the terms of their interaction.\nD. the purposive order of nature.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "11": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Anscombe claims that it is not profitable to do moral philosophy until we have an adequate philosophy of:\nA. religion.\nB. physics.\nC. psychology.\nD. art.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "12": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Mill claims that one of the strongest objections to utilitarianism is drawn from the idea of:\nA. duty.\nB. justice.\nC. virtue.\nD. supererogation.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "13": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Berkeley asserts that existing and perceiving are _____.\nA. one and the same thing\nB. both nonexistent\nC. two distinct things\nD. imaginary\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "14": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Rawls, the term \u201cjustice as fairness\u201d conveys the idea that the principles of justice are agreed to in an initial position that is _____.\nA. rational\nB. artificial\nC. constitutional\nD. fair\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "15": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Berkeley believes that sensible things cannot exist except in _____.\nA. a mind\nB. absolute existence\nC. material substance\nD. a material universe\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "16": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Singer claims that his argument upsets the traditional distinction between:\nA. duty and charity.\nB. egoism and altruism.\nC. rights and privileges.\nD. positive and negative rights.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "17": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion:  In his discussion of the Divided Line, Plato says that, in contrast to mere belief or opinion, knowledge is a belief for which we give reasons or justifications by appealing:\nA. to what our senses reveal to us about how things appear to us, not how they  really are.\nB. beyond the Forms to images of goodness, beauty, and truth obtained from particular objects.\nC. to what we sincerely believe is true about the Forms based on our experiences in the world.\nD. beyond sense experience to unchanging ideas (Forms) that are perceived as rationally ordered.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "18": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: What was Clarence Darrow's belief about life's meaning?\nA. Life was not worthwhile.\nB. Life was hard but worthwhile.\nC. Life was uncertain but ultimately rewarding.\nD. Life was meaningful for most people.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "19": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Stevenson\u2019s primary aim in this paper is to:\nA. provide an account of what makes right actions right.\nB. establish which things are good in themselves.\nC. develop a theory of good moral character.\nD. make ethical questions clear.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "20": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Moore, we are thinking about good whenever we think about:\nA. pleasure.\nB. things that we desire.\nC. intrinsic value.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "21": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Baier argues that genuine moral rules:\nA. must be for the good of human beings.\nB. make take into account the interests of all sentient beings.\nC. must take into account the interests of all living beings.\nD. are primarily directed toward promoting self-interest.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "22": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Nussbaum claims that to many current ethical theorists, turning to an ethical approach based on the virtues is connected with a turn toward:\nA. rationalism.\nB. empiricism.\nC. relativism.\nD. absolutism.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "23": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Philosophy is concerned primarily with identifying beliefs about human existence and evaluating arguments that support those beliefs.  These activities can be summarized in two questions that drive philosophical investigations:\nA. why should we bother? and what are the consequences of our believing one thing over another?\nB. what do you mean? and how do you know?\nC. who really believes X? and how can we explain differences in people's beliefs?\nD. how do philosophers argue? and are their differences important?\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "24": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Epictetus claims that things within our power are __________ and things not in our power are __________.\nA. free and unhindered; free and unhindered\nB. free and unhindered; servile and subject to hindrance\nC. servile and subject to hindrance; free and unhindered\nD. servile and subject to hindrance; servile and subject to hindrance\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "25": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Hume divides our perceptions into two categories:\nA. sensations and emotions.\nB. impressions and ideas.\nC. static and dynamic.\nD. simple and complex.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "26": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Aristotle says  that what makes things be what they are--their essence--does not exist apart from individ-uals that exist in the world.  So if all the members of a species were destroyed, then their essence or form:\nA. would likewise be destroyed.\nB. would be destroyed only if there were no one around to remember the species.\nC. would continue existing (as with Plato's Forms) in some other realm of being.\nD. would not be destroyed because there was no essence or form originally to be destroyed; there are only individuals, not universal essences or natures of things.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "27": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Socrates, an unexamined life is not worth living; and it certainly could not be a virtuous life.  Why not?\nA. Because if someone did not know how to act virtuously, he or she would still be considered virtuous by others who also did not know the principles for good living.\nB. Because since Socrates was a philosopher, he of course thought that people who examined their lives philosophically were more virtuous than those who did not.\nC. Because without knowing the rationale for why one should act in a particular way, one does not know whether actions are justified and ought to be repeated.\nD. Because a virtuous life would be one in which someone does what the rest of the society says is right, and that means examining views other than one's own.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "28": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: \"There is no rationale for myth because it is through myth that reason itself is defined.\"  This means that:\nA. mythos is ultimately based on logos, just as myth is ultimately based on reasoning or thinking.\nB. myth does not \"explain\" how things are related as much as it simply reveals them as related.\nC. metaphysicians are justified in reasoning as they do because there is only one true answer about being.\nD. myth and reason are the same: \"myth\" defines \"reason,\" and \"reason\" defines \"myth.\"\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "29": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Epicurus, a law is unjust when:\nA. it is not in accordance with natural law.\nB. it is not in accordance with the traditions of society.\nC. it is offensive to the gods.\nD. it is not beneficial to those it affects.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "30": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Leo Tolstoy says that art is _____.\nA. expression\nB. form\nC. representation\nD. abstract\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "31": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Aquinas holds that the last end of man is:\nA. pleasure.\nB. happiness or beatitude.\nC. the satisfaction of desire.\nD. freedom from anxiety.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "32": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Kant, the supreme principle of morality is:\nA. analytic and a priori.\nB. analytic and a posteriori.\nC. synthetic and a priori.\nD. synthetic and a posteriori.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "33": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Epicurus claims that all other virtues spring from:\nA. prudence.\nB. temperance.\nC. justice.\nD. courage.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "34": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Butler, it is impossible to:\nA. approve of the actions of others without imitating them.\nB. do something of which one does not oneself approve.\nC. be motivated by genuine benevolence.\nD. do that which is good and not to approve of it.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "35": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: The systematic use of critical reasoning to try to find answers to fundamental questions about reality, morality, and knowledge is called _____.\nA. the argumentative method\nB. the philosophical method\nC. propositional logic\nD. syllogistic reasoning\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "36": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Mill, to determine whether one pleasure is more valuable than another, we must _____.\nA. determine which one is objectively most pleasurable\nB. determine which pleasure most experienced people prefer\nC. consult philosophers of the past\nD. consult science\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "37": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Hobbes, the definition of injustice is _____.\nA. disobedience to a sovereign\nB. disobedience to God's law\nC. failure to abide by a contract\nD. failure to respect inherent rights\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "38": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Kant claims that the natural purpose of reason is to:\nA. produce happiness.\nB. produce pleasure.\nC. produce knowledge.\nD. produce a good will.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "39": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Hare claims that the two essential features of the logic of moral judgments are:\nA. consequentialism and hedonism.\nB. universalizability and prescriptivity.\nC. contractualism and rule-following.\nD. consistency and coherence.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "40": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Mill defines \u201cutility\u201d as:\nA. usefulness for some craft.\nB. usefulness to society.\nC. pleasure and the absence of pain.\nD. it promotes the interests of all and does not harm anyone.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "41": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: To Kant, making a lying promise would be wrong because _____.\nA. lying to people can cause them harm\nB. lying to people harms society\nC. you could not consistently will that everyone should make lying promises\nD. most people condemn the practice\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "42": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: How does Stevenson respond to the objection that his theory does not account for the kind of goodness that is objective and is known a priori?\nA. He claims to have proven that such a property does not exist.\nB. He claims to have offered an account of just such a property.\nC. He claims he does not understand such a property.\nD. None of the above.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "43": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Wolf claims that interpreting Kant\u2019s ethics so that it consists of a finite set of constraints:\nA. yields an unattractive picture of moral sainthood.\nB. implausibly places an \u201cupper bound\u201d on moral worthiness.\nC. yields a theory that is too demanding.\nD. transforms the theory into a form of contractarianism.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "44": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: The famous statement \u201cAn unexamined life is not worth living\u201d is attributed to _____.\nA. Aristotle\nB. John Locke\nC. Socrates\nD. Plato\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "45": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Paley maintains that the key difference between the \u201ccontrivance\u201d of a watch and that of nature is that the latter is _____.\nA. simpler\nB. more natural\nC. older\nD. greater and grander\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "46": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Concerning the relationship between morality and theology, Bentham claims that:\nA. we must first know whether something is right before we can know whether it conforms to God\u2019s will.\nB. we must first know whether something conforms to God\u2019s will before we can know that it is right.\nC. God exists, but does not concern himself with matters of morality.\nD. God does not exist.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "47": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: For the soft determinist, to say that you could have done otherwise is to say that you would have done otherwise if _____.\nA. your desires were always the same\nB. your desires were completely under your control\nC. your desires had been different\nD. your desires played no role in your decisions\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "48": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Ross, our prima facie duties:\nA. can be proven.\nB. are self-evident.\nC. cannot be known.\nD. are not objective.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "49": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Rawls, behind the veil of ignorance, the principles of justice are _____.\nA. the result of coercion\nB. impractical\nC. chosen arbitrarily\nD. the result of a fair agreement or bargain\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "50": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: In Aquinas\u2019s view, man\u2019s ultimate happiness consists in:\nA. pleasure\nB. acts of the moral virtues.\nC. loving God.\nD. contemplating God.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "51": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Taurek claims that if faced with the choice between saving the life of X or the arm of Y:\nA. Y is obligated to choose saving the life of X.\nB. we are obligated to choose saving the life of X.\nC. both a and b.\nD. neither a nor b.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "52": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Wolf argues that the unattractiveness of the moral saint:\nA. gives us reason to abandon utilitarianism.\nB. gives us reason to abandon Kantianism.\nC. both a and b.\nD. neither a nor b.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "53": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Plato's suggestion that knowledge is innate or remembered as a result of being triggered by experience is in response to a paradox he sets up for himself.  The paradox, now referred to as Meno's Paradox, has to do with the question of:\nA. how a person can remember anything about the realm of the Forms after the shock of being born into this world.\nB. how knowledge of the Forms can ever be anything other than a generalization of experience.\nC. how anyone can recognize the correct answer to a question without already knowing the answer.\nD. how concepts bound to the realm of becoming have meaning only when associated with the realm of Being.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "54": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Gauthier claims that there is nothing for practical rationality to be besides:\nA. moral justification.\nB. deliberative justification.\nC. epistemic justification.\nD. an illusion.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "55": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Socrates' claim that \"the unexamined life is not worth living\" is often cited as a central theme in the activities of people.  By it, Socrates is typically understood to mean that:\nA. it is sometimes simply not worth all the effort of examining life and its problems in great detail; sometimes it is better simply to \"go with the flow.\"\nB. while taking a reflective attitude toward life is interesting and even sometimes important, most of what makes life worth living is not worth examining.\nC. simply doing whatever everyone else does without thinking about why we should do what we do can hardly be thought of as worthwhile, noble, or admirable.\nD. it is a waste of time to sit around thinking about whether life is worth living; we should leave such reflection to talk-show hosts, political figures, and religious leaders.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "56": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Nagel claims that the problem of moral luck is closely connected to the problem of:\nA. the existence of God.\nB. freedom of the will.\nC. psychological egoism.\nD. universals.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "57": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: \"Is there anything you would be willing to die for?\" is a philosophical question insofar as:\nA. it does not have any right or wrong answer because it is a meaningless question.\nB. it is a meaningless question because everyone could have a different answer to it.\nC. it forces us to articulate and justify our beliefs about what we know and ought to do.\nD. it is more concerned with one's religious beliefs than with factual claims about the world.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "58": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Hume defines virtue as:\nA. a tendency to maximize happiness.\nB. a tendency to pursue justice.\nC. whatever mental action or quality gives a spectator a sentiment of approbation.\nD. whatever mental action or quality brings about the best consequences for all.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "59": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Parfit claims that:\nA. it is possible for an outcome to be worse for a particular person than some alternative.\nB. it is possible for an outcome to be worse than some alternative.\nC. both a and b.\nD. neither a. nor b.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "60": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Baier\u2019s theory, the second step in assessing whether an action is morally permissible is to find out:\nA. whether it is forbidden by a moral rule of one\u2019s group.\nB. whether the moral rule forbidding it is a genuine moral rule.\nC. whether it is forbidden by a law.\nD. whether one can approve of it.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "61": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Hume, morality is ultimately based on:\nA. reason.\nB. God\u2019s commands.\nC. social agreements.\nD. sympathy.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "62": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Kant, moral laws are:\nA. necessary and apply to all rational beings.\nB. contingent and apply only to human beings.\nC. culturally relative.\nD. grounded in God\u2019s commands.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "63": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Wolf claims that ultimately, normative questions must be assessed from:\nA. the moral point of view.\nB. the point of view of virtue.\nC. the point of view of individual perfection.\nD. a perspective that is unattached to a commitment to any well-ordered system of values.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "64": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Baier claims that for a rule to belong the morality of a group, the rule must be:\nA. part of the mores of the group.\nB. universally teachable.\nC. not merely a taboo.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "65": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Sartre, if God does not exist, _____.\nA. anything is permissible\nB. moral values must come from nature\nC. moral values still exist\nD. man does not exist\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "66": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Baggini accuses pessimists of mixing up the two senses of _____.\nA. philosophy\nB. religion\nC. meaning\nD. time\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "67": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is an example of deception in business research?\nA. The obtaining of company material without permission.\nB. The researcher wearing a disguise during an observation.\nC. The researcher representing their research as being about a different topic.\nD. The researcher failing to ask permission to interview someone.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "68": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Feinberg claims that most arguments for psychological egoism:\nA. make reference to neuroscience.\nB. are based on controlled studies.\nC. are based on interviews and surveys.\nD. are nonempirical in character.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "69": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Descartes had been disillusioned by his discovery that many of the alleged truths learned in his youth were _____.\nA. contrary to his religion\nB. TRUE\nC. FALSE\nD. beyond question\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "70": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Critics of the divine command theory have argued that the theory implies that God's commands are _____.\nA. well supported\nB. unclear\nC. unknowable\nD. arbitrary\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "71": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Aquinas argues that the end of every action is:\nA. some desire.\nB. some pleasure.\nC. some good.\nD. some emotional state.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "72": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Epicurus holds that philosophy is:\nA. not suitable for the young.\nB. not suitable for the old.\nC. important, but unpleasant.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "73": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Parfit, both Taurek and Lewis assume that for there to be a \u201csum of pain,\u201d it must be:\nA. all felt at a single time.\nB. all felt by a single person.\nC. all be caused by a single source.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "74": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Mill claims that in deciding how to act:\nA. we should always calculate the expected consequences of our action.\nB. we should depend on rules of thumb derived from the principle of utility.\nC. we should consult tradition.\nD. we should consult scripture.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "75": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: An important formal characteristic of art is_____.\nA. social meaning\nB. faithful representation\nC. its power to evoke strong emotions\nD. coherence\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "76": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Hobbes, in the condition of man in which there is a state of war of everyone against everyone, every man has a right to _____.\nA. some things\nB. lawful treatment\nC. due process\nD. everything\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "77": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: In the case of the debtors, the moral argument against imprisoning A relies on:\nA. fear.\nB. universalizability.\nC. considerations of the consequences of doing so.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "78": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Hume, justice:\nA. has no value.\nB. has value in part because it is useful to society.\nC. has value solely because it is useful to society.\nD. has value solely because it is useful to the agent.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "79": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Why is it important that personal data about research participants are kept within secure, confidential records?\nA. So that the participants cannot find out what has been written about them.\nB. In case individuals, places, or organizations can be harmed through identification or disclosure of personal information.\nC. So that government officials, teachers, and other people in authority can have easy access to the data.\nD. To enable the researcher to track down individuals and find out more about their lives.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "80": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Berkeley insists that heat and cold are _____.\nA. illusions\nB. physical objects\nC. only things existing apart from our minds\nD. only sensations existing in our minds\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "81": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Moore, the most fundamental question in all of ethics is:\nA. whether life is worth living.\nB. whether God exists.\nC. how \u201cgood\u201d is to be defined.\nD. whether morality is objective.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "82": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Bentham claims that actions are right or wrong in virtue of:\nA. the motives behind them.\nB. their consequences.\nC. both a and b.\nD. neither a nor b.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "83": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following concepts can be defined, according to Moore?\nA. good\nB. yellow\nC. horse\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "84": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Cicero argues that we will never go morally astray if we:\nA. follow our conscience.\nB. follow the laws.\nC. follow religious edicts.\nD. follow Nature as our guide.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "85": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Kant, the moral worth of an action depends on:\nA. the moral character of the agent who performs it.\nB. the consequences of the action.\nC. the maxim that is acted on.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "86": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Epictetus recommends that we refrain from:\nA. laughing without restraint.\nB. casually going to lectures.\nC. having sex before marriage.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "87": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Nussbaum claims that our modern debates about homosexuality:\nA. are continuations of the very same debate about sexual activity that went on in the Greek world.\nB. are interminable because there is no objective answer as to whether homosexuality is immoral.\nC. are carried out in a manner that is not virtuous.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "88": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: To say that \"philosophy\" (like \"love\" or \"art\") is not a closed concept means that we cannot state the necessary and sufficient conditions by which it is defined.  Rather, philosophic issues are identifiable as having \"family resemblances\" with one another.  In other words:\nA. there is no one distinguishing feature that identifies an issue as philosophic, only an overlapping of issues roughly associated with one another.\nB. the way we come to think about philosophy, love, or art really depends on how we were raised by our families to identify things as resembling one another.\nC. the necessary and sufficient condition for something to be considered philosophic is that it answers either of these questions: What does it mean? and How do you know?\nD. philosophy is not a closed discipline insofar as it is willing to accept any answer suggested by the \"human family\" as being true.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "89": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Ross, we should construct a moral theory by:\nA. constructing logical proofs for moral principles.\nB. consulting social conventions.\nC. reflecting on what we really think.\nD. consulting scripture.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "90": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: A prima facie duty is a characteristic of an act in virtue of which the act:\nA. seems to be right, although this might be illusory.\nB. tends to be right, although this might be outweighed by other considerations.\nC. is right.\nD. is the first thing that an agent ought to do, above all else.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "91": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion:  According to Socrates, the task of the wise and virtuous person is not simply to learn various examples of just or virtuous actions but to learn the essence of justice or virtue, because:\nA. by knowing enough examples of justice or virtue, we will live a worthwhile life even if we do not know what makes them examples of justice or virtue.\nB. knowledge of individual examples alone would not prepare someone for situations of justice or virtue to which the examples do not immediately apply.\nC. what makes an action just or virtuous can be known only by asking people for their opinions and respecting each answer as equally valuable.\nD. justice and virtue are universal goals of all human beings, even if people do not always agree on how to achieve those ends.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "92": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Baier claims that ethical skepticism is often due to:\nA. confused metaphysical theories.\nB. confused epistemological theories.\nC. confused religious views.\nD. confused scientific theories.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "93": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Aquinas claim that all human operations appear to serve:\nA. those in power.\nB. those of high status.\nC. those who contemplate the truth.\nD. those who act wickedly.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "94": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Stevenson, moral disagreements involve:\nA. disagreement in interest.\nB. disagreement in belief.\nC. disagreement in theory.\nD. disagreement in practice.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "95": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Hobbes, whenever and wherever men live without a common power to keep them all in awe, there is _____.\nA. negotiation\nB. war\nC. democracy\nD. freedom\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "96": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Hare claims that all moral arguments are:\nA. useless.\nB. valid.\nC. ad hominem.\nD. sound.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "97": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Apart from the fact that it is \"not a nice thing to do\", what is an important ethical disadvantage of deceiving participants?\nA. It can damage the professional reputation of the researcher and their discipline.\nB. It makes it more difficult to gain access to deviant or hidden populations.\nC. It means that records of personal data about the participants cannot be made anonymous.\nD. None of the above.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "98": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Stevenson claims that the primary use of ethical judgments is to:\nA. state facts.\nB. influence the interests of others.\nC. describe one\u2019s own approval of things.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "99": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Butler claims that, strictly speaking, the only thing that anyone has a right to is:\nA. life.\nB. liberty.\nC. property.\nD. happiness.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "100": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Augustine holds that we can never err:\nA. in any circumstances whatsoever.\nB. except through ignorance.\nC. except through wickedness.\nD. except through temptation.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "101": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Brandt\u2019s theory, an ideal moral rule is one that would:\nA. maximize positive utility, ignoring negative utility.\nB. minimize negative utility, ignoring positive utility.\nC. maximize utility, with both positive and negative utilities being counted.\nD. take no account of either positive or negative utility.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "102": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Hare asserts that ethics and science are similar in that:\nA. both seek to provide us with true beliefs about the world.\nB. both are essential components of a worthwhile life.\nC. both involve testing general principles by examining their logical consequences.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "103": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Hume argues that the criteria for judging aesthetic value are _____.\nA. entirely subjective\nB. unchangeable\nC. entirely objective\nD. unknown\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "104": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: How many categories of ethical principles do Diener and Crandell refer to?\nA. Three: harm to students; lack of informed consent; invasion of privacy on social media.\nB. Four: harm to participants; lack of informed consent; invasion of privacy; involvement of deception\nC. Two: ethical and unethical\nD. Two: right and wrong\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "105": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: In response to the claim that deliberative justification is incomplete:\nA. Gauthier expands the definition of deliberative justification.\nB. Gauthier argues that deliberative justification by definition takes account of all relevant considerations.\nC. Gauthier claims that deliberative justification works.\nD. Gauthier argues that all theories of justification are equally incomplete.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "106": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Aquinas claims that the ultimate perfection of operation is:\nA. delight.\nB. peace.\nC. pleasure.\nD. Godliness.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "107": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Rawls argues that parties in the original position would not accept utilitarianism because:\nA. it is too difficult to determine which policies would maximize happiness.\nB. doing so would be too risky.\nC. it requires us to do unjust things, such as executing innocent people.\nD. they would be behind the veil of ignorance and thus would never have heard of utilitarianism.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "108": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: What does the notion of \u201cmeaning in life\u201d refer to?\nA. external meaning\nB. god's plan\nC. internalmeaning\nD. meaning in an afterlife\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "109": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Stevenson identifies the meaning of a term with:\nA. the empirical observations to which it applies.\nB. all the psychological causes and effects that attend its utterance.\nC. the psychological causes and effects it has a tendency to be connected with.\nD. the set of other words that are synonyms to the original word.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "110": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Hume thinks that each mind perceives _____.\nA. the same beauty\nB. a different beauty\nC. a warped sense of beauty\nD. objective beauty\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "111": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Descartes says that the chief characteristic of physical things is that _____.\nA. they cannot be measured\nB. science can study them\nC. they do not have extension\nD. they have extension\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "112": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: In Book II of the Republic, Glaucon claims that justice originates from:\nA. a social agreement.\nB. nature.\nC. the gods.\nD. the powerful.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "113": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Augustine identifies evil with:\nA. the influence of the devil.\nB. the absence of good.\nC. a unique force, opposed to goodness.\nD. pain.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "114": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Paley, we must conclude that a watch had an intelligent designer if the watch _____.\nA. shows purposefulness\nB. has a structure\nC. runs well\nD. is engraved\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "115": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Bentham, a moral sanction is:\nA. pleasure or pain inflicted by chance members of the community.\nB. pleasure or pain inflicted by a judge in accordance with a rule.\nC. pleasure or pain that it is permissible to inflict on someone.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "116": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Augustine claims that Academic skepticism:\nA. is true, and can be proven.\nB. is true, but cannot be proven\nC. is false but cannot be refuted.\nD. is false and can be refuted.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "117": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: If you assume that a set of statements is true, and yet you can deduce a false or absurd statement from it, then the original set of statements as a whole must be false. This kind of argument is known as _____.\nA. modus tollens\nB. modus ponens\nC. hypothetical syllogism\nD. reductio ad absurdum\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "118": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Aristotle ends the Ethics with a segue to a discussion of:\nA. aesthetics.\nB. theology.\nC. politics.\nD. natural science.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "119": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Kant claims that the moral law is given to each person by:\nA. society.\nB. one\u2019s own will.\nC. God.\nD. Nature.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "120": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Aesthetics addresses questions that interest _____.\nA. only philosophers\nB. only critics\nC. no one\nD. philosophers and nonphilosophers\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "121": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: The control condition claims:\nA. it is morally wrong to ever lose control of oneself.\nB. it is morally wrong to try to control the lives of (adult) others.\nC. one cannot be morally assessed for what is due to factors outside one\u2019s control.\nD. one cannot be morally blamed for taking control of one\u2019s own life.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "122": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Feinberg, the claim that we always feel pleasure when we get what we want:\nA. is true, and supports psychological egoism.\nB. is true, but does not support psychological egoism.\nC. is false, and would not support psychological egoism even if it were true.\nD. is false, but would support psychological egoism if it were true.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "123": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Plato distinguishes knowledge from mere belief or opinion by saying that knowledge must be a true belief for which one can give a justification, a rationale, or \"logos.\"  In terms of his image of the Divided Line, for Plato, knowledge is attained only when our sensible experience is:\nA. grounded ultimately in what our senses reveal to us about the world of becoming.\nB. based on images of the good, beauty, and truth obtained from particular objects and on which the concepts and Forms depend.\nC. replaced by what we sincerely believe is true or have come to believe based on our upbringing.\nD. understood in terms of concepts or innate ideas (Forms) that are perceived as rationally ordered.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "124": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: What are the two principal answers to whether life has any meaning for us?\nA. the external view and the internal view\nB. the pessimist'sview and the optimist'sview\nC. the religious view and the liberal view\nD. the theistic view and the agnostics view\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "125": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Bentham defines the fecundity of a pleasure or pain as:\nA. its chance of occurring.\nB. the degree to which it is felt.\nC. its chance of being followed by sensations of the same kind.\nD. how long it lasts.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "126": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Disagreements about the aesthetic value or social relevance of a piece of art are _____.\nA. uncommon\nB. common\nC. vacuous\nD. never serious\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "127": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Aristotle states that if we ask what the highest good of human action is:\nA. there is no agreement about the answer.\nB. most people agree that it is pleasure.\nC. nearly everyone agrees that it is happiness.\nD. there is no objective answer to this question.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "128": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: When faced with the complaint that utilitarianism is a doctrine worthy of swine, Mill responds that pleasures differ in:\nA. purity.\nB. quality.\nC. species.\nD. weight.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "129": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Aquinas, an infinite regress of causes is _____.\nA. finite\nB. possible\nC. impossible\nD. necessary\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "130": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Epictetus claims that if the wife and children of a virtuous man were to die, he should feel:\nA. righteous indignation.\nB. moderate grief.\nC. undisturbed.\nD. envy of those who still have their loved ones.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "131": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Like most rationalists, Plato defines knowledge as justified true belief.  In terms of this definition, we might be able to claim to know something as true which might actually be false, but it is impossible for us really to know something that is false.  Why?\nA. Because to know something that is false is to know no real thing, nothing (i.e., not to know at all).\nB. Because what we know as true is ultimately based on what we claim to know as true.\nC. Because we cannot give a justification or reason for believing in something that is false.\nD. Because in contrast to our knowledge of the unchanging Forms, beliefs about particular objects can change.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "132": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: By \u201canimal motion,\u201d Hobbes means:\nA. involuntary operations such as heartbeat and breathing.\nB. instinctive behavior, such as nursing young.\nC. irrational behavior.\nD. all voluntary behavior.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "133": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Taurek claims that:\nA. the death of two people is always worse than the death of one.\nB. the death of two people is sometimes less bad than the death of one.\nC. the death of two people is always exactly as bad as the death of one.\nD. the notion of the sum of two people\u2019s losses should be rejected.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "134": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following ideas is not associated with the stance of situation ethics?\nA. Anything goes\nB. Principled relativism\nC. The end justifies the means\nD. No choice\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "135": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: For Plato, ordinary sensible objects exist and are knowable as examples or instances of Ideas or \"Forms\" that do not exist in our ordinary sensible world.  Forms do not exist in the sensible world because:\nA. in the sensible world only mathematical objects (e.g., triangles) can be known using hypotheses which are recollected when we are asked the right kinds of questions.\nB. unlike everything in the sensible world, Forms are not individual things but rather the universal essences or natures by which individual things are what they are and are known.\nC. nothing in the sensible, experienced world could exist or be identified as one particular thing or another unless there were a \"Sensible World\" Form (like the Form of beauty or justice).\nD. the sensible world consists of changing Forms that exist and are known in terms of other changing Forms, which in turn exist and are known in terms of yet others in an endless regress.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "136": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Descartes declares that he is _____.\nA. a body\nB. a dream\nC. a thing that thinks\nD. a thing that cannot exist\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "137": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Aquinas says that the first efficient cause of everything is _____.\nA. the universe\nB. God\nC. nature\nD. an infinite series\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "138": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Hume claims that a person who is unaffected by images of human happiness or misery will also be indifferent to:\nA. art and beauty.\nB. virtue and vice.\nC. his own well-being.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "139": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: When using visual methods in a research project what should you take into consideration alongside the legal guidelines?\nA. What constitutes a public space\nB. Protecting individuals from potential harm\nC. Any risk of invasion of privacy\nD. All of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "140": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Epicurus, the wise man:\nA. yearns for the end of life.\nB. fears the cessation of life.\nC. is unconcerned with death.\nD. realizes that death is an illusion.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "141": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: To illustrate the attempt to do injustice with impunity, Cicero considers the story of:\nA. the ring of Gyges.\nB. Icarus.\nC. Achilles and Agamemnon.\nD. Oedipus the King.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "142": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Epicurus states that of all the things required for a complete life, the greatest is:\nA. honor.\nB. friendship.\nC. luxury.\nD. good food.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "143": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Parfit claims that the magnitude of pains:\nA. can be precisely compared.\nB. can be compared, but only roughly.\nC. can be compared within individuals, but not between individuals.\nD. cannot compared either within individuals or between individuals.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "144": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Nagel claims that prior to reflection, it is plausible that people cannot be morally assessed for:\nA. actions that affect only themselves.\nB. their character.\nC. what is due to factors beyond their control.\nD. actions that do not violate anyone\u2019s rights.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "145": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Anscombe, \u201cmoral obligation\u201d currently signifies:\nA. the norms of a society.\nB. the feelings of an individual.\nC. the commands of God.\nD. no real concept at all.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "146": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Hume says that beauty is _____.\nA. a quality in things themselves\nB. a matter of a priori knowledge\nC. judged by logical standards\nD. no quality in things themselves\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "147": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Plato, we can attain knowledge only by seeing beyond this world of particular, changing objects to the true essences or Forms in terms of which things in this world are intelligible.  For example, we know what triangularity is not from comparing sensible triangles but by thinking of the ideal of triangularity in terms of which these sensible figures are recognized as triangles.  From this Plato concludes that all knowledge (as opposed to opinion) is innate, because:\nA. from the moment we are born we know what things are in the world in terms of ideas that we get through our senses.\nB. since we are born with senses (that is, our senses are innate), we can know things about the sensible world with certainty as long as we rely on the senses alone.\nC. our knowledge of the world is not really of the sensible world itself but of the world grasped mathematically and ideally.\nD. since our absolutely certain knowledge of things cannot be based on the changing things in sensible experience, it must merely be triggered by sensible experience.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "148": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Stevenson, empirical methods:\nA. are never useful in resolving ethical disagreement.\nB. are sometimes useful in resolving ethical disagreement, but are not always sufficient.\nC. are in principle always sufficient for resolving ethical disagreement.\nD. provide the only responsible way to engage in moral philosophy.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "149": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Before his conversion, what was Tolstoy surrounded by?\nA. what is considered complete happiness\nB. things that no one would want\nC. what is considered heavenly bliss\nD. what is considered deep insight\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "150": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Sartre, what existentialists have in common is that they think that _____.\nA. essence precedes existence\nB. objectivity must be a starting point\nC. existence is a myth\nD. existence precedes essence\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "151": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Feinberg takes his remarks about the two different senses of pleasure to refute:\nA. psychological egoism.\nB. psychological egoistic hedonism.\nC. ethical egoism.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "152": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Rawls claims that a conception of justice should be justified by:\nA. deducing it from self-evident premises.\nB. direct acquaintance via moral intuition.\nC. the mutual support of many considerations, which it fits into one coherent view.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "153": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Epictetus claims that the only thing one can call one\u2019s own is:\nA. the way one deals with one\u2019s impressions.\nB. one\u2019s family.\nC. one\u2019s friends.\nD. one\u2019s body.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "154": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: In Hobbes\u2019s view, to say something is good is to say that:\nA. it is conducive to human happiness.\nB. you desire it.\nC. most people desire it.\nD. most people ought to desire it.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "155": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Moore claims that there is no meaning in saying that pleasure is good, unless:\nA. goodness and pleasure are the same thing.\nB. good is something different than pleasure.\nC. all good things are pleasant.\nD. all pleasant things are good.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "156": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Baier asserts that when we ask for moral advice, we are asking for others to:\nA. issue commands.\nB. inform us of their preferences.\nC. deliberate with us.\nD. empathize with us.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "157": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Moral theories that say that the rightness of actions depends solely on their consequences are _____.\nA. deontological\nB. virtue oriented\nC. consequentialist\nD. egoistic\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "158": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Socrates tells Crito that he should attempt to break out of prison if and only if doing so would be:\nA. to his advantage.\nB. harmful to his enemies and advantageous to his friends.\nC. pleasing to the gods.\nD. just.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "159": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to the Ideal Moral Code theory, one is obligated to do what the ideal moral rules would require:\nA. in one\u2019s actual institutional setting.\nB. in an ideal institutional setting.\nC. in a setting devoid of institutions.\nD. in a world in which everyone complied with those rules perfectly.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "160": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Cicero, the most practical branch of philosophy deals with:\nA. logic.\nB. natural science.\nC. moral duties.\nD. expedience.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "161": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Socrates, the value or quality of one's life depends on understanding the principles of, or basic rationale for human existence.  Without such knowledge (he suggests) life lacks virtue, because:\nA. acting virtuously means acting in way that is informed about what one is doing and why.\nB. someone who does not understand existence philosophically could never do anything right.\nC. to have the power or ability to do anything at all requires that we know what we are doing.\nD. not only is virtue knowledge but also the unexamined life is not worth living.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "162": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Rawls claims that students with fewer native assets (such as intelligence) should be given:\nA. more attention and resources than those with more native assets.\nB. the same level of attention and resources as those with more native assets.\nC. less attention and fewer resources than those with more native assets.\nD. virtually no educational resources.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "163": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Nussbaum claims that the specification of particular virtues:\nA. will always consist of a single answer.\nB. might sometimes turn out to be a disjunction.\nC. is necessarily relative to a culture.\nD. can be settled in such a way as to be no longer revisable.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "164": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Rawls, we can enter the original position:\nA. only by leaving society and remaking social institutions from scratch.\nB. at any time, by simply following a certain procedure.\nC. only if we somehow forget who we are, which is very rare.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "165": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Mill argues that virtue:\nA. is not desirable.\nB. is desirable only as a means to one\u2019s own happiness.\nC. is desirable only as a means to the happiness of others.\nD. is desirable as part of one\u2019s happiness.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "166": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Bentham claims that utilitarian calculations:\nA. should be performed prior to each action.\nB. need not be performed before each action, but should always be kept in mind.\nC. are merely a formal device, and do not have practical application.\nD. are fundamentally flawed.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "167": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Nussbaum claims that for Aristotle the reference of each virtue term is fixed by:\nA. conventional use.\nB. grounding experiences.\nC. a thick description of the virtue.\nD. tradition.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "168": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Gauthier, deliberative justification:\nA. is refuted by moral requirements.\nB. is replaced once we acknowledge moral requirements.\nC. refutes morality.\nD. ignores morality and seemingly replaces it.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "169": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Nussbaum claims that recent anthropological work has shown that fear is:\nA. partially learned and culturally variant.\nB. universally experienced in roughly the same way.\nC. not present in certain societies.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "170": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Of the ways of escaping moral arguments that he discusses, Hare claims:\nA. none of them are successful.\nB. some, but not all of them are successful.\nC. all are entirely successful.\nD. all might be successful, but at a price.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "171": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Most of those who take the externalist approach to meaning view the matter from a _____ standpoint.\nA. secular\nB. nonreligious\nC. religious\nD. pragmatic\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "172": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Hume, reason:\nA. should serve our passions.\nB. should operate completely independently of our passions.\nC. should be used to direct our passions.\nD. should be used to extinguish our passions.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "173": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: In response to the argument that famine relief is counterproductive because it leads to overpopulation, Singer claims that:\nA. this has empirically been shown to be false.\nB. this is true, but should not be of moral concern to us.\nC. this is a reason to give money to population control efforts.\nD. there is no such thing as \u201coverpopulation.\u201d\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "174": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Of the two versions of the principle that Singer considers:\nA. he considers the stronger version to be correct.\nB. he considers the weaker version to be correct.\nC. he ends up rejecting them both.\nD. he claims that they are equivalent.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "175": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to the scripture that Butler discusses in Sermon One, human beings are:\nA. independent and autonomous individuals.\nB. all a part of one body.\nC. all a part of God.\nD. part of the animal kingdom.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "176": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: At first Descartes supposes that everything he sees is _____.\nA. TRUE\nB. FALSE\nC. part of him\nD. undeniable\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "177": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Socrates, just as there is a difference between what an ironic statement says and its true meaning, so also appearances differ from reality.  Even though societies or individuals appear to differ about what is required for the good life, that in no way contradicts the fact that:\nA. what is right or wrong, true or false varies from one culture to another.\nB. appearances are the only real way we have for knowing reality.\nC. the distinction of appearance and reality is the basis for the dialectical discovery of truth.\nD. there are objective principles for thought and action that are required for the good life.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "178": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: An example of a morally impossible rule would be:\nA. lie whenever doing so is necessary to prevent a catastrophe.\nB. always do whatever brings about the greatest happiness.\nC. always assert what you don\u2019t think to be the case.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "179": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Locke, every man, by consenting with others to make one body politic under one government, puts himself under an obligation to everyone of that society to submit to the determination of_____.\nA. the majority\nB. the king\nC. the judges\nD. his own will\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "180": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Bentham claims that nature has placed mankind under two sovereign masters:\nA. pain and pleasure.\nB. good and evil.\nC. God and the devil.\nD. duty and self-interest.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "181": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: The biblical account of the soul is at odds with _____.\nA. a unitary concept of the soul\nB. the identity theory\nC. soul-body dualism\nD. the idea of a monistic soul\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "182": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Aristotle, happiness is:\nA. a state of mind.\nB. a feeling or sensation.\nC. a craft.\nD. activity of the soul in accordance with virtue.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "183": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Mill says that the ultimate end of utilitarianism is an existence as free of pain as possible and as rich as possible in _____.\nA. lower pleasures\nB. spiritual attainment\nC. social achievement\nD. enjoyments\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "184": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: What was Schopenhauer's attitude toward life?\nA. He thought life was uncertain but worthwhile.\nB. He thought life was hard but ultimately hopeful.\nC. He thought life was bereft of meaning.\nD. He believed in an afterlife in which all misery vanishes.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "185": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: When it comes to defining good, Moore claims that many past philosophers are guilty of:\nA. begging the question.\nB. circular reasoning.\nC. the naturalistic fallacy.\nD. the ad hominem fallacy.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "186": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Aristotle, we should begin ethical inquiry by specifying:\nA. which things are intrinsically valuable.\nB. the aim of human life.\nC. what our fundamental duties are.\nD. what constraints on behavior it would be reasonable to agree to.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "187": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Epicurus, the wealth required for a good life is:\nA. easily procured.\nB. attainable for everyone, but only through great effort.\nC. available only to the rich.\nD. available only to the gods.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "188": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Feinberg claims that the story about Abraham Lincoln:\nA. provides some evidence for psychological egoism.\nB. provides some evidence against psychological egoism.\nC. provides no evidence for or against psychological egoism.\nD. actually involves a confusion between ethical egoism and psychological egoism.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "189": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to d'Holbach, all the mental and moral attributes that people think are evidence for an immaterial soul are in fact _____.\nA. purely intellectual\nB. purely physical and natural\nC. ethereal\nD. undetermined\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "190": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Hare claims that a person who refuses to make any positive moral judgments:\nA. is irrational.\nB. is immoral.\nC. cannot coherently invoke morality to protect one\u2019s own interests.\nD. couldn\u2019t possibly exist.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "191": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Hobbes claims that all of the laws of nature can be summarized in the precept:\nA. maximize happiness.\nB. never treat another person as a means to your ends.\nC. do not do to another what you would not have done to yourself.\nD. practice virtue in all that you do.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "192": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: In Aristotle\u2019s view, the virtues are:\nA. acquired through habit.\nB. acquired through philosophical reflection.\nC. a gift from the gods.\nD. innate.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "193": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Mill claims that the distinction between justice and other moral obligations corresponds perfectly to the distinction between:\nA. perfect and imperfect obligations.\nB. positive and negative duties.\nC. strong and weak duties.\nD. absolute and relative obligations.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "194": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Descartes declares that an evil demon _____.\nA. undoubtedly exists\nB. could not possibly exist\nC. could possibly be deceiving him\nD. must exist if God exists\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "195": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: During his trial, Socrates argues that he would never intentionally corrupt others because:\nA. it is his duty not to do so.\nB. this would make them vicious, and they would then harm him.\nC. he would be likely to get caught if he did so.\nD. he would not know how.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "196": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Kant, laws of nature are laws according to which __________, and laws of freedom are laws according to which __________.\nA. everything will happen; everything will happen\nB. everything will happen; everything ought to happen\nC. everything ought to happen; everything will happen\nD. everything ought to happen; everything ought to happen\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "197": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Augustine claims that to be happy, one must know:\nA. the causes of natural occurrences.\nB. the causes of good and evil.\nC. both a and b.\nD. neither a nor b.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "198": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Wolf, a moral saint:\nA. cannot read Victorian novels.\nB. cannot have a sarcastic wit.\nC. cannot have an interest in gourmet cooking.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "199": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Socrates, justice is when a soul is ruled by its:\nA. respect for the law.\nB. rational part.\nC. desire for honor.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "200": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Singer claims that his conclusions are similar to those of:\nA. Plato.\nB. Aristotle.\nC. Thomas Aquinas.\nD. Immanuel Kant.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "201": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: In Cicero\u2019s view, each person is invested by Nature with two characters:\nA. universal and individual.\nB. virtuous and vicious.\nC. good and evil.\nD. divine and beastly.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "202": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Aristotle saw his theory of the virtues as:\nA. final and complete.\nB. open-ended and revisable.\nC. relative to his culture.\nD. applicable only to himself.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "203": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Nussbaum claims that in cross-cultural communication, inhabitants of different conceptual schemes tend to view their interaction:\nA. in a relativist way.\nB. in an absolutist way.\nC. in a Kantian way.\nD. in an Aristotelian way.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "204": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Cicero claims that there could be \u201cno more pernicious doctrine\u201d than the idea that:\nA. the gods do not care what we do.\nB. a thing may be expedient without being morally right.\nC. moral rightness is relative to one\u2019s culture.\nD. it is sometimes permissible to lie.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "205": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: An important moral criterion of adequacy is known as _____.\nA. simplicity\nB. consistency with our considered moral judgments\nC. fruitfulness\nD. fallibility\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "206": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Gauthier claims that moral agreements that are equally favorable to all parties are desirable because they:\nA. satisfy our desire for fairness.\nB. satisfy the conceptual constraint against exploitation.\nC. maximize the productivity of society.\nD. invite the stable compliance of everyone.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "207": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Baier argues that moral rules:\nA. always must be applied to everyone alike.\nB. must applied to everyone alike in the absence of morally relevant differences.\nC. only apply to some members of a group.\nD. are the same in every society.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "208": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Anscombe claims that an adequate moral psychology would include:\nA. an answer to the mind-body problem.\nB. analyses of concepts such as \u201caction\u201d and \u201cintention.\u201d\nC. an explanation of how free will is possible.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "209": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Parfit, the obligation to give priority to the welfare of one\u2019s children is:\nA. agent-relative.\nB. agent-neutral.\nC. absolute.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "210": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Epictetus recommends that we act:\nA. according to our passions.\nB. so as to do whatever comes naturally, without much thought.\nC. only after careful reflection on the consequences of our actions.\nD. so as to benefit the greatest number.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "211": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Descartes says that, for all he knows, he may be _____.\nA. dreaming\nB. a god\nC. infallible\nD. perfect\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "212": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: When Euthyphro attempts to define the holy as prosecuting wrongdoers, Socrates objects that:\nA. there are many other things that are also holy.\nB. prosecuting wrongdoers is not always holy.\nC. there is disagreement about what counts as \u201cwrongdoing.\u201d\nD. all of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "213": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Wolf claims that morality:\nA. is merely a cultural artifact.\nB. is not really relevant to our lives.\nC. provides a comprehensive guide to conduct.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "214": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Bentham, considerations of pain and pleasure determine:\nA. what we ought to do.\nB. what we will do.\nC. both a and b.\nD. neither a nor b.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "215": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Augustine claims that all created things are:\nA. eternally and unchangeably good.\nB. good when taken together, but not good separately.\nC. good, even taken separately.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "216": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: In Augustine\u2019s view, lying is:\nA. often permissible if done for the right reasons.\nB. not evil in itself, although it can have bad consequences.\nC. permissible only in very rare circumstances.\nD. never permissible.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "217": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Whereas the social sciences (e.g., psychology, sociology, economics) ask questions about how people think and act, philosophy is the study of:\nA. how people with different beliefs or backgrounds disagree with one another.\nB. what beliefs mean and whether people with different beliefs are justified in having them.\nC. the reasons why philosophic questions never have better or worse answers.\nD. questions that can be answered better by appealing to scientific experiments.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "218": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion:  Plato indicates that the knowledge of pure reason is preferable to conceptual understanding, because knowing that something is a certain kind of thing is not as good as knowing:\nA. how we come to learn what to call a thing in virtue of our own experiences.\nB. the logos or rationale of the thing, that is, why it is the way it is.\nC. why we differ among ourselves about what we claim to know.\nD. the difference between knowledge and opinion as outlined in Plato's divided line image.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "219": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Socrates, a clear sign that a person has _____ is her exclusive pursuit of social status, wealth, power, and pleasure.\nA. philosophical ambition\nB. worldly wisdom\nC. exceptional desires\nD. an unhealthy soul\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "220": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Philo says the analogy that Cleanthes uses to make his case is _____.\nA. too complicated\nB. weak\nC. strong\nD. not based on a legitimate method of reasoning\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "221": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: How did Tolstoy's life change after his crisis of meaning?\nA. His income increased dramatically.\nB. He distrusted everyone.\nC. He became religious.\nD. He became an agnostic.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "222": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not one of Ross\u2019s prima facie duties?\nA. Fidelity\nB. Beneficence\nC. Non-maleficence\nD. Legality\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "223": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Cicero claims that it is sometimes permissible to:\nA. commit acts of injustice.\nB. break one\u2019s promises.\nC. steal.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "224": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Hobbes, without a common power to keep them in awe humans would exist in a state of:\nA. peace and harmony.\nB. mutual indifference.\nC. cautious mistrust.\nD. war of every man against every man.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "225": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Traditionally art has been defined as _____.\nA. wealth\nB. utility\nC. representation\nD. well being\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "226": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: One objection to Singer\u2019s theory that he considers is that it:\nA. does not do enough to address suffering in other countries besides our own.\nB. inappropriately makes proximity morally important.\nC. does not account for the fact that we have stricter obligations to our loved ones than to strangers.\nD. requires too drastic a revision to our moral scheme.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "227": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Anselm assumes that a being that exists in reality is greater than a being that _____.\nA. is worshipped\nB. is embodied\nC. exists only in the understanding\nD. exists without flaws\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "228": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Baier, a rule can be said to be for the good of human beings only if:\nA. it is not harmful.\nB. it does not impose unnecessary restrictions.\nC. it promotes the good of some people.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "229": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: A prominent view is that an object has aesthetic value if it _____.\nA. cannot be defined\nB. has no utility\nC. serves some important function\nD. has no meaning\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "230": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Hobbes describes felicity as:\nA. a state of tranquility.\nB. a continual progress of desire from one object to another.\nC. a state of contemplation.\nD. the absence of desire.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "231": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Sartre, there is at least one being in whom existence precedes essence, and this being is _____.\nA. God\nB. man\nC. primitive man\nD. future man\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "232": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: In Butler\u2019s view, acting virtuously consists of acting in accordance with:\nA. our strongest inward principle.\nB. our highest inward principle.\nC. all of our inward principles.\nD. the commands of God.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "233": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Anscombe criticizes Sidgwick on the grounds that:\nA. he does not distinguish between the foreseen and intended consequences of one\u2019s action.\nB. he endorses the divine law conception of ethics.\nC. he claims that there is a \u201cnatural balance\u201d to the universe.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "234": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Why is it \"easier said than done\" to ensure that the principle of informed consent is adhered to?\nA. It is not practicable to present every participant with all the information about the study.\nB. Sometimes it is desirable to withhold certain pieces of information, such as the length of time an interview will take.\nC. If the participants knew exactly what the researcher was intending to study, they might change their behavior.\nD. All of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "235": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: In Hobbes\u2019s view, a law of nature is:\nA. a command of God.\nB. a principle of duty, known by intuition.\nC. a principle, known by reason, which forbids one from doing something destructive of one\u2019s life.\nD. None of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "236": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: A Loving Saint is someone:\nA. whose happiness lies in the happiness of others.\nB. who pays little or no attention to his own happiness, in light of the overriding importance of morality.\nC. loves all human beings equally.\nD. is morally perfect only in relation to those he loves.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "237": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Moore defines good as:\nA. pleasure.\nB. that which we desire.\nC. that which we desire to desire.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "238": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Feinberg claims that when people are hungry, they typically desire:\nA. to eat food.\nB. pleasant gustatory sensations.\nC. both a and b.\nD. neither a nor b.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "239": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Hobbes, the right of nature is:\nA. an entitlement to the fruits of one\u2019s labors.\nB. a claim not to be harmed by others.\nC. the right of the king to rule his subjects.\nD. the liberty to use one\u2019s powers to preserve one\u2019s life.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "240": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Socrates, it is important that we discover what makes a particular action (e.g., a merciful or just act) the kind of action that it is, because without such knowledge:\nA. no one in society will ever do any action that really is merciful or just, only those actions that they think are merciful or just.\nB. the primary purpose of human existence--which is to think and to know--is replaced by a focus on morality (acting and doing).\nC. we can refer only to how people characterize actions without knowing why such actions should be characterized that way.\nD. there would be no way to distinguish one kind of action (e.g., a merciful action) from another kind of action (e.g., a just action).\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "241": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Feinberg claims that the best way to pursue happiness is to:\nA. pursue pleasure.\nB. pursue happiness.\nC. forget about happiness.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "242": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Hobbes defines injustice as:\nA. taking more than one\u2019s share of a good.\nB. failure to perform one\u2019s covenant.\nC. treating another person as a mere means.\nD. violating a law of nature.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "243": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: In Butler\u2019s view, injustice is caused by:\nA. desires for external goods.\nB. love of injustice.\nC. ill-will toward others.\nD. self-hatred.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "244": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Rawls, the two parts of his theory:\nA. are interdependent: You cannot accept one part without accepting the other.\nB. are independent: You can accept either part without accepting the other.\nC. are provable from self-evident premises.\nD. cannot be justified via rational means.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "245": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Aristotle divides the virtues into:\nA. natural virtues and artificial virtues.\nB. moral virtues and intellectual virtues.\nC. positive virtues and negative virtues.\nD. human virtues and divine virtues.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "246": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: The idea that mental states are dispositions to behave in particular ways in certain circumstances is known as _____.\nA. logical nominalism\nB. logical behaviorism\nC. methodological behaviorism\nD. eliminative materialism\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "247": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: The view that art is defined by its form is known as _____.\nA. informalism\nB. expressionism\nC. formalism\nD. structuralism\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "248": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: If the world that we individually perceive is limited to an internal perspective, then there is no way that we could determine whether our own perspective is useful, true, or valuable because:\nA. we know whether our internal perspective is correct only by comparing it with an objective, external perspective (the \"real\" world).\nB. whatever we appeal to in order to prove that our perspective is right itself would be part of the standard we use in evaluating that perspective.\nC. scientific research that reveals facts about the world would cause us to challenge our perceptions in a dreamworld of our own making.\nD. without limiting our perspective to an internal dreamworld, we cannot achieve any objective, external knowledge of the real world.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "249": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Anscombe claims that on Sidgwick\u2019s view, the badness of an action must be estimated in light of:\nA. its actual consequences.\nB. its expected consequences.\nC. whether it violates any duties.\nD. whether it violates divine law.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "250": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Which method is most commonly associated with a lack of informed consent?\nA. Qualitative content analysis\nB. In-depth interviewing\nC. Covert observation\nD. Structured interviewing\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "251": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Epictetus claims that when someone strikes you, what really angers you is:\nA. the force of the blow.\nB. their malicious intentions.\nC. your own judgment.\nD. the insult involved.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "252": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Craig argues that the series of events in time cannot be actually infinite, so we know that _____.\nA. the universe is finite in the past and began to exist\nB. the universe is infinite in the past\nC. the universe never is uncaused\nD. the universe exists only in the mind\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "253": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Aquinas claims that:\nA. pleasure exists for its own sake.\nB. pleasure exists for the sake of operation.\nC. operation exists for the sake of pleasure.\nD. both b and c.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "254": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Anscombe claims that the notion of moral obligation is derived from the concept of:\nA. preference.\nB. maximizing utility.\nC. positive law.\nD. divine law.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "255": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: In Brandt\u2019s terminology, a moral code has currency in a society only if:\nA. a high proportion of the adults in the society subscribe to its principles.\nB. it is recognized as the moral code of the society.\nC. both a and b.\nD. neither a nor b.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "256": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: The morality that Gauthier describes as facing a foundational crisis essentially involves:\nA. enlightened egoism.\nB. pure altruism.\nC. justified constraint.\nD. prima facie duties.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "257": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: In spite of the fact that Socrates claims to be ignorant of the essence or nature of certain things like justice, he is wise insofar as he recognizes that without such knowledge actions are rationally unjustified.  That is, his wisdom consists in his recognition not only that he is ignorant of such essences but also that:\nA. justice, like knowledge, requires that we admit that we know nothing and never will.\nB. he knows what he is supposed to be looking for--knowledge of the essences of things.\nC. knowledge of the essences of things is impossible, because that would require that we know what we are looking for before we know what it is we are looking for.\nD. his method of asking questions about essences is itself unjustified because he does not know why he engages in such a practice.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "258": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Hare refers to people who endorse ideals without regard for whether people\u2019s interests are pursued by them as:\nA. fanatics.\nB. amoralists.\nC. immoralists.\nD. maniacs.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "259": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: In Aquinas\u2019s view, acts of prudence are solely about matters of:\nA. pleasure.\nB. desire.\nC. moral virtue.\nD. piety.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "260": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Locke, a man in the state of nature will relinquish his absolute freedom to the state because _____.\nA. he will also enjoy absolute freedom when subject to the state\nB. in the state of nature the enjoyment of his freedom is very uncertain and vulnerable\nC. he wants to have absolute power over others\nD. he rejects the laws of the state of nature\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "261": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Augustine claims that there can be no evil where there is no:\nA. hatred.\nB. greed.\nC. love.\nD. good.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "262": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Ross, justice is:\nA. when all laws are followed.\nB. when contracts and promises are adhered to.\nC. when the distribution of happiness is in accordance with merit.\nD. when the guilty are punished for their crimes.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "263": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Logical behaviorism is at odds with our commonsense intuition that mental states _____.\nA. cause behavior\nB. never cause behavior\nC. exist\nD. do not exist\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "264": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Ross claims that we learn of our prima facie duties:\nA. by seeing the prima facie rightness of particular acts, and then apprehending general principles.\nB. by apprehending general principles, and then inferring the prima facie rightness of particular acts.\nC. by proving them philosophically.\nD. from the explicit moral instruction we receive as children.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "265": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Anscombe criticizes as absurd Kant\u2019s idea of:\nA. the thing in itself.\nB. the categorical imperative.\nC. the phenomenal self.\nD. legislating for oneself.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "266": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: In the Inquiry, Hume claims that our final verdicts on moral matters are derived from:\nA. reason.\nB. a moral sense that is unique to each person.\nC. a moral sense that is universal in our species.\nD. emotion.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "267": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Nagel, the problem of moral luck arises because:\nA. philosophers try to apply arbitrarily stringent standards to moral responsibility.\nB. the self is threatened with dissolution by the absorption of its acts into the class of events.\nC. our moral theories are hopelessly off track.\nD. our theories of human action are hopelessly off track.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "268": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: A moral theory explains _____.\nA. why an action is right or wrong\nB. why one moral event caused another\nC. where a moral agent got her values\nD. why people do what they do\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "269": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Anscombe criticizes Butler on the grounds that:\nA. our consciences are fallible.\nB. the notion of \u201clegislating for oneself\u201d is absurd.\nC. we really can derive an \u201cought\u201d from an \u201cis.\u201d\nD. the concept of \u201cpleasure\u201d is unclear.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "270": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Mill claims that a happy life is one of:\nA. tranquility.\nB. excitement.\nC. both a and b.\nD. neither a nor b.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "271": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Moore, \u201cpleasure is good\u201d means the same thing as:\nA. \u201cpleasure is desired.\u201d\nB. \u201cpleasure is pleasant.\u201d\nC. \u201cwe desire to desire pleasure.\u201d\nD. none of the above.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "272": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: To argue that he is obliged to obey the laws of Athens, Socrates compares the city to:\nA. an employer.\nB. a parent.\nC. a friend.\nD. a spouse.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "273": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Soft determinism entails that _____.\nA. we are free to choose our desires\nB. there are no restraints on human behavior\nC. the thesis of determinism is false\nD. the thesis of determinism is true\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "274": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: In the moral life, feelings are _____.\nA. essential and inevitable\nB. essential to impartiality\nC. an unerring guide\nD. reason based\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "275": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Cicero, it is expedient to be:\nA. just.\nB. generous.\nC. kind.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "276": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Brandt claims that whether a moral code is ideal depends in part on:\nA. the complexity of the rules.\nB. how many people would likely violate it.\nC. the costs of its restrictions, in terms of the guilt it induces.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "277": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: The view that we consist of two distinct substances (body and mind) and that these two interact is known as _____.\nA. functionalism\nB. identity theory\nC. substance dualism\nD. materialism\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "278": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Stevenson, the word \u201cgood\u201d has a pleasing emotive meaning that fits it for:\nA. descriptive use.\nB. constructive use.\nC. dynamic use.\nD. propositional use.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "279": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Locke, the chief end of men's uniting into a commonwealth is _____.\nA. domination over other commonwealths\nB. the preservation of the state of nature\nC. the preservation of their property\nD. the preservation of their absolute power\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "280": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Hare claims that once two people agree on the meaning of the term \u201cought\u201d:\nA. they will share all the same moral opinions.\nB. they will disagree morally only if they disagree about the facts of the case.\nC. they will disagree morally only if they have different inclinations.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "281": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: To explain the notion of a prima facie duty, Ross draws an analogy with:\nA. natural laws.\nB. the laws of a nation.\nC. the commands of a dictator.\nD. our emotions.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "282": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: In the Republic, Thrasymachus claims that justice is:\nA. telling the truth and paying one\u2019s debts.\nB. doing what pleases the gods.\nC. the advantage of the stronger.\nD. a harmony of the soul.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "283": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Epictetus claims that the desire for one\u2019s loved ones to live forever is:\nA. a natural instinct.\nB. a sign of genuine love.\nC. blasphemous.\nD. silly.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "284": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Sartre, the first principle of existentialism is that _____.\nA. God is dead\nB. man is all-powerful\nC. man is nothing else but what he makes of himself\nD. man is nothing\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "285": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Aristotle claims that:\nA. virtue is in our power, and so is vice.\nB. virtue is in our power, but vice is not.\nC. vice is in our power, but virtue is not.\nD. neither virtue nor vice is in our power.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "286": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Hume describes reason as:\nA. cool and disengaged.\nB. the source of all moral actions.\nC. the first spring or impulse to desire.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "287": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Brandt, John Stuart Mill\u2019s view most closely resembles:\nA. act-utilitarianism.\nB. a rule-utilitarianism based on the actual rules of society.\nC. a rule-utilitarianism based on ideal moral rules.\nD. Kant\u2019s ethics.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "288": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: The version of utilitarianism that Brandt defends makes rightness a function of:\nA. the consequences of particular acts.\nB. the actual and recognized rules of society.\nC. ideal rules.\nD. whether or not one\u2019s maxim can be universalized.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "289": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: \"When a person starts on the discovery of the absolute by the light of reason only, and without any assistance of sense, and perseveres until by pure intelligence he arrives at the perception of the absolute good, he at last finds himself at the end of the intellectual world. . . . Dialectic, and dialectic alone, goes directly to the first principle and is the only science which does away with hypotheses in order to make her ground secure.\"  Here Plato indicates how hypothetical knowledge cannot provide the foundation of dialectical knowledge, insofar as hypotheses simply:\nA. explain sense experiences in terms of general concepts which themselves are not explained.\nB. show how particular objects of experience cause us to recall innate ideas.\nC. describe sense experience without providing an explanation for dialectical methods.\nD. reject the use of reason, preferring instead dialectic, to achieve knowledge.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "290": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: What are some of the frequent frustrations in writing or reading about research ethics?\nA. Writers differ over what is ethically acceptable.\nB. The same debates are rehearsed over decades.\nC. Cases of ethical violation tend to be linked with certain research methods.\nD. All of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "291": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Cicero, immorality is __________, and expediency is __________.\nA. repugnant to Nature; repugnant to Nature.\nB. repugnant to Nature; in accord with Nature.\nC. in accord with Nature; repugnant to Nature.\nD. in accord with Nature; in accord with Nature.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "292": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Epicurus conceives of death as:\nA. the beginning of the afterlife.\nB. one component of the continuous cycle of rebirth.\nC. the deprivation of all sensation.\nD. the greatest harm that one can suffer.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "293": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Nussbaum claims that at the first stage of ethical inquiry, terms for the virtues should be:\nA. as descriptive as possible.\nB. those that are conventionally used.\nC. neutral between competing specifications of the virtue.\nD. none of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "294": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: The four main divisions of philosophy are metaphysics, epistemology, axiology, and _____.\nA. bioethics\nB. logic\nC. aesthetics\nD. categorical logic\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "295": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Da Vinci's Mona Lisa is_____.\nA. representational\nB. abstract\nC. obscure\nD. nonrepresentational\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "296": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Butler, the degree to which one acts compassionately depends on:\nA. the strength of his affection of compassion.\nB. the strength of his other affections besides compassion.\nC. both a and b.\nD. neither a nor b.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "297": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: One example of bad constitutive moral luck would be:\nA. a person who is by nature envious and ungenerous.\nB. a person who lived in Nazi Germany in 1940.\nC. a person who drives drunk and hits a child.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "298": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Moore defines the naturalistic fallacy as the view that:\nA. everything that is natural is good.\nB. everything that is good is natural.\nC. good is identical to a natural property.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "299": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Mill claims that the principle of utility:\nA. can be proven from self-evident principles.\nB. can be proven from principles that are known empirically.\nC. cannot be proven, and this is a unique problem for the theory.\nD. cannot be proven, but this is common to all first principles.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "300": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: The theory that says mental states are nothing but brain states is known as _____.\nA. brain theory\nB. epiphenominalism\nC. identity theory\nD. logical behaviorism\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "301": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Butler claims that in the strictest and most proper sense, tofollow nature is to:\nA. act as one pleases.\nB. act on any of one\u2019s passions.\nC. act on one\u2019s strongest passion.\nD. act on one\u2019s conscience.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "302": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Craig, the kalam cosmological argument establishes that _____.\nA. the God of Christianity exists\nB. the universe has a cause\nC. the Big Bang model is false\nD. the universe is uncaused\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "303": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Singer claims that famine relief organizations direct our aid to distant refugees:\nA. more effectively than we could get it to our close neighbors.\nB. almost as effectively as we could get it to our close neighbors.\nC. quite inefficiently, but they are still worth donating to.\nD. very inefficiently, and are therefore not worth donating to.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "304": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Kant says that when trying to decide whether an action is morally permissible, we must ask if we can consistently will that the maxim of our action should become _____.\nA. a rule for maximizing happiness\nB. a contingent law\nC. a universal law\nD. a rule of thumb\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "305": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Aesthetic values have to do with _______\nA. the moral value of works of art and other objects that could be judged beautiful\nB. good and bad works of art and other objects that could be judged beautiful\nC. the moral values of artists and critics\nD. pragmatic decisions regarding the display of art\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "306": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: According to Feinberg, a good moral education:\nA. will make no use of pleasure or pain as sanctions.\nB. will be based entirely on the use of pleasure and pain as sanctions.\nC. will produce someone who does the right thing out of deference to authority.\nD. will produce someone who does the right thing simply because it is right.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "307": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion:  For Socrates, the belief that \"virtue is knowledge\" is related to his claim that \"the unexamined life is not worth living,\" because he believes that:\nA. the unexamined life is one in which we live day to day without asking questions about who we are and why we are here in the first place.\nB. the Delphic oracle identified Socrates as the wisest person on earth because he claimed to know nothing.\nC. by questioning traditional beliefs, we learn to recognize how some answers seem to be more satisfactory than others.\nD. the only way to be a good or worthwhile person is to know how human beings should behave based on universal norms or values.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "308": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Craig says an actually infinite number of things _____.\nA. is possible\nB. is meaningless\nC. exists somewhere\nD. cannot exist\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "309": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Descartes believed that interaction between body and mind took place in _____.\nA. ectoplasm\nB. the brain stem\nC. the pineal gland\nD. the nervous system\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "310": {
+        "origin_prompt": "There is a single choice question about philosophy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is a form of harm that might be suffered by research participants?\nA. Physical injury\nB. Stress and anxiety\nC. Impaired development\nD. All of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    }
+}

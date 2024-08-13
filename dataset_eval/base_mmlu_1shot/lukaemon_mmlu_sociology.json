@@ -1,0 +1,1007 @@
+{
+    "0": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Mass-society theory suggests that:\nA. the content of the media is determined by market forces\nB. the subordinate classes are dominated by the ideology of the ruling class\nC. the media manipulate 'the masses' as vulnerable, passive consumers\nD. audiences make selective interpretations of media messages\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "1": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The ecological approach to urban sociology involved studying:\nA. how social groups colonized different areas of the city and competed for resources\nB. the forms of wildlife and natural habitats that could be found on the edges of the city\nC. the way in which people organized collective protests about environmental issues\nD. how men and women used the city's public spaces differently\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "2": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Becker proclaimed that cannabis use was:\nA. increasing throughout all sections of youth in the 1970s\nB. learned gradually through the social processes of a deviant career\nC. a dangerous pastime that young people should not be allowed to pursue\nD. not as enjoyable as other sociologists had suggested\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "3": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The middle classes that developed over the nineteenth century were:\nA. an urban set, involved in civic bodies and voluntary associations\nB. too diverse to have a strong sense of class consciousness\nC. often involved in 'white collar' work\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "4": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Technological forms of surveillance have made it easier to:\nA. access and exchange 'private' information about consumers\nB. reduce prison overcrowding by the use of electronic tagging\nC. monitor employees' activities at work\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "5": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The concept of gemeinschaft developed by Ferdinand T\u00f6nnies describes basically the same relational characteristics as\nA. organic solidarity\nB. mechanical solidarity\nC. gesellschaft\nD. anomie\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "6": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: There was a growth in income inequality in the 1980s because:\nA. rates of income tax increased equally for all occupational groups\nB. there were more professional jobs available but not enough people to fill them\nC. the price of consumer goods rose at a higher rate than earnings\nD. growing unemployment made more people dependent on welfare benefits\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "7": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: If a deviant act is 'normalized', it is:\nA. recognised as breaking an important norm of behaviour\nB. seen a temporary aberration from an otherwise 'normal' character\nC. the first step in establishing a deviant career\nD. attributed to the person's genetic or anatomical make up\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "8": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: In the debate about the 'managerial revolution', John Scott (1997) argued that:\nA. owners still exercised control through groups of shareholders and interlocking directorships\nB. ownership and management were becoming increasingly separate functions\nC. the techniques of scientific management were overly bureaucratic and inefficient\nD. managers were becoming dissatisfied with their working conditions and planned to overthrow the owners of businesses\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "9": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Marxist feminists explain patriarchy in terms of:\nA. a lack of equal rights and opportunities for men and women\nB. sex classes, through which men oppress women economically, politically and sexually\nC. women's domestic labour being exploited by the capitalist economy\nD. the dual systems of capitalism and male domination\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "10": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following was not defined by Giddens (1998) as part of New Labour's 'third way':\nA. the democratization of the family\nB. putting an end to privatization\nC. positive welfare: 'a hand up, not a hand-out'\nD. the strengthening of civil society\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "11": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Anti-psychiatrists like Laing & Esterson believed that:\nA. Psychiatry was an out-moded form of treatment and should be replaced by alternative therapies like aromatherapy and kinesiology\nB. Mental illnesses were biological in origin, so there was no point in studying 'the mind' as experienced by the patient\nC. Psychiatrists were agents of capitalism who tried to instill ruling class ideology into their patients\nD. Behaviour that seemed bizarre could be seen as a reasonable response to disturbed patterns of family interaction\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "12": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Butler & Stokes (1969) suggested that working class support for the Labour Party arose from:\nA. socialization into working class families and communities\nB. rational calculation of self-interest\nC. issue-based concerns about culture and lifestyle\nD. false consciousness and the acceptance of hegemonic values\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "13": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: In contemporary societies, social institutions are:\nA. highly specialized, interrelated sets of social practices\nB. disorganized social relations in a postmodern world\nC. virtual communities in cyberspace\nD. no longer relevant to sociology\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "14": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The term 'emotion work' (Hochschild 1983) refers to:\nA. the techniques used to consciously manage and present emotions that are deemed appropriate for public settings of interaction\nB. the work done by psychologists, counselors and therapists to help clients with mental and emotional problems\nC. experiences such as grieving and falling in love, which demand a lot of emotional energy from a person\nD. the way in which increasing levels of risk and anxiety have made us think more reflexively about our self-identities\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "15": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: When sociologists study the structure of layers in society and people's movement between them, they call this:\nA. social stratification\nB. social control\nC. social conflict\nD. social solidarity\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "16": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The four ideal types of social action that Weber identified were as follows: instrumentally-rational, value-rational, traditional, and...\nA. affectual\nB. affective\nC. effective\nD. infected\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "17": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: An ecclesia is:\nA. a religious organization that claims total spiritual authority over its members\nB. a church organized around voluntary rather than compulsory membership\nC. a sect or cult with a very small following\nD. a hierarchy of priests or other spiritual leaders\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "18": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: After slavery was abolished in the USA and British Empire, policy makers claimed that former slaves migrating to these cities would experience:\nA. assimilation\nB. adaptation\nC. discrimination\nD. compensation\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "19": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Sutherland's study of the 'professional thief' suggested that:\nA. people are socialized into a life of crime by associating with others who define it in positive terms\nB. the majority of crime is committed by middle class people in professional occupations\nC. those who were arrested and charged with theft did not define themselves as thieves\nD. the most dangerous criminals on the street were those who were highly skilled thieves\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "20": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following policies did the New Labour government not pursue?\nA. setting and streaming pupils by ability\nB. parental choice of school\nC. supporting LEAs that appeared to be failing\nD. state regulation and control of the curriculum\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "21": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Stone's research suggests that prior to industrialization, the nuclear family:\nA. did not exist in any form\nB. had begun to disappear, as extended networks of kin became more important\nC. had begun to emerge through the separation of work and home life\nD. was simply another institution of patriarchal control\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "22": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Statistics about rural, suburban, and urban patterns of development and mobility are almost always reported based on a geographical area labeled as Metropolitan Statistical Areas (MSA). What constitutes an MSA?\nA. It includes only the 10 largest cities in the United States.\nB. It is composed of at least one central city with a population of at least 50,000 and it surrounds densely urbanized counties.\nC. It is an area that experiences strong storms at least 50 percent of the year.\nD. It is a large city with a population of at least 1 million and is immediately surrounded by suburbs.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "23": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Mosca and Pareto identified the ruling elite as:\nA. a minority group who fill all the top positions of political authority\nB. a coalition of social forces with specific skills and abilities\nC. a group who circulate between high status positions and exclude others\nD. all of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "24": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Bourdieu attributed the reproduction of class to:\nA. cults of the capital\nB. capital culture\nC. cultural capital\nD. culpable capture\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "25": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Secularization involves the two related ideas of:\nA. disappointment and disproportion\nB. disbelief and disintegration\nC. disengagement and disenchantment\nD. distribution and distillation\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "26": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The general fertility rate fell between 1964 and 2000 because of:\nA. increases in the age of marriage and the age at which childbearing begins\nB. there being fewer women of childbearing age than there were in the first half of the century\nC. errors in the measurement of birth rates and production of statistics\nD. the risk of diseases caused by poverty, poor housing and bad sanitation\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "27": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Howard's idea of the garden city consisted of:\nA. six small towns surrounded by green belts and linked to a larger central city\nB. planning cities to have plenty of trees, flowers and public gardens\nC. each privately owned house to have its own front and back garden\nD. tower blocks to displace the population vertically and leave most of the land available as green open spaces\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "28": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The 'third age' of the life course is said to involve:\nA. active non-work and independence after retirement\nB. full time employment, family-building and adult responsibility\nC. illness, isolation and increasing dependence on others\nD. the transition from education to work, and distinctive youth cultures\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "29": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Weber (1919) said that the state's monopoly of the use of force was legitimated by:\nA. charismatic authority\nB. rational-legal authority\nC. traditional authority\nD. value-rational authority\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "30": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Sullivan's (2000) study suggested that the proportion of housework men did was greatest when:\nA. they had rediscovered themselves as 'new men'\nB. their wives were at home and nagged them all the time\nC. exciting gadgets like the hoover and electric iron were invented\nD. they were unemployed or both partners worked full time\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "31": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The shift from custodial to joint parenthood after divorce means that:\nA. fathers are more likely to be absent from their children's lives\nB. one parent has total responsibility for the child's welfare and socialization\nC. both parents are expected to co-operate in the continued care of their children\nD. parents must provide for all of their children in equal measure\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "32": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: \u00c9mile Durkheim believed the primary focus of sociology should be which of the following?\nA. Social action\nB. Social facts\nC. Class relations\nD. Cultural dynamics\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "33": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The term \"sociology\" was coined in the early 1800s by which of the following?\nA. Auguste Comte\nB. Robert K. Merton\nC. Karl Marx\nD. Emile Durkheim\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "34": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: In their study of depression, Brown & Harris (1978) found that:\nA. women's susceptibility to stress depended on their levels of social support\nB. self-reported depression is highest amongst men and the relatively affluent\nC. men and women have fairly similar levels of diagnosed depression\nD. men are more vulnerable to depression because of conventional gender roles\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "35": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The alternative form of 'network organization' means that:\nA. work can be subcontracted out to independent suppliers and retailers\nB. business transactions occur only through electronic communication\nC. the Japanese model is applied, through lateral networks of flexible roles\nD. activities are redistributed equally between men and women\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "36": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Margaret Mead suggested that:\nA. adolescence and gender roles varied between societies and so were culturally determined\nB. gender roles in three New Guinea societies were identical and so must be biologically determined\nC. adolescence in the USA is a time of relative calm compared to the experience in Japan and Europe\nD. anthropological fieldwork can be problematic because the researcher's values affect the way they interpret their observations\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "37": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The term 'secondary deviation' refers to:\nA. the punishment or stigmatization of deviant acts\nB. the labelling of an act as deviant through social reactions to it\nC. the ways in which taking on a deviant role affects future action\nD. all of the above\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "38": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The effect of the Internet upon the public sphere has been to:\nA. repress it, by promoting only the interests of elite groups\nB. revive it, by reaffirming a commitment to freedom of speech\nC. reproduce it, by emphasizing face-to-face contact with peer groups\nD. replace it with a superior form of communication\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "39": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Weber said that the 'spirit of capitalism' could be traced back to:\nA. the movement towards religious pluralism\nB. inspirational Protestant groups who revived religious ideas\nC. new religious movements who rejected traditional forms of labour\nD. Calvinists who engaged in ascetic practices to gain signs of salvation\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "40": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The terms 'crisis of the 1970s' is used to refer to:\nA. declining profits and rising unemployment\nB. the eradication of the welfare state\nC. rising divorce rates and the decline of the traditional family\nD. an unfortunate twist in fashion sensibility\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "41": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The Macpherson Report highlighted the increasing problem of:\nA. hate crimes: violence against ethnic minorities simply because of their race\nB. institutional racism: systematic forms of disadvantage built into the routines and practices of social institutions\nC. overt racism in the police force that must be tackled by institutional reforms\nD. growing numbers of asylum seekers in need of long term accommodation\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "42": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Seven people standing silently while waiting for a bus at a bus stop is an example of which of the following?\nA. A primary group\nB. A secondary group\nC. An aggregate\nD. A social category\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "43": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Environmentalist social movements are global in the sense that:\nA. they increase our awareness of risks that affect the whole planet\nB. they appeal to universal values and human rights\nC. they use global media to generate publicity\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "44": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Chodorow (1978) argued that gender socialization occurred through:\nA. both boys and girls being closely attached to their mothers, but then boys breaking away\nB. girls being attached to their mothers but then breaking away\nC. boys being attached to their fathers and girls to their mothers\nD. both boys and girls being closely attached to their fathers, but girls breaking away\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "45": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The 'new man' of the 1980s was alleged to be:\nA. sensitive, caring, and emotional\nB. laddish, aggressive, and violent\nC. a strong and dependable breadwinner\nD. openly bisexual and proud of it\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "46": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: In the 1960s, comprehensive schools did not eradicate class inequalities in education because:\nA. they tended to recruit pupils from the inner cities and traditionally working class areas\nB. selective schools could still 'cream off' the most able pupils, while the comprehensives put children into ability streams\nC. teachers in comprehensive schools used the restricted code in the classroom, whereas working class pupils used elaborated codes of speech\nD. national testing and league tables made the new schools highly competitive and selective\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "47": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: In idealized views of science, the experimental method is said to involve:\nA. testing out new research methods to see which one works best\nB. isolating and measuring the effect of one variable upon another\nC. using personal beliefs and values to decide what to study\nD. interpreting data subjectively, drawing on theoretical paradigms\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "48": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: An 'open' society is one that:\nA. grants every member equal status\nB. does not have any official secrets in its government\nC. has permissive attitudes towards sexual behaviour\nD. allows people to move between levels of the hierarchy\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "49": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The Nation of Islam group appealed to:\nA. British-born second generation immigrants from the Asian subcontinent\nB. White Americans who wanted to convert to Islam\nC. African-Americans who felt excluded from the 'ethnic melting pot' in the USA\nD. African-Caribbeans who lived in the inner cities and had a distinctive youth culture\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "50": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Comte's term 'positivism' refers to:\nA. a theory that emphasizes the positive aspects of society\nB. the precise, scientific study of observable phenomena\nC. a theory that posits difficult questions and sets out to answer them\nD. an unscientific set of laws about social progress\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "51": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Theories of racialized discourse suggest that:\nA. race is an objective way of categorizing people on biological grounds\nB. the idea of race is socially constructed through powerful ideologies\nC. race relations in Britain and America can be traced back to colonial times\nD. people choose their racial identity and this becomes fixed\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "52": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: A major car accident occurs. One man stops his car and starts helping people. After seeing him stop, others also stop and start helping. Which of the following theories best explains the scenario?\nA. Convergence\nB. Emergent-norm\nC. Contagion\nD. Value-added\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "53": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: A new highway extends from a major city though an area used for farmland. Which of the following is most likely to happen as a result?\nA. Farmers will increase the acreage under production.\nB. The city will evolve into a multiple nuclei model.\nC. Suburbanization will develop because the time it takes to commute to the city has been decreased.\nD. People from the countryside will move to the city, depopulating the farmland region.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "54": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: According to W. E. B. Dubois, progress for African Americans in the aftermath of slavery\nA. depended on the small group of African Americans receiving the same thorough and extensive education as the most talented White Americans were able to access\nB. involved their use of skills they already had from farming, domestic work, and labors of rural life rather than being forced to learn new skills in the late 1800s\nC. required that they be trained and prepared as craftspeople and service employees so they could become immediately self-sufficient\nD. required them to move to large cities where they would be accepted as equals in government, religion, and education\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "55": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Pluralist theories suggest that:\nA. the state's power can be exercised through several different administrative structures\nB. the ruling elite is composed of people from various class backgrounds\nC. political parties must compete for the votes of 'consumers' in the electorate\nD. there is a close alignment between class background and party preference\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "56": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The term 'over-urbanization' means that:\nA. life in modern Western cities is so far removed from that of the Third World that we find it difficult to understand these societies\nB. in poorer countries, the rapidly developing cities drain resources from the rural areas\nC. the extent to which urbanization affects development has been exaggerated\nD. governments are so preoccupied with urbanization in the West that they forget to attend to problems in the Third World\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "57": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The capitalist class of the mid-twentieth century were said to join the upper class because they:\nA. participated in the same leisure pursuits and events of the 'social calendar'\nB. emulated the lifestyle and cultural values of the traditional aristocracy\nC. owned companies and financial assets that generated wealth through corporations\nD. had direct, personal ownerships of land and businesses as physical assets\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "58": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The term inter-generational mobility refers to:\nA. movement into a different occupational category over a person's lifetime\nB. movement into different occupational categories between generations\nC. movement into a higher occupational category\nD. movement into an occupation that generates a lower income\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "59": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The term 'culture industry', used by members of the Frankfurt School, referred to:\nA. the globalization of culture through new technologies\nB. the way in which cultural products were bought and sold for profit\nC. the development of subcultures and counter-cultures in society\nD. the way in which industrialization had created new means of communication\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "60": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: According to Hakim (1995, 1996), the majority of part-time work is done by women because:\nA. part-time jobs pay relatively high wages and so are financially beneficial\nB. they make a rational choice to combine employment with their 'home-centred' lives\nC. their choices are constrained by structural factors, such as being unable to afford childcare\nD. full time work is not available in the kinds of occupations that they want to enter\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "61": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: A sect is organised around:\nA. beliefs that can be challenged by members, a charismatic leader, and openness to new recruits\nB. tolerance towards other religions and the separation of church and state\nC. voluntary membership, democratic leadership, and high levels of emotional commitment\nD. the idea of the secular world itself as being sacred\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "62": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: What is the name of the process by which we acquire a sense of identity and become members of society?\nA. rationalization\nB. colonization\nC. McDonaldization\nD. socialization\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "63": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Pre-testing a questionnaire is useful for:\nA. finding out which topics are important to the respondents\nB. testing out your computer and printer\nC. identifying any problems with the question wording and routing\nD. deciding which respondents to leave out of the final sample\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "64": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Judith Butler (1999) suggested that:\nA. sexual characteristics are the biological determinants of gender\nB. heterosexuality and homosexuality are essential, opposing identities\nC. the 'two-sex' model replaced the 'one-sex' model in the eighteenth century\nD. gender is performed through bodily gestures and styles to create 'sex'\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "65": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Patterns of drug use in Britain reveal that:\nA. it has increased and is no longer confined to a hedonistic youth subculture\nB. the most commonly used recreational drug is Ecstasy\nC. teenage girls are more likely to experiment with hard drugs than teenage boys\nD. despite a series of moral panics, the use of illegal drugs is very rare\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "66": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Murray thought that the 'underclass' consisted of people who:\nA. formed an inferior 'race' with low levels of intelligence\nB. lived morally unsound lives of crime and squalor\nC. were too reliant upon welfare benefits\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "67": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Religious organizations such as the Church of Norway, Islam, the Church of England, and the Church of Greece have which of the following characteristics in common?\nA. They are cultures as well as churches.\nB. They practice separation of church and state.\nC. They exclude women as clergy.\nD. They are monotheistic.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "68": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: A researcher mailed 1,000 questionnaires to members of a labor union and received 300 back. Most of those who returned the questionnaires indicated that they were dissatisfied with the union. Results based only on the returned questionnaires are most likely contaminated by\nA. response rate bias\nB. researcher bias\nC. confusing correlation and causation\nD. statistical regression\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "69": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Role-learning theory suggests that\u0085\nA. we internalise and take on social roles from a pre-existing framework\nB. we create and negotiate our roles through interaction with others\nC. social roles are not fixed or stable but fluid and pluralistic\nD. roles have to be learned to suppress unconscious motivations\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "70": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Post-modernist writers have argued that:\nA. we live in a world of superficial, fragmented images\nB. no theory is better than any other: 'anything goes'\nC. society has changed and we need new kinds of theory\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "71": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Leroy visits his parents, who live in a primarily African American working-class neighborhood. During his visit, he notices that the community is changing. Several developments have been built to accommodate single-family homes, and upscale shopping centers have been added. While Leroy appreciates these changes, he is worried that his parents will not be able to afford to continue living in their neighborhood because property values are rising. Which of the following best explains what is happening to Leroy's old neighborhood?\nA. Gentrification\nB. Urbanization\nC. White flight\nD. The demographic transition\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "72": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Warner's study of the city of Natchez in the American Deep South showed that the 'colour line' there was:\nA. no longer a powerful influence upon race relations\nB. a way of marking out the land so that black people had less space for housing\nC. a new policy that had been introduced to assimilate black and white groups\nD. a sharp division between black and white castes, underpinned by beliefs about white superiority\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "73": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The social construction of childhood can be traced back to:\nA. the introduction of compulsory education\nB. increasingly emotional ties between parents and children\nC. new consumer goods for children, such as clothes, toys and books\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "74": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: In Marx's theory, the 'mode of production' means:\nA. the way in which products are made in a factory\nB. the average measure of productivity under capitalism\nC. the organization of a society's technical and human resources\nD. an integral part of the superstructure of a society\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "75": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The trend of decarceration involves:\nA. community alternatives to imprisonment and institutional care\nB. the increased use of imprisonment as the main form of punishment\nC. transferring the management of prisons to private companies\nD. decentralized organization due to the mobility of capital\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "76": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The work of Smart suggested that:\nA. the rates of violent crime were similar for men and women\nB. women's sexual delinquency was more likely to be normalized than men's\nC. women's criminal behaviour tended to reflect traditional gender roles\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "77": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Allen's (2001) study of nurses showed that:\nA. nurses perform a great deal of emotional labour for which they are not paid\nB. the policies of Project 2000 had the effect of de-professionalising the career of nursing\nC. more men were moving into nursing, which challenges some of the prevailing stereotypes about the occupation\nD. the role of the nurse was ambiguous and had to be constantly redefined in the context of everyday interactions with other staff and patients\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "78": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following best describes the practice of placing the blame for the problems of a society on one particular group?\nA. Ethnocentrism\nB. Stereotyping\nC. Scapegoating\nD. Institutionalization\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "79": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Dahrendorf, Rex, and Habermas focused their attention on:\nA. social solidarity and cohesion\nB. the interpretive understanding of action\nC. women's experiences and gendered knowledge\nD. power, domination, and conflict\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "80": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Sreberny-Mohammadi (1996) argues that national cultures can resist American cultural domination of the media by:\nA. domesticating its content, including more 'home-produced' programmes\nB. controlling the distribution of imported products by banning satellite dishes\nC. creating 'reverse flows' of their own programmes back to imperial societies\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "81": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Mulholland (1998) argued that privatization changed the relationship between companies and managers in that:\nA. flexibility was reduced by the introduction of detailed daily worksheets\nB. the state had greater control than managers over production processes\nC. ownership was transferred from small shareholders to senior managers\nD. employment depended on performance rather than trust and commitment\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "82": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is consistent with results of current research conducted in the area of gender roles and the workplace?\nA. In about a quarter of households with children, men stay home with the children so their wives can work.\nB. Most women believe that there is equal opportunity today between men and women in career choice, advancement, and income.\nC. Most men believe that women should be homemakers because men earn more money.\nD. Most men married to working women do not share housework and childcare obligations equally with their working wives.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "83": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Socialization is:\nA. the formation of an attachment bond between an infant and its carer\nB. a tendency of social theorists to explain everything in terms of social causes\nC. the process of becoming part of a society by learning its norms and values\nD. the historical process by which societies change from traditional to modern\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "84": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The term 'assets' refers to:\nA. the culturally valued commodities and standards of living that make the poor feel relatively deprived\nB. the flow of money a person receives from their salary or wage\nC. a stock of economic resources, including land, shares and bank deposits\nD. the 'slices' of the population who own differing amounts of wealth\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "85": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: In the traditional hierarchy of status and precedence, which of these members of the upper class are in the right order (from highest to lowest status)?\nA. Prime Minister, Archbishop of York, Viscounts of England\nB. Marquesses of England, Earls of Great Britain, King's Brothers\nC. Esquires, Serjeants of Law, Dukes' Eldest Sons\nD. King's Grandsons, Lord High Treasurer, Companions of the Bath\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "86": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Social norms are:\nA. creative activities such as gardening, cookery and craftwork\nB. the symbolic representation of social groups in the mass media\nC. religious beliefs about how the world ought to be\nD. rules and expectations about interaction that regulate social life\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "87": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The 'nuclear family' means:\nA. a group of people sharing living accommodation and meals\nB. a network of relatives extended within or between generations\nC. the new family created when an adult leaves home and gets married\nD. a two generation unit of parents and their children\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "88": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The rise of new social movements indicates that:\nA. people vote according to pragmatic issues and concerns\nB. consumer identities are more important than class identities\nC. personal, cultural and environmental issues can mobilise political consciousness just as much as economic interests\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "89": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following sociological perspectives views society as a system of interdependent and coordinated parts?\nA. Functionalism\nB. Conflict theory\nC. Symbolic interactionism\nD. Role theory\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "90": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Post-Fordist forms of media production and consumption involve:\nA. the mass production of standardized products for passive audiences\nB. television based on producer-broadcaster rather than publisher-broadcaster models\nC. a diverse range of products aimed at niche markets\nD. increasing numbers of advertisements for motoring and car-related products\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "91": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Marx said that the development of the labour movement through factory-based production would turn the working class into:\nA. a class in itself\nB. a class by itself\nC. a class for itself\nD. a ruling class\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "92": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: In stage 3 of the 'health transition', the main causes of illness and death are:\nA. acute, infectious diseases such as typhus, measles and cholera\nB. respiratory diseases such as pneumonia and asthma\nC. chronic, degenerative diseases, such as cancer, heart disease, and strokes\nD. too diverse to put into one category\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "93": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Sociologists like Bordo (1993) have attributed the 'epidemic' of anorexia in Western cultures to:\nA. a generally ascetic, frugal lifestyle that can be taken to extremes\nB. traditional images of women as emotional, domesticated, and unassertive\nC. the social construction of mental illness, through which 'normal' patterns of behaviour are pathologized\nD. the new ideal of independent, self-assured femininity, combined with cultural values of achievement and control\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "94": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: One of the difficulties in 'operationalizing' concepts like social class is that:\nA. definitions and indicators can vary, making valid comparisons problematic\nB. there are no reliable indicators of such widely contested ideas\nC. it takes all the fun out of armchair theorising\nD. it has little use for applied, empirical research about the topic\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "95": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: In the 1990 reform of the National Health Service, hospitals became:\nA. self-governing trusts competing for purchasing contracts from health authorities\nB. state-controlled providers, dependent on funding from the central government\nC. increasingly detached from health authorities and providers of private health care\nD. less inclined to run themselves efficiently, as demand for health care was falling\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "96": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Law and order was privatized in the 1980s and 1990s through:\nA. the expansion of private security companies\nB. the building of private prisons\nC. the introduction of market disciplines to measure police performance\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "97": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The 'correspondence principle' (Bowles & Gintis) suggests that:\nA. schools prepare children for work by teaching them to be obedient\nB. teachers and parents tend to have similar attitudes to learning\nC. children who write lots of letters develop a better grasp of language\nD. boys' and girls' educational achievements have recently become similar\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "98": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Class segregation was apparent in mid-twentieth century Britain insofar as:\nA. middle class owner-occupiers moved into the inner city through gentrification\nB. working class communities formed in the inner cities, while the middle classes moved out to the suburbs\nC. the middle classes lived in the countryside while the working class lived in the city\nD. the upper and middle classes dominated public space, while working class people were more home-centred\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "99": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Charles Cooley's theory of the looking-glass self emphasizes\nA. the manner in which young children come to a realization that they have a separate identity\nB. the difficulty one experiences in seeing oneself as others do\nC. how one's self-concept is based on one's perception of how others see one\nD. how one's self-concept is heavily influenced by one's physical appearance\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "100": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Queer Theory makes the claim that:\nA. heterosexuality is the normal and most desirable way to be\nB. the sexual categories and discourses we use are based upon true, underlying biological differences\nC. deviant forms of masculinity are seen as more threatening to the gender order than deviant forms of femininity\nD. all sexualities are pluralistic, fragmented and frequently reconstructed\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "101": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Scott (1991) introduced the term 'power elite' to describe:\nA. the ruling class, or bourgeoisie, who exploit the proletariat\nB. a capitalist class dependent on property ownership and advantaged life chances\nC. an alignment of classes with shared interests but no state power\nD. a state elite whose members are drawn overwhelmingly from a power bloc\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "102": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: A sociologist is conducting research on institutional power relations at a local hospital. The sociologist is on staff at the hospital for several weeks, recording data as field notes. This method of research is called\nA. experimentation\nB. secondary data analysis\nC. participant observation\nD. survey administration\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "103": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: In Symbolic Interactionist theory, Mead defined the 'generalized other' as:\nA. the group of structural theories of society that he was reacting against\nB. the overall impression of ourselves that we try to give off to others\nC. a significant figure in early childhood who teaches us the general values of society\nD. an image of how people in the wider society might perceive our behaviour\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "104": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: According to Davis (1995), women may seek cosmetic surgery because:\nA. they have a deep-rooted sense of ineffectiveness and are striving for control\nB. they are in pursuit of the 'perfect' body, fuelled by images of beauty\nC. they perceive a part of their body as stigmatizing, in relation to a cultural ideal\nD. their male partners pressurize them to look like supermodels\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "105": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Marx (1844) claimed that capitalism had alienated workers from:\nA. the product they were making\nB. the production process\nC. each other and humanity in general\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "106": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Herberg's (1955) study of religion in America suggested that:\nA. ethnic minorities practised religion to achieve social acceptance in the culture\nB. mainstream faiths were becoming increasingly identified with national identity\nC. the moral teachings of the main religions were becoming relatively similar\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "107": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Structural-Functionalists describe society as:\nA. a complex network of interaction at a micro-level\nB. a source of conflict, inequality, and alienation\nC. an unstable structure of social relations\nD. a normative framework of roles and institutions\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "108": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Booth's (1901) study revealed that the percentage of people in London who were living in poverty was:\nA. 30.70%\nB. 27.50%\nC. 18.60%\nD. 33.20%\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "109": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Traditional working class identity was based around:\nA. shared working conditions in the manufacturing industry\nB. the class consciousness of members of the proletariat\nC. local communities, extended kinship networks and shared leisure pursuits\nD. collective aspirations to move into the middle class\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "110": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Bernstein thought that using 'restricted codes' of language disadvantaged pupils at school because:\nA. this pattern of speech made them the target of bullying\nB. they referred to explicit, context independent meanings\nC. they prevented children from communicating outside of their peer groups\nD. they involved short, simple sentences with a small vocabulary\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "111": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Telework is a form of employment that involves:\nA. running one's own business through telephone helplines or hotlines\nB. working at home for an outside employer, using information technology\nC. babysitting and other jobs within a local network, through the informal economy\nD. combining non-manual work with the leisure activity of watching television\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "112": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Frank (1967) made the claim that 'underdeveloped' societies were:\nA. insufficiently involved in the international capitalist economy\nB. reluctant to surrender their traditional ways of life\nC. economically dependent on the wealthy countries that exploited them\nD. the 'metropoles' to which 'satellite' countries were attached\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "113": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The case of the former Soviet Union supports Kerr et al.'s (1960) claim that:\nA. totalitarian regimes are incompatible with the requirements of advanced industrial technology\nB. democratic governments serve the interests of a ruling elite\nC. advanced industrial technology strengthens the power of totalitarian regimes\nD. communist societies disperse power between various political parties\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "114": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The print revolution of the nineteenth century resulted in:\nA. mass production, mass circulation, and the decline of serious content\nB. the public ownership of newspapers as a shared resource\nC. more people going to the cinema as a new leisure activity\nD. a reduction of 'virtual communities' on the Internet\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "115": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The term 'feminist standpoint' suggests:\nA. taking a stand on the issues neglected by feminism\nB. studying society from the perspective of women\nC. the recognition of difference and diversity in women's lives\nD. a tendency to ignore the gendered nature of knowledge\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "116": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Ethnographic research produces qualitative data because:\nA. the findings are amenable to statistical analysis\nB. it is conducted over a period of several years\nC. it uncovers rich, detailed accounts from an insider's perspective\nD. it compares findings from a number of different cases\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "117": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Marx proclaimed that religion would disappear when:\nA. a new trend of moral individualism became established\nB. a socialist revolution removed the need for capitalist ideology\nC. church attendance dropped below 15%\nD. people came to believe more in science and technology\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "118": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not a feature of globalization?\nA. an increasing awareness of the world as a whole\nB. the extended power of nation states\nC. the destruction of distance through communications technologies\nD. the stretching of social relations beyond national boundaries\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "119": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Someone who gains a higher (or lower) social position than he or she was born into has experienced\nA. absolute poverty\nB. relative poverty\nC. vertical mobility\nD. horizontal mobility\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "120": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: A survey should avoid asking:\nA. fixed-choice questions\nB. short questions\nC. leading questions\nD. funnelled questions\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "121": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The theory of development which suggests that societies move from traditional to modern, industrial forms of organization is called:\nA. Westernization theory\nB. Modernization theory\nC. Industrialization theory\nD. Dependency theory\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "122": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: In modern societies, social status is typically measured by a person's:\nA. age\nB. income\nC. verbal fluency\nD. occupation\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "123": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Sociology differs from common sense in that:\nA. it focuses on the researchers' own experiences\nB. it makes little distinction between the way the world is and the way it ought to be\nC. its knowledge is accumulated from many different research contexts\nD. it is subjective and biased\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "124": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: World-affirming religions:\nA. embrace conventional cultural values but offer new means of achieving them\nB. react against the loss of any meaningful religious content in the teachings of churches\nC. adopt an attitude of mild disapproval towards mainstream social values\nD. reject both the goals and means of conventional society and provide utopian alternatives\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "125": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The 'extension pattern' that Parker (1976) identified was said to be:\nA. the lifestyle of clerical and unskilled manual workers, who saw leisure time as a chance to escape from alienating work\nB. characteristic of professionals and skilled workers, whose work interests spilled over into leisure time\nC. a neutral balance between work and leisure as neither connected nor oppositional, as evidenced by semi-skilled manual and clerical workers\nD. the tendency of students to leave essay-writing until the last minute and then ask for an extended deadline\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "126": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Weber defined a 'class situation' as:\nA. the exploitation of the working class by their capitalist employers\nB. a social group's consciousness of their status and life chances\nC. a person's position in the capital, product and labour markets, based on their economic resources\nD. the lifestyle of a social class, as defined by patterns of consumption\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "127": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The introduction of market principles to educational policy in the 1980s resulted in:\nA. more funding for students in higher education\nB. the delegation of power and budgetary control to LEAs\nC. a reduction in parental choice of school\nD. increased state regulation through national testing and inspections\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "128": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Smith & Tomlinson argued that:\nA. differences in ethnic background were more significant than class or gender in predicting educational achievement\nB. racism in schools undermined the move towards equality of opportunity for children from ethnic minorites\nC. school character far outweighed ethnic background in determining educational success\nD. gender differences in educational achievement could be attributed to inequalities of class\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "129": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The 'post-industrial society' identified by Bell (1973) involved:\nA. the increasing power of trade unions in resolving industrial disputes\nB. a resurgence of interest in industrial production and manufacturing\nC. a shift towards a service economy, based on knowledge and information\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "130": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: White-collar crime is low in visibility because:\nA. it involves only small amounts of money\nB. the proletariat can outsmart the bourgeoisie\nC. the police turn a blind eye to corporate crime\nD. it goes undetected in the context of everyday business transactions\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "131": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: With industrial capitalism, leisure emerged as a concept that meant:\nA. distinct periods of non-work and relaxation\nB. regulated and organized activities to reduce social disorder\nC. the growth of civic, municipal culture through public libraries, museums and art galleries\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "132": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: A moral panic occurs when:\nA. the media exaggerate reports of deviant groups, generating hostile reactions\nB. children watch violent or sexually explicit films and then copy the behaviour\nC. audiences challenge the ethnic stereotypes represented by the media\nD. elitists express concern with the Americanization of culture\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "133": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The 'demographic transition' is a social trend that involves:\nA. a reduction in population size, caused by a higher rate of emigration than immigration\nB. a change in the principal causes of death and disease since industrialization\nC. increased birth and death rates, resulting in a relatively young population\nD. a decline in the birth rate, greater life expectancy, and an ageing population\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "134": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: 'Snowballing' is an example of:\nA. probability sampling\nB. non-probability sampling\nC. cluster sampling\nD. using the Christmas vacation constructively\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "135": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The 'class polarization' that Marx predicted referred to:\nA. the division of each social class into the more or less privileged\nB. a growing gap between rich and poor, resulting in class consciousness\nC. the growth of intermediate strata in the middle classes\nD. the tendency for the working class to live in very cold places\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "136": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: In the context of the labour movement in the nineteenth century, 'incorporation' meant:\nA. including union representatives in processes of policy decision making\nB. creating links between the state and corporate organizations\nC. recruiting women into full time paid employment\nD. including working class organizations in political bargaining and representation\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "137": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Millions of immigrant children who entered the United States learned English and the duties of citizenship while attending public schools in the communities in which they settled. This is an example of which of the following sociological concepts?\nA. Acculturation\nB. Collective behavior\nC. Social stratification\nD. Social mobility\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "138": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The capitalist world economy is what Wallerstein (1974) would call a 'world system'. This term refers to:\nA. a means of transporting money between different areas of a country\nB. an empire with a bureaucratic administration but no political centre\nC. an awareness of risks and dangers that affect the environment as a whole\nD. a unit with a division of labour that extends across ethnic and cultural groups\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "139": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: According to Foucault, carceral organizations:\nA. emphasised human relations and employee satisfaction\nB. increased the amount of power held by managers\nC. stripped inmates of their previous identities\nD. isolated people and put them under surveillance\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "140": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not recognised as a level of society?\nA. the household\nB. the office\nC. the global village\nD. the nation state\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "141": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Ethnic identity refers to:\nA. the objective categories of ethnicity used in the census\nB. a felt sense of group membership on the basis of religion, language, or history\nC. the imposition of a racial label on a minority by a powerful majority\nD. the fragmented and pluralistic nature of ethnicity\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "142": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Marriage appears to be in decline because:\nA. the proportion of people living alone has fallen to 29%\nB. many people are cohabiting in long term relationships\nC. the upward curve of remarriages compensates for the drop in first marriages\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "143": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The market model of state welfare is based on the principle of:\nA. individuals buying welfare privately, with some means-tested benefits\nB. regular benefit payments to men as earners of the 'family wage'\nC. a universalist system of welfare for all, regardless of income\nD. decommodifying social welfare through state provision\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "144": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The term feminization of poverty refers to:\nA. the critical deconstruction of 'poverty' by feminist theorists\nB. women's increased chances of being in poverty, due to low pay and greater welfare dependency\nC. the way in which managing a budget and avoiding poverty tends to be a woman's responsibility within the home\nD. the disproportionate number of female sociologists who do research on poverty\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "145": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not identified as a new form of community?\nA. ethnic communities, based on shared identity and experiences of discrimination\nB. gay villages, which are formed in certain parts of large cities\nC. sociological communities, formed by unpopular lecturers\nD. virtual communities that exist only in cyberspace\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "146": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The use of 'indentured labour' in the nineteenth century involved:\nA. people being transported to the British colonies and forced to work for one employer under poor conditions\nB. the sale of African people through the slave trade in the 'Atlantic triangle'\nC. selecting the most skilled workers in factories to promote their employer's company overseas\nD. extracting the teeth of the laziest workers to stop them from talking\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "147": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Cultural restructuring has involved:\nA. regenerating cities in economic decline\nB. turning industrial landscapes into tourist attractions\nC. selling sites and images through the 'symbolic economy' of media advertising\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "148": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following was not part of Weber's ideal type of bureaucracy?\nA. impersonal rules\nB. extensive paperwork\nC. hierarchy of officials\nD. Salaries\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "149": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is the most important agent of socialization in early childhood?\nA. A preschool provider\nB. A peer group\nC. The mass media\nD. The family\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "150": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not a 'research purpose'?\nA. triangulation\nB. explanation\nC. description\nD. exploration\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "151": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: 'Scientific' theories in the nineteenth century tried to explain race in naturalistic terms. Which of the following ideas was not considered?\nA. genetics\nB. evolution\nC. height\nD. brain size\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "152": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not a regular national survey carried out by the British government?\nA. Labour Force Survey\nB. General Household Survey\nC. Fashion Sensibility Survey\nD. Family Expenditure Survey\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "153": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following industries did Blauner (1964) suggest was most alienating to its employees?\nA. machine-based factory work\nB. textile work as craft production\nC. car manufacturing in assembly plants\nD. chemical processing with automated practices\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "154": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The 'decentralized city' can be identified by:\nA. the shift of employment and services away from the inner city towards multiple centres in smaller towns and rural areas\nB. the degendering of public space as women use local facilities more\nC. gentrification: the movement of middle class people back into the inner city\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "155": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Lombroso claimed that:\nA. criminals were socialized into an 'underworld' of crime\nB. no act is intrinsically deviant\nC. biological failings drove some people into crime\nD. women were less likely to be arrested than men\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "156": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Warner and Myrdal claimed that black former slaves were not joining the 'ethnic melting pot' of the North American cities because:\nA. the white population did not believe in liberty, equality, and democracy\nB. they wanted to retain a strong sense of their original ethnic identity\nC. they were not prepared to leave the Southern states and move to North America\nD. the promise of citizenship was contradicted by continued discrimination\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "157": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: When Berger & Luckmann said that reality is socially constructed, they meant:\nA. scientists are guided in their work by social values and interests, so they define and measure phenomena that will support their theories\nB. people negotiate shared definitions of their situation and live according to these, often forgetting that these social worlds are not fixed and external\nC. sociologists decide what constitutes social reality and measure only that\nD. terms like 'reality' have no deeper meaning beyond the level of discourse\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "158": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following groups or organizations can be identified as having the characteristics of a bureaucracy?\nA. An extended or consanguine family, including all the relatives by blood, marriage, or adoption\nB. The government of a large city\nC. A book club in which books are chosen by members who take turns alphabetically to lead discussion\nD. The volunteers who gather annually to clean the neighborhood\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "159": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Pilcher (1999) identified soap operas as a 'feminine genre' of media because:\nA. most of the characters in soap operas are women\nB. they represent images of women as both domesticated and independent\nC. they alienate women and appeal to an audience of men\nD. female television producers are most likely to work in this area\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "160": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Which of these was not one of Townsend's (1979) indicators of relative deprivation?\nA. lacking exclusive use of a bath or shower\nB. living in housing with serious structural defects\nC. buying fewer than twenty DVDs in the previous year\nD. going without a week's holiday in the previous year\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "161": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Children who are still sucking their thumbs when they enter kindergarten are often subject to teasing and ridicule for this behavior. What type of social sanction is applied in this instance?\nA. Formal positive sanction\nB. Formal negative sanction\nC. Informal positive sanction\nD. Informal negative sanction\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "162": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The concept of political culture refers to the\nA. way that cultural products, such as novels or paintings, reflect the political ideologies of their creators\nB. basic beliefs and orientation toward politics that are shared widely by the members of a culture\nC. political beliefs and attitudes shared by people in public offices\nD. ideological biases of the mass media\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "163": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Walt Disney, Sony and Time Warner are examples of:\nA. transnational corporations\nB. multi-media empires\nC. ownership concentrated within one medium\nD. government-owned companies\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "164": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Equilibrium theories of social change emphasize\nA. globalization\nB. stability and the structure of society\nC. secularism and mechanization\nD. industrialization\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "165": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following best describes the definition of poverty used by the United States government?\nA. It specifies the poverty line at a level set in the 1960s and adjusted since to reflect inflation.\nB. It includes the value of government services, such as Medicaid or public housing, when setting the poverty line.\nC. It is based on the concept of relative deprivation, and the poverty line changes as the distribution of income changes.\nD. It is based on the concept of lifestyle, and the poverty line varies according to the needs of the individual.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "166": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The 'absolute' poverty line is drawn to show:\nA. the most extreme level of poverty that is found in a society\nB. the estimated minimum level of income needed for subsistence\nC. households that are poor, relative to the norms and values of their culture\nD. the areas of a city in which poverty is concentrated\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "167": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: 'Eyeballing' is a technique that involves:\nA. reading a textual document quickly to understand the gist of it\nB. gathering a sample from whoever you can see in a public place\nC. scanning a table to identify general patterns and significant figures\nD. keeping your eyes on research participants at all times\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "168": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following was not a strategy used by the Conservative government of 1979 to reduce the power of the labour movement?\nA. making all strike action illegal\nB. imposing restrictions on picketing\nC. banning political strikes that were not primarily concerned with the worker's own conditions of work\nD. making secondary action (in support of workers elsewhere) illegal\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "169": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: In the nineteenth century, homosexuality was understood as:\nA. a positive identity in which gay people could take pride\nB. an absolute taboo, which meant that all homosexuals were isolated\nC. a subordinate form of masculinity that threatened 'compulsory heterosexuality'\nD. confirmation of the two-sex model\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "170": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The population pyramid of a population that has had a slightly larger birth rate than death rate for several generations will most likely have which of the following shapes?\nA. Wider at the top than in the middle\nB. Wider at the bottom than at the top\nC. Bulging in the middle\nD. Having parallel sides\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "171": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The 'new racism' refers to:\nA. a subtler form of prejudice, masked by nationalist pride\nB. a post-modern deconstruction of racist ideas to reveal their lack of depth\nC. racist practices found in newly emerging areas of social life, such as cyberspace\nD. an anti-fascist movement which challenges nationalist politics\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "172": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Giselle graduated from college with high honors in management. She was recruited immediately following college by a large corporation and accepted a position in junior management. She quickly advanced to middle management. Ten years later Giselle was still in a middle-management position and had witnessed junior male colleagues promoted over her. Which of the following is a phenomenon that is most likely to explain Giselle's lack of promotion?\nA. Glass ceiling\nB. Gender constancy\nC. Underemployment\nD. Glass elevator\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "173": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The Mafia is an example of:\nA. white collar crime\nB. organized crime\nC. non-criminal deviance\nD. global terrorism\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "174": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Goldthorpe identified the 'service class' as:\nA. those in non-manual occupations, exercising authority on behalf of the state\nB. people working in consultancy firms who were recruited by big businesses\nC. the young men and women employed in domestic service in the nineteenth century\nD. those who had worked in the armed services\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "175": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Industrial production in the nineteenth century was characterized by:\nA. increasing numbers of women in high status positions\nB. cottage industries and homeworkers doing piecework in the domestic sphere\nC. the 'managerial revolution' by which ownership and control became separate\nD. power-driven machinery and the concentration of workers in large workplaces\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "176": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The term 'collective consumption' (Castells 1977) refers to:\nA. the privatization of public services by the Conservative government\nB. the lifestyle practice of shopping in peer groups\nC. the form of tuberculosis suffered by those who collect stamps\nD. the provision of health, housing, and education services by the state\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "177": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The deviant subculture of homosexuals who met in seventeenth and eighteenth century London was called the:\nA. pollies\nB. mollies\nC. dollies\nD. lollies\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "178": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Robert and Tanya are married and live with their three children. Their family unit is called\nA. a family of orientation\nB. a nuclear family\nC. an extended family\nD. a communal family\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "179": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: In Durkheim's work, the term 'collective representations' refers to:\nA. effervescent ceremonies that create a feeling of belonging\nB. images of gods or totems that are widely recognized\nC. shared ideas and moral values, often symbolized by an object or figurehead\nD. ideological tools used to obscure class divisions\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "180": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not a characteristic of totalitarian societies?\nA. indoctrination and propaganda\nB. freedom of movement for citizens\nC. one-party rule\nD. a centrally planned economy\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "181": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Freud's notion of the 'ego' referred to:\nA. the unconscious mass of instinctive drives that may be repressed\nB. the self as a whole: an unstable mix of conscious and unconscious elements\nC. the conscious part of the mind that regulates emotional drives on a practical, rational level\nD. the neurotic part of the mind that longs for belonging and may suffer an inferiority complex\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "182": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following theories focuses on how society manages to carry out the activities necessary to maintain order and stability?\nA. Functionalism\nB. Interactionism\nC. Rational-choice theory\nD. Conflict theory\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "183": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is a personal document with closed access?\nA. government 'white paper'\nB. confidential medical records\nC. household account book\nD. the shares register of a business\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "184": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The tripartite system used the 11+ exam to select pupils for:\nA. popular schools that lay outside their catchment area\nB. private, public and comprehensive schools\nC. grammar, technical, and secondary modern schools\nD. polytechnics, colleges and universities\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "185": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Durkheim defined social facts as:\nA. ways of acting, thinking, and feeling that are collective and social in origin\nB. the way scientists construct knowledge in a social context\nC. data collected about social phenomena that are proven to be correct\nD. ideas and theories that have no basis in the external, physical world\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "186": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The media-themes model of media influence claims that:\nA. audiences selectively interpret what they want to hear\nB. content analysis is the best way to identify the themes covered by the media\nC. audiences passively absorb whatever messages they are given\nD. social interaction reinforces the ideas and images that audiences select\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "187": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Bowlby's maternal deprivation thesis claimed that:\nA. mothers who are living in poverty cannot afford to give their children the resources that other children enjoy\nB. children deprived of an early, secure attachment to their mother are prone to suffer physically, intellectually and socially in later life\nC. 'mothering' is a socially constructed activity identified in the narratives of new mothers\nD. deprivation is something children inherit, usually through their mother's side\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "188": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: War became possible between nation states in the nineteenth century because:\nA. the world was divided into several rival overseas empires\nB. industrialization provided better transport, technology and administration\nC. there was intense economic, political and military competition\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "189": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not identified by Fulcher & Scott as a criterion of community?\nA. a shared sense of identity and belonging together\nB. common activities involving all-round relationships\nC. a fixed geographical location\nD. collective action based on common interests\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "190": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The 'Great Migration' of 1916-1919 meant that Chicago became an ethnically diverse city. The consequence of this was:\nA. assimilation: all racial boundaries were dissolved by the 'ethnic melting pot'\nB. multiculturalism: all ethnic identities were celebrated equally\nC. most ethnic groups were integrated into mainstream society, but the black population remained in the city's ghettos\nD. racism: the white host population were hostile and prejudiced towards migrants\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "191": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: According to Scott (1990), a document is 'authentic' if it:\nA. is a sincere and accurate account, free from political bias\nB. is representative of all the similar documents that did not survive\nC. has both a literal and an interpretable meaning\nD. is a 'sound' original, or reliable copy, of known authorship\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "192": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not a consequence of global tourism?\nA. decreased rates of prostitution and sex tourism\nB. developing countries can depend on it as a crucial source of income\nC. the exploitation of cheap, unregulated labour in poor countries\nD. we have become more aware of 'other' societies and ways of living\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "193": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following did Thatcher's government not strive to achieve:\nA. marketization and privatization\nB. individual freedom, choice and responsibility\nC. generous financial benefits for single parents, students and the unemployed\nD. the rolling back of the welfare state\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "194": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: One of the ethical problems with covert participant observation is:\nA. not being able to write comprehensive fieldnotes or record conversations\nB. deceiving the respondents as to the reason for your presence\nC. observing people outside of their natural setting\nD. subjecting the participants to physical harm\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "195": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The embourgeoisement thesis suggests that:\nA. capitalists are being replaced by salaried managers with bureaucratic authority\nB. the affluent working class is adopting middle class values and ways of life\nC. white collar occupations are being 'deskilled' by the introduction of new technologies into the workplace\nD. the class structure has fragmented and there are no longer any distinct social classes\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "196": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Women have been excluded from the public sphere because:\nA. industrial capitalism separated the middle class home from the workplace\nB. those who enter paid employment have been 'sidelined' into particular fields\nC. it is difficult to succeed in 'malestream' politics without compromising their femininity\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "197": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Economic aid has largely failed to promote modernization in the developing countries because:\nA. there are no clearly defined projects into which the money can be directed\nB. the United Nations has refused to call on rich countries to provide it\nC. debt repayments with interest can be greater than the amount of money received\nD. debt repayments with interest can be greater than the amount of money received\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "198": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: How is terrorism different from the types of crime described by the Chicago School?\nA. it is committed on a larger, often global, scale, and is well organized\nB. it is associated with political conflict between states and their citizens\nC. it can have far-reaching effects upon international relations\nD. all of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "199": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: The human relations approach emphasized the importance of:\nA. scrutinizing employees as they interacted with customers\nB. teamwork, communication and employee satisfaction\nC. strict control and discipline to ensure high productivity\nD. providing therapy and counselling in the workplace\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "200": {
+        "origin_prompt": "There is a single choice question about sociology. Answer the question by replying A, B, C or D.\nQuestion: Which of the following did Domhoff not identify as a process of decision-making in the USA?\nA. the ideology process\nB. the exploitation process\nC. the policy-formation process\nD. the candidate-selection process\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    }
+}

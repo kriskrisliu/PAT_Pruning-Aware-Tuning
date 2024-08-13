@@ -1,0 +1,1622 @@
+{
+    "0": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Unlike most other early civilizations, Minoan culture shows little evidence of:\nA. trade.\nB. warfare.\nC. the development of a common religion.\nD. conspicuous consumption by elites.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "1": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The greatest Egyptian pyramids at Giza were built:\nA. as burial monuments for the pharaoh Khufu, Khufu's son Khafre, and Khufu's grandson Menkaure.\nB. by slaves who were coerced and worked under the threat of death, as described in the book of Exodus of the Old Testament.\nC. in the construction frenzy of the 6th dynasty.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "2": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: When anatomically modern humans first arrived in the Middle East, who did they encounter?\nA. Neandertals, the evolutionary descendants of the premodern human inhabitants of Europe and Asia\nB. Homo erectus, the evolutionary descendants of the premodern human inhabitants of Europe and Asia\nC. Homo sapiens, who had evolved independently in Asia and arrived there by 200,000 years ago\nD. All of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "3": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The \u201cLion Man\u201d from Hohlenstein-Stadel cave is an example of:\nA. mobiliary art.\nB. long-distance trade of exotic raw materials.\nC. parietal art.\nD. a Venus figurine.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "4": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: At its peak, the palace at Knossos is thought to have had over _________ rooms.\nA. 100\nB. 500\nC. 1,000\nD. 5,000\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "5": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The Hopewell were complex rank societies, but they were not a state. Hopewell culture lacked all of the following elements EXCEPT:\nA. formal government\nB. monumental earthworks\nC. urban centers\nD. a permanent military\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "6": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Markings found on the mud-bricks of Huaca del Sol are probably:\nA. instructions for the builders written there by the engineers.\nB. random scratches and not a meaningful script or written language.\nC. intended to identify the local group that had produced them.\nD. simple arithmetic performed by carpenters on the building site.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "7": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The 30 upright stones at Stonehenge are called _______; the horizontal stones are _________.\nA. legumes, sarsens\nB. lintels, stelae\nC. sarsens, lintels\nD. trilithon, tholoi\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "8": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The secondarily altricial condition of modern human babies may have been an evolutionary solution, in that:\nA. the brain size of hominids had not grown for more than a million years, making it difficult for babies to walk.\nB. it allowed for bipedalism and independence from the mother at an earlier age.\nC. it allowed for subsequent growth of the brain, since bipedalism had resulted in a narrowed birth canal in the female pelvis.\nD. it allowed for growth of the brain to nearly adult size prior to birth, since bipedalism had resulted in a wider birth canal in the female pelvis.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "9": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Research on C3 and C4 pathways indicates that changes in plant communities were associated with a transition in the diets of ancient hominids from:\nA. species focused on grasses to nuts and fruits.\nB. meat to fruits and vegetables.\nC. fruits and vegetables to fish.\nD. nuts and fruits to species more focused on grasses.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "10": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is evidence of new uses for plants during the Middle Stone Age?\nA. the use of seeds as a natural insecticide in Altamira cave in southwestern Europe\nB. plant materials such as flowers in Aurignacian burials in southern France\nC. plant material lining the floor of Sibudu Cave in South Africa\nD. the use of wood in the Gravettian tradition to make spear-throwers and canoes\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "11": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: That modern Africans do not possess any Neandertal DNA indicates that:\nA. Gene flow between Neandertals and anatomically modern humans must have occurred before Neandertals migrated out of Africa.\nB. Gene flow between Neandertals and anatomically modern humans occurred after anatomically modern humans migrated out of Africa.\nC. Neandertals who lived in Africa did not interbreed with anatomically modern humans, but must have followed them when they migrated out of Africa.\nD. Interbreeding between anatomically modern humans and Neandertals never occurred.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "12": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Toward the end of the Pleistocene, between 28,000 and 18,000 years ago, worldwide sea level was much lower than present day, resulting in the exposure of a landmass east of Siberia called __________. This period is called the _______.\nA. Beringia; Late Beringian Period\nB. Sundaland; McKenzie Maximum\nC. Beringia; Late Glacial Maximum\nD. Wallacea; Late Laurentide Period\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "13": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which archaeological method is best for identifying large-scale land modifications?\nA. test pits\nB. ground-penetrating radar\nC. aerial photography\nD. proton magnetometers\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "14": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What designation for a pottery style was eventually applied to an entire cultural complex that moved across the Pacific?\nA. Clovis\nB. Nenana Complex\nC. Lapita\nD. Micronesian Pottery Tradition\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "15": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What is one of the differences between simple foragers and complex foragers?\nA. Complex foragers employ irrigation technology.\nB. Complex foragers rely on a wider range of food sources.\nC. Complex foragers are more highly mobile.\nD. Complex foragers focus on a few highly productive resources.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "16": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The significance of Frere's discovery was that what he found was located:\nA. beneath the remains of extinct animals.\nB. on the surface, above the remains of extinct animals.\nC. in a region of Africa where no one thought humans had ever lived.\nD. on top of the ruins of a Medieval castle.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "17": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What is the earliest form of writing in the world and where did it develop?\nA. cuneiform, in Mesopotamia\nB. hieroglyphics, in Egypt\nC. clay-tablets, at Knossos\nD. runes, at Stonehenge\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "18": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: A pattern of social integration in which individuals are placed into a hierarchy of social levels is called:\nA. urbanization.\nB. a social system.\nC. social stratification.\nD. a necropolis.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "19": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The Minoan economy may have been especially vulnerable to natural catastrophe because it relied heavily on:\nA. agriculture\nB. maritime trade\nC. metalworking\nD. slave labor\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "20": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The _______ developed one of the earliest kingdoms in South America, reaching its height at around _________.\nA. Moche; AD 400\nB. Wari; AD 100\nC. Inca; AD 200\nD. Maya; AD 400\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "21": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What is the name of the lithic technology seen in the Arctic and consisting of wedge-shaped cores, micro-blades, bifacial knives, and burins?\nA. Clovis Complex\nB. Denali Complex\nC. Folsom Complex\nD. Nenana Complex\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "22": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is used to remove the soil enclosing site materials?\nA. brushes\nB. trowels\nC. dental picks\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "23": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: A continuous, projecting ridge of bone above and across the eye orbits is called the:\nA. sagittal crest.\nB. supraorbital torus.\nC. maxilla.\nD. occipital bone.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "24": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Ancestral Puebloan culture in Chaco Canyon was comprised of:\nA. around 75 substantial settlements and more than 300 smaller communities.\nB. more than 500 towns and villages with monumental architecture.\nC. between 30 and 40 farmsteads and three large pueblos.\nD. one large city state with more than 300 outlying farmsteads.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "25": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The Yang-shao culture gave way to the Lung-Shan sometime after:\nA. 6,000 B.P.\nB. 5,000 B.P.\nC. 4,000 B.P.\nD. 3,000 B.P.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "26": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The most prominent feature of the food resource base of post-Pleistocene Europe was its:\nA. dependence on megafauna.\nB. hunting and gathering.\nC. dependence on fur-bearing animals.\nD. diversity.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "27": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Evidence of wild grain harvesting and consumption in Israel dates to as early as\nA. 20,000 B.P.\nB. 12,000 B.P.\nC. 10,000 B.P.\nD. 8,000 B.P.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "28": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Civilization in the Indus Valley was characterized by:\nA. highly centralized economies.\nB. carefully planned and designed cities.\nC. standardized weights and measures.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "29": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: According to one theory, the power of Ancestral Pueblo elites emerged when certain groups:\nA. predicted astronomical events such as eclipses and meteor showers.\nB. constructed monuments and elaborate multi-storied cliff dwellings.\nC. stored food surpluses in good years for distribution in bad years.\nD. incorporated other societies through conquest warfare.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "30": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Teotihuac\u00e1n came to prominence in the Basin of Mexico after its rival, Cuicuilco,\nA. was crippled by a volcanic eruption.\nB. succumbed to a civil war among its ruling families.\nC. suffered a blight on its crops.\nD. was flooded by a Gulf Coast hurricane.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "31": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Evidence from northwest coast societies indicates that what is ultimately needed for the development of social complexity is:\nA. agriculture.\nB. irrigation technology.\nC. social stratification.\nD. a food surplus.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "32": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which subfield of anthropology aims to better understand the nearest living relatives of humans?\nA. paleoanthropology\nB. archaeology\nC. primatology\nD. linguistics\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "33": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: How did Aurignacian technology differ from Mousterian technology?\nA. Mousterian technology produced more projectile points.\nB. Mousterian technology produced more usable blade surface.\nC. Aurignacian technology produced more usable blade surface.\nD. Aurignacian technology was focused on the production of hand axes.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "34": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is evidence of a complex society?\nA. monumental works\nB. burials with grave goods\nC. leisure and a sedentary lifestyle\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "35": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The face of Homo erectus was more ________ than modern humans, but less so than Homo habilis.\nA. altricial\nB. hairy\nC. occipital\nD. prognathous\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "36": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Montezuma ruled over millions of people from the _______ capital of _____.\nA. Maya; Tikal.\nB. Aztec; Tenochtitl\u00e1n.\nC. Teotihuac\u00e1nos; Teotihuac\u00e1n.\nD. Zapotec; Monte Alb\u00e1n.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "37": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The belief that all of the characteristics of civilization developed in one place, such as Egypt, and from there spread out to the rest of the world is known as:\nA. cultural evolution\nB. migrationism\nC. diffusionism\nD. anti-originalism\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "38": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: When the ratio of brain size to body size is compared, which species has a proportionally larger brain?\nA. Homo erectus\nB. premodern Homo sapiens\nC. Neandertals\nD. modern Homo sapiens\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "39": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The royal graves of the Shang Dynasty consisted of enormous cruciform-shaped tombs, where the deceased kings were buried with:\nA. jade, bronze, and ceramic artifacts.\nB. chariots and horses.\nC. the headless bodies of humans who had been sacrificed.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "40": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The above hominid species discovered in Malapa Cave in South Africa has been classified as:\nA. Homo habilis\nB. Australopithecus sediba.\nC. Homo sapiens.\nD. Australopithecus robustus\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "41": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Ethnographic evidence supports which of the following connections between surplus food and social complexity?\nA. Only agriculturalists can produce the food surplus necessary for economic inequality.\nB. Some resource-rich environments allow for the creation of surpluses that can lead to economic inequalities and social complexity.\nC. Economic inequalities are the foundation of social complexity and entirely dependent on agriculture for the production of surplus food.\nD. The production of surplus food is not important in the development of economic inequalities or social complexity.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "42": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following was the greatest advantage of using fire in human evolution?\nA. Fire offers protection from predators and enemies.\nB. Fire makes meat more digestible and kills bacteria.\nC. Fire produces light and heat.\nD. Fire can be used in warfare and to clear fields.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "43": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Palynology is the study of _________, which allows scientists to reconstruct ______.\nA. foraminifera; a master sequence of tree rings.\nB. coprolites; paleopathology and sexual dimorphism.\nC. pollen; plant communities and climate.\nD. phytoliths; artificial selection and photosynthesis pathways.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "44": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What was the unifying element of Olmec culture?\nA. religious iconography\nB. large armies\nC. agricultural surpluses\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "45": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following ancient civilizations has a written language that is the furthest from being fully deciphered?\nA. the Indus Valley\nB. Egyptian\nC. Mesopotamian\nD. Chinese\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "46": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The sophisticated stone tool making industry at the Pinnacle Point site in South Africa is evidence of:\nA. a 250,000-year-old tradition of hand axe production and use.\nB. a 71,000-year-old complex sequence of microblade production and use.\nC. an adaptation to hunting in colder environments.\nD. both a and c.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "47": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Early evidence of complexity in Mayan societies is suggested by the appearance, around 2650 B.P., of:\nA. finely carved obsidian statuary.\nB. decorated stepped platforms.\nC. the introduction of chocolate into the Mesoamerican economy.\nD. a ritual ball game in which the losers were sacrificed to the gods.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "48": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What do anthropologists NOT need to know to determine when people entered the Americas from Siberia?\nA. When sled dogs were first domesticated\nB. When the Bering Strait was exposed and open for travel\nC. When eastern Siberia was first inhabited\nD. The age of the earliest New World sites\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "49": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: When did Aborigines occupy the harsh interior of Australia?\nA. 10,000\u201312,000 years ago\nB. 20,000\u201325,000 years ago\nC. 35,000\u201340,000 years ago\nD. 40,000\u201345,000 years ago\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "50": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What do the Hassunan and Samarran sites in Mesopotamia have in common?\nA. Both relied heavily on agriculture.\nB. Both have an abundance of rare luxury items.\nC. Both have high-status burials.\nD. Both have sophisticated monumental architecture.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "51": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which crop is South America's most significant agricultural contribution to Europe?\nA. rice\nB. potatoes\nC. squash\nD. beans\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "52": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What distinguishes the trade patterns of the Mesolithic from those of the Upper Paleolithic?\nA. in the Mesolithic, goods traveled farther and more goods were exchanged\nB. in the Mesolithic, goods traveled farther but fewer goods were exchanged\nC. in the Mesolithic, goods traveled less far but more goods were exchanged\nD. in the Mesolithic, goods traveled less far and fewer goods were exchanged\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "53": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: A celebration in which wealth is redistributed is called a:\nA. potlatch.\nB. kiva parties.\nC. totem feasts.\nD. sinagua.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "54": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following are techniques of trace element analysis?\nA. proton magnetometer and electrical resistivity\nB. accelerator mass spectrometry and photosynthesis pathways\nC. carbon isotope analysis and experimental replication\nD. neutron activation analysis and X- ray fluorescence\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "55": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The Chinese process of divining the future by examining fired animal bones is called:\nA. hang-t'u.\nB. sarsen divination\nC. scapulimancy\nD. cylinder seal prophecy\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "56": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: How have archaeologists characterized the monuments built by the Olmec?\nA. Halafian ritual monuments\nB. megalithic chiefdoms\nC. surplus food storage centers\nD. regal-ritual centers\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "57": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The ethics of conducting archaeological research on sites with human remains of indigenous North American ancestors is addressed by the Native American Graves Protection and Repatriation Act. Problems often arise when:\nA. both non-indigenous archaeologists and Native Americans are allowed onto the site at the same time.\nB. there are no Native Americans who have been trained as archaeologists and no archaeologists who are Native American.\nC. neither archaeologists nor Native Americans can agree on the exact location of burials at the site.\nD. burials are so ancient that establishing historical or genealogical connections with modern, living groups of people is impossible.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "58": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which culture, previously-known as the temple-mound builders, based their subsistence primarily on maize and squash agriculture?\nA. Ancestral Puebloan\nB. Hohokam\nC. Mississippian\nD. Adena\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "59": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The city of Uruk and the cultures of the Maya and the Moche were all adversely affected by:\nA. invasion.\nB. drought.\nC. civil war.\nD. earthquakes.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "60": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What is the wild progenitor of maize?\nA. einkorn\nB. emmer\nC. teosinte\nD. legumes\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "61": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: In comparison to the Middle Paleolithic, Upper Paleolithic tool technologies:\nA. emphasized flakes over blades.\nB. changed rapidly.\nC. involved elaborate preparation of core tools.\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "62": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Recent genomic analyses of Neandertals and modern human populations indicate that:\nA. between 1% and 4% of the genome of modern humans with European and Asian ancestry originated from Neandertal populations, most likely through interbreeding.\nB. Neandertal populations were entirely distinct and separate from anatomically modern humans, with no evidence of interbreeding.\nC. anatomically modern humans throughout the world uniformly share approximately 16% of their genome with Neandertal populations.\nD. modern Africans share more than 4% of their genome with Neandertals, far greater than modern European and Asian populations, indicating a lengthier time of successful interbreeding.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "63": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is a remote-sensing device used at archaeological sites?\nA. ground-penetrating radar\nB. proton magnetometer\nC. electrical resistivity\nD. all the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "64": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Genetic studies of the two primary varieties of rice, japonica (short-grained), and indica (long-grained), suggest that:\nA. each is more closely related to one another than their local wild ancestors, suggesting that these modern varieties of rice were developed recently in east Asia.\nB. each is more closely related to local wild ancestors than one another, suggesting that these modern varieties of rice were domesticated separately in east Asia and south Asia.\nC. each is unrelated to one another, suggesting that these modern varieties of rice were domesticated independently in east Asia and western Europe.\nD. each is closely related to their local wild ancestors, suggesting that domestication must have occurred very recently and no earlier than 2,000 years ago.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "65": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What do the amount of grave goods buried with the children at Sungir' indicate?\nA. The tribe spent most of their time carving beads.\nB. The tribe was involved in an intricate trade network.\nC. The tribe had a complex system of inherited social statuses.\nD. The children were sometimes leaders of the tribe.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "66": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: At its peak, the population of the city of Teotihuac\u00e1n may have reached:\nA. 50,000 people.\nB. 200,000 people.\nC. 500,000 people.\nD. 1,000,000 people.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "67": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Nubian civilization:\nA. predated and spurred the rise of Egyptian culture.\nB. was the result of Mesopotamian colonization in the south.\nC. developed in response to, but not in imitation of, Egyptian culture.\nD. had no contacts with neighboring cultures.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "68": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Having a forward-thrusting lower face is called\nA. arboreal.\nB. prognathous.\nC. diastema.\nD. mandible.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "69": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What may have caused the Ancestral Puebloans to abandon Mesa Verde?\nA. the population outstripped the productive capacity of the environment\nB. drought\nC. a new religion attracted them to the south\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "70": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which species is most typically first associated with the fashioning and use of stone tools?\nA. Homo habilis\nB. Ardipithecus ramidus\nC. Homo sapiens\nD. Australopithecus robustus\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "71": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: A design that is not painted upon but is etched into a rock face is called a:\nA. pictograph.\nB. petroglyph.\nC. pictorial.\nD. petrification.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "72": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The Gault site in south-central Texas has produced evidence from 13,000 years ago that Paleoindians chose this location based on the:\nA. nearness of the site to navigable rivers and the Gulf coast.\nB. abundance of wild game, plants, and fish in a rich and diverse woodland environment.\nC. proximity to a local source of chert for quarrying and making stone tools.\nD. nearby location of migratory routes of large mammals such as bison.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "73": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The early Mesolithic Maglemosian culture was adapted to:\nA. a tundra environment.\nB. a desert environment.\nC. a forest and lakeside environment.\nD. an equatorial environment.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "74": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: How were the first metals worked in South America?\nA. casting\nB. hammering\nC. smelting\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "75": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What is the Aztec word for a spear-throwing device developed in Europe more than 30,000 years ago?\nA. chunkey.\nB. atlatl.\nC. burin.\nD. petroglyph.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "76": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The directed breeding of plants and animals by humans is called:\nA. foraging.\nB. artificial selection.\nC. natural selection.\nD. herding.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "77": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Interestingly, none of the civilizations of ancient South America appear to have developed:\nA. monumental works.\nB. irrigation technology.\nC. a written language.\nD. significant armies.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "78": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not a hypothesis for why hominids walked on two legs?\nA. it freed the hands to carry things\nB. it allowed for braincase expansion\nC. it expended less energy than quadrupedalism for going long distances\nD. it allowed hominids to see greater distances\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "79": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: When did the first pharaohs emerge in Egypt?\nA. 3100 B.P.\nB. 4100 B.P.\nC. 5100 B.P.\nD. 6100 B.P.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "80": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: There is evidence that the Hohokam borrowed which practice from Mesoamerican culture?\nA. ritual consumption of maize beer\nB. ritual human sacrifice\nC. playing ritual ball games\nD. construction of stepped pyramids\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "81": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: One of the less obvious reasons for the Inca to fight so many wars may have been:\nA. to develop a story line for powerful epic poetry.\nB. to identify and cultivate talented leaders.\nC. to kill off a certain percentage of the young male population, thus preventing revolution.\nD. to appease the gods of war.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "82": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The name Teotihuac\u00e1n was given to the city by:\nA. the Aztecs, who continued to make pilgrimages there long after its collapse.\nB. the Spanish invaders, who largely destroyed it.\nC. the city's first king, who named it after his favorite deity.\nD. Olmec traders, who were impressed with its grandeur.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "83": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which culture hosted the above celebration?\nA. the Ancestral Puebloans of the southwestern desert\nB. the Mogollon of the southwestern mountains\nC. the Kwakiutl of the Pacific Northwest\nD. the Hopewell of the American Midwest\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "84": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Of the following, which is the earliest example of the development of a complex society?\nA. Jericho in Israel\nB. Caral in Peru\nC. Stonehenge in England\nD. Olmec along the Gulf Coast\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "85": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Archaeological evidence for the domestication of cats suggests it occurred when and why?\nA. before 22,000 years ago, as a result of the shift from opportunistic foraging to logistical collecting\nB. before 11,000 years ago, as a direct result of artificial selection\nC. after 11,000 years ago, as an unintentional consequence of food production and storage\nD. after 9,000 years ago, as an unintentional result of the domestication of cattle and production of milk and cheese\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "86": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The most obvious material symbols of ancient state societies are:\nA. stone tablets.\nB. pyramids.\nC. monumental works.\nD. irrigation canals.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "87": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What is the evidence for trade between Indus Valley cities and the city states of ancient Mesopotamia?\nA. Obsidian tools have been found at sites in both regions.\nB. Glass beads, copper, and gold from Mesopotamia have been found at Harappan sites in the Indus Valley.\nC. Harappan seals have been found in Mesopotamia and Mesopotamian cylinder seals have been found in the Indus valley.\nD. All of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "88": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: At the end of the Miocene many species of ape became extinct due to:\nA. humans killing them.\nB. an asteroid hitting the Yucatan Peninsula.\nC. a change in the environment.\nD. dinosaurs eating them.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "89": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Some of the oldest painted art in the world was recently discovered in caves on the island of Sulawesi in Indonesia. What do the images include and to when do they date?\nA. animals and human bodies from more than 15,000 to about 20,000 years ago\nB. animals and hand stencils from more than 35,000 to about 40,000 years ago\nC. animals and hand stencils from more than 45,000 to about 100,000 years ago\nD. animals and abstract geometric shapes from 15,000 to more than 100,000 years ago\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "90": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: A person who believes that the current appearance of the earth can be best explained as having resulted from a series of natural disasters is known as a(n):\nA. paleoanthropologist.\nB. natural scientist.\nC. evolutionist.\nD. catastrophist.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "91": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What contributes to societies becoming more complex?\nA. Surplus food is stored in large, collective facilities.\nB. Crop irrigation requires the construction of dams or canals.\nC. Sedentary communities need to defend themselves.\nD. All of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "92": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: A(n) _________ contains primary refuse; a _________ contains secondary refuse.\nA. kitchen; garden\nB. activity area; burial\nC. picnic site; trash dump\nD. activity area; recycling area\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "93": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Artifacts _________; ecofacts __________\nA. are valuable and rare; are easy to come by.\nB. decay rapidly; last for a long time.\nC. are made by humans; exhibit traces of human activity.\nD. are facts about art; are facts about nature.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "94": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Pompeii was unusually well preserved because:\nA. the layer of volcanic pumice created a seal over the remains.\nB. avalanches pushed the remains into the sea and seawater preserves things.\nC. poisonous volcanic gases killed people instantly.\nD. the Romans embalmed the victims with salt from seawater.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "95": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Charles Lyell argued that the Earth must be extremely old based on the fact that:\nA. many processes that can be observed act extremely slowly.\nB. uniformitarianism can account for significant geological features.\nC. erosion works incredibly slowly.\nD. All of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "96": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Homo floresiensis from the island of Flores dates from around 35,000 to 14,000 years ago, and according to some researchers, is similar or related to:\nA. Homo erectus.\nB. Homo habilis.\nC. Homo ergaster.\nD. Australopithecus afarensis.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "97": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Subsistence practices of people can be determined by recovering and studying:\nA. the faunal assemblage from a site.\nB. an osteological comparative collection from a site.\nC. pumice and evidence of pyroclastic surges.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "98": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: When the Spanish explorer Hernando de Soto crossed a portion of the North American continent, his expedition encountered direct descendants of which people?\nA. Mississippian\nB. Adena\nC. Ancestral Puebloan\nD. Kwakiutl\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "99": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Following the classical period, which ended around A.D. 800, Mayan civilization:\nA. inexplicably disappeared, then began a slow development ending with Aztec civilization.\nB. entered the second classical period, lost a great war with Teotihuac\u00e1n, and faded away.\nC. fell into decline, moved its center north, resurged, and fell into decline once again.\nD. fell into a sudden decline; the population disappeared and never again built monumental structures.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "100": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: During the late Miocene, carbon isotope analysis indicates environmental changes that would have impacted the hominid ancestors of modern humans. These changes are best characterized as:\nA. a sudden drop in global temperatures resulting in a return to ice age conditions.\nB. a sudden rise in global temperatures resulting in rising sea levels.\nC. an expansion of grasslands and reduction in woodlands, resulting in regional mosaic environments.\nD. a decline in large mammal populations and relative increase in other classes of vertebrate species.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "101": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following characteristics of modern humans is the most ancient, pre-dating the Late Stone Age, the Upper Paleolithic and even anatomically modern humans?\nA. elaborate burials\nB. larger sites with larger populations\nC. improved stone tool technologies\nD. symbolic expression through the production of art\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "102": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Moving through trees by swinging arm over arm is called:\nA. bipedal locomotion.\nB. brachiation.\nC. quadrupedal locomotion.\nD. a savanna niche.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "103": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Why is Catalhoyuk in central Turkey regarded as a large village but not a city?\nA. There were no palaces, public architecture, and little evidence for status differentiation.\nB. There was no evidence for food storage, domesticated animals, or buildings.\nC. There were no works of art, rituals, or activities associated with cities.\nD. There was no evidence for monumental architecture or roads.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "104": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following are four of the characteristics of civilization?\nA. food surpluses, specialists, urban settlements, and a system of record keeping\nB. food surpluses, a standing army, artwork, and a system of plumbing\nC. food surpluses, monumental architecture, religious buildings, and museums\nD. museums, libraries, monumental architecture, and artwork\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "105": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following most strongly indicates advances in the human intellect during the Upper Paleolithic?\nA. parietal and mobiliary art\nB. new stone-tool technologies\nC. acquisition of non-local raw materials\nD. changes in settlement patterns\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "106": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: With which of the following techniques were the native navigators of the Pacific NOT familiar?\nA. bird flight paths\nB. currents and wind patterns\nC. magnetic orientation to the poles\nD. cloud patterns\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "107": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Recent research with stone tool replication and brain imaging suggests the following hypothesis:\nA. connections made in tool making prepared the brain for the production and use of language.\nB. tool making requires cooperation that can only exist with language.\nC. tool making originated millions of years after language evolved.\nD. connections made between the brain and bipedal locomotion prepared the hands for tool making.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "108": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The earliest-known use of bronze is found in:\nA. South America.\nB. Mesopotamia.\nC. the Indus Valley.\nD. China.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "109": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The New World, \u201cdiscovered\u201d by Christopher Columbus, was filled with approximately how many people?\nA. 100,000\nB. 500,000\nC. 1,000,000\nD. tens of millions\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "110": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following sites has monumental earthworks with concentric ridges in a semicircle that date from around 3,500 years ago?\nA. Caral\nB. Stonehenge\nC. Poverty Point\nD. Gobekli Tepe\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "111": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The controversial theory that people from present-day Europe colonized North America at the end of Pleistocene is:\nA. supported by genetic evidence that establishes close connections between the oldest skeletons in the Americas and the European genome.\nB. refuted by genetic evidence from the oldest skeletons in the Americas that establishes close connections between modern Native Americans and the native people of central Siberia.\nC. proven by genetic evidence that establishes close connections between the oldest skeletons in the Americas and Norse explorers who arrived in northeastern Canada around A.D. 1000.\nD. refuted by the complete absence of documents that record a migration of Europeans into the Americas.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "112": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What was the required labor service owed to the king in return for the privilege of using property owned by the Incan empire?\nA. Khipu\nB. Mit'a\nC. Split inheritance\nD. Capacocha\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "113": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Archaeology is a subfield of:\nA. biological anthropology.\nB. anthropology.\nC. cultural anthropology.\nD. paleoanthropology.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "114": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: When did the acquisition of raw materials from greater distances increase, and what does it indicate?\nA. during the Upper Paleolithic; long- distance contacts with greater reliance on trade with distant groups\nB. during the Middle Paleolithic; the acquisition of raw materials from greater distances indicates people moved more often\nC. during the Middle Paleolithic; broader social networks were based on frequent movement for trade and long-distance contacts\nD. during the Upper Paleolithic; the importance of higher-quality, imported materials was more widely appreciated\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "115": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: According to the author, what did the Olmec have in common that bound them together in different territories?\nA. underlying religious beliefs, as seen in Olmec art and iconography\nB. agricultural surpluses that led to the creation of economic inequalities\nC. they spoke the same language and were related by kinship and marriage\nD. a system of trade and exchange, as seen in tokens used as a form of money\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "116": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Unlike Mesopotamian writings, the records left by the Maya are principally concerned with:\nA. political and military history.\nB. philosophy and religion.\nC. trade and economics.\nD. astronomy and mathematics.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "117": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Based on archaeological evidence, which of the following is accurate regarding civilization in general?\nA. The occurrence of warfare decreases as people increasingly invest time in the production of art.\nB. The occurrence of warfare is uncommon and occurs only with the concentration of wealth.\nC. The concentration of wealth is a common feature.\nD. The concentration of wealth is uncommon and occurs only occasionally.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "118": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Based on the morphology of fossil hominids dating from about 1.8 million until about 400,000 years ago, researchers argue that:\nA. there were two or more related but geographically separate hominid species during this period that evolved from earlier African hominids\nB. hominids dating from this time can be grouped into different species in Africa, Asia, and Europe.\nC. all of the hominids that evolved from Homo habilis and predate Homo sapiens belong in a single, geographically widespread but morphologically diverse species known as Homo erectus.\nD. all of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "119": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The evolutionary histories of different kinds of organisms and their relationships to each other are illustrated in a:\nA. diastema.\nB. phylogeny.\nC. mosaic.\nD. genera,\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "120": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: In comparison to an Oldowan tool, a hand axe ____________.\nA. is made out of stone, wood, or bone.\nB. needs constant cleaning and maintenance.\nC. requires metal and a source of heat to be forged\nD. requires many more flakes to be removed.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "121": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Homo erectus is most closely associated with which tool-making tradition?\nA. Occipital\nB. Acheulean\nC. Oldowan\nD. Stadial\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "122": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Opportunistic foraging involves:\nA. careful planning and scheduling.\nB. reliance on steady sources of food such as shellfish.\nC. increased use of imported or \"exotic\" materials\nD. little planning\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "123": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: In rare cases, the residue of blood on ancient stone tools can:\nA. prevent archaeologists from doing their research, since only forensic anthropologists can study bloody tools.\nB. be used to identify the species of animals killed and likely eaten.\nC. be used to predict the types of weapons that were not used for hunting.\nD. none of the above; blood does not preserve and has never been identified on stone tools.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "124": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: How were the royal cemeteries of the Moche discovered?\nA. Thieves raiding the tombs were caught by the police.\nB. A forest fire burned away the dense vegetation that concealed the cemetery.\nC. Archaeologists discovered an exact replica of the city in the map room.\nD. A flock of sheep that had been living there fell into a tomb.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "125": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The ancient city of Cahokia contained more than _______ and a population of around _______.\nA. 120 earthen mounds; 10,000\nB. 60 burial mounds; 2,000\nC. 50 religious monuments; 5,000\nD. 200 pyramidal mounds; 200,000\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "126": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Based on the analysis of oxygen isotope ratios in the shells of gastropods found in the sediments of an ancient lake, what happened to civilization in the Indus Valley?\nA. It became increasingly complex due to increased rainfall and longer growing seasons.\nB. It eventually collapsed due to climate change and drought.\nC. It collapsed due to increased monsoons and a series of catastrophic floods.\nD. It evolved into a series of city states along rivers and lake shores.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "127": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Clovis points are NOT found in:\nA. Alaska.\nB. Mexico.\nC. Canada.\nD. the continental United States.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "128": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which culture lived a primarily sedentary lifestyle in the Southwest?\nA. Adena\nB. Mogollon\nC. Kwakiutl\nD. Mississippian\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "129": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Lewis Henry Morgan conceived of progress in human culture according to the stages of:\nA. Savagery, Barbarism, and Civilization.\nB. Savagery, Civilization, and Collapse.\nC. Barbarism, Primitivism, and Civilization.\nD. Stone Age, Bronze Age, and Iron Age.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "130": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: By 1900 B.P., the central elements of Mayan culture were in place. These did NOT include:\nA. stratified societies ruled by kings.\nB. ritual ball games and a reverence for precious jade.\nC. a sophisticated bronze producing industry.\nD. a hieroglyphic written language and calendar.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "131": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Machu Picchu was built in the mountains as a:\nA. defensive stronghold.\nB. shrine to the Inca rain god.\nC. relaxing getaway for elites.\nD. astronomical observatory.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "132": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What evidence is there that Neandertals were hunters?\nA. Neandertal canine teeth showed that they relied only on meat for their subsistence.\nB. Animal bones were found showing stone tool cut marks and no animal teeth marks.\nC. Bones of large animals, such as elephant and horse, were found in caves.\nD. Both A and C.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "133": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Why do we know more about Neandertals than other extinct species of premodern humans?\nA. Neandertals spread throughout the world and their remains are found on every continent.\nB. Neandertals used caves in Europe where their remains were preserved.\nC. Neandertal populations were larger and more violent than any other premodern humans, whom they drove to extinction.\nD. Neandertals left crude but intelligible written records.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "134": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The attitude of many ancient elites toward the consumption of resources seems to have been:\nA. \u201ca penny saved is a penny earned.\"\nB. \"if you've got it, flaunt it.\"\nC. \"look before you leap.\"\nD. \"the last shall be first and the first shall be last.\"\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "135": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: In 1797, John Frere made a discovery that he described as:\nA. animal remains scattered on the surface of the ground.\nB. the earliest written documents.\nC. primitive stone tools excavated at great depth.\nD. human skulls with ape-like features.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "136": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following first described human culture according to a predictable chronology of a Stone Age, Bronze Age, and Iron Age?\nA. uniformitarianism\nB. multilinear evolution\nC. three-age system\nD. . triple-age catastrophism\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "137": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Tiwanaku, with its capital at Titicaca, was one of the ___________ kingdoms of the ancient world.\nA. richest\nB. strongest\nC. largest\nD. highest\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "138": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Monte Alban is located in the ________ and was built by the _________.\nA. Valley of Mexico; Aztec.\nB. Valley of Oaxaca; Zapotec.\nC. Amazon floodplain; Olmec.\nD. Yucat\u00e1n Peninsula; Maya.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "139": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: In Holocene Africa, the __________ was replaced by the ____________.\nA. microlith blade; backed blade\nB. Iberomaurusian culture; Capsian culture\nC. Capsian culture; Iberomaurusian culture\nD. Maglemosian; Natufian\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "140": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What was NOT a deciding factor in the development of Mesopotamian civilization?\nA. the need to concentrate population away from arable lands near rivers\nB. the need to construct monumental works, such as step-pyramids and temples\nC. the need to develop a complex social system that would allow the construction of canals\nD. the use of irrigation to produce enough food\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "141": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following crops was NOT an important component of Hopewell subsistence?\nA. sunflower\nB. squash\nC. maize\nD. knotweed\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "142": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Unequivocal evidence for art as symbolic expression dates from as early as:\nA. 95,000 BP, at Dolni Vestonice.\nB. 77,000 BP, at Blombos Cave.\nC. 50,000 BP, at Des Moines, IA.\nD. 36,000 BP, at Wharton Hill.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "143": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What was the Chinese technique of stamped or pounded earth that was used in construction of house walls and defensive structures?\nA. Hang-t'u\nB. Scapulimancy\nC. Lung-shan\nD. Qin manufacture\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "144": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The Lake Forest Archaic tradition relied on ____________ resources; the Maritime Archaic hunted ___________ creatures.\nA. pelagic; midden\nB. lacustrine; pelagic\nC. midden; littoral\nD. littoral; lacustrine\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "145": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Genetic evidence indicates that the modern Inuit are the descendants of which people?\nA. Paleo-Eskimos\nB. Dorset\nC. Thule\nD. Clovis\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "146": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which tool technology is associated with anatomically modern Homo sapiens?\nA. Aurignacian\nB. Acheulean\nC. Mousterian\nD. both b and c\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "147": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What is the difference between an absolute date and a relative date?\nA. An absolute date is known by everyone, while a relative date ranges from 30 to 50 years.\nB. A relative date is derived from radiometric dating techniques, while an absolute date is only associated with written documents.\nC. A relative date refers to a year or a range of years, while an absolute date indicates a chronological order.\nD. An absolute date refers to a year or a range of years, while a relative date indicates a chronological order.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "148": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Upon exploring Rhode Island, the Italian navigator Giovanni de Verrazzano noted that the native people resembled:\nA. Italians.\nB. Asians.\nC. Australians.\nD. Melanesians.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "149": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Like the urban centers of the Indus Valley, Teotihuac\u00e1n appears to have been:\nA. equipped with sophisticated plumbing and cooling systems.\nB. subject to constant outbreaks of plague and disease.\nC. surrounded by an enormous agricultural hinterland.\nD. planned and built on a grid pattern.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "150": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The population of the Valley of Mexico was supported by means of:\nA. long-distance trade, salt mining, and stone masonry.\nB. hunting and gathering, fishing, and cultivation of root crops.\nC. advanced medical, artisanal, and metallurgical technologies.\nD. agricultural irrigation, terraces, and artificially raised fields called chinampas.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "151": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which subfield of anthropology has been described as studying \"other people's garbage\"?\nA. primatology\nB. archaeology\nC. paleoanthropology\nD. linguistics\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "152": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What did the Moche build at the heart of their urban center?\nA. a vast complex of temples and artisan workshops\nB. an enormous walled-in precinct of elite residences\nC. the Pyramid of the Sun\nD. the Temple of the Feathered Serpent\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "153": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Mayan city-states were NOT:\nA. ruled by autonomous dynasties.\nB. similar in their political organization to Egyptian communities.\nC. supported by large agricultural hinterlands.\nD. much smaller in population than Mohanjo-daro.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "154": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The argument in favor of hominids making and using stone tools by at least 3.3 million years ago is supported by:\nA. cut marks on animal bones that were made by butchering with pieces of stone.\nB. the anatomy of Australopithecus africanus hands and analogies with studies of living non-human primates that demonstrate tool use.\nC. simple stone cores, anvil stones, and flakes found at the Lomekwi 3 site in West Turkana, Kenya.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "155": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What do the amounts of rainfall in the Maya homeland, as reflected in variations in oxygen isotopes in a stalagmite in Yok Balum Cave in Belize, correspond to?\nA. increased rainfall and severe flooding that led to the collapse of Maya ceremonial centers\nB. severe drought and a decline in construction at Maya ceremonial centers\nC. increased rainfall and increased storage of surplus food from agriculture\nD. increased warfare and the abandonment of the entire region\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "156": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: In the author's two-hour movie representing the history of the universe, when do the earliest members of the human family appear?\nA. at the beginning of the film\nB. about half way through the film\nC. 90 minutes into the film\nD. during the final 3 seconds of the film\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "157": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which best describes Stonehenge?\nA. Megalithic monument\nB. Halafian monumental center\nC. Chavin ritual monument\nD. Mesopotamian monument\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "158": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which commonly used name for a culture was borrowed from another Native American language and literally means \u201cancient enemies\u201d?\nA. Kwakiutl\nB. Hohokam\nC. Anasazi\nD. Mogollon\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "159": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Paleogenetic and paleoecological evidence points to dates of occupation for Australia as far back as:\nA. 80,000 B.P.\nB. 70,000 B.P.\nC. 60,000 B.P.\nD. 40,000 B.P.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "160": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The Egyptian system of hieroglyphics:\nA. did not use pictographs\nB. appears to have developed suddenly\nC. was the earliest form of writing in the world\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "161": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What do we know about the people who built Stonehenge based on the analysis of animal teeth from a nearby village?\nA. They raised livestock at the site, including cattle, sheep, and goats.\nB. They brought animals to the site from outside of the region.\nC. They had no domesticated animals but hunted wild animals for meat.\nD. They hunted antelope, gazelle, and bear.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "162": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Evidence from the modern human genome suggests that genes inherited from Neandertals:\nA. are universally beneficial to modern humans.\nB. control the metabolism of fat in modern Europeans.\nC. are associated with human diseases such as Lupus.\nD. both b and c.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "163": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The Nazca geoglyphs extend over miles and represent:\nA. entrances to subterranean tombs of the elite.\nB. vast architectural designs for cities and towns.\nC. ceremonial pathways and effigies of spirits and gods.\nD. landing strips for spaceships.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "164": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The fact that early excavators of Teotihuac\u00e1n mistook ordinary housing compounds for palaces suggests:\nA. the general standard of living was high.\nB. commoners took over the residences of the elite.\nC. the city was a democracy, ruled by common farmers and artisans.\nD. the society was mostly egalitarian, with almost no social stratification.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "165": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Why is the timing of monumental construction at Ceibal significant?\nA. It contradicts the hypothesis that the monumental construction of the Maya was largely inspired by the Olmec.\nB. It confirms that the residents of Ceibal were inspired by the Olmec to build large platforms.\nC. It contradicts the hypothesis that the development of monumental construction among the Maya was an internal process.\nD. It confirms that the Olmec, who built most of the Maya monuments, were inspired by the Egyptians.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "166": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The origins of Chinese civilization can be traced to:\nA. the site of An-yang near the Huang ho River.\nB. chiefdoms and states in numerous regions throughout China.\nC. the beginning of the Qin Dynasty.\nD. external influences originating from the Indus Valley.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "167": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: How long ago did human groups begin actively controlling their food sources by artificially producing conditions under which these sources would grow?\nA. within the past 6,000 years\nB. within the past 12,000 years\nC. within the past 18,000 years\nD. within the past 28,000 years\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "168": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: For which of the following is there evidence for Neandertals?\nA. Neandertals adorned themselves with pendants and necklaces.\nB. Neandertals buried their dead.\nC. Neandertals produced and used complex stone tools.\nD. All of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "169": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What occupation date do most archaeologists agree on for Australia?\nA. no earlier than 80,000 years ago\nB. soon after 60,000 years ago\nC. soon after 40,000 years ago\nD. no earlier than 20,000 years ago\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "170": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following dating techniques are based on the measurement of the amount of energy trapped in materials that have been heated at archaeological sites?\nA. argon/argon and potassium argon dating\nB. archaeomagnetic and radiocarbon dating\nC. luminescence dating and optically stimulated luminescence\nD. X-ray fluorescence and paleomagnetic dating\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "171": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which tool technology is associated with Neandertals?\nA. Aurignacian\nB. Acheulean\nC. Mousterian\nD. both b and c\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "172": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Conflict models emphasize the importance of __________ tensions in the development of state societies, while integration models emphasize ____________ tensions.\nA. external; internal\nB. military; religious\nC. internal; external\nD. extrafamilial; interfamilial\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "173": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Homo erectus differed from Homo habilis in which way?\nA. Erectus fossils are found only in Africa.\nB. Erectus possessed a smaller brain.\nC. Erectus possessed a larger brain.\nD. Erectus was a relatively short-lived species.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "174": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: There is general consensus among paleoanthropologists that anatomically modern humans:\nA. migrated out of Africa into western Europe between 150,000 and 200,000 years ago and then spread into Asia, Australia, and the Americas.\nB. evolved in Asia between 100,000 and 50,000 years ago, and then migrated into Africa, Europe, Australia, and the Americas.\nC. evolved independently and simultaneously in Africa, Europe, and Asia and then migrated into Australia and the Americas.\nD. migrated out of Africa into Southwest Asia between 150,000 and 100,000 years ago and then spread into Europe, Asia, Australia, and the Americas.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "175": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Homo erectus was:\nA. a stable, long-lived species.\nB. an unsuccessful, short-lived species.\nC. the first hominid to make and use stone tools.\nD. the first hominid to stand \u201cerect\u201d and walk upright.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "176": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: About 2.6 to 1.9 million years ago the planet became much _____ and entered the ______:\nA. colder; Pleistocene epoch.\nB. hotter; Miocene epoch.\nC. colder; Pliocene epoch.\nD. hotter; Pleistocene epoch.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "177": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Mayan art and iconography prominently feature depictions of:\nA. infants and children.\nB. stars and comets.\nC. love and sex.\nD. mutilation and violence.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "178": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Taphonomy is:\nA. a systematic classification based on similarities and differences.\nB. a dating technique based on the decay of a radioactive isotope of bone.\nC. a study of the spatial relationships among artifacts, ecofacts, and features.\nD. the study of how materials ended up in a particular place.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "179": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The large, extinct herbivores of the Pleistocene era are referred to as:\nA. megaliths.\nB. megafauna.\nC. megaflora.\nD. megatrons.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "180": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Recovery of more than 6,500 bones and bone fragments from 28 individuals of a single hominid species at the Cave of the Bones in Spain provides:\nA. little evidence of diversity, since each individual represents a different species.\nB. unusually good evidence to examine diversity within a hominid species.\nC. evidence of interbreeding between Homo neanderthalensis and Homo erectus.\nD. relatively little evidence to examine diversity within the species.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "181": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Charles Darwin discovered that plants and animals had evolved through a process known as ____________. Early archaeologists discovered that ______________________.\nA. scientific creationism; human culture evolved differently than plants and animals\nB. unilineal evolution; civilizations evolved more quickly than plants\nC. natural selection; human culture did not evolve or change much over time\nD. natural selection; human culture had evolved over an enormous period of time\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "182": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The construction of large-scale features, such as mounds and shell middens, is often taken by archaeologists as evidence of:\nA. the practice of slavery.\nB. social and political complexity.\nC. a Mesolithic tradition.\nD. the shift from Paleolithic to Neolithic.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "183": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The Shang Dynasty laid the foundation for a coherent development of Chinese civilization that lasted well into the:\nA. 10th century.\nB. 13th century.\nC. 17th century.\nD. 20th century.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "184": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What do Homo sapiens and Australopithecus afarensis have in common?\nA. a mode of locomotion\nB. a reliance on brachiation\nC. a lack of sexual dimorphism\nD. all the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "185": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What effect did the late Pleistocene to early Holocene climate change have on human populations?\nA. It forced populations to move toward the equator.\nB. It tested the ability of human beings to adapt.\nC. It forced humans to wear clothing.\nD. It had no effect at all.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "186": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Recent discoveries of Homo naledi fossils in the Dinaledi Chamber of the Rising Star cave system in South Africa suggest a mixture of post-cranial morphologies or mosaic of hominid traits. One of the reasons this new species is controversial is that:\nA. there are already two well-known species of Homo and it is unlikely there were more than two species at one time.\nB. paleoanthropologists did not make the discovery and it was found in an inaccessible cave in South Africa.\nC. there is, as yet, no firm date that can be applied to the specimens.\nD. the Homo naledi fossils have been shown to pre-date the earliest known hominid fossils by millions of years.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "187": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: A genetic study comparing the bones of a 7,000-year-old skeleton found in Germany, eight human skeletons dating to 8,000 years ago in Luxembourg, and more than 2,300 living Europeans found that the modern European genome included contributions from:\nA. the earliest anatomically modern Homo sapiens who lived in Europe 45,000 years ago.\nB. people genetically traceable to the Middle East who moved into Europe about 9,000 years ago.\nC. people who moved there from west Asia less than 5,000 years ago.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "188": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is archaeological evidence of social stratification and inequality?\nA. Burials without exotic grave goods also contain bones indicating that they engaged in less strenuous labor.\nB. Burials with exotic grave goods also contain bones indicating that they engaged in less strenuous labor.\nC. Burials all contain equal amounts of exotic grave goods, but some are more impressive than others.\nD. Burials contain bones indicating that people were segregated based on gender, stature, and personal capabilities, including artistic abilities.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "189": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Periods much colder than the present, which were characterized by widespread ice and snow cover, are known as:\nA. altricials.\nB. glacials.\nC. interstadials.\nD. interglacials.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "190": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Up to 50,000 years ago, what was the relationship between anatomically modern humans and us?\nA. They looked and thought like us.\nB. They looked like us but did not think like us.\nC. They thought like us but did not look like us.\nD. They did not look or think like us.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "191": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The Omo I cranium discovered along the Omo River in southern Ethiopia demonstrates:\nA. the evolution of anatomically modern humans from premodern species about 200,000 years ago in Africa.\nB. the simultaneous evolution of anatomically modern humans about 100,000 years ago in Africa and Europe.\nC. the development of a larger brain prior to the first evidence for tool making.\nD. both b and c.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "192": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Researchers who study humans by residing in particular societies and observing the behaviors of the people are known as:\nA. archaeologists.\nB. ethnographers.\nC. linguists.\nD. paleoanthropologists.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "193": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What culture used hide boats and spread across the Arctic, from Alaska to Greenland beginning about 700 years ago, in a third wave of migration from the Old World into the New?\nA. Paleo-Eskimos\nB. Dorset\nC. Thule\nD. Clovis\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "194": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What Mesopotamian institution was set apart and had powers before the advent of social complexity?\nA. the military\nB. the state\nC. the temple\nD. the hunting association\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "195": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What was concluded in a recent study comparing the genomes of modern people with ancient skeletal remains in North and South America?\nA. Native Americans in North America and South America genetically diverged from each other and their ancestors in the far north by about 30,000 years ago.\nB. All Native Americans, both ancient and modern, are derived from a single migration of Austral-Melanesians into the Americas by about 13,000 years ago.\nC. All Native Americans, both ancient and modern, are derived from a single migration of the Inuit, who arrived in the Americas by about 13,000 years ago.\nD. The separation between native Siberians and the earliest Native Americans occurred sometime between 20,000 and 23,000 years ago.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "196": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Based on the strontium isotope ratios in the teeth of people buried at Cop\u00e1n, who were the rulers?\nA. local elite who rose to power based on their popularity and knowledge of politics\nB. foreigners from different regions across much of the Maya territory\nC. an elite class of astronomer-priests who ate mostly vegetables and fish\nD. Egyptian emigrants who arrived on ships and taught the Maya how to build pyramids\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "197": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What does the lid of the sarcophagus of Pacal the Great, ruler of Palenque, depict?\nA. the slain enemies of the king, with a series of hieroglyphs representing all of the great cities and civilizations of the world\nB. the dead king suspended between the Maya earth monster and the Quetzal bird which symbolizes the Maya heaven\nC. the Aztec king ascending to heaven on a chariot made of gold\nD. an ancient alien looking through a telescope and piloting a spaceship\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "198": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The commoners of the rural Aztec villages of Capilco and Cuexcomate:\nA. were ruled by an iron fist by the king, who had armies stationed there.\nB. were forced to send half of all maize they grew to the king as tribute and lived in absolute poverty.\nC. were mostly left alone and did fairly well for themselves.\nD. had no protection from city states that invaded from the north.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "199": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The skulls of the earliest migrants to the New World do not match those of modern Native Americans. This suggests that:\nA. modern Native Americans are probably not descended from these early migrants.\nB. the \"skull\" haplogroup was not passed on.\nC. modern Native Americans have very different DNA.\nD. craniometrics is an unreliable method of tracking populations.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "200": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: A place where people lived and/or worked and where the physical evidence of their existence can be recovered is an archaeological:\nA. artifact.\nB. sample.\nC. site.\nD. culture.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "201": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The practice of _________ allowed the Inca to greatly increase the amount of arable land.\nA. irrigating\nB. terracing\nC. slashing and burning\nD. fertilizing\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "202": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: In Randall White's view, what do items of personal adornment imply during the Upper Paleolithic period?\nA. a willingness to travel great distances\nB. a hobby done around the campfire at night\nC. increasing awareness and importance of individual identity\nD. greater intelligence and willingness to cooperate\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "203": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The revolution in food production that accelerated worldwide population growth is called the ________; it occurred _____ years ago.\nA. Upper Paleolithic Transition; after 35,000 years ago\nB. Mesolithic Demographic Transition; beginning 18,000 years ago\nC. Neolithic Demographic Transition; beginning 11,000 years ago\nD. Neolithic Revolution; after 5,000 years ago\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "204": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Trace element analysis can be used to determine:\nA. the morphology and age of an artifact or ecofact.\nB. the geographic source of the raw material from which an artifact was made.\nC. the wear patterns on tools.\nD. the associations and context of an artifact, ecofact, or feature.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "205": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The record-keeping system used by the Inca in which a series of knotted strings were used as mnemonic devices is called:\nA. cuneiform.\nB. rachis.\nC. mit'a.\nD. khipu.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "206": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The Minoans inhabited the _________ island of Crete.\nA. Mediterranean\nB. Egyptian\nC. Mesopotamian\nD. Indonesian\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "207": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following describes a key change in hominids beginning at least as early as Homo erectus that is probably related to increasingly larger brain size?\nA. microcephaly\nB. neoteny\nC. prognathism\nD. supraorbital cortex\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "208": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Inca architecture is noted for its:\nA. incorporation of wood, earth, and stone.\nB. unprecedented size and sophistication.\nC. precise jigsaw-like stone masonry.\nD. use of the vaulted arch.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "209": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What was found in some of the burials at the principal Liangzhu site in eastern China that represents elite status?\nA. finely crafted large jade disks called bi\nB. thousands of shell discs called \u201cbi\u201d that were used as a source of money\nC. copper earspools that were worn by the deceased\nD. gold headdresses that were worn by the deceased\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "210": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Most caves containing paintings are:\nA. expensive to visit.\nB. buried deep underground.\nC. found in France.\nD. closed to visitors because of light and moisture damage.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "211": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is evidence for interbreeding between anatomically modern humans and Neandertals?\nA. All modern humans share a major percentage of their genome with Neandertals.\nB. All Neandertals share a major percentage of their genome with modern humans.\nC. A small but significant percentage of the genome of modern humans who trace their ancestry to Europe and Asia originated with Neandertals.\nD. A small but significant percentage of the genome of Neandertals is found in anatomically modern humans who trace their ancestry to Africa.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "212": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Upper Egypt is ________ of Lower Egypt.\nA. north\nB. south\nC. east\nD. west\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "213": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The death of Qin Dynasty emperor Ying Zheng was marked by what elaborate memorial?\nA. An enormous mortuary temple filled with gold and gems.\nB. An enormous pyramid constructed out of millions of huge limestone blocks.\nC. The collective suicide of 60 members of the royal family.\nD. An 8,000-member life-sized terra cotta army.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "214": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The Mayan king Yax Pahsaj symbolized his royalty on a stele that depicts:\nA. an eagle, a serpent, and a jaguar, all of which were important royal animals.\nB. a series of decisive military conquests against a rival king.\nC. a lightning bolt descending from heaven and marking him as the leader.\nD. the founder of the dynasty \u201cpassing him the torch.\u201d\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "215": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Why did the spear-thrower represent a useful innovation and to when does it date?\nA. It made warfare so deadly that it became obsolete beginning in the Middle Paleolithic and Middle Stone Age.\nB. It allowed artistic expression by hunters beginning in the Middle Paleolithic and Middle Stone Age.\nC. It launched larger spears more quickly and more frequently beginning in the Upper Paleolithic and Late Stone Age.\nD. It launched projectiles with greater force and accuracy beginning in the Upper Paleolithic and Late Stone Age.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "216": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: From which of the following primates do humans descend?\nA. chimpanzees\nB. gorillas\nC. orangutans\nD. none of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "217": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Excavation of Yang-shao sites in China indicates which domesticated crops?\nA. beans, millet, and maize.\nB. wheat, rice, and peas.\nC. sorghum, emmer, and legumes.\nD. millet, cabbage, and rice.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "218": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: A subsistence strategy and settlement pattern based on seasonality and planned acquisition of resources is known as:\nA. opportunistic foraging.\nB. logistical collecting.\nC. symbolic foraging.\nD. mobiliary collecting.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "219": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Analysis of the teeth of a hominid species discovered in Malapa Cave in South Africa, dating just after 2 million years ago, indicates a diet that consisted primarily of:\nA. fruits, leaves, and C3 plants.\nB. meat derived from carnivorous mammals.\nC. meat, fish, and some plants.\nD. C4 grasses that may have included wild wheat.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "220": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The appropriateness and usefulness of pedestrian survey depends on:\nA. the presence of primary and secondary refuse.\nB. naturally exposed layers in which to search for artifacts, ecofacts, or bone.\nC. associations that can be established between artifacts, ecofacts, and bone.\nD. the existence of a cache or collection of artifacts.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "221": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Since the end of the Pleistocene, humans have increasingly been responsible for the extinction of animal species. If allowed to continue, what are the likely consequences of these extinctions?\nA. It will have negative impacts on agriculture.\nB. It will have negative impacts on water quality.\nC. It will have negative impacts on human health.\nD. All of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "222": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: what is one of the important differences between the middle and upper paleolithic?\nA. decreased use of imported raw materials and increased use of whatever was locally available\nB. smaller sites, indicating a change from large roving bands of hunters to the earliest family groups and households\nC. a profusion of stone tool traditions, indicating a change from temporal and geographic homogeneity to greater diversity and variability\nD. a gradual decline in the use of stone hand axes and tools, indicating a change to more flexible and workable materials such as wood and bone\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "223": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Where did the world's first civilization develop?\nA. Eastern China\nB. Crete\nC. Egypt\nD. Mesopotamia\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "224": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: There is evidence that premodern Homo sapiens existed:\nA. 800,000 to 200,000 years ago.\nB. 600,000 to 30,000 years ago.\nC. 400,000 to 10,000 years ago.\nD. 100,000 to 10,000 years ago.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "225": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: In primates, the location of which of the following determines if it is a quadruped or biped?\nA. the feet\nB. the skull\nC. the foramen magnum\nD. the ulna\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "226": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Homo habilis emerged around ________ years ago; Homo erectus followed at around _________ years ago.\nA. 4.5 million; 3.2 million\nB. 3.6 million; 2.8 million\nC. 2.5 million; 1.8 million\nD. 1.4 million; 800,000\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "227": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: In what way were Neandertals physically different from modern Homo sapiens?\nA. Neandertals had wide, squat torsos and short extremities.\nB. Neandertals had smaller brains and larger noses.\nC. Neandertal skeletons have more bones that modern Homo sapiens.\nD. Both a and b.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "228": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: After 400,000 years ago, hominid evolution is characterized by:\nA. bipedalism and relatively stable brain size.\nB. a slight decrease in average brain size.\nC. a rapid increase in brain size.\nD. slowly increased brain size and the first stone tools.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "229": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which perspective asserts that the Earth and all living organisms are less than six thousand years old and have changed little, if at all, since then?\nA. uniformitarian\nB. paleoanthropological\nC. creationist\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "230": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Archaeological evidence indicates that cattle were first domesticated where and how long ago?\nA. in western Europe, about 3,500 years ago\nB. in sub-Saharan Africa, about 8,500 years ago\nC. in North America, about 9,500 years ago\nD. in the Middle East, about 10,500 years ago\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "231": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The spread of a shared religious iconography in ancient civilizations may be an indication of what?\nA. decreased violence and a time of increased peace\nB. cultural and perhaps political unification\nC. increased trade and the use of some form of money\nD. the beginning of organized religion and ending of human sacrifice\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "232": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What made it possible to recover the nearly intact finely-made wooden spears from a 300,000-year-old site at Sch\u00f6ningen, Germany?\nA. The soil was highly acidic and aerobic, which offers excellent preservation for organic artifacts.\nB. The soil was waterlogged and provided conditions that allowed for the preservation of organic material.\nC. The wooden spears were placed in a cache of artifacts in plain sight, where archaeologists would eventually find them.\nD. The wooden spears were covered with dried blood mixed with charcoal and mud, which allows for the preservation of wood.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "233": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which continent features the earliest evidence of etching into a rock face?\nA. Europe\nB. Africa\nC. Asia\nD. Australia\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "234": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following are dating techniques based on the half-life of a radioactive isotope and are used to date the age of rock?\nA. argon/argon and potassium argon dating\nB. archaeomagnetic and radiocarbon dating\nC. luminescence dating and optically stimulated luminescence\nD. X-ray fluorescence and paleomagnetic dating\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "235": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Australian and America megafauna were probably wiped out by:\nA. humans.\nB. environmental changes.\nC. both humans and environmental changes.\nD. humans who carried diseases over the land bridge.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "236": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Archaeological and genetic evidence indicates that the process of domestication involving the separation of wolves from dogs occurred about:\nA. 65,000 to no later than 48,000 years ago\nB. 45,000 to no later than 38,000 years ago\nC. 35,000 to no later than 18,000 years ago\nD. 15,000 to no later than 10,000 years ago\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "237": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The first hominids could be described as:\nA. quadrupedal knappers.\nB. quadrupedal pongids.\nC. bipedal apes.\nD. bipedal quadrupeds.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "238": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The undersea chasm between New Guinea/Australia and Java/Borneo is called the __________.\nA. Wallace Trench\nB. Sahul Passage\nC. Beringia Abyss\nD. Bering Strait\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "239": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Evidence has been found at the Asikli H\u00f6y\u00fck site in Central Turkey for the domestication of which species within a few centuries after 10,400 years ago?\nA. sheep\nB. cattle\nC. dogs\nD. chickens\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "240": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is NOT true of the main Indus Valley cities?\nA. A citadel was built on the western margin of each city.\nB. The \"upper cities\" were encompassed by monumental walls.\nC. The blocks of residences were added haphazardly as needed.\nD. The bricks used in the houses were a consistent size and shape.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "241": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The Younger Dryas was:\nA. a warming period at the end of the Pleistocene.\nB. a period of glacial expansion between 12,900 and 11,600 years ago.\nC. a period of glacial retreat between 10,900 and 9,000 years ago.\nD. a period of environmental change that caused humans to temporarily abandon much of northern Europe.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "242": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following was described as \u201cthe slow agency of existing causes\u201d?\nA. natural selection\nB. catastrophism\nC. uniformitarianism\nD. unilineal evolution\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "243": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Virtually all of the crops important in the European Neolithic:\nA. were domesticated at the same time at communal farms.\nB. were domesticated before groups became sedentary.\nC. were independently domesticated in Europe\nD. were imported from other regions.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "244": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is NOT an innovation of the Mesolithic?\nA. canoes\nB. domestication of animals\nC. European use of bow and arrow\nD. crop irrigation systems\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "245": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Pizarro was able to subdue the entire Inca empire largely because:\nA. his horses and guns frightened the Incas into submission.\nB. he was such a brilliant military strategist.\nC. the empire had never won the allegiance of the peoples it had conquered.\nD. he arrived with a superior force of more than 80,000 soldiers.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "246": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The transition from food gathering to a total reliance on agriculture:\nA. happened everywhere except in South America.\nB. took thousands of years.\nC. took hundreds of thousands of years.\nD. always required careful planning.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "247": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Between 1.4 million and 400,000 years ago, hand axe technology:\nA. steadily improved.\nB. steadily worsened.\nC. changed only slightly.\nD. evolved into a more sophisticated technology.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "248": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Artifacts must be carefully exposed and initially left in place in order to record:\nA. the composition of the artifacts and surrounding soil.\nB. spatial contexts and associations.\nC. the possible presence of faunal assemblages or bone.\nD. the presence, morphology, and species of surrounding pollen.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "249": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: During which time frame is there evidence for anatomically modern Homo sapiens?\nA. 800,000 to 10,000 years ago\nB. 800,000 years ago to present\nC. 400,000 years ago to present\nD. 200,000 to present\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "250": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Specialization of labor:\nA. can only exist in a society which produces a food surplus.\nB. allows for sophisticated craft work (e.g., weaving, metalworking, pottery manufacturing).\nC. is a characteristic of civilization.\nD. all the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "251": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The Maya derived their writing and mathematics from the:\nA. Mesopotamians.\nB. Chavin.\nC. Chinese.\nD. Olmec.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "252": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which foods are included in the triad of plants that provided the subsistence base for indigenous New World civilizations?\nA. maize, beans, and squash\nB. maize, lentils, and wheat\nC. rice, beans, and squash\nD. yams, maize, and millet\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "253": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What is the name of the largest structure at Teotihuac\u00e1n and around how many platform monuments and pyramids were built there?\nA. Pyramid of the Moon; 250\nB. Temple of the Feathered Serpent; 400\nC. Pyramid of the Sun; 600\nD. Temple of the Inscriptions; 700\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "254": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: When did the Inca begin their military expansion across South America?\nA. 200 A.D.\nB. 900 A.D.\nC. 1450 A.D.\nD. 1650 A.D.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "255": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: During the Pleistocene era, the islands of Java, Sumatra, Bali, and Borneo formed ___________. The landmass connecting Australia, New Guinea, and Tasmania was called ___________.\nA. Sunda; Wallacea\nB. Wallacea; Beringia\nC. Beringia; Sahul\nD. Sunda; Sahul\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "256": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The reason that archaeologists long suggested that the walls of Great Zimbabwe could not have been built by an indigenous sub-Saharan people was that:\nA. the architecture was clearly built by Egyptians.\nB. historical records show that it was constructed by early Dutch settlers.\nC. symbolic motifs incorporated into the walls indicate that they were built by Indian traders.\nD. they thought sub-Saharan Africans were incapable of such achievements.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "257": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What was a unifying element to the Chavin culture?\nA. artistic styles incorporating the same creatures\nB. woven textiles displaying common motifs\nC. worked metal objects\nD. all the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "258": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following indicates a primary context?\nA. a landfill where refuse from an entire community has accumulated\nB. artifacts, ecofacts, and bone exposed on the ground surface by erosion\nC. the existence of a cache or collection of artifacts found where they were left\nD. all of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "259": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is NOT one of Joseph Tainter's proposed causes for the collapse of ancient civilizations?\nA. resource depletion\nB. economic decline\nC. elite mismanagement\nD. epidemic disease\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "260": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The archaeological remains of foundations at Pilfershire were found:\nA. by taking a walk in the woods.\nB. by carefully excavating an entire region.\nC. using satellite imaging.\nD. All of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "261": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The influence of the Tiwanaku was eclipsed by the _________ culture, to the north and west.\nA. Moche\nB. Inca\nC. Wari\nD. Aztec\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "262": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: How do archaeologists characterize the peoples who built monumental structures at G\u00f6bekli Tepe, Watson Brake, and Poverty Point?\nA. agriculturalists\nB. affluent foragers\nC. archaic states\nD. primitive civilizations\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "263": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What is believed to be the reason for the development of a complex society at Caral in South America?\nA. the need to collect large quantities of shellfish\nB. the construction of canals for irrigation\nC. the building of the Piramide Mayor\nD. the excavating work to produce the sunken plazas\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "264": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The fossil evidence indicates that by 1.8 million years ago, a new hominid known as _______ had evolved.\nA. Homo habilis\nB. Homo erectus\nC. Homo sapiens\nD. Australopithecus afarensis\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "265": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The __________ tradition features finely made, leaf-shaped stone blades. The __________ tradition, which followed behind it, emphasizes bone and antler work.\nA. Solutrean; Magdelanian\nB. Gravettian; Solutrean\nC. Magdelanian; Aurignacian\nD. Aurignacian; Gravettian.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "266": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The fossils originally known as Sinanthropus pekinensis or \u201cPeking Man\u201d are now classified as:\nA. Homo floresiensis.\nB. Homo sapiens.\nC. Homo erectus.\nD. Homo habilis.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "267": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: How does anthropology differ from other social sciences such as economics and sociology?\nA. Anthropology is holistic and integrative in its approach.\nB. Anthropology is less holistic and more theoretical in its approach.\nC. Anthropology tends to focus on specific topics in history.\nD. Anthropology is more narrowly focused than the other social sciences.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "268": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: In periods of great difficulty and stress, it appears that the Minoans __________ in order to appease the gods.\nA. sacrificed adults and occasionally children\nB. burnt their own houses to the ground\nC. fasted for long periods\nD. abstained from sexual relations\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "269": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is true about the first apes?\nA. There were a far greater number of genera than today.\nB. They flourished in a broader area of the world than today's apes.\nC. Some ancient species were larger than today's apes.\nD. All of the above.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "270": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: For 99% of human history, people have depended solely on _________ for their subsistence.\nA. collecting plants\nB. fishing\nC. agriculture\nD. foraging\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "271": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The possibility that Homo erectus possessed an aesthetic sense and may have created \u201cart\u201d is suggested by:\nA. the size of their brains, with a mean brain size slightly larger than modern humans.\nB. cave paintings and elaborate burials with numerous grave goods at the Trinil site.\nC. recovery of a shell at the Trinil site with an intentionally engraved series of lines.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "C"
+    },
+    "272": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: When did Mohenjo-daro develop into a complex urban center?\nA. during the Early Shang Dynasty, from 1,000 to 400 B.P.\nB. during the Qin Dynasty, from 3,500 to 3,000 B.P.\nC. during the Mature Harappan period, from 4,500 to 4,000 B.P.\nD. during the Early Harappan period, from 8,500 to 6,000 B.P.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "273": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following best describes an anthropologist who studies the human skeleton in order to solve crimes?\nA. forensic anthropologist\nB. historical archaeologist\nC. paleoanthropologist\nD. linguistic anthropologist\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "274": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following was the first city and what was the estimated population?\nA. Nagada, 5,000 people\nB. Uruk, 10,000 people\nC. Knossos, 20,000 people\nD. Giza, 200,000 people\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "275": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The epoch in which our earliest non-human primate relatives made their first appearance is called the:\nA. Miocene.\nB. Pliocene.\nC. Triassic.\nD. Cambrian.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "276": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: In comparison to Homo habilis, what gave Homo erectus the ability to migrate so far, so fast?\nA. neoteny\nB. intelligence\nC. bipedalism\nD. microcephaly\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "277": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: At its height, only about _______ of the Incan empire was composed of ethnic Inca.\nA. 1 percent\nB. 10 percent\nC. 30 percent\nD. 50 percent\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "278": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: By analyzing the levels of 13C in bones, researchers can establish whether an individual ate:\nA. mostly grains or mostly nuts and fruits.\nB. mostly meat or mostly vegetables.\nC. no dairy or lots of dairy.\nD. a certain type of honey produced only in sub-Saharan Africa.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "279": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: To which primate are humans most closely related?\nA. chimpanzees\nB. gorillas\nC. orangutans\nD. gibbons\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "280": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: A more accurate calibration curve and conversion for radiocarbon dating can be derived from:\nA. dendrochronology.\nB. coins recovered from ancient shipwrecks.\nC. written records.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "281": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Homo erectus is characterized by:\nA. a sophisticated stone-tool technology, cooperative hunting, and the controlled use of fire.\nB. a primitive stone-tool technology, the sophisticated use of wood to construct shelters, and the earliest known gardening.\nC. cooperative hunting, the controlled use of fire, and elaborate burials with many grave goods.\nD. a primitive stone-tool technology, the first evidence for fishing, and the construction of stone buildings.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "282": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Indus Valley civilization is unmatched in comparison to other early civilizations in terms of what?\nA. the height and size of its monumental architecture\nB. the amount and frequency of violence\nC. the degree of urban planning\nD. the amount of surplus wheat that was produced for storage\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "283": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which is true of the origins of Minoan civilization?\nA. Crete was colonized by the Egyptians, who called the island \"Minoa.\"\nB. Early humans crossed a land bridge to Crete around 150,000 B.P. and gradually became Minoans.\nC. Crete was populated by Greeks and others, but Minoan culture was a local development.\nD. Cretan culture was a mix of Egyptian and Mesopotamian elements.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "284": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Archaeology differs from pseudoscientific speculation and fantasies about ancient extraterrestrials because:\nA. archaeology is not confined to evidence or the scientific method.\nB. archaeologists are not interested in science fiction and do not actually know much about the ancient past.\nC. archaeologists have actually solved all of the mysteries and controversies about the past.\nD. archaeologists follow the scientific method and are constrained by evidence or lack of evidence.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "285": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The idea that cultures change through time in relation to their environments, along many different paths, is known as:\nA. unilineal evolution.\nB. environmental uniformitarianism.\nC. multicultural adaptation.\nD. multilineal evolution.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "286": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What does Australia have in common with the rest of the world during the Holocene epoch?\nA. drastic environmental changes\nB. exploitation of new food resources\nC. a growth in cultural diversity\nD. the independent domestication of wheat and cattle\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "287": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The Chimu civilization was one of the ___________ kingdoms of the ancient New World.\nA. richest\nB. strongest\nC. largest\nD. highest\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "288": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Monk's Mound, at the Mississippian center of Cahokia, served as:\nA. a lookout or fire tower.\nB. a meeting ground for egalitarian tribes.\nC. a burial monument.\nD. the base for one or more important buildings.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "289": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The peak of Minoan civilization, from 3650 to 3420 B.P., was bracketed by what two events?\nA. the founding of the Minos dynasty and the invasion of the Mycenaeans\nB. an earthquake and a volcanic eruption\nC. the discovery of bronze on the island, and the replacement of bronze by iron\nD. the invasion of Troy, and the surrender to the Romans\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "290": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is the name of the stone blade exhibiting a fluted point on both faces and associated with extinct elephants?\nA. Thule\nB. Lapita\nC. Dorset\nD. Clovis\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "291": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Levallois technology involved a shift in emphasis from:\nA. producing core tools to producing flakes.\nB. producing pottery to producing clothing.\nC. producing arrows to producing spear points.\nD. larger, duller axes to smaller, sharper ones.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "292": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: To which species does Lucy belong?\nA. Homo habilis\nB. Australopithecus afarensis\nC. Homo sapiens\nD. Australopithecus robustus\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "293": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is an example of parietal art?\nA. beadwork\nB. inscribed bone\nC. ivory statues\nD. cave paintings\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "294": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: When did the florescence of Ancestral Puebloan culture occur?\nA. 5,000 years ago\nB. just after A.D. 1000\nC. before A.D. 1000\nD. 2,000 years ago\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "295": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is more complex than a tribe but less complex than a state?\nA. chiefdom\nB. archaic state\nC. egalitarian society\nD. democratic state\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "296": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The Upper Paleolithic is generally associated with:\nA. new and improved stone tool technologies.\nB. a broadening of the subsistence base.\nC. larger sites with increased populations.\nD. all of the above.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "297": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The native peoples of the northwest coast of North America were:\nA. maize agriculturalists.\nB. simple foragers.\nC. affluent foragers.\nD. conquered by the Aztec.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "298": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Archaeological evidence for the collapse of civilizations suggests which of the following is the most important variable?\nA. whether warfare can be ended\nB. changing environmental conditions\nC. how societies respond to challenges\nD. the ability of bureaucracies to store food and feed its people\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "299": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which culture was centered in the Ohio River valley around 2,800 years ago?\nA. the Kwakiutl\nB. the Mogollon\nC. the Sinagua\nD. the Adena\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "300": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which culture was centered in the Ohio River valley around 2,800 years ago?\nA. the Adena\nB. the Mogollon\nC. the Kwakiutl\nD. the Sinagua\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "301": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The pharaoh ruled a population of ________, of which _________ were farmers.\nA. 100,000; 25%\nB. 1,000,000; 50%\nC. 3,000,000; 75%\nD. 5,000,000; 100%\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "302": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The key factor in the survival and success of anatomically modern human beings was:\nA. their ability to control fire and produce art.\nB. their ability to interbreed with other hominids.\nC. their ability to hunt large mammals.\nD. their ability to adapt.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "303": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: A proposed explanation for some phenomenon that may be derived initially from empirical observation through a process called induction is a:\nA. deduction.\nB. theory.\nC. hypothesis.\nD. scientific method.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "304": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The development of civilization in Mesopotamia is associated with the _______, during the ______.\nA. first writing; Amratian Period\nB. first cities; Uruk Period]\nC. first religious specialists; New Temple Period\nD. first permanent military; Nagada I Period\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "305": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is the Pleistocene ice mass in North America centered in the Rocky Mountains?\nA. Beringia\nB. Laurentide\nC. Cordilleran\nD. McKenzie Corridor\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "306": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: On which continent are most of the Venus figurines found?\nA. Europe\nB. Africa\nC. Asia\nD. Australia\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "307": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The ability of humans to live in different environments, from Arctic tundra to tropical forests, is made possible by:\nA. specific biological adaptations to each new habitat.\nB. the rapid evolution of novel physical characteristics, which allows for movement into a new geographic range.\nC. intelligence and cultural adaptations.\nD. genetic changes and racial differences.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "308": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following refers to the systematic study of the earth's layers?\nA. primatology\nB. stratigraphy\nC. weathering\nD. archaeology\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "309": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The Aztec Empire was based on the systematic expansion of:\nA. tribute in the form of gold, jade, feathers, cloth, and jewels.\nB. oppressive social and religious control based on military conquest.\nC. ceramic production, a distinctive architectural style, and artistic expression.\nD. religious beliefs that required extensive and escalating human sacrifice.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "310": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: All of the following statements are true of the walls of the central complex of Great Zimbabwe EXCEPT:\nA. they were built of over 1 million granite bricks.\nB. they exhibit sophisticated masonry.\nC. they stood 40 feet tall in places.\nD. the mortar that holds them together was made from ground up ocean shells.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "311": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: How can the paleoanthropologist determine if a species is bipedal?\nA. The structure of the innominate, including the ilium and ischium\nB. The position of the foramen magnum\nC. The absence of a divergent big toe\nD. All the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "312": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which dating technique is based on the patterns of tree-ring growth?\nA. radiocarbon dating\nB. dendrochronology\nC. paleomagnetic dating\nD. fission-track dating\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "313": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which area is home to the tradition of making stone tools from chipped pebbles, called Hoabinhian?\nA. Australia\nB. North America\nC. Europe\nD. Asia\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "314": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The Pleistocene epoch lasted until how long ago?\nA. 1,000,000 years\nB. 100,000 years\nC. 10,000 years\nD. 1,000 years\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "315": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is the last to be occupied by human beings?\nA. New Guinea\nB. Australia\nC. New Zealand\nD. Timor\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "316": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Based on the available evidence, which of the following evolved first among hominids?\nA. bipedal locomotion\nB. language\nC. a larger cranium and brain size larger than 1000 cc\nD. Oldowan stone tools\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "317": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The \"grandmother effect\" refers to:\nA. the premature aging of many Paleolithic women.\nB. the shift in cave paintings that took place as older women began to express themselves.\nC. the decrease in child mortality associated with the presence of older generations.\nD. the tendency of feminist archaeologists to question male prejudice in the field.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "318": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Why were the elite of state societies so conspicuous in their consumption?\nA. Democracy and egalitarian states had not yet evolved.\nB. A monetary value was not placed on material possessions, making things effectively worthless.\nC. The elite had not yet been introduced to capitalism and so wasted their wealth on monuments and possessions.\nD. Monuments and possessions were used as symbols to reinforce the inequalities on which state societies are based.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "319": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Archaeological evidence for the production of cheese and yogurt in Europe suggests that dairying became an important part of subsistence by ______ years ago, with _______ providing an adaptive advantage.\nA. 10,000; artificial selection for certain varieties of cheese\nB. 7,500; the lactase persistence mutation\nC. 5,500; domesticated cattle\nD. 3,500; certain strains of lactose-free cheese and yogurt\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "320": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: The presence of caribou bones found near the Hudson River valley in New York from a site dated 10,000 years ago implies:\nA. that the main food source was caribou meat.\nB. a much colder climate during that time.\nC. that caribou were imported into the United States from Canada.\nD. that the people who lived at this site had high cholesterol.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "321": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Experiments with stone spear points made to replicate those artifacts found at the Kathu Pan site in South Africa suggest that Homo erectus:\nA. made and used spears with stone projectile points for hunting 500,000 years ago.\nB. made and used spears with stone projectile points for hunting more than 3 million years ago.\nC. did not use spears with stone projectile points, but probably hunted and caught fish with wooden and bone tools.\nD. made stone spear points for use as weapons, but not for hunting.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "322": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: What is the date of the first evidence of the use of metals in South America?\nA. 1200 B.P.\nB. 3100 B.P.\nC. 5100 B.P.\nD. 6200 B.P.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "323": {
+        "origin_prompt": "There is a single choice question about prehistory. Answer the question by replying A, B, C or D.\nQuestion: Among the Inca, human sacrifice was preceded by:\nA. ritual starvation, torture, and blood sacrifice.\nB. elite-sponsored feasts in which captives of war were beheaded.\nC. improved diet, the use of coca leaves, and consumption of maize beer.\nD. communal feasts and the torture of captives to be sacrificed.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    }
+}

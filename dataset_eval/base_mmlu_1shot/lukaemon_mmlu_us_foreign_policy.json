@@ -1,0 +1,502 @@
+{
+    "0": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What is the structure of the United Nations Security Council?\nA. 5 permanent members with veto power, 10 rotating members with no veto power\nB. 5 permanent members and 10 rotating members, all with veto power\nC. 10 permanent members with veto power, and 5 rotating members without veto power\nD. 15 permanent members with veto power\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "1": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What was the significance of the Gulf of Tonkin resolution?\nA. It allowed the US to intensify its involvement in Vietnam\nB. It illustrated the influence of public opinion on US foreign policy\nC. It enhanced Congressional control over the Vietnam War\nD. It curtailed US involvement in Vietnam\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "2": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Which is not a nonstate actor that poses a threat to the United States?\nA. Terrorists\nB. Organized crime\nC. Drug traffickers\nD. China\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "3": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Who was the first American president to visit communist China?\nA. Richard Nixon\nB. George H. W. Bush\nC. Jimmy Carter\nD. Ronald Reagan\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "4": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: The Strategic Arms Reduction Treaty was the first accord\nA. on nuclear weapons signed between the United States and the Soviet Union.\nB. cutting conventional arms in Europe.\nC. to be rejected by the U.S. Senate.\nD. mandating the elimination of many long-range nuclear missiles.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "5": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What were the implications of the Cold War for American exceptionalism?\nA. It ended the influence of American exceptionalism entirely\nB. Exceptionalism was enhanced by America's status as the 'leader of the free world'\nC. The extension of American power globally challenged core assumptions of exceptionalism\nD. Both b and c\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "6": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Why did Franklin D. Roosevelt initially favour an 'isolationist' stance on the part of the US during the 1930s?\nA. He believed that internal reform rather than international negotiation was the key to economic regeneration of the US\nB. He believed that German domination of Europe would be in US interests\nC. He always favoured isolationism\nD. All of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "7": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What was the 'New Populism'?\nA. A strand of neo-isolationist sentiment\nB. A strand of internationalist sentiment\nC. An expression of American cultural superiority\nD. Increased incorporation of public opinion in foreign policy making\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "8": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: How did World War I shift economic power from Europe to the United States?\nA. The war reduced European population levels below that of the United States\nB. The United States seized German resources after the war\nC. European countries paid the United States for assistance\nD. The United States became a creditor country and financial centre, with European war spending boosting the US economy\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "9": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: In American government, the power to declare war rests with\nA. the president of the United States.\nB. the secretary of defense.\nC. the chairman of the Joint Chiefs of Staff.\nD. Congress.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "10": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: How did the Cold War context shape US perceptions of the Third World?\nA. The US ignored the Third World\nB. Local developments were viewed through a geopolitical lens\nC. The US unreservedly supported decolonization\nD. None of the above\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "11": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What was unique about the NATO intervention in Kosovo?\nA. It was the first time the US became involved in the Balkans\nB. It was the first time NATO used military force\nC. It was the first war won by airpower alone\nD. It was the first war to employ 'smart weapons'\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "12": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What, according to Systemic theories, is the primary determinant of a state's foreign policy?\nA. The character of a state's leader\nB. The distribution of power in the international system\nC. The distribution of power within a state's governmental system\nD. A state's political ideology\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "13": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Why is there so much uncertainty over which states have nuclear weapons?\nA. Leaders have incentives to lie\nB. If leaders revealed their programs, they would be more likely to be attacked\nC. Leaders will not always grant foreign monitors access to their nuclear programs\nD. ALL of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "14": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Within American politics, the power to accord official recognition to other countries belongs to\nA. the Senate.\nB. the president.\nC. the Secretary of State.\nD. the chairman of the Joint Chiefs.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "15": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What did the Moscow Treaty on Strategic Offensive Reductions do?\nA. Required the United States and Russia to demobilize their armies\nB. Required the United States and Russia to dismantle a significant number of their nuclear weapons\nC. Prohibited the acquisition of new military bases\nD. Prohibited short-range nuclear weapons\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "16": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What were the 'open-door notes'?\nA. An American declaration that the US was always open to Chinese immigration\nB. An American proclamation that China should be divided up between the US, Japan and the European empires\nC. An American proclamation that China should be open to US trade and missionaries\nD. An American declaration of support for Chinese economic protectionism\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "17": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: International trade will almost always benefit both countries, so why do countries try to protect their own firms from exposure to the world market?\nA. Irrationality on the part of the leadership\nB. Costs of free trade are concentrated, but benefits are dispersed\nC. Regime type\nD. International conflict prevents trade\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "18": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Why did George H.W. Bush allow Saddam Hussein to remain in power after the Gulf War of 1991?\nA. Lack of US firepower\nB. Concern over oil supplies\nC. Limited UN mandate and fear of a protracted conflict\nD. Difficult terrain and fear of civilian casualties\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "19": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Why do Liberal Internationalists argue that international institutions are important to US grand strategy?\nA. They allow the US to withdraw from the international arena\nB. They serve American interests\nC. The US is incapable of acting alone\nD. None of the above\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "20": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What was the significance of the Truman Doctrine?\nA. It indicated the special place of Greece and Turkey in American interests\nB. It was Truman's first statement on European affairs\nC. It indicated US reluctance to get involved in incidents outside of its immediate sphere of influence\nD. It indicated that the US would now view all local revolts through a geopolitical lens\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "21": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What tend to be the effects of oil and other natural resource trade on developing states?\nA. It democratizes countries\nB. It has no real effect\nC. It encourages stability of the regime\nD. It changes the nature of the investor\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "22": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: The dominant course for foreign policy throughout most of American history can be categorized as\nA. containment.\nB. neoconservatism.\nC. isolationism.\nD. protectionism.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "23": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What led Britain to impose new taxes on their American colonies?\nA. To increase the wealth of King George III\nB. The growing costs of war with France\nC. Anger at America's growing prosperity\nD. Pressure from rich merchants\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "24": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Who said \"Globalization is not something we can hold off or turn off. It is the economic equivalent of a force of nature-like wind or water\"?\nA. Ronald Reagan\nB. George Soros\nC. Bill Clinton\nD. George W. Bush\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "25": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: The idea that war is \"the continuation of politics by other means\" helps to capture\nA. diplomacy is the quietest instrument of influence in global politics.\nB. the way political parties fight with each other.\nC. the idea that governments use their military to help pursue policy goals.\nD. the way Democrats and Republicans differ over the war in Iraq.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "26": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What are the key elements of the Liberal approach to US foreign policy?\nA. Promotion of Democracy, free-trade and international institutions\nB. Alliances, diplomacy and protectionism\nC. The balance of power, self-sufficiency and prudence\nD. None of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "27": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What was the key difference between US expansion pre- and post- 1865?\nA. US expansion was based on territory rather than markets post-1865\nB. US expansion was based on markets rather than territory post-1865\nC. US expansion was limited to Latin America post-1865\nD. US expansion ended after 1865\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "28": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What case did President Eisenhower make against the 'military-industrial complex' in his farewell speech?\nA. That the capitalist search for profits was the leading cause of armed conflict\nB. That the United States no longer needed to be militarily strong\nC. That military spending gave the arms industry unwarranted influence on politics and government\nD. That private companies would undermine the role of the Armed Forces\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "29": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Within the United Nations, real power is located in\nA. the Security Council.\nB. the Chamber of Deputies.\nC. the Council of Ministers.\nD. the Secretariat.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "30": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: In general, how do conservatives and liberals differ when it comes to defense spending?\nA. Conservatives are skeptical of increases in defense spending; liberals advocate increases in defense spending.\nB. Conservatives favor social spending over defense spending; liberals favor defense spending over social spending.\nC. Conservatives advocate increases in defense spending; liberals are generally skeptical of increases in defense spending.\nD. Conservatives emphasize strong economies; liberals emphasize strong military readiness.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "31": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Intergovernmental organizations SELDOM do which of the following?\nA. Provide strong enforcement\nB. Monitor parties\nC. Provide fora for discussion\nD. Reduce transaction costs for agreements\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "32": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following are possible constraints on US foreign policy decision making?\nA. Foreign policies of other states\nB. International law\nC. Intergovernmental organizations\nD. All of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "33": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What is direct diplomacy?\nA. Members of Congress negotiating directly with foreign governments\nB. Face-to-face meetings between state leaders\nC. The president consulting Congress on foreign policy issues\nD. Bilateral talks that do not involve a third-party negotiator\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "34": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What was the Clinton Administration's policy on the Russian economy?\nA. The US inhibited the marketization of the Russian economy\nB. The US promoted the marketization of the Russian economy\nC. The US supported public ownership of natural resources\nD. None, the US was only concerned with security issues\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "35": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: How many major powers are there in a multipolar system?\nA. 0\nB. 1\nC. 2\nD. 3 or more\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "36": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Why did Americans believe that they could found a different kind of empire after 1776?\nA. This would be an 'empire of liberty'\nB. This empire would be multi-cultural\nC. This type of empire would be based on expansion\nD. This would be empire free of slavery\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "37": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: The trade-off between defense and social spending is often referred to as a choice between\nA. bread and butter.\nB. war and peace.\nC. guns and butter.\nD. bombs and books.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "38": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What did Charles Krauthammer mean by a 'unipolar moment' when describing the post-Cold War system?\nA. The chance for the United States to share power with other countries in the world\nB. An opportunity to use to collapse of the Soviet Union to extend US power\nC. An international system that didn't face any threats\nD. The never-ending domination of the United States\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "39": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following considers it immoral to use force abroad to do good things (such human rights protection, democracy, etc)?\nA. Realism\nB. Idealism\nC. Liberalism\nD. None of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "40": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: According to realists, what is the fundamental difference between the international system and the domestic system?\nA. Armed conflict\nB. Anarchy\nC. Institutions\nD. No common language\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "41": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Which is NOT a reason for why intergovernmental organizations are ineffective at promoting human rights?\nA. These organizations merely identify those states who already support human rights\nB. They cannot get enough information about which leaders will abuse their citizens\nC. These organizations have little ability to constrain abusive leaders\nD. None of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "42": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Why might the 'Philadelphian System' be linked to the idea of American exceptionalism?\nA. It encouraged greater involvement in European politics\nB. It was designed as the antithesis of European politics\nC. It created a large standing army\nD. It encouraged the centralization of political power in the US\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "43": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following are possible constraints on US foreign policy decision making?\nA. Foreign policies of other states\nB. International law\nC. Intergovernmental organizations\nD. All of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "44": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: D\u00e9tente, or the relaxing of tensions coupled with firm guarantees of mutual security, represented a shift in American foreign policy toward the communist world ushered in by\nA. Richard Nixon.\nB. Eugene McCarthy\nC. Lyndon Johnson.\nD. Robert Kennedy.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "45": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Which of these is not a component of the 'American Creed'?\nA. Liberty\nB. Equality\nC. Autocracy\nD. Individualism\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "46": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: During the early years of his administration, Reagan's foreign and defense policies emphasized\nA. nuclear disarmament.\nB. d\u00e9tente.\nC. anticommunism.\nD. international free trade.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "47": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: The Vietnam War can be understood as\nA. a war that deeply divided the United States and fostered cynicism toward the American government.\nB. an example of the doctrine of containment, because U.S. involvement was designed to prevent the fall of South Vietnam to the communists.\nC. an example of how even a great power may not be able to prevail against a determined enemy unless there is a clear objective and the national will to do so.\nD. All of the above are true.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "48": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: The departments of the executive branch that assist the president in designing and carrying out U.S. foreign policy are known as\nA. the United Nations.\nB. the National Security Council.\nC. the State Department.\nD. the National Security Agency.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "49": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: The largest increase in peacetime defense spending in American history occurred under which president?\nA. Jimmy Carter\nB. Ronald Reagan\nC. Bill Clinton\nD. Dwight Eisenhower\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "50": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What caused a public uproar involving the National Security Agency in 2005?\nA. Revelations that the NSA was monitoring the communications of American citizens without obtaining warrants\nB. A leaked memo that linked the events of September 11, 2001, with the Democratic National Committee\nC. Revelations that the NSA had tortured prisoners at Guantanamo, Cuba\nD. A scathing report condemning the George W. Bush administration for \"building a case for the war in Iraq on a quicksand foundation\"\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "51": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What was the Marshall Plan?\nA. A plan that provided economic assistance to rebuild Europe.\nB. A plan to provide aid to Greece and Turkey in their stand against Soviet and Soviet-assisted threats\nC. A plan that provided Europe with military assistance to counter the Soviet threat\nD. The plan designed to stop communism in Asia\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "52": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Bureaucratic politics suggests we should be worried about which of the following with regard to nuclear weapons?\nA. Having the capability to deter the most powerful rival\nB. Having the capability to deter smaller states\nC. How nuclear attacks are identified and responded to; who controls the weapons\nD. Bureaucratic politics provides no information about nuclear proliferation and use\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "53": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: According to International Institutionalists, what problems have international institutions been designed to address?\nA. War\nB. Anarchy\nC. Collective action and coordination problems\nD. All of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "54": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What was meant by the term 'New World Order'?\nA. A new democratic internationalism led by the United States\nB. A new balance of power between the US and China\nC. A new global economic framework\nD. A new era of globalization\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "55": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: The best known and perhaps most important international organization is\nA. the United Nations.\nB. the North Atlantic Treaty Organization (NATO).\nC. the Organization of Petroleum Exporting Countries (OPEC).\nD. the World Trade Organization (WTO).\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "56": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What was meant by the term 'American multiplication table'?\nA. Increase in the US population\nB. Increase in US finances\nC. Increase in US military capability\nD. Increase in US international influence\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "57": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Global and regional international trade agreements work by using which of the following mechanisms?\nA. Reciprocity across multiple issues\nB. Reputational concerns of the actors\nC. Side payments for adjusting to the organization (such as the Common Agricultural Policy in the EU)\nD. ALL of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "58": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Why did Lincoln oppose the southward expansion of the US?\nA. It would have drained the US economically\nB. It would have involved compromising opposition to slavery\nC. It would have increased immigration to the US\nD. None of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "59": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Growing tension between the United States and the Soviet Union resulted in a policy that John Foster Dulles referred to as\nA. \"mutual assured destruction.\"\nB. \"brinkmanship.\"\nC. \"realism.\"\nD. \"not in my backyard.\"\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "60": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Why do some scholars claim that Reagan 'won the Cold War'?\nA. Reagan's first term military spending pressured the Soviet Union to keep up its international commitments\nB. Reagan encouraged engagement with the Soviet Union\nC. Reagan encouraged a softer approach towards communism\nD. Reagan reduced military spending and this allowed the Soviet Union space to reform\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "61": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What is the implication of American exceptionalism in terms of global economics?\nA. It encourages the use of tariffs\nB. It encourages nationalization\nC. It encourages liberalization of global trade\nD. It encourages redistribution of wealth\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "62": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What were the primary institutions of the liberal international economic order?\nI. GATT\nII. IMF\nIII. World Bank\nIV. NATO\nA. IV only\nB. II and III\nC. I, II, and III\nD. I, II, III, and IV\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "63": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: According to Rosenau, which factor is important to consider in explaining the foreign policy behavior of the United States?\nA. The external environment of the international system\nB. Domestic environment, government and bureaucracy\nC. The President's individual personality.\nD. All of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "64": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: How many states in the international system are likely to have nuclear weapons right now?\nA. Fewer than 7\nB. Between 8 and 15\nC. Between 16 and 25\nD. More than 25\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "65": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Why is NSC 68 seen as a turning point in US Cold War Foreign policy?\nA. It indicated the primacy of economic containment\nB. It indicated a desire to engage with the Soviet Union\nC. It indicated a shift towards military containment\nD. It dispensed with the idea of containment\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "66": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What was meant by the term 'Rogue States'?\nA. States aligned with the USSR during the Cold War\nB. States outside of the 'family of nations'\nC. Communist States\nD. The former Soviet states\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "B"
+    },
+    "67": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: The foreign policy doctrine that European nations should stay out of Latin America is known as\nA. the Powell Doctrine.\nB. the Roosevelt Doctrine.\nC. the Bush Doctrine.\nD. the Monroe Doctrine.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "68": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Why do contemporary European liberal democrats tend to object to the influence of exceptionalism on American foreign policy?\nA. They see it as a challenge to European global influence\nB. They see it as an ideological fa\u00e7ade for US imperialism\nC. They see it as a temporary phenomenon\nD. None of the above\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "69": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: In what sense might exceptionalism link isolationist and internationalist strategies?\nA. Both encourage world government\nB. Both focus on the decline of the American power\nC. It doesn't - the two are fundamentally opposed\nD. Both can be viewed as different means of achieving the same liberal ends\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "70": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Why do realists tend to object to the influence of exceptionalism on American foreign policy?\nA. It leads to a diminished focus on collective security\nB. It diminishes the prospects for world government\nC. It enhances the prospects for world government\nD. It leads to a diminished focus on security, power and interest\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "71": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What features distinguish Socio-Economic accounts of US Cold War foreign policy?\nA. A focus on class and economic interests\nB. A focus on liberal ideology\nC. A focus on language and culture\nD. All of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "72": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What did Paul Kennedy argue in his book The Rise and Fall of the Great Powers?\nA. All of the world's leading economies were declining due to low growth and inflation\nB. The United States could no longer remain a superpower and was in decline\nC. The soft power of the United States would allow it to avoid decline\nD. The rise of Japan had been exaggerated\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "73": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: The Joint Chiefs of Staff is made up of\nA. the critical domestic and foreign policy advisers to the president.\nB. foreign policy advisers who meet with the president daily.\nC. the commanding officers of each branch of the armed services, along with a chairperson and vice chairperson.\nD. the highest-ranking generals in the U.S. Army.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "74": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What is American exceptionalism?\nA. The belief that the United States is different from other major powers because it is concerned not only with Power, but also with Principles.\nB. The belief that the United States is different because it is the most powerful nation in the world.\nC. The belief that the United States is pacifist.\nD. The belief that the United States is different because it is motivated more by economic factors than other countries are.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "75": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: The role of gathering and interpreting intelligence about foreign countries in order to allow policymakers to make good foreign policy decisions was given to\nA. the Central Intelligence Agency (CIA).\nB. the Federal Bureau of Investigation (FBI).\nC. the National Security Council.\nD. Both A and B are correct.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "76": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: The cooperative international organization of 185 countries designed to stabilize the exchange of currencies and the world economy is\nA. the World Bank.\nB. the United Nations.\nC. UNICEF.\nD. the International Monetary Fund.\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "77": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What policies are part of a grand strategy of Offshore Balancing?\nA. Maintaining a balance between the United States and other countries and not entering into alliances\nB. Investing equally in domestic and international security with balanced protection against terrorism and other states\nC. Embrace multi-polarity, show greater restraint internationally and require other states to meet their own security burdens.\nD. Isolate the US from the international system and not seek global power\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "78": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What was the Marshall plan?\nA. A plan designed to aid the economy recovery of Europe\nB. An attempt to diminish the potential attraction of the Soviet system to Europeans\nC. An aid programme that embedded US influence in Europe\nD. All of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "79": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What accounted for the US avoidance of catastrophe at the hands of the British in 1814?\nA. Naval victories\nB. Diplomacy\nC. British preoccupation with Europe\nD. All of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "80": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What was a main organizational change proposed by the 9/11 Commission with regard to the U.S. intelligence community?\nA. Creation of the Department of Homeland Security\nB. Moving the Department of Defense Intelligence Agencies to the CIA for better coordination\nC. Creation of the National Intelligence Director\nD. Moving the domestic intelligence component of the FBI to the CIA\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "81": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: The government body formed to coordinate American foreign and military policy is known as\nA. the National Security Council.\nB. the Pentagon.\nC. the Defense Policy Institute.\nD. the Joint Chiefs of Staff.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "82": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What drives US foreign policy according to the Marxist perspective?\nA. Economic protectionism\nB. Class consciousness\nC. The search for new markets\nD. Superstructure\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "83": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Why might American exceptionalism lead to opposition to world government?\nA. Its general anti-statism opposes centralized government\nB. It views world government as impractical\nC. It views the UN as a sufficient form of global governance\nD. None of the above\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "84": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following considers states to be the primary actors in international relations?\nA. Realism\nB. Idealism\nC. Liberalism\nD. None of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "85": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: The importance of oil in shaping U.S. foreign policy helps to highlight\nA. the importance of military superiority.\nB. how the importance of oil is often overexaggerated.\nC. the increasing importance of economic instruments of foreign policy.\nD. the need to drill for domestic sources.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "86": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: The president's principal civilian adviser on the military is the\nA. national security adviser.\nB. director of the CIA.\nC. secretary of defense.\nD. secretary of state.\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "87": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: How do Ideational approaches to US foreign policy during the Cold War differ from Realist accounts of the same period?\nA. They place greater emphasis on economic factors\nB. They place greater emphasis on material interests and power\nC. They place greater emphasis on ideology and beliefs\nD. They place greater emphasis on geopolitics\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "88": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: How did the relationship between President and Congress develop under George H.W. Bush and Bill Clinton?\nA. Congress asserted its primacy in foreign policy\nB. US foreign policy became substantially decentralized\nC. The Presidency welcomed the influence of Congress\nD. None of the above\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "89": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following points supports the argument for American unilateralism?\nA. Benevolent hegemony\nB. Ineffectiveness of multilateralism\nC. American power\nD. All of the above\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "90": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Historically, what has been the general pattern of defense spending in the United States?\nA. Steady increases over time.\nB. Increased spending during wars, with demobilization bringing spending down but not back to prewar levels\nC. Unpredictable fluctuations.\nD. Increased spending during wars, with further increases after the war to prepare for future engagements.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "91": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: International development may be tied to the security of the state, why?\nA. Threats to the state centralize political and economic power, threatening state development\nB. Too many casualties drain the productive power of the state\nC. Threats to the state encourage socialism\nD. The two are correlated, but there is no causal effect\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "92": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What was the 'Domino Theory'?\nA. The idea that the Cold War operated according to the principles of game theory\nB. The idea that certain states were of higher value than others to the US during the Cold War\nC. The idea that the fall of one state to communism would inexorably lead to the fall of its neighbors\nD. The idea that the growth of democracy in one state would inexorably lead to its growth in others\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "93": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What has been an effective way of disbursing US foreign aid to encourage change in target states?\nA. Conditional programs, such as the Millennium Challenge, that require change before receipt of aid\nB. the use of intergovernmental organizations to monitor aid disbursement\nC. withdrawal of aid for bad policies\nD. None of the above, international aid never works\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "94": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What was established at Bretton Woods in 1994 to stabilize the global economy?\nA. The International Monetary Fund (IMF)\nB. The US Dollar as the world's reserve currency\nC. The General Agreement on Tariffs and Trade (GATT)\nD. All of the above\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "95": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is NOT a good predictor of which states will get nuclear weapons?\nA. Receipt of sensitive nuclear assistance\nB. Wealth/GDP\nC. Rivalry with a nuclear state\nD. Regime type\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "96": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What was 'democratic enlargement'?\nA. A proposal for reform of the US system of government\nB. A proposal for the extension of democratic rule globally\nC. A proposal for the extension of free markets\nD. Both b and c\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "97": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: What is meant by the phrase 'empire by invitation'?\nA. Voluntary reliance on an external power for security\nB. Willful openness to colonization\nC. Cultural imperialism\nD. Open advocacy of imperialism for economic gain\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "98": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: In what way did the George W Bush administration change the direction of US foreign policy?\nA. It criticized international organizations, rather than trying to strengthen them\nB. It expanded NATO to include former Soviet states\nC. It focused on a more personal style of leadership\nD. It increased international support for the United States\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "A"
+    },
+    "99": {
+        "origin_prompt": "There is a single choice question about us foreign policy. Answer the question by replying A, B, C or D.\nQuestion: Peace, commerce, and honest friendship with all nations, entangling alliances with none'. Identify the speaker.\nA. James Madison\nB. Abraham Lincoln\nC. Woodrow Wilson\nD. Thomas Jefferson\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    }
+}

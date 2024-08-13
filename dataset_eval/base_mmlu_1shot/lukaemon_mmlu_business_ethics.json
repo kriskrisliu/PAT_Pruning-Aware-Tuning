@@ -1,0 +1,502 @@
+{
+    "0": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: _______ such as bitcoin are becoming increasingly mainstream and have a whole host of associated ethical implications, for example, they are______ and more ______. However, they have also been used to engage in _______.\nA. Cryptocurrencies, Expensive, Secure, Financial Crime\nB. Traditional currency, Cheap, Unsecure, Charitable giving\nC. Cryptocurrencies, Cheap, Secure, Financial crime\nD. Traditional currency, Expensive, Unsecure, Charitable giving\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "1": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Typical advertising regulatory bodies suggest, for example that adverts must not: encourage _________, cause unnecessary ________ or _____, and must not cause _______ offence.\nA. Unsafe practices, Wants, Fear, Trivial\nB. Unsafe practices, Distress, Fear, Serious\nC. Safe practices, Wants, Jealousy, Trivial\nD. Safe practices, Distress, Jealousy, Serious\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "2": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: ______ are the obligations of workers towards their employer, based on individual contracts and wider employment laws.\nA. Employee rights\nB. Employee rights\nC. Employer duties\nD. Employee duties\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "3": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion:  ______ is an employee's preferred ratio between work-related and non-work-related activities which, due to intensification of work and technological shifts, has become a hotly contested issue in recent years.\nA. Presenteeism\nB. Absenteeism\nC. Work-play balance\nD. Work-life balance\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "4": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion:  _______ can be a likened to their natural counterparts, comprising of a balanced network of interdependent organisms and their environments thus adding value to sustainability thinking due to the consideration of companies and industries as being bound together, and interdependent due to all kinds of resources and wastes.\nA. Industrial supply loops\nB. Industrial ecosystems\nC. Ecological ecosystems\nD. Corporate ecosystems\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "5": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: ________, where for example one party possess more resources, unfair distribution of ________, where one party gains more from the relationship, and CSOs being ________, are all limitations and risks of business-CSO collaborations.\nA. Power imbalance, Benefits, Hoodwinked\nB. Power imbalance, Resources, Co-opted\nC. Informational asymmetries, Benefits, Hoodwinked\nD. Informational asymmetries, Resources, Co-opted\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "6": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Although corporate profit maximization is not directly prescribed by major normative theories to which normative theory is it most similar?\nA. hedonistic utilitarianism\nB. preference utilitarianism\nC. The Categorical Imperative\nD. ethics of care\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "7": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: What does Milton Friedman believe to be the sole responsibility of business?\nA. The only social responsibility of business is to its shareholders\nB. Managers should act in ways that balance the interest of society and shareholders\nC. The primary responsibility organizations have is to its employees\nD. The primary responsibility organizations have is to its stakeholders\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "8": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: ______ regulation goes further than the ______ that CSOs have with businesses, as it also concerns _______of such processes.\nA. Legal, Interactions, Mechanics\nB. Civil, Relations, Outcomes\nC. Political, Interactions, Outcomes\nD. Environmental, Relations, Mechanics\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "9": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: _______ working practices refer to working patterns which involve temporal, spatial and task related fluidity.\nA. Dynamic\nB. Fluid\nC. Flexible\nD. Modern\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "10": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion:  What, according to Schnackenberg and Tomlinson (2014), are the three criteria which can be used to assess the quality of corporate transparency?\nA. Breadth, Clarity, Accuracy\nB. Disclosure, Detail, Accuracy\nC. Disclosure, Clarity, Accuracy\nD. Disclosure, Clarity, Efficiency\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "11": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: A corporation is ________ from its managers, employees, investors and customers. It therefore has _______ succession and also ________.\nA. Indistinguishable, Perpetual, Does not own its own assets\nB. Independent, Limited, Owns its own assets\nC. Independent, Perpetual, Owns its own assets\nD. Indistinguishable, Perpetual, Owns its own assets\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "C"
+    },
+    "12": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: The UK Public Services (Social Value) Act 2013 requires those procuring ______ to consider how they can secure wider _____, _____and _____ benefits.\nA. Private services, social, economic and environmental\nB. Public services, social, cultural and environmental\nC. Private services, cultural, economic and environmental\nD. Public services, social, economic and environmental\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "13": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: When the true cost an item is deliberately obscured by a company this is known as?\nA. Predatory pricing\nB. Deceptive pricing\nC. Price fixing\nD. Skimming\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "14": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: What are the three differing types of stakeholder theory according to Donaldson and Preston (1995)?\nA. Normative, Descriptive and Economic\nB. Normative, Moral and Instrumental\nC. Political, Descriptive and Instrumental\nD. Normative, Descriptive and Instrumental\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "15": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: The Right to _______ has been a long-standing ethical concern for employees which today are addressed in most developed countries through a dense network of occupational health, safety and environmental regulations companies must abide by.\nA. Work-life balance\nB. Healthy and safe working conditions\nC. Employee privacy\nD. Free Speech\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "16": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following would most effectively act as the primary objective of a business organisation?\nA. To make a profit\nB. To procure resources\nC. To communicate with shareholders\nD. To mediate between the organisation and the environment\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "17": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: What is the enlightened self-interest model of CSR?\nA. That it is in an organization's own best interest to put itself first rather than its ethics\nB. That it is in an organization's best interest to consider what a shareholder would want\nC. That it is in an organization's own best interest to act in an ethical way\nD. That it is in an organization's own best interest to follow the legislation and abide by the law\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "18": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: ________ is the right of a consumer to control what information companies can collect about them and how it is stored, used and shared.\nA. Consumer inclusion\nB. Consumer control\nC. Consumer privacy\nD. Consumer exclusion\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "19": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: The Anglo-American model being considered the best model in light of the recession in the late 2000s.\nA. 1,2,3\nB. 1,3,4\nC. 2,3,4\nD. 1,2,3,4\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "20": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: _______ economy is the term used to describe individuals being hired for a specific task rather than on a long-term basis. While this results in _________ which is beneficial for businesses, issues for those employed in such a manner relate to increased ________, uncertainty and a lack of _______.\nA. Gig, Flexibility, Risk, Social welfare structures\nB. Sharing, Risk, Flexibility, Autonomy\nC. Gig, Risk, Flexibility, Autonomy\nD. Sharing, Flexibility, Risk, Social welfare structures\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "21": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: The Theory of _________ posits that 3 three levels of moral reasoning exist which an individual can engage in to assess ethical issues, dependant on their cognitive capacity.\nA. Egoism\nB. Cognitive moral development\nC. Power distance\nD. Uncertainty avoidance\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "22": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: _______ theory can be described as a code of conduct to which all rational beings should adhere. This contrasts with ________ morality which is the code of conduct adopted by a particular group or society.\nA. Descriptive, Normative\nB. Normative, Instrumental\nC. Normative, Descriptive\nD. Ethical, Descriptive\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "23": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: ___________, ___________ and __________ are all factors which can impact the moral intensity\nA. Social consensus, Temporal immediacy, Proximity\nB. Proximity, Social dissensus, Futility of effect\nC. Proximity, Temporal immediacy, Social dissensus\nD. Social dissensus, Cultural immediacy, Proximity\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "24": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Better access to certain markets, differentiation of products, and the sale of pollution-control technology are ways in which better environmental performance can:\nA. Increase Revenue\nB. Increase Costs\nC. Decrease Revenue\nD. Decrease Costs\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "25": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: _______ is the term used to describe the ongoing approval and acceptance of a company's activities by society, especially among local communities and civil societies.\nA. Enlightened self interest\nB. Social licence to operate\nC. Community approval\nD. Supply chain responsibility\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "26": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: The degree to which corporate decisions, policies, activities and impacts are acknowledged and made visible to relevant stakeholders is known as ________\nA. Corporate Opaqueness\nB. Corporate Transparency\nC. Corporate Openness\nD. Corporate Visibility\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "27": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion:  _________, such as _______ and _______ are processes by which organisations implement environmental goals, policies and responsibilities and ensure regular auditing and reporting, which go beyond legal compliance.\nA. Environmental management systems, SA8000, EMAS\nB. Social accountability standards, ISO14001, SA8000\nC. Environmental management systems, ISO14001, EMAS\nD. Social accountability standards, EMAS, SA8000\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "28": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: The so-called BRIC countries (Brazil, Russia, India and _______) tend to follow a __________ approach to corporate governance. However, recently this has tended to move towards more _______-based mechanisms.\nA. Canada, Market, Relationship\nB. China, Market, Relationship\nC. Canada, Relationship, Market\nD. China, Relationship, Market\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "29": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: A stakeholder orientation includes all of the following activities except:\nA. Generating Data About Stakeholder Groups\nB. Assessing The Firm's Effects On Stakeholder Groups\nC. Distributing Stakeholder Information Throughout The Firm\nD. Minimizing The Influence Of Stakeholder Information On The Firm\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "30": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Ethical issues related to marketing communications include the fact that they are _________ and unavoidable, they create ________ needs, reinforce _________ and perpetuate _________ and ______.\nA. Intrusive, Artificial, Consumerism, Insecurity, Social Stereotypes\nB. Intrusive, Artificial, De-materialism, Security, Happiness\nC. Intrusive, Real, Consumerism, Insecurity, Happiness\nD. Intrusive, Real, De-materialism, Security, Social stereotypes\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "31": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: In order to try and align the interest of shareholders and senior management of a company, _________ are often made available to _______ of a company, to ensure that it is in their interests to increase _______ and dividend performance.\nA. Share options, Senior managers, Share Price\nB. Share options, All employees, Share Price\nC. Non-financial remunerations, Senior managers, Employee Satisfaction\nD. Non-financial remunerations, All employees, Employee Satisfaction\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "32": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Predatory pricing.\nA. 1,2,4\nB. 1,2,3,4\nC. 1,2\nD. 1,4\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "33": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: There are a number of means by which can influence _______. These include _________to decision maker, varying from very direct modes to indirect modes, _________, being either public or private and ________ of communication.\nA. Government, Avenue of approach, Breadth of transmission, Content\nB. Consumers, Avenue of approach, Height of transmission, Content\nC. Government, Breath of transmission, Avenue of approach, Content\nD. Employees, Breadth of transmission, Content, Avenue of approach\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "34": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Pick the correct description of the following term: Utilitarianism is\u2026\nA. A theory which states that an action is morally incorrect if it promotes the greatest good for the greatest number\nB. A theory which states that an action is morally right if it promotes the greatest good for the decision maker\nC. A theory which states that an action is morally right if it promotes the greatest good for the smallest number\nD. A theory which states that an action is morally right if it promotes the greatest good for the greatest number\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "35": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Cognitive ______ models such as the Theory of _________ serve to try and explain consumer behaviour, but arguably somewhat oversimplify and overestimate individual ________.\nA. Decision, Market equilibrium, Rationality\nB. Attitudinal, Planned Behaviour, Social pressures\nC. Decision, Planned behaviour, Rationality\nD. Attitudinal, Market equilibrium, Social pressures\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "36": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: ____________ refers to a strategic process involving stakeholder assessment to create long-term relationships with customers, while maintaining, supporting, and enhancing the natural environment.\nA. Eco-strategy\nB. Green Marketing\nC. Superfund reauthorization\nD. Recycle and reprocess management\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "37": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Sustainability can broadly be defined as\nA. The short-term maintenance of systems according to environmental, economic and social considerations\nB. The long-term maintenance of processes according to environmental, economic and cultural considerations.\nC. The short-term maintenance of systems according to environmental, political and social considerations.\nD. The long-term maintenance of systems according to environmental, economic and social considerations.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "38": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Which of the three following organisational characteristics of small businesses tend to characterise their engagement with business related issues?\nA. Size and complexity, owner and family member influence on the organisation, shareholder and stakeholder power\nB. Lack of organisational resources, size and complexity, owner and family member influence\nC. Informal relationships, owner and family member influence on the organisation, lack of organisational resources\nD. Bureaucratic and formal organisational structure, lack of organisational resources, conflicts of interest\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "39": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: A(n) __________ is a ________, __________ framework which goes beyond linear functions, operations and transactions to produce a certain commodity or product\nA. International supply chain, Static, Disconnected\nB. Global production network, Dynamic, Relational\nC. International supply chain, Dynamic, Disconnected\nD. Global production network, Static, Relational\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "40": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Demand reduction.\nA. 1,3,4\nB. 2,3,4\nC. 1,2,3\nD. 1,2,4\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "D"
+    },
+    "41": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion:  Although the benefit and contribution of civil society in encouraging sustainability, lobbying on important issues and helping the needy are taken for granted in many places, in many other countries, such as _____ and ______ civil society is far less developed than in, for instance, _______.\nA. Russia, China, Britain\nB. Norway, China, Russia\nC. Britain, United States, Australia\nD. Canada, Russia, United States\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "42": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: The extent to which an individual is able to creatively consider the consequences of, resolutions to, and issues associated with moral decision making is known as _________.\nA. Moral imagination\nB. Ethical reflexivity\nC. Moral originality\nD. Moral reflexivity\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "43": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: When negotiating using unethical practices, businesses can risk _______, if the negotiations are part of a longer-term business association, as well as a ___________ and __________, as negotiations can impact company image and stymy progress.\nA. Rigid negotiations, Enhanced reputation, Greater opportunities\nB. Damaged relationships, Sullied reputation, Lost opportunities\nC. Rigid negotiations, Sullied Reputation, Lost opportunities\nD. Damaged relationships, Rigid negotiations, Lost opportunities\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "44": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: ________ is the use of language of to mask or expose the ethical nature of decisions, actions and behaviours.\nA. Ethical splicing\nB. Moral framing\nC. Ethical window dressing\nD. Moral splicing\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "45": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: The extent to which an individual believes they can control their life is determined by their __________.\nA. Moral imagination\nB. Personal integrity\nC. Cognitive moral development\nD. Locus of control\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "46": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: The enforcement of company privacy is complex as corporations are somewhat __________, as there are few clear barriers to define their limits, it is difficult to _________ due to the number of individuals involved and much corporate activity takes place in ________.\nA. Boundaryless, Control information, Private spaces\nB. Public spaces, Maintain individual privacy, Private spaces\nC. Boundaryless, Control information, Public spaces\nD. Private spaces, Maintain individual privacy, Public spaces\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "47": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: What term can be used to describe 'the hypothetical agreement between member of society and those who govern it which establishes the inter-relationships, rights and responsibilities on a fair basis'?\nA. Social Contract\nB. Duty Ethics\nC. Consequentialism\nD. Virtue Ethics\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "48": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Businesses have _____ within society and have the potential to provide a ____ to society while ____ has the potential to inflict enormous harm on individuals, communities and the environment.\nA. Little power, Small contribution, Business malpractice\nB. Little power, Major contribution, Corporate social responsibility\nC. Huge power, Small contribution, Corporate social responsibility\nD. Huge power, Major contribution, Business malpractice\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "49": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: According Carroll what four categories or aspects can corporate social responsibility be broken down into?\nA. Political, Legal, Ethical and Philanthropic\nB. Economic, Legal, Ethical and Philanthropic\nC. Economic, Legal, Cultural and Philanthropic\nD. Economic, Legal, Ethical and Environmental\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "50": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Affirmative action involves ________ attempts to target ______ who are _________ within an organisation's workforce, for instance by trying to ______ the proportion of women, disabled or racial minorities in senior management positions.\nA. Proactive, Groups, Under-represented, Increase\nB. Passive, Groups, Under-represented, Retain\nC. Proactive, Individuals, Represented, Increase\nD. Passive, Individuals, Represented, Retain\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "51": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Traditionally consumer rights were based on the notion of _______ or _______ where the responsibility lay with consumer to avoid subpar products. However, this has gradually eroded due to increased ________ at a ________, EU and UN level.\nA. Caveat emptor, Company Responsibility, Informal codes, International\nB. Caveat emptor, Buyer beware, Regulation, National\nC. Cemptor Eaveat, Buyer beware, Regulation, National\nD. Cemptor Eaveat, Company Responsibility, Informal Codes, International\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "52": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: The state of being unable to make an informed, reasoned decision about a product purchase is known as?\nA. Consumer inclusion\nB. Consumer competence\nC. Consumer exclusion\nD. Consumer vulnerability\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "53": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: According to Mitchell et al (1997) ______, the perceived ability of a stakeholder to influence organisational action, ________ whether the organisation perceives the stakeholder's actions as desirable, proper and appropriate and ________, the immediacy of attention the stakeholder claims require, determine stakeholder ________.\nA. Power, Legitimacy, Salience Urgency\nB. Legitimacy, Urgency, Salience, Power\nC. Power, Legitimacy, Urgency, Salience\nD. Salience, Power, Urgency, Legitimacy\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "54": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: _______ and _______ are both examples of _______ -based theories which are based on basic universal principles of right and wrong.\nA. Ethics of duty, Ethics of rights and justice, Principle\nB. Utilitarianism, Egoism, Principle\nC. Ethics of duty, Utilitarianism, Consequentialist\nD. Egoism, Ethics of rights and justice, Consequentialist\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "55": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: The complexity of the theory.\nA. 1,2,3,4\nB. 1,3,4\nC. 1,2,3\nD. 1,2,4\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "56": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: ________ is any business effort to influence government or public policy. It includes activities such as __________, political advertising, financial contributions, ________ action and political ________.\nA. Private regulation, Lobbying, Environmental, Fundraising\nB. Private regulation, Consumer Marketing, Legal, Fundraising\nC. Corporate political activity, Lobbying, Legal, Campaigning\nD. Corporate political activity, Consumer marketing, Environmental, Campaigning\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "57": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: _________ such as the ________ in the United States is a key factor in driving ethical business practices.\nA. Legislation, Sarbanes-Oxley Act\nB. Internal company policy, Unethical corporate practices act\nC. Internal company policy, Sarbanes-Oxley Act\nD. Legislation, Unethical corporate practices act\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "58": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion:  _______, where actors are convinced that their actions harms nobody, _______ where actors argue that their norm violation is an attempt to realize higher-order values and ________ , where actors argue they are owed something, are all strategies for justifying or denying unethical behaviour.\nA. Appeal to higher loyalties, Denial of injury, Metaphor of the ledger\nB. Appeal to higher loyalties, Metaphor of the ledger, Denial of injury\nC. Denial of injury, Appeal to higher loyalties, Metaphor of the ledger\nD. Denial of injury, Metaphor of the ledger, Appeal to higher loyalties,\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "59": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following is not one the underlying principles of the corporate governance Combined Code of Practice?\nA. Openness\nB. Integrity\nC. Availability\nD. Acceptability\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "60": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Factors that impact ethical decision making can be broadly broken down into ________ factors, related to the unique characteristics of a person, and _________ factors, which are features of the person's environment or the particular issue.\nA. Tailored, Individual\nB. Situational, Individual\nC. Situational, Tailored\nD. Individual, Situational\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "D"
+    },
+    "61": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: _____ is a key driving force shaping the current and future state of business ethics, in particular regarding _____, ______ and _____ related issues.\nA. Globalisation, Cultural, Legal, Accountability\nB. Nationalisation, Cultural, Environmental, Accountability\nC. Privatisation, Cultural, Legal, Accountability\nD. Globalisation, Technological, Financial, Accountability\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "62": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: CSO's frequently spend too much time communicating their performance measures and too much time devising them with input from beneficiaries.\nA. 2,3\nB. 1,3\nC. 3,4\nD. 1,2,3,4\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "63": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: The race to the ______ is when, due to increased ________, countries compete for foreign investment through companies' relocation decisions by weakening their ______ and _____ standards.\nA. Bottom, Globalisation, Social, Environmental\nB. Top, Globalisation, Political, Environmental\nC. Bottom, Standardisation, Social, Economic\nD. Top, Standardisation, Political, Economic\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "64": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Managers are entrusted to run the company in the best interest of ________. Specifically, they have a duty to act for the benefit of the company, as well as a duty of ________ and of _______.\nA. Shareholders, Care and Skill, Diligence\nB. Stakeholder, Care and Skill, Diligence\nC. Shareholders, Self-interest, Diligence\nD. Stakeholders, Care and skill, Self-interest\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "A"
+    },
+    "65": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Replacing supply chains with _______ enhances the importance of product _______as well as a fundamental redesign of every activity a firm engages in that produces _______.\nA. Supply loops, Recapture, Waste\nB. Supply loops, Redesign, Profit\nC. Global production networks, Recapture, Waste\nD. Global production networks, Redesign, Profit\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "66": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: A company may become insolvent if it\nA. has negative working capital\nB. cannot meet its budgeted level of profit\nC. makes a loss\nD. cannot pay creditors in full after realisation of its assets\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "67": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: The ISO 26000 standard on ________ is emblematic of a number of trends emerging within the shared global governance space. Specifically, these trends concern, more deliberation and ________, greater focus on the _______ rather than outcomes and more _______ rather than specific norms.\nA. Social responsibility, Collaboration, Process, Frameworks\nB. Social responsibility, Individualism, Process, Legislation\nC. Environmental responsibility, Individualism, Inputs, Frameworks\nD. Environmental responsibility, Collaboration, Inputs, Legislation\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "68": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: The ___________, otherwise known as _________ was launched in 1997 and is a global workplace standard that covers key labour rights such as working hours, forced labour and discrimination, with compliance being certified by independent auditors.\nA. Social accountability standard, SA 8000\nB. Social accountability standard, SA 9000\nC. Sarbanes-Oxley Act, SA 8000\nD. Sarbanes-Oxley Act, SA 9000\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "69": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Managers and directors have a fiduciary responsibility to protect the investment of shareholders.\nA. 1,3,4\nB. 1,2,3,\nC. 1,2,4\nD. 2,3,4\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "70": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Cultural homogenization.\nA. 1,3,4\nB. 1,2,3\nC. 1,2,3,4\nD. 2,3,4\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "71": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Insider trading undermines the fiduciary relationship.\nA. 1,2,3\nB. 1,2,4\nC. 2,3,4\nD. 1,2,3,4\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "72": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: There are two main issues associated with _____ sizing. _______ is a key issue as due to the information policy of the corporation it can be argued that employees have a right to know if they are being made redundant. _______ is a second issue, particularly the ________ package that employees receive when laid off.\nA. Down, Involvement, Remuneration, Compensation\nB. Up, Involvement, Autonomy, Compensation\nC. Down, Autonomy, Remuneration, Benefit\nD. Up, Independence, Involvement, Benefit\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "73": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: _______ locate morality beyond the sphere of rationality in an emotional 'moral impulse' towards others.\nA. Virtue ethics\nB. Ethical egoism\nC. Postmodern ethics\nD. Ethics of duty\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "74": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Under ethical ________ objective moral principles can be rationally determined, while ethical under ________ morality is both context dependant and subjective.\nA. Normativity, Relativism\nB. Absolutism, Relativism\nC. Relativism, Absolutism\nD. Absolutism, Normativity\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "B"
+    },
+    "75": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion:  Some of key differences between Islamic finance and conventional finance include - prohibition of charging and paying _______, prohibition on ______ and ______ transactions, prohibition of sinful investment and requirement for all financial products to be backed by __________.\nA. Interest, Certain, Speculative, Intangible assets\nB. Interest, Uncertain, Assured, Intangible assets\nC. Interest, Uncertain, Speculative, Tangible assets\nD. Interest, Certain, Assured, Tangible assets\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "76": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: ________ reasoning is considered by many to be prevalent within society and particularly within businesses, where it is often referred to in the form of a ___________.\nA. Consequentialist, Cost-benefit analysis\nB. Rationalised, Annual audit\nC. Consequentialist, Annual audit\nD. Rationalised, Cost-benefit analysis\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "77": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following areas is not covered by the principles enshrined in the UN Global Compact?\nA. Human rights\nB. Labour\nC. Commercial performance\nD. Anti-corruption\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "78": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: What are, according to Wood (1991), the three outcomes of CSR?\nA. Social policies, Social programmes and Social impacts\nB. Social evaluations, Social programmes and Social impacts\nC. Social policies, Social evidencing and Social impacts\nD. Social policies, Social programmes and Social analysis\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "79": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Businesses engage in social accounting due to demands from _________, in order to identify ________, to improve ___________ and to encourage _________ and ___________\nA. Stakeholders, Risks, Stakeholder management, Accountability, Transparency\nB. Stakeholders, Accountability, Transparency, Risks, Stakeholder Management\nC. Stakeholders, Accountability, Risks, Stakeholders, Stakeholder Management\nD. Stakeholders, Stakeholder Management, Transparency, Risks, Accountability\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "80": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Post-modern ethics assert that ethics are context and individual specific and as such have an internal guide to ethics.\nA. 2,3\nB. 1,3\nC. 1,2,3\nD. 1,2\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "81": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: The focus on issues, the intended audience extending beyond shareholders and the voluntary nature of ___________ distinguish it from _________.\nA. Financial accounting, Environmental management initiatives\nB. Financial accounting, Social accounting.\nC. Social accounting, Financial accounting.\nD. Annual report publication, Social accounting\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "82": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Negative advertising, stealing or poaching customers and predatory pricing are all strategies employed by businesses described using the umbrella term ________.\nA. Reasonable competitive behaviour\nB. Swindles\nC. Competitive tricks\nD. Dirty tricks\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "83": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: ______ the workplace involves empowering employees through, for example, 'job enrichment' where employees are given a larger scope for deciding how to organize their work or 'job enlargement' where employees are given a wider range of tasks to do.\nA. Re-invigorating\nB. Re-flourishing\nC. Revitalizing\nD. Rehumanizing\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "84": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: The need to head off negative publicity.\nA. 1,3,4\nB. 2,3,4\nC. 1,2,3\nD. 1,2,3,4\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "85": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: The rise in business led, private regulation can be attributed to: encouragement of a _______ approach from industry, _________ and _______ achievement of objectives.\nA. Faster, Cost effectiveness, Slower\nB. Faster, Heightened costs, Slower\nC. Proactive, Cost effectiveness, Faster\nD. Proactive, Heightened costs, Faster\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "86": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion:  The ________ perspective on sustainability resulted from growth models that analysed the carrying capacity of the planet, overall concluding that the finite capacity of the earth and_______, ________ and _______ by current and past generations could reduce quality of life for future generations. This contrasts with the environmental perspective with focuses on the need to maintain and preserve the natural environment.\nA. Economic, Overuse of resources, Overpopulation, Over pollution,\nB. Economic, Underuse of resources, Underpopulation, Unsustainability\nC. Environmental, Underuse of resources, Overpopulation, Over pollution\nD. Environmental, Overuse of resources, Underpopulation, Unsustainability\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "C"
+    },
+    "87": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Healthy eating, particularly relating to sugar and salt consumption, food and packaging waste and supply chain CO2 emissions are all business ethics issues facing the ________.\nA. Supermarket industry\nB. Chemicals industry\nC. Construction industry\nD. Information and mobile technology industry\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "88": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: _______ is a system of exchange based on guaranteeing producers in developing countries a living wage, decent working conditions and opportunities for community development.\nA. Sustainable sourcing\nB. Fair trade\nC. Ethical sourcing\nD. Supply chain responsibility\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "89": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: _________ are individual beliefs about desirable behaviours and goals that are stable over time and which influence decision making.\nA. Character traits\nB. Personal values\nC. Personal attitudes\nD. Personal traits\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    },
+    "90": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: They are too irrational and uncodified.\nA. 3,4\nB. 1,3\nC. 2,3\nD. 4,1\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "91": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: The purposes for which the information is used is in the public's interest.\nA. 1,2\nB. 1,3\nC. 2,3\nD. 1,2,3\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "A"
+    },
+    "92": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: The Private Sector Social Enterprise Model.\nA. 1,2,4\nB. 2,3,4\nC. 1,2,3,4\nD. 1,2,3\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "93": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: ______ is the corporate role in governing citizenship rights for the individual\nA. Political Corporate Social Responsibility\nB. Triple Bottom Line\nC. Sustainability\nD. Corporate Citizenship\nAnswer: ",
+        "prediction": "\nD\n",
+        "gold": "D"
+    },
+    "94": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: How the code is enforced.\nA. 1,2,3\nB. 1,2,4\nC. 1,3,4\nD. 2,3,4\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "B"
+    },
+    "95": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: According to Evan and Freeman (1993), the Principle of ________ and the Principle of _______ can be used in a specific situation to determine who constitutes a _______.\nA. Corporate rights, Corporate effect, Stakeholder\nB. Corporate deniability, Corporate effect, Stakeholder\nC. Corporate rights, Corporate responsibility, Stakeholder\nD. Corporate rights, Corporate effect, Shareholder\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "96": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: The relationship between ethics and the law can be described as\u2026\nA. Incredibly close, in fact, in all instances what is ethical is also what is legal and vice versa.\nB. Not close, ethics and the law share a small amount of overlap, but fundamentally address differing questions and themes.\nC. Close, as there is considerable overlap between ethics and law, but the two are not equivalent.\nD. Not at all close, ethics and the law are virtually incompatible.\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "C"
+    },
+    "97": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: In a business to business context, conflicts of interest can arise in two main ways: conflict of _______ and _______ interests, which might arise, for example, when a firm is hired as a supplier of professional services by another firm or conflict of _________ and ________ interests, such as where an individual's interests may conflict with that of their employer.\nA. Professional, Organizational, Personal, Organizational\nB. Professional, Individual, Personal, Organizational\nC. Individual, Organizational, Organizational, Professional\nD. Individual, Professional, Organizational, Personal\nAnswer: ",
+        "prediction": "\nA\n",
+        "gold": "A"
+    },
+    "98": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: ________ are a business ethics management tool that have grown over the last few decades. Areas which these typically cover are compliance, corruption and environmental issues. However, they are constantly evolving, with for example, the onus on __________ having grown in recent years.\nA. Annual reports, Company financial performance\nB. Annual report, Internet - social media and networking\nC. Codes of ethics, Company financial performance\nD. Codes of ethics, Internet - social media and networking\nAnswer: ",
+        "prediction": "\nC\n",
+        "gold": "D"
+    },
+    "99": {
+        "origin_prompt": "There is a single choice question about business ethics. Answer the question by replying A, B, C or D.\nQuestion: Which of the following statements is correct?\nA. Business ethics is not a real concept as the rules and ethics of everyday life don't apply to the world of business.\nB. Business Ethics is the study of business situations, activities and decisions where issues of right and wrong are addressed.\nC. Business ethics cannot be defined as a real concept as it is an oxymoronic term.\nD. Business ethics is concerned with the study of assessing the activities of a business based on their profitability.\nAnswer: ",
+        "prediction": "\nB\n",
+        "gold": "B"
+    }
+}
