@@ -1,5 +1,6 @@
 ## Introduction
 This repo is the official implementation of `PAT: Pruning-Aware Tuning for Large Language Models`
+![](data/framework.png)
 
 ## Acknowledgment
 Modified from [FireFly](https://github.com/yangjianxin1/Firefly)
