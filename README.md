@@ -3,7 +3,7 @@ This repo is the official implementation of `PAT: Pruning-Aware Tuning for Large
 ![](data/framework.png)
 
 ## News
-- [x] 2024.9 - We merged pruned PAT(25%)-Llama2 which can be loaded by `transformers[with-our-modification]`. [(download)](https://box.nju.edu.cn/d/5d07e7aa779a4ce28b3a/)
+- [x] 2024.9 - We merged pruned PAT(25%)-Llama2 which can be loaded by `transformers[with-our-modification]`. [(download)](https://box.nju.edu.cn/d/75ca31eb571448f59401/)
 ![](data/merged_llama7b_3072.png)
 - [x] 2024.8 - We release the paper and code for PAT. [(arxiv)](https://www.arxiv.org/abs/2408.14721)
 
@@ -48,7 +48,7 @@ python script/merge_dimdown.py \
 --model_dir meta-llama/Llama-2-7b-hf \
 --adaptor_path $ADAPTER
 ```
-Additionally, we provide some PAT results [here](https://box.nju.edu.cn/d/5d07e7aa779a4ce28b3a/).
+Additionally, we provide some PAT results [here](https://box.nju.edu.cn/d/75ca31eb571448f59401/).
 - [x] Llama 2 7B
 - [x] Llama 2 13B
 - [x] Gemma 2B
