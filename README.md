@@ -15,6 +15,7 @@ Modified from [FireFly](https://github.com/yangjianxin1/Firefly)
 # Create environment
 # Note: we have modified some source codes in transformers and peft, please install the packages in this repo!
 conda create -n pat python=3.10 -y
+conda activate pat
 pip install torch==2.3.0 torchvision==0.18.0 torchaudio==2.3.0 --index-url https://download.pytorch.org/whl/cu118
 cd transformers-4.40.1
 pip install -e .
