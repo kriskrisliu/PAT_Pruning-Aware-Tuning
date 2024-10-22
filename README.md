@@ -10,6 +10,32 @@ This repo is the official implementation of `PAT: Pruning-Aware Tuning for Large
 ## Acknowledgment
 Modified from [FireFly](https://github.com/yangjianxin1/Firefly)
 
+## Best Practice
+```bash
+# Create environment
+# Note: we have modified some source codes in transformers and peft, please install the packages in this repo!
+conda create -n pat python=3.10 -y
+pip install torch==2.3.0 torchvision==0.18.0 torchaudio==2.3.0 --index-url https://download.pytorch.org/whl/cu118
+cd transformers-4.40.1
+pip install -e .
+cd ../peft-0.10.0
+pip install -e .
+cd ..
+pip install -r requirements.txt
+
+# Download dataset in https://box.nju.edu.cn/f/76ae99a847d44fb08cfe/
+# The dataset path should be like:
+# <PAT Repo>/data/lamini-instruction_0.5_1.3m.parquet
+wget https://box.nju.edu.cn/f/76ae99a847d44fb08cfe/?dl=1 -O data/lamini-instruction_0.5_1.3m.parquet
+
+# Pruning Aware Tuning
+# Note: --flash2 can be used for acceleration if you have installed flash-attn
+CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 torchrun --nproc_per_node=8 --master_port=29502 train.py \
+--train_args_file train_args/sft/lora/llama2-7b-sft-lora-dimdown-learn3072.json \
+--ft_mode dimdown \
+--global_step 10000 --dimdown_dim 3072 --padding_side left --trainable_mask --identity_loss
+```
+
 ## Installation
 ```bash
 conda create -n pat python=3.10
