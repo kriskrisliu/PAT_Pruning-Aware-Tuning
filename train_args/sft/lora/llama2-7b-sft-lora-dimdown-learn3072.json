@@ -1,7 +1,7 @@
 {
     "output_dir": "output/llama2-7b-dimdown3072-lamini0.5-bs128-len256-lora20eff200",
     "model_name_or_path": "meta-llama/Llama-2-7b-hf",
-    "train_file": "../datasets/lamini-instruction/lamini-instruction_0.5_1.3m.parquet",
+    "train_file": "data/lamini-instruction_0.5_1.3m.parquet",
     "template_name": "llama2-base-alpaca",
     "train_mode": "lora",
     "num_train_epochs": 3,
